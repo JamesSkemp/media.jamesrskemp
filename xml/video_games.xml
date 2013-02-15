@@ -10171,4 +10171,32 @@
 		<own>yes</own>
 		<notes>$3.99 shipping. Received 2/9/2013, amazingly. This was the second cheapest price on Amazon ... :(</notes>
 	</game>
+	<game id="701">
+		<title>Ar tonelico II: Melody of Metafalica</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-02-11</date>
+			<price>32.83</price>
+			<place>Amazon.com (DealTavern)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 2/13/2013. Picked up since I was going to buy the 3rd one, which is also the last one. Might as well have them all.</notes>
+	</game>
+	<game id="702">
+		<title>Ar tonelico Qoga: Knell of Ar Ciel</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-02-11</date>
+			<price>30.80</price>
+			<place>Amazon.com (MOST WANTED)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 2/13/2013. Picked up since it was a nice price. And trophies don't seem that hard-ish ...</notes>
+	</game>
 </games>

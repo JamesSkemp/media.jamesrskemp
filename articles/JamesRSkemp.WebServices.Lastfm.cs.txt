@@ -1,0 +1,103 @@
+/*
+Created by James Skemp - http://jamesrskemp.com/
+Version 1.0
+More information at http://strivinglife.com/words/post/Parsing-Lastfm-Web-Services-artistgetSimilar-with-C-and-LINQ-to-XML.aspx
+Shared under a Creative Commons Attribution 3.0 United States License - http://creativecommons.org/licenses/by/3.0/us/
+*/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Net;
+using System.IO;
+using System.Data;
+using System.Xml.Linq;
+
+namespace JamesRSkemp.WebServices {
+	class Lastfm {
+		/// <summary>
+		/// Key used to access Last.fm Web services.
+		/// </summary>
+		private const string LastFmApiKey = "EnterYourApiKeyHere";
+
+		/// <summary>
+		/// Return artists similar to the one passed, with a match percentage.
+		/// </summary>
+		/// <param name="artistName">The name of the artist to use for the request.</param>
+		/// <returns>DataTable with artist names and match percentage, as a Double.</returns>
+		public DataTable GetSimilarArtists(string artistName) {
+			if (String.IsNullOrEmpty(artistName)) {
+				throw new Exception("Artist name must be populated.");
+			} else {
+				string requestUrl = GetBaseRequestUrl();
+				requestUrl += "&method=artist.getSimilar&artist=" + System.Web.HttpUtility.UrlEncode(artistName.Trim());
+
+				string serviceResponse = GetServiceResponse(requestUrl);
+
+				var xmlResponse = XElement.Parse(serviceResponse);
+
+				// Parse through the returned Xml for the name and match value for each similar artist.
+				var artists = from artistsSimilar in xmlResponse.Descendants("artist")
+							  select new {
+								  name = artistsSimilar.Element("name").Value,
+								  match = artistsSimilar.Element("match").Value
+							  };
+
+				DataTable similarArtists = new DataTable();
+				similarArtists.Columns.Add("Artist");
+				similarArtists.Columns.Add("Match", System.Type.GetType("System.Double"));
+
+				if (artists.Count() > 0) {
+					DataRow artistsRow;
+					foreach (var artist in artists) {
+						artistsRow = similarArtists.NewRow();
+						artistsRow["Artist"] = artist.name;
+						artistsRow["Match"] = artist.match;
+						similarArtists.Rows.Add(artistsRow);
+					}
+				}
+
+				return similarArtists;
+			}
+		}
+
+		/// <summary>
+		/// Get the base Url that we'll use to make Web service requests.
+		/// </summary>
+		/// <returns>The base Url to use to make Web service requests.</returns>
+		private string GetBaseRequestUrl() {
+			string baseUrl = "http://ws.audioscrobbler.com/2.0/?api_key=" + LastFmApiKey;
+			return baseUrl;
+		}
+
+		/// <summary>
+		/// Gets the data from an HTTP request.
+		/// </summary>
+		/// <param name="requestUrl">The full Url of the request to make.</param>
+		/// <returns>Returns a string with the text returned from the request.</returns>
+		private string GetServiceResponse(string requestUrl) {
+			string httpResponse = "";
+
+			HttpWebRequest request = (HttpWebRequest)WebRequest.Create(requestUrl);
+			request.Timeout = 15000;
+			HttpWebResponse response = null;
+			StreamReader reader = null;
+
+			try {
+				response = (HttpWebResponse)request.GetResponse();
+				reader = new StreamReader(response.GetResponseStream());
+
+				httpResponse = reader.ReadToEnd();
+			} finally {
+				if (reader != null) {
+					reader.Close();
+				}
+				if (response != null) {
+					response.Close();
+				}
+			}
+
+			return httpResponse;
+		}
+	}
+}

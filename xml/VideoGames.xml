@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoGames>
+	<hardware>
+		<item id="1">
+			<name>PS One</name>
+			<system>
+				<console>Playstation</console>
+				<version>1</version>
+			</system>
+			<purchase/>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="2">
+			<name>PS One Controller (White)</name>
+			<system>
+				<console>Playstation</console>
+				<version>1</version>
+			</system>
+			<purchase/>
+			<sell/>
+			<own>yes</own>
+			<notes>Came with Playstation console.</notes>
+		</item>
+		<item id="3">
+			<name>Playstation Memory Card (White)</name>
+			<system>
+				<console>Playstation</console>
+				<version>1</version>
+			</system>
+			<purchase/>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="4">
+			<name>Playstation 2 (SCPH-50001/N)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2004-01-03</date>
+				<place>Best Buy, Madison WI (store 596?)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes><![CDATA[Unclear if this date is correct, but it seems like it is. Probably paid $199.99.]]></notes>
+		</item>
+		<item id="5">
+			<name>Playstation 2 Dualshock Controller (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase/>
+			<sell/>
+			<own>yes</own>
+			<notes>Came with Playstation 2 console.</notes>
+		</item>
+		<item id="6">
+			<name>Playstation 2 Dualshock Controller (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2006-01-22</date>
+				<price>25.19</price>
+				<place>ShopKo #032 (Monona WI)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="7">
+			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2004-01-03</date>
+				<place>Best Buy, Madison WI (store 596?)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes><![CDATA[I assume this is the $19.99 item I purchased with my Playstation 2.]]></notes>
+		</item>
+		<item id="8">
+			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2005-09-03</date>
+				<price>22.88</price>
+				<place>Wal-Mart, West Madison</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="9">
+			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2006-09-10</date>
+				<price>24.96</price>
+				<place>Wal-Mart, West Madison</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="10">
+			<name>Playstation 3 Component AV Cable</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-11-10</date>
+				<price>20.99</price>
+				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes>Purchased to use with my Playstation 2.</notes>
+		</item>
+		<item id="11">
+			<name>Playstation 3 80GB</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-11-17</date>
+				<price>499.99</price>
+				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes>Came with MotorStorm.</notes>
+		</item>
+		<item id="12">
+			<name>Playstation 3 Wireless Sixaxis Controller</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-11-17</date>
+				<price>0.00</price>
+				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes>Came with Playstation 3 console.</notes>
+		</item>
+		<item id="13">
+			<name>Playstation 3 Component AV Cable</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-11-17</date>
+				<price>20.99</price>
+				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="14">
+			<name>Playstation 3 Memory Card Adapter</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-11-19</date>
+				<price>14.99</price>
+				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="15">
+			<name>Playstation 3 Blu-ray Remote</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2007-12-10</date>
+				<price>24.99</price>
+				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="16">
+			<name>Playstation 3 DualShock 3 Wireless Controller</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2008-10-31</date>
+				<price>54.99</price>
+				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
+			</purchase>
+			<sell/>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="17">
+			<name>Xbox 360 60GB Pro System</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2008-12-02</date>
+				<price>299.99</price>
+				<place>Best Buy #59 | Madison WI 53704</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>Purchased two-year extended warranty for $39.99. Came with LEGO Indiana Jones/Kung Fu Panda game and one controller.</notes>
+		</item>
+		<item id="18">
+			<name>Xbox 360 Wireless Controller</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2008-12-02</date>
+				<price>0.00</price>
+				<place>Best Buy #59 | Madison WI 53704</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>Came with Xbox 360 console.</notes>
+		</item>
+		<item id="19">
+			<name>Xbox 360 Play &amp; Charge Kit (White)</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2008-12-06</date>
+				<price>17.99</price>
+				<place>Circuit City Stores, Inc. | Store 3184 | 450 Commerce Drive | Madison WI 53719-4918</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>On sale for $2 off list price.</notes>
+		</item>
+		<item id="20">
+			<name>Nintendo Wii Console</name>
+			<system>
+				<console>Wii</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2009-02-03</date>
+				<price>249.99</price>
+				<place>Toys R Us (Online)</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="21">
+			<name>Classic Controller for Nintendo Wii</name>
+			<system>
+				<console>Wii</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2009-02-03</date>
+				<price>19.99</price>
+				<place>Toys R Us (Online)</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="22">
+			<name>Official Nintendo Classic Gamecube/Wii Controller</name>
+			<system>
+				<console>Wii</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2009-10-02</date>
+				<price>29.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>Received 2009-10-14.</notes>
+		</item>
+		<item id="23">
+			<name>Gamecube Memory Card 251</name>
+			<system>
+				<console>GameCube</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2009-11-15</date>
+				<price>14.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>Received 2009-11-27. Was $19.99, but received $5 off from previous game purchase.</notes>
+		</item>
+		<item id="24">
+			<name>Retro Duo Twin Video Game System</name>
+			<purchase>
+				<date>2009-11-27</date>
+				<price>44.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<sell>
+				<date/>
+				<price/>
+			</sell>
+			<own>yes</own>
+			<notes>Received 2009-12-01.</notes>
+		</item>
+		<item id="25">
+			<name>PlayStation 2 (SCPH-90001 CB)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2010-10-02</date>
+				<price>99.99</price>
+				<place>Best Buy #59, Madison WI 53704 (East)</place>
+			</purchase>
+			<own>yes</own>
+			<notes><![CDATA[PS2 Slim. Backup/replacement for original PS2.]]></notes>
+		</item>
+		<item id="26">
+			<name>PlayStation 2 DUALSHOCK2 Controller (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2010-10-02</date>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with PlayStation 2 Slim console.</notes>
+		</item>
+		<item id="27">
+			<name>PSP 3000 Core Pack - Black</name>
+			<system>
+				<console>PSP</console>
+				<version>3000</version>
+			</system>
+			<purchase>
+				<date>2010-11-01</date>
+				<price>169.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 11/4/2010, having paid for standard shipping.</notes>
+		</item>
+		<item id="28">
+			<name>Sony 4GB Memory Stick PRO Duo Mark 2</name>
+			<system/>
+			<purchase>
+				<date>2010-11-01</date>
+				<price>15.87</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Noting since I purchased for PSP. Received 11/4/2010.</notes>
+		</item>
+		<item id="29">
+			<name>Sony 8GB Memory Stick PRO Duo Mark 2</name>
+			<system/>
+			<purchase>
+				<date>2010-11-05</date>
+				<price>27.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Noting since I purchased for PSP. Received 11/12/2010.</notes>
+		</item>
+		<item id="30">
+			<name>Xbox 360 Wired Controller - Black</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2011-05-15</date>
+				<price>29.96</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 5/23/2011. Had $18.89 in gift certificates from trade-ins that I used towards this.</notes>
+		</item>
+		<item id="31">
+			<name>PlayStation 2 DVD Remote Control</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2011-07-11</date>
+				<price>11.35</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 7/18/2011. Since I have a TV in my bedroom now, moved my PS2 into there as a permanent fixture and wanted to be able to easily control movies.</notes>
+		</item>
+		<item id="32">
+			<name>PlayStation 3 320GB</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2011-10-06</date>
+				<price>299.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 11/2/2011. Paid 99 cents to get release date delivery. Came with Uncharted 3.</notes>
+		</item>
+		<item id="33">
+			<name>Xbox 360 S 250GB</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2011-12-27</date>
+				<price>299.99</price>
+				<place>Best Buy.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/30/2011. Also will receive $75 gift card for purchasing. Came with download codes for two games.</notes>
+		</item>
+		<item id="34">
+			<name>Kinect Sensor</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2012-02-05</date>
+				<price>99.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 2/7/2012, and came with three games.</notes>
+		</item>
+		<item id="35">
+			<name>PlayStation 3 Wireless Keyboard</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2012-03-05</date>
+				<price>23.62</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 3/7/2012. Finally decided I was typing enough to get it, and this is more than half off.</notes>
+		</item>
+		<item id="36">
+			<name>Wii Classic Controller Pro</name>
+			<system>
+				<console>Wii</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2012-08-25</date>
+				<price>19.99</price>
+				<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Cancelled Nexus 7 pre-order ($50) and picked up this instead.</notes>
+		</item>
+		<item id="37">
+			<name>PlayStation Vita Wi-Fi</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2012-11-18</date>
+				<price>249.99</price>
+				<place>Best Buy #208, Madison WI 53713</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Limited Edition crystal white PS Vita, with Assassin's Creed III: Liberation and 4 GB memory card.</notes>
+		</item>
+		<item id="38">
+			<name>PlayStation Vita 4 GB Memory Card</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2012-11-18</date>
+				<price>0.00</price>
+				<place>Best Buy #208, Madison WI 53713</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with PlayStation Vita.</notes>
+		</item>
+		<item id="39">
+			<name>PlayStation Vita 8 GB Memory Card</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2012-11-18</date>
+				<price>23.99</price>
+				<place>Best Buy #208, Madison WI 53713</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Actually $29.99, but they still had stickers out for it being on sale (which I saw and made me purchase). Took it back and got sale price (expired 10/13).</notes>
+		</item>
+		<item id="40">
+			<name>PlayStation Vita Travel Pouch</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2012-11-19</date>
+				<price>14.96</price>
+				<place>Walmart, 7202 Watts Rd, Madison WI 53719</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Actually cheaper than Amazon. Basically 4 star reviews with 72 reviews on Amazon.</notes>
+		</item>
+		<item id="41">
+			<name>Super Nintendo Entertainment System</name>
+			<system>
+				<console>Super Nintendo Entertainment System (SNES)</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>1993-01-18</date>
+				<price>138.00</price>
+				<place>Wal-Mart #1446, 2800 Pioneer Ave, Rice Lake WI 54868</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Found the receipt attached to the instruction manual, around 12/22/2012. Wowsa.</notes>
+		</item>
+		<item id="42">
+			<name>Nintendo 3DS XL</name>
+			<system>
+				<console>Nintendo</console>
+				<version>3DS</version>
+			</system>
+			<purchase>
+				<date>2013-01-29</date>
+				<price>157.55</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>$30 off normal price ($169.99/199.99), and had $15 in reward zone certificates, some of which went towards Xbox Live subscription.</notes>
+		</item>
+	</hardware>
+</videoGames>

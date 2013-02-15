@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:annotation>
+		<xs:documentation>
+			This schema is used to validate the Dragon Quest VIII levels XML file, stored primarily at http://jamesrskemp.net/ .
+		</xs:documentation>
+	</xs:annotation>
+	<xs:element name="characters" type="charactersType" />
+
+	<xs:complexType name="charactersType">
+		<xs:sequence>
+			<xs:element name="character" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:group ref="characterType" />
+					<xs:attribute name="name" type="xs:string" />
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:group name="characterType">
+		<xs:sequence>
+			<xs:element name="levels" type="levelsType" />
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="levelsType">
+		<xs:sequence>
+			<xs:element name="level" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:group ref="levelType" />
+					<xs:attribute name="id" type="xs:integer" />
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:group name="levelType">
+		<xs:sequence>
+			<xs:element name="strength" type="xs:nonNegativeInteger" />
+			<xs:element name="agility" type="xs:nonNegativeInteger" />
+			<xs:element name="resilience" type="xs:nonNegativeInteger" />
+			<xs:element name="wisdom" type="xs:nonNegativeInteger" />
+			<xs:element name="hitpoints" type="xs:nonNegativeInteger" />
+			<xs:element name="magicpoints" type="xs:nonNegativeInteger" />
+			<xs:element name="skillpoints" type="xs:nonNegativeInteger" />
+			<xs:element name="experience" type="xs:nonNegativeInteger" />
+			<xs:element name="spell" type="xs:string" />
+		</xs:sequence>
+	</xs:group>
+</xs:schema>

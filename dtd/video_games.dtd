@@ -1,0 +1,19 @@
+<!ELEMENT games (game*)>
+
+<!ELEMENT game (title, system, purchase, sell, own, notes)>
+<!ATTLIST game id CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT system (console, version)>
+<!ELEMENT purchase (date, price, place)>
+<!ELEMENT sell (date, price)>
+<!ELEMENT own (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+
+<!ELEMENT console (#PCDATA)>
+<!ELEMENT version (#PCDATA)>
+
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+<!ELEMENT place (#PCDATA)>

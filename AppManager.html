@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en" manifest="/manifest/media.manifest">
+<head>
+    <title>Offline Application Manager - JamesRSkemp.com</title>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-541034-10']);
+		_gaq.push(['_setDomainName', 'media.jamesrskemp.com']);
+		_gaq.push(['_trackPageview']);
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<style type="text/css">
+		h1
+		{
+			font-size:16px;
+		}
+		h2
+		{
+			background-color:#ccc;
+			color:#fff;
+			font-size:14px;
+			padding:.25em;
+		}
+		ul
+		{
+			margin-right:.5em;
+		}
+		#Footer
+		{
+			border-top:1px dashed #ccc;
+			font-size:70%;
+			margin-top:.5em;
+			text-align:right;
+		}
+	</style>
+</head>
+<body>
+	<h1>Offline application manager</h1>
+	
+	<h2>Offline information</h2>
+	<div id="OfflineInformation">Information not yet loaded.</div>
+
+	<h2>Local storage</h2>
+	<div id="LocalStorage">Information not yet loaded.</div>
+
+	<h2>Application cache</h2>
+	<div id="ApplicationCache">Information not yet loaded.</div>
+
+	<div id="Footer">Web application manager created by <a href="http://jamesrskemp.com" rel="external">James Skemp</a>.</div>
+
+	<!-- We want to load our local version for cache manifest support. -->
+	<script type="text/javascript" src="/js/jquery-1.5.2.min.js"></script>
+	<script type="text/javascript" src="/js/JamesRSkemp.min.js"></script>
+	<script type="text/javascript">
+		var CurrentPageScripts = {
+			addEventsToApplicationCache: function () {
+				var cache = window.applicationCache;
+				cache.addEventListener('cached', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('checking', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('downloading', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('error', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('noupdate', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('obsolete', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('progress', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+				cache.addEventListener('updateready', CurrentPageScripts.UpdateApplicationCacheActivity, false);
+			},
+
+			OutputOfflineStatus: function () {
+				var offlineSupported = JamesRSkemp.supportsOffline();
+				var offlineContent = $('#OfflineInformation').html('Offline supported: ' + offlineSupported);
+				if (offlineSupported) {
+					offlineContent.append('<br />Browser offline: ' + JamesRSkemp.browserOffline());
+				}
+			},
+
+			OutputLocalStorageStatus: function () {
+				var localStorageSupported = JamesRSkemp.LocalStorage.isSupported();
+				var localStorageContent = $('#LocalStorage').html('Local storage supported: ' + localStorageSupported);
+				if (localStorageSupported) {
+					localStorageContent.append('<div id="localStorageStatus"></div>');
+					CurrentPageScripts.UpdateLocalStorageStatus();
+				}
+			},
+
+			OutputApplicationCacheStatus: function () {
+				var applicationCacheSupported = JamesRSkemp.ApplicationCache.isSupported();
+				var applicationCacheContent = $('#ApplicationCache').html('Application cache supported: ' + applicationCacheSupported);
+				if (applicationCacheSupported) {
+					applicationCacheContent.append('<div id="appCacheActivity"></div>');
+					applicationCacheContent.append('<div id="appCacheStatus"></div>')
+						.append('<a href="#" onclick="CurrentPageScripts.UpdateApplicationCacheStatus();return false;">Current status</a>')
+						.append('<br /><a href="#" onclick="window.applicationCache.update();return false;">Check for updated cache manifest</a>');
+					// todo
+					CurrentPageScripts.addEventsToApplicationCache();
+				}
+			},
+
+			UpdateLocalStorageStatus: function () {
+				var localStorageCount = JamesRSkemp.LocalStorage.itemCount();
+				var localStorageContent = $('#localStorageStatus').html('Number of items in local storage: ' + localStorageCount)
+						.append('<br />Total bytes used: ' + JamesRSkemp.LocalStorage.bytesUsed())
+						.append('<br /><a href="#" onclick="CurrentPageScripts.UpdateLocalStorageStatus();return false;">Refresh information</a>');
+				if (localStorageCount > 0) {
+					localStorageContent.append('<ul>');
+					for (var i = 0; i < window.localStorage.length; i++) {
+						var storageItemString = window.localStorage.getItem(window.localStorage.key(i));
+						// todo - change remove into function, and have this refreshed.
+						localStorageContent.append('<li><strong>' + window.localStorage.key(i) + '</strong> [' + storageItemString.length + '] <a href="#" onclick="CurrentPageScripts.PreviewLocalStorageItem(\'' + window.localStorage.key(i) + '\');return false;">Preview item</a> | <a href="#" onclick="window.localStorage.removeItem(\'' + window.localStorage.key(i) + '\');CurrentPageScripts.UpdateLocalStorageStatus();return false;">Remove item</a></li>');
+					}
+					localStorageContent.append('</ul>');
+					localStorageContent.append('<div id="localStorageContentBlock"><a href="#" onclick="$(\'#localStorageContentBlock\').hide();return false;" style="font-size:90%;">Hide content</a><br /><textarea id="localStorageItemContent" rows="6" cols="100"></textarea></div>');
+					$('#localStorageContentBlock').hide();
+				}
+			},
+
+			UpdateApplicationCacheActivity: function (evt) {
+				$('#appCacheActivity').append((evt != null ? evt.type + ', ' : ''));
+			},
+
+			UpdateApplicationCacheStatus: function () {
+				$('#appCacheStatus').html('Current status: ' + JamesRSkemp.ApplicationCache.currentStatus() + '<br />');
+			},
+
+			PreviewLocalStorageItem: function (itemName) {
+				var contentBlock = $('#localStorageContentBlock').hide();
+				$('#localStorageItemContent').val(window.localStorage.getItem(itemName));
+				contentBlock.show();
+			}
+		};
+
+		if (typeof ($) !== undefined) {
+			$(document).ready(function () {
+				CurrentPageScripts.OutputOfflineStatus();
+				CurrentPageScripts.OutputLocalStorageStatus();
+				CurrentPageScripts.OutputApplicationCacheStatus();
+			});
+		}
+	</script>
+</body>
+</html>

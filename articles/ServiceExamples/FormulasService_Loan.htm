@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Example: FormulasService - Loan</title>
+	<meta name="author" content="James Skemp" />
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link type="text/css" rel="Stylesheet" href="FormulasService_Loan.css" />
+	<script type="text/javascript">
+		window.google_analytics_uacct = "UA-541034-10";
+	</script>
+</head>
+<body>
+	<h1>Example: FormulasService - Loan</h1>
+	<p>See <a href="http://strivinglife.com/words/post/Tutorial-ASPNET-C-sharp-WCF-WebHttp-service-with-jQuery-Part-3-Pulling-JSON-with-jQuery.aspx" rel="external">Tutorial: ASP.NET (C#) WCF WebHttp service with jQuery: Part 3 - Pulling JSON with jQuery</a> for more information.</p>
+	<div id="LoanSample"></div>
+	<div id="Loan1">
+		<h2>Loan 1</h2>
+		<p id="Loan1Copy"></p>
+		<label for="Loan1Name">Name</label><input type="text" id="Loan1Name" name="Loan1Name" value="" /><br />
+		<label for="Loan1Balance">Balance</label><input type="text" id="Loan1Balance" name="Loan1Balance" value="" /><br />
+		<label for="Loan1Payment">Payment</label><input type="text" id="Loan1Payment" name="Loan1Payment" value="" /><br />
+		<label for="Loan1Payments">Yearly payments</label><input type="text" id="Loan1Payments" name="Loan1Payments" value="" /><br />
+		<label for="Loan1Interest">Interest (%)</label><input type="text" id="Loan1Interest" name="Loan1Interest" value="" /><br />
+		<button type="button" id="Loan1Submit" disabled="disabled">View payments for this loan</button>
+		<button type="button" id="Loan1Clear" disabled="disabled">Clear information</button>
+	</div>
+	<div id="Loan2">
+		<h2>Loan 2</h2>
+		<p id="Loan2Copy"></p>
+		<label for="Loan2Name">Name</label><input type="text" id="Loan2Name" name="Loan2Name" value="" /><br />
+		<label for="Loan2Balance">Balance ($)</label><input type="text" id="Loan2Balance" name="Loan2Balance" value="" /><br />
+		<label for="Loan2Payment">Payment ($)</label><input type="text" id="Loan2Payment" name="Loan2Payment" value="" /><br />
+		<label for="Loan2Payments">Yearly payments (#)</label><input type="text" id="Loan2Payments" name="Loan2Payments" value="" /><br />
+		<label for="Loan2Interest">Interest (%)</label><input type="text" id="Loan2Interest" name="Loan2Interest" value="" /><br />
+		<button type="button" id="Loan2Submit" disabled="disabled">View payments for this loan</button>
+		<button type="button" id="Loan2Clear" disabled="disabled">Clear information</button>
+	</div>
+	<div id="LoanResults">
+		<div id="Loan1Data">&nbsp;</div>
+		<div id="Loan2Data">&nbsp;</div>
+	</div>
+
+	<div id="pulledData"></div>
+
+<script type="text/javascript" src="http://media.jamesrskemp.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-541034-10");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+<script type="text/javascript" src="FormulasService_Loan.js"></script>
+</body>
+</html>

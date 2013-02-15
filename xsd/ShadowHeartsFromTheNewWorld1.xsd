@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="details">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="experience">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="notes" minOccurs="0" type="xs:string"/>
+							<xs:element name="level" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="number" type="xs:positiveInteger"/>
+									<xs:attribute name="toNext" type="xs:positiveInteger"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="characters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="notes" minOccurs="0" type="xs:string"/>
+							<xs:element name="character" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="level" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="number" type="xs:positiveInteger"/>
+												<xs:attribute name="hp" type="xs:positiveInteger"/>
+												<xs:attribute name="mp" type="xs:positiveInteger"/>
+												<xs:attribute name="sp" type="xs:positiveInteger"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="name"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="statues">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="notes" minOccurs="0" type="xs:string"/>
+							<xs:element name="statue" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="level" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="number" type="xs:positiveInteger"/>
+												<xs:attribute name="toNext" type="xs:positiveInteger"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="name" type="xs:string"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

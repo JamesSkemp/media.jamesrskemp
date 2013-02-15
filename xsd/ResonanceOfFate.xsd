@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ResonanceOfFate">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Arena">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Ranks">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Rank" maxOccurs="50">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element name="Enemies">
+												<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Enemy">
+												<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="quantity"
+												type="xs:positiveInteger" use="optional"/>
+												<xs:attribute name="level"
+												type="xs:positiveInteger"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="chapter"/>
+												<xs:attribute name="price"/>
+												<xs:attribute name="battleCoins"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Multipliers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Multiplier">
+											<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="value" use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Characters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="3" minOccurs="3" name="Character">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Levels">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Level">
+												<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="hitPoints"
+												type="xs:positiveInteger" use="required"/>
+												<xs:attribute name="weight"
+												type="xs:positiveInteger" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Skills">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Skill">
+												<xs:complexType>
+												<xs:attribute name="type" use="required"/>
+												<xs:attribute name="level"
+												type="xs:positiveInteger" use="required"/>
+												<xs:attribute name="name" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="name"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Weapons">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Listing">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Weapon">
+											<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="type" use="required"/>
+												<xs:attribute name="attained" use="required"/>
+												<xs:attribute name="description" use="required"/>
+												<xs:attribute name="attackPower"/>
+												<xs:attribute name="gaugeBreak"/>
+												<xs:attribute name="knockback"/>
+												<xs:attribute name="chargeSpeed"/>
+												<xs:attribute name="chargeAcceleration"/>
+												<xs:attribute name="rapidFire"/>
+												<xs:attribute name="spread"/>
+												<xs:attribute name="magazineSize"/>
+												<xs:attribute name="weight" use="required"/>
+												<xs:attribute name="imageLocation"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Leveling">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Level">
+											<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="experience"
+												type="xs:nonNegativeInteger" use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="CustomParts">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" minOccurs="0" name="Parts">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" minOccurs="0"
+												name="purchase">
+												<xs:complexType>
+												<xs:simpleContent>
+												<xs:extension base="xs:string">
+												<xs:attribute name="cost"/>
+												</xs:extension>
+												</xs:simpleContent>
+												</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="1" minOccurs="0"
+												name="tinker">
+												<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="material">
+												<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="quantity"/>
+												</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="unbounded" name="location"
+												/>
+												</xs:sequence>
+												<xs:attribute name="cost"/>
+												</xs:complexType>
+												</xs:element>
+												<xs:element maxOccurs="unbounded" minOccurs="0"
+												name="reward"/>
+												</xs:sequence>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="imageLocation"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Missions">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" minOccurs="1" name="Mission">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Client">
+											<xs:complexType>
+												<xs:attribute name="name"/>
+												<xs:attribute name="location"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element minOccurs="1" name="Rewards">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" minOccurs="0"
+												name="Item">
+												<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="quantity"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												<xs:attribute name="hunterPoints"/>
+												<xs:attribute name="rubies"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Description"/>
+										<xs:element name="Notes"/>
+									</xs:sequence>
+									<xs:attribute name="chapter" use="required"/>
+									<xs:attribute name="title" use="required"/>
+									<xs:attribute name="type" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Enemies">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Special">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Challenge">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Enemy">
+												<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												<xs:attribute name="quantity"/>
+												<xs:attribute name="level"
+												type="xs:positiveInteger" use="required"/>
+												<xs:attribute name="leader" type="xs:boolean"/>
+												</xs:complexType>
+												</xs:element>
+												<xs:element name="Reward">
+												<xs:complexType>
+												<xs:attribute name="name" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												<xs:element minOccurs="0" name="Notes"/>
+												</xs:sequence>
+												<xs:attribute name="chapter"
+												type="xs:positiveInteger" use="required"/>
+												<xs:attribute name="level" type="xs:positiveInteger"
+												use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

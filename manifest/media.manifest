@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Shared manifest for media.jamesrskemp.com Web site.
+# revision 4
+/AppManager.html
+/js/JamesRSkemp.min.js
+/js/jquery-1.5.1.min.js
+/js/jquery.xml2json-1.0.min.js
+NETWORK:
+#localStorage will take care of storing the XML instead
+/xml/vehicle_gas.xml
+/xml/video_games.xml
+http://www.google-analytics.com/ga.js
+https://ssl.google-analytics.com/ga.js

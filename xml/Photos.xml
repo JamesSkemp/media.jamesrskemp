@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://media.jamesrskemp.com/xslt/XmlPhotoGallery.xsl"?>
+<photos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/XmlPhotoGallery.xsd">
+	<photo id="1">
+		<baseFileName>P001</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_0200</cameraFileName>
+		<datePhotoTaken>2007-05-20</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P001-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="2">
+		<baseFileName>P002</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_0486</cameraFileName>
+		<datePhotoTaken>2005-04-12</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P002-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="3">
+		<baseFileName>P003</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_1251</cameraFileName>
+		<datePhotoTaken>2007-06-23</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P003-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="4">
+		<baseFileName>P004</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_1281</cameraFileName>
+		<datePhotoTaken>2005-05-21</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P004-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="5">
+		<baseFileName>P005</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_1315</cameraFileName>
+		<datePhotoTaken>2005-05-22</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P005-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="6">
+		<baseFileName>P006</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_2801</cameraFileName>
+		<datePhotoTaken>2007-07-07</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P006-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="7">
+		<baseFileName>P007</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_3945</cameraFileName>
+		<datePhotoTaken>2007-07-21</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P007-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="8">
+		<baseFileName>P008</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_4396</cameraFileName>
+		<datePhotoTaken>2007-08-26</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P008-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="9">
+		<baseFileName>P009</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_5513</cameraFileName>
+		<datePhotoTaken>2007-10-06</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P009-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="10">
+		<baseFileName>P010</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_5531</cameraFileName>
+		<datePhotoTaken>2007-10-06</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P010-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-18</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="11">
+		<baseFileName>P011</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_1310</cameraFileName>
+		<datePhotoTaken>2005-05-22</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P011-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="12">
+		<baseFileName>P012</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_1333</cameraFileName>
+		<datePhotoTaken>2007-06-23</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P012-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="13">
+		<baseFileName>P013</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_1418</cameraFileName>
+		<datePhotoTaken>2007-06-23</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P013-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="14">
+		<baseFileName>P014</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_1459</cameraFileName>
+		<datePhotoTaken>2007-06-23</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P014-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="15">
+		<baseFileName>P015</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_1732</cameraFileName>
+		<datePhotoTaken>2006-05-06</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P015-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="16">
+		<baseFileName>P016</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel (300D)</cameraUsed>
+		<cameraFileName>IMG_2401</cameraFileName>
+		<datePhotoTaken>2007-04-12</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P016-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="17">
+		<baseFileName>P017</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_3683</cameraFileName>
+		<datePhotoTaken>2007-07-21</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P017-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="18">
+		<baseFileName>P018</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_4385</cameraFileName>
+		<datePhotoTaken>2007-08-26</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P018-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="19">
+		<baseFileName>P019</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Canon EOS Digital Rebel XT (350D)</cameraUsed>
+		<cameraFileName>IMG_5578</cameraFileName>
+		<datePhotoTaken>2007-10-06</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P019-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+	<photo id="20">
+		<baseFileName>P020</baseFileName>
+		<baseFilePath>http://media.jamesrskemp.com/gallery/</baseFilePath>
+		<baseDetails/>
+		<cameraUsed>Casio EX-Z1200</cameraUsed>
+		<cameraFileName>CIMG0252</cameraFileName>
+		<datePhotoTaken>2008-02-23</datePhotoTaken>
+		<products>
+			<product id="1">
+				<code>P020-0810</code>
+				<type>8x10</type>
+				<pricePerUnit>20.00</pricePerUnit>
+				<quantityPerUnit>1</quantityPerUnit>
+				<stockUnits/>
+				<unitsSold/>
+				<fileNameExtension>_0810.jpg</fileNameExtension>
+				<filePathExtension/>
+				<dateAdded>2008-07-26</dateAdded>
+				<details/>
+			</product>
+		</products>
+	</photo>
+</photos>

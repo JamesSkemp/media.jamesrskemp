@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="OdinSphere">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="1" name="Characters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="5" name="Character">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="HP">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element name="Levels">
+												<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Level">
+												<xs:complexType>
+												<xs:attribute form="unqualified" name="id"
+												type="xs:positiveInteger" use="required"/>
+												<xs:attribute name="hitPoints"
+												type="xs:positiveInteger" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Psypher">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element name="Levels">
+												<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Level">
+												<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="maxPoints"
+												type="xs:positiveInteger" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="name" use="required"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Leveling">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Level">
+											<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="experience"
+												type="xs:nonNegativeInteger" use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

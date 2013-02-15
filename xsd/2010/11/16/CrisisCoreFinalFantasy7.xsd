@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="missions">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="categories">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="10" name="category">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="1" name="subcategories">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="6" name="subcategory">
+												<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="name" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+									<xs:attribute name="name" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="mission" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name"/>
+							<xs:element name="location"/>
+							<xs:element name="enemies" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="enemy"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="bosses">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="boss">
+											<xs:complexType>
+												<xs:simpleContent>
+												<xs:extension base="xs:string">
+												<xs:attribute name="quantity"
+												type="xs:positiveInteger"/>
+												</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="chests" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="chest" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:simpleContent>
+												<xs:extension base="xs:string">
+												<xs:attribute name="quantity"
+												type="xs:positiveInteger"/>
+												</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="rewards">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="reward">
+											<xs:complexType>
+												<xs:simpleContent>
+												<xs:extension base="xs:string">
+												<xs:attribute name="quantity"
+												type="xs:positiveInteger"/>
+												</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="requirements">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="requirement">
+											<xs:complexType>
+												<xs:simpleContent>
+												<xs:extension base="xs:string">
+												<xs:attribute name="chapter" type="xs:boolean"/>
+												<xs:attribute name="mission" type="xs:boolean"/>
+												</xs:extension>
+												</xs:simpleContent>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" use="required"/>
+						<xs:attribute name="category" type="xs:positiveInteger" use="required"/>
+						<xs:attribute name="subcategory" type="xs:positiveInteger" use="required"/>
+						<xs:attribute name="order" type="xs:positiveInteger" use="required"/>
+						<xs:attribute name="missable" type="xs:boolean"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

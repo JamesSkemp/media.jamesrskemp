@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/MuramasaBlades.xsl"?>
+<blades>
+	<title>Muramasa: The Demon Blade weapon database</title>
+	<description>
+		The following is a listing of weapons for Muramasa: The Demon Blade, for the Nintendo Wii.
+		This listing follows the equipment listing in-game ordering, but may eventually allow sorting.
+		Thanks to Gen2000 of GameFAQs for the inspiration to create this guide.
+	</description>
+	<updated>2009-10-14</updated>
+	<blade>
+		<name>Kagura Muramasa</name>
+		<type>Long Blade</type>
+		<attack>15</attack>
+		<secretArt>Cyclone</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Shinemi</name>
+		<type>Blade</type>
+		<attack>11</attack>
+		<secretArt>Nightglow</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+			<blades>
+				<blade>Kagura Muramasa</blade>
+			</blades>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Yakumo</name>
+		<type>Long Blade</type>
+		<attack>17</attack>
+		<secretArt>2 Flame</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+			<blades>
+				<blade>Kagura Muramasa</blade>
+			</blades>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Hayate Muramasa</name>
+		<type>Long Blade</type>
+		<attack>19</attack>
+		<secretArt>Faerie Blaze</secretArt>
+		<effect>Iron Wall</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kagero Muramasa</name>
+		<type>Blade</type>
+		<attack>14</attack>
+		<secretArt>Haze</secretArt>
+		<effect>Mad Tummy</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength>4</strength>
+			<vitality>4</vitality>
+			<blades>
+				<blade>Shinmei</blade>
+			</blades>
+			<spirit>244</spirit>
+			<soul>306</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Nagasone Kotetsu</name>
+		<type>Blade</type>
+		<attack>16</attack>
+		<secretArt>Hell Spinner</secretArt>
+		<effect>Poison 50%</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>1st boss reward. Can destroy red barriers.</notes>
+	</blade>
+	<blade>
+		<name>Natsuasame Muramasa</name>
+		<type>Long Blade</type>
+		<attack>25</attack>
+		<secretArt>Slice</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Yunagi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>28</attack>
+		<secretArt>Phantom I</secretArt>
+		<effect>Income Boost</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Edauchi Muramasa</name>
+		<type>Blade</type>
+		<attack>23</attack>
+		<secretArt>Log Chop</secretArt>
+		<effect>Boost Attack</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Yoiyami Muramasa</name>
+		<type>Long Blade</type>
+		<attack>36</attack>
+		<secretArt>Fire Storm</secretArt>
+		<effect>Strength +1</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Iganokami Kanemichi</name>
+		<type>Blade</type>
+		<attack>30</attack>
+		<secretArt>Cross</secretArt>
+		<effect>Vitality +1</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>2nd boss reward. Can destroy orange barriers.</notes>
+	</blade>
+	<blade>
+		<name>Fumitsuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>45</attack>
+		<secretArt>Nightglow II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Hazuki Muramasa</name>
+		<type>Blade</type>
+		<attack>41</attack>
+		<secretArt>Earth Runner</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Nagatsuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>59</attack>
+		<secretArt>Dragonfly</secretArt>
+		<effect>Strength/Vitality +1</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Magoroku Kanemoto</name>
+		<type>Blade</type>
+		<attack>54</attack>
+		<secretArt>Kamaitachi</secretArt>
+		<effect>Soul Power</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>3rd boss reward. Can destroy yellow barriers.</notes>
+	</blade>
+	<blade>
+		<name>Kirisame Muramasa</name>
+		<type>Blade</type>
+		<attack>65</attack>
+		<secretArt>Betting Slash</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Asaarashi Muramasa</name>
+		<type>Blade</type>
+		<attack>71</attack>
+		<secretArt>Wind</secretArt>
+		<effect>Quick Draw</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Shigure Muramasa</name>
+		<type>Long Blade</type>
+		<attack>99</attack>
+		<secretArt>Haze II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Amagiri Muramasa</name>
+		<type>Long Blade</type>
+		<attack>106</attack>
+		<secretArt>Specter Blow</secretArt>
+		<effect>Death Blade</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kogarasumaru</name>
+		<type>Blade</type>
+		<attack>90</attack>
+		<secretArt>Inverted Pillar</secretArt>
+		<effect>Auto Recover</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>4th boss reward. Can destroy green barriers.</notes>
+	</blade>
+	<blade>
+		<name>Yogetsu Muramasa</name>
+		<type>Blade</type>
+		<attack>104</attack>
+		<secretArt>Arc</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength>33</strength>
+			<vitality>32</vitality>
+			<blades>
+				<blade>Kogarasumaru</blade>
+			</blades>
+			<spirit>1451</spirit>
+			<soul>1814</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Shimotsuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>139</attack>
+		<secretArt>Hell Spinner II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Gokugetsu Muramasa</name>
+		<type>Long Blade</type>
+		<attack>148</attack>
+		<secretArt>Moonlight Glint</secretArt>
+		<effect>Vitality +2</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kumokiri</name>
+		<type>Long Blade</type>
+		<attack>167</attack>
+		<secretArt>Meteor</secretArt>
+		<effect>Burning 50%</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>5th boss reward. Can destroy light blue barriers.</notes>
+	</blade>
+	<blade>
+		<name>Hibashiri Muramasa</name>
+		<type>Blade</type>
+		<attack>152</attack>
+		<secretArt>3 Flame</secretArt>
+		<effect>Soul Power</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Ishizuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>198</attack>
+		<secretArt>Wind II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kazanmi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>209</attack>
+		<secretArt>Gale Thrust</secretArt>
+		<effect>XP Boost</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Suiran Muramasa</name>
+		<type>Blade</type>
+		<attack>180</attack>
+		<secretArt>Slice II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Osafune Kanemitsu</name>
+		<type>Blade</type>
+		<attack>190</attack>
+		<secretArt>Gale</secretArt>
+		<effect>Soul Power</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>6th boss reward. Can destroy blue barriers.</notes>
+	</blade>
+	<blade>
+		<name>Hisame Muramasa</name>
+		<type>Blade</type>
+		<attack>209</attack>
+		<secretArt>Dragonfly II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Mizutachi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>264</attack>
+		<secretArt>Earth Runner II</secretArt>
+		<effect>Absorb Life</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tanahashi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>275</attack>
+		<secretArt>Cross II</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Goro Masamune</name>
+		<type>Blade</type>
+		<attack>250</attack>
+		<secretArt>4 Kamaitachi</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>7th boss reward. Can destroy purple barriers.</notes>
+	</blade>
+	<blade>
+		<name>Tasogare Muramasa</name>
+		<type>Blade</type>
+		<attack>271</attack>
+		<secretArt>Ghost Blow</secretArt>
+		<effect>Income Boost</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Reimei Muramasa</name>
+		<type>Long Blade</type>
+		<attack>333</attack>
+		<secretArt>Phantom II</secretArt>
+		<effect>Boost Attack</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Gyoko Muramasa</name>
+		<type>Long Blade</type>
+		<attack>345</attack>
+		<secretArt>Gale Thrust</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tsubamegaeshi Muramasa</name>
+		<type>Blade</type>
+		<attack>303</attack>
+		<secretArt>Meteor II</secretArt>
+		<effect>Mad Tummy</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Mumei Tamanoo</name>
+		<type>Long Blade</type>
+		<attack>369</attack>
+		<secretArt>Gale II</secretArt>
+		<effect>Strength/Vitality +5</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+		</requirements>
+		<notes>8th/final boss reward. Can destroy white barriers.</notes>
+	</blade>
+	<blade>
+		<name>Iwatoshi Muramasa</name>
+		<type>Blade</type>
+		<attack>314</attack>
+		<secretArt>4 Flame</secretArt>
+		<effect>Income Boost</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Hiten Muramasa</name>
+		<type>Blade</type>
+		<attack>325</attack>
+		<secretArt>Haze III</secretArt>
+		<effect>Iron Wall</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Meikyo Muramasa</name>
+		<type>Long Blade</type>
+		<attack>392</attack>
+		<secretArt>3 Faerie Blaze</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Sasanoyuki Muramasa</name>
+		<type>Blade</type>
+		<attack>346</attack>
+		<secretArt>Phantom III</secretArt>
+		<effect>Strength +3</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Shusui Muramasa</name>
+		<type>Long Blade</type>
+		<attack>416</attack>
+		<secretArt>Meteor III</secretArt>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Nukehishaku Muramasa</name>
+		<type>Long Blade</type>
+		<attack>427</attack>
+		<secretArt>Fire Storm II</secretArt>
+		<effect>Auto Recover</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Chizuru Muramsa</name>
+		<type>Blade</type>
+		<attack>12</attack>
+		<secretArt>Misty Slash</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Hisui</name>
+		<type>Blade</type>
+		<attack>13</attack>
+		<secretArt>Moonlight</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+			<blades>
+				<blade>Chizuru Muramsa</blade>
+			</blades>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Sazanami</name>
+		<type>Long Blade</type>
+		<attack>14</attack>
+		<secretArt>Crescent</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength>3</strength>
+			<vitality>3</vitality>
+			<blades>
+				<blade>Chizuru Muramsa</blade>
+			</blades>
+		</requirements>
+		<notes>Starting sword.</notes>
+	</blade>
+	<blade>
+		<name>Botan Muramasa</name>
+		<type>Long Blade</type>
+		<attack>18</attack>
+		<secretArt>Swallow Saw</secretArt>
+		<effect>Boost Attack</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>4</strength>
+			<vitality>4</vitality>
+			<blades>
+				<blade>Chizuru Muramsa</blade>
+			</blades>
+			<spirit>151</spirit>
+			<soul>189</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Ayame Muramasa</name>
+		<type>Blade</type>
+		<attack>15</attack>
+		<secretArt>2 Lightning</secretArt>
+		<effect>Burning 50%</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Hasebe Kunishige</name>
+		<type>Blade</type>
+		<attack>17</attack>
+		<secretArt>Windmill</secretArt>
+		<effect>Strength +1</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>1st boss reward. Can destroy red barriers.</notes>
+	</blade>
+	<blade>
+		<name>Umitsubame Muramasa</name>
+		<type>Blade</type>
+		<attack>19</attack>
+		<secretArt>Flash</secretArt>
+		<effect>Income Boost</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Getsuei Muramasa</name>
+		<type>Blade</type>
+		<attack>23</attack>
+		<secretArt>Faerie Bolt</secretArt>
+		<effect>Mad Tummy</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Hibari Muramasa</name>
+		<type>Long Blade</type>
+		<attack>30</attack>
+		<secretArt>Skull</secretArt>
+		<effect>Vitality +1</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tachigesa Muramasa</name>
+		<type>Long Blade</type>
+		<attack>33</attack>
+		<secretArt>Yasha</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kashagiri Hoiromitsu</name>
+		<type>Blade</type>
+		<attack>33</attack>
+		<secretArt>Earth Hornet</secretArt>
+		<effect>No Burning</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>2nd boss reward. Can destroy orange barriers.</notes>
+	</blade>
+	<blade>
+		<name>Mutsuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>41</attack>
+		<secretArt>Sakuya</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kisaragi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>49</attack>
+		<secretArt>Moonlight II</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kagetsu Muramasa</name>
+		<type>Blade</type>
+		<attack>53</attack>
+		<secretArt>Raiden</secretArt>
+		<effect>Soul Power</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Izumokami Naganori</name>
+		<type>Long Blade</type>
+		<attack>65</attack>
+		<secretArt>Moon Ring</secretArt>
+		<effect>Absorb Soul</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>3rd boss reward. Can destroy yellow barriers.</notes>
+	</blade>
+	<blade>
+		<name>Tamatsubaki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>71</attack>
+		<secretArt>Vengeance</secretArt>
+		<effect>Death Blade</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Yamabuki Muramasa</name>
+		<type>Blade</type>
+		<attack>70</attack>
+		<secretArt>Misty Slash II</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kuchinawa Muramasa</name>
+		<type>Blade</type>
+		<attack>78</attack>
+		<secretArt>Flash II</secretArt>
+		<effect>No Poison</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Asazakura Muramasa</name>
+		<type>Long Blade</type>
+		<attack>97</attack>
+		<secretArt>Tornado</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Ichimonji Norimune</name>
+		<type>Blade</type>
+		<attack>99</attack>
+		<secretArt>Comet</secretArt>
+		<effect>Absorb Life</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>4th boss reward. Can destroy green barriers.</notes>
+	</blade>
+	<blade>
+		<name>Uzuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>119</attack>
+		<secretArt>Swallow Saw II</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Satsuki Muramasa</name>
+		<type>Long Blade</type>
+		<attack>135</attack>
+		<secretArt>Moonlight III</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Suigetsu Muramasa</name>
+		<type>Blade</type>
+		<attack>139</attack>
+		<secretArt>Skull II</secretArt>
+		<effect>Strength +2</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Shishiou</name>
+		<type>Blade</type>
+		<attack>148</attack>
+		<secretArt>Universe</secretArt>
+		<effect>Strength/Vitality +3</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>41</strength>
+			<vitality>44</vitality>
+			<blades>
+				<blade>Mutsuki Muramasa</blade>
+			</blades>
+		</requirements>
+		<notes>5th boss reward. Can destroy light blue barriers.</notes>
+	</blade>
+	<blade>
+		<name>Seika Muramasa</name>
+		<type>Blade</type>
+		<attack>167</attack>
+		<secretArt>Shaded Wasp</secretArt>
+		<effect>Stop All 50%</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Maidori Muramasa</name>
+		<type>Long Blade</type>
+		<attack>180</attack>
+		<secretArt>Concealing Mist</secretArt>
+		<effect>XP Boost</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Midarekaze Muramasa</name>
+		<type>Long Blade</type>
+		<attack>190</attack>
+		<secretArt>Sun Orb</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tsukimigiri Muramasa</name>
+		<type>Blade</type>
+		<attack>198</attack>
+		<secretArt>Misty Slash III</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Onikiri</name>
+		<type>Blade</type>
+		<attack>209</attack>
+		<secretArt>Moon Ring II</secretArt>
+		<effect>Boost Attack</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>6th boss reward. Can destroy blue barriers.</notes>
+	</blade>
+	<blade>
+		<name>Shiden Muramasa</name>
+		<type>Long Blade</type>
+		<attack>229</attack>
+		<secretArt>Raiden II</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Hiei Muramasa</name>
+		<type>Long Blade</type>
+		<attack>250</attack>
+		<secretArt>Windmill II</secretArt>
+		<effect>Soul Power</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Chisuberi Muramasa</name>
+		<type>Blade</type>
+		<attack>264</attack>
+		<secretArt>3 Lightning</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Mutsunokami Yoshiyuki</name>
+		<type>Long Blade</type>
+		<attack>271</attack>
+		<secretArt>Giant Tornado</secretArt>
+		<effect>Quick Draw</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>7th boss reward. Can destroy purple barriers.</notes>
+	</blade>
+	<blade>
+		<name>Suiren Muramasa</name>
+		<type>Long Blade</type>
+		<attack>293</attack>
+		<secretArt>Earthworm</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Muhyo Muramasa</name>
+		<type>Blade</type>
+		<attack>310</attack>
+		<secretArt>Crescent II</secretArt>
+		<effect>Vitality +3</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Shiratsuyu Muramasa</name>
+		<type>Blade</type>
+		<attack>322</attack>
+		<secretArt>Universe II</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength>90</strength>
+			<vitality>95</vitality>
+			<blades>
+				<blade>Asazakura Muramasa</blade>
+				<blade>Muhyo Muramasa</blade>
+			</blades>
+			<spirit>4056</spirit>
+			<soul>5070</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tsuyuharai Muramasa</name>
+		<type>Long Blade</type>
+		<attack>325</attack>
+		<secretArt>3 Vengeance</secretArt>
+		<effect>Death Blade</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tsukiotoshi</name>
+		<type>Blade</type>
+		<attack>345</attack>
+		<secretArt>Earth Hornet II</secretArt>
+		<effect>Auto Recover</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>8th/final boss reward. Can destroy white barriers.</notes>
+	</blade>
+	<blade>
+		<name>Setsugekka Muramasa</name>
+		<type>Blade</type>
+		<attack>357</attack>
+		<secretArt>4 Lightning</secretArt>
+		<effect>Absorb Soul</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>100</strength>
+			<vitality>106</vitality>
+			<blades>
+				<blade>Tsukimigiri Muramasa</blade>
+				<blade>Tsukiotoshi</blade>
+			</blades>
+			<spirit>4442</spirit>
+			<soul>5553</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kasai Muramasa</name>
+		<type>Long Blade</type>
+		<attack>360</attack>
+		<secretArt>Flash III</secretArt>
+		<effect>Quick Draw</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>103</strength>
+			<vitality>110</vitality>
+			<blades>
+				<blade>Chisuberi Muramasa</blade>
+				<blade>Setsugekka Muramasa</blade>
+			</blades>
+			<spirit>4587</spirit>
+			<soul>5734</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Takinomizu Muramasa</name>
+		<type>Blade</type>
+		<attack>369</attack>
+		<secretArt>Windmill III</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Oka Muramasa</name>
+		<type>Blade</type>
+		<attack>380</attack>
+		<secretArt>3 Faerie Bolt</secretArt>
+		<effect>Boost Attack</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Chizakura Muramasa</name>
+		<type>Long Blade</type>
+		<attack>379</attack>
+		<secretArt>Yasha II</secretArt>
+		<effect>Absorb Life</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>110</strength>
+			<vitality>117</vitality>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Torinuke Muramasa</name>
+		<type>Long Blade</type>
+		<attack>389</attack>
+		<secretArt>Giant Sun Orb</secretArt>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Tsukuyomi Muramasa</name>
+		<type>Long Blade</type>
+		<attack>430</attack>
+		<secretArt>4 Vengeance</secretArt>
+		<effect>Item Boost</effect>
+		<character>shared</character>
+		<requirements>
+			<strength>118</strength>
+			<vitality>117</vitality>
+			<blades>
+				<blade>Yoiyami Muramasa</blade>
+				<blade>Getsuei Muramasa</blade>
+			</blades>
+			<spirit>801</spirit>
+			<soul>952</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Mikazuki Munechika</name>
+		<type>Long Blade</type>
+		<attack>440</attack>
+		<secretArt>Waning Moon</secretArt>
+		<effect>Absorb Life</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>Defeat second final boss with Kisuke equipping Mumei Tamanoo and Tsukiotoshi.</notes>
+	</blade>
+	<blade>
+		<name>Amatsu Muramasa</name>
+		<type>Blade</type>
+		<attack>414</attack>
+		<secretArt>Comet II</secretArt>
+		<effect>Boost Attack</effect>
+		<character>shared</character>
+		<requirements>
+			<strength>119</strength>
+			<vitality>120</vitality>
+			<blades>
+				<blade>Amagiri Muramasa</blade>
+				<blade>Tamatsubaki Muramasa</blade>
+				<blade>Tsukuyomi Muramasa</blade>
+			</blades>
+			<spirit>1320</spirit>
+			<soul>1712</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Onimaru Kunitsuna</name>
+		<type>Long Blade</type>
+		<attack>416</attack>
+		<secretArt>Moon Ring III</secretArt>
+		<effect>Stop All 50%</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>117</strength>
+			<vitality>124</vitality>
+		</requirements>
+		<notes>Defeat second final boss with Momohime equipping Mumei Tamanoo and Tsukiotoshi.</notes>
+	</blade>
+	<blade>
+		<name>Seiryu Muramasa</name>
+		<type>Long Blade</type>
+		<attack>463</attack>
+		<secretArt>Fire Storm III</secretArt>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Byakko Muramasa</name>
+		<type>Blade</type>
+		<attack>451</attack>
+		<secretArt>Arc II</secretArt>
+		<effect>XP Boost</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>132</strength>
+			<vitality>134</vitality>
+			<blades>
+				<blade>Onimaru Kunitsuna</blade>
+			</blades>
+			<spirit>6209</spirit>
+			<soul>7762</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Jyuzumaru Tsunetsugu</name>
+		<type>Long Blade</type>
+		<attack>507</attack>
+		<secretArt>4 Faerie Bolt</secretArt>
+		<effect>Death Blade</effect>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+		</requirements>
+		<notes>Complete white lair in Yamato. Recommended level 57 or above.</notes>
+	</blade>
+	<blade>
+		<name>Suzaku Muramasa</name>
+		<type>Blade</type>
+		<attack>496</attack>
+		<secretArt>4 Faerie Blaze</secretArt>
+		<effect>Vitality +4</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kamikaze Muramasa</name>
+		<type>Blade</type>
+		<attack>529</attack>
+		<secretArt>Skull III</secretArt>
+		<effect>Mad Tummy II</effect>
+		<character>shared</character>
+		<requirements>
+			<strength>155</strength>
+			<vitality>157</vitality>
+			<blades>
+				<blade>Jyuzumaru Tsunetsugu</blade>
+			</blades>
+			<spirit>6588</spirit>
+			<soul>8235</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Genbu Muramasa</name>
+		<type>Long Blade</type>
+		<attack>570</attack>
+		<secretArt>Yasha III</secretArt>
+		<effect>Strength/Vitality +1</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Ouryu Muramasa</name>
+		<type>Long Blade</type>
+		<attack>590</attack>
+		<secretArt>Mountain Wind</secretArt>
+		<effect>Strength +4</effect>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Mugen Muramasa</name>
+		<type>Blade</type>
+		<attack>580</attack>
+		<secretArt>Universe III</secretArt>
+		<effect>Quick Draw</effect>
+		<character>shared</character>
+		<requirements>
+			<strength>170</strength>
+			<vitality>172</vitality>
+			<blades>
+				<blade>Ouryu Muramasa</blade>
+			</blades>
+			<spirit>7228</spirit>
+			<soul>9036</soul>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Kagotsurube Muramasa</name>
+		<type>Long Blade</type>
+		<attack>628</attack>
+		<secretArt>Cross III</secretArt>
+		<effect>Death Blade II</effect>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Otenta Mitsuyo</name>
+		<type>Long Blade</type>
+		<attack>645</attack>
+		<secretArt>5 Kamaitachi</secretArt>
+		<effect>Soul Power</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>184</strength>
+			<vitality>187</vitality>
+		</requirements>
+		<notes>Complete white lair in Ise. Recommended level 64 or above, but this is a very simple boss, in my opinion.</notes>
+	</blade>
+	<blade>
+		<name>Okanehira</name>
+		<type>Blade</type>
+		<attack>636</attack>
+		<secretArt>Gale Thrust III</secretArt>
+		<effect>Stop All</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength>187</strength>
+			<vitality>189</vitality>
+		</requirements>
+		<notes>Complete white lair in Suruga. Recommended level 71 or above. With two dragons raining fire from everywhere, this is not that fun.</notes>
+	</blade>
+	<blade>
+		<name>Kyoshu Muramasa</name>
+		<type>Blade</type>
+		<attack>663</attack>
+		<secretArt>Earth Hornet III</secretArt>
+		<effect>Collect Spirit</effect>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Suisei Muramasa</name>
+		<type>Long Blade</type>
+		<attack>695</attack>
+		<secretArt>Comet III</secretArt>
+		<effect>Super Draw</effect>
+		<character>Momohime</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Dojigiri Yasutsuna</name>
+		<type>Blade</type>
+		<attack>687</attack>
+		<secretArt>Thunderclap</secretArt>
+		<effect>Absorb Life II</effect>
+		<character>Kisuke</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+		</requirements>
+		<notes>Complete white lair in Omi. Recommended level 78 or above. Don't even bother at low levels, since the third wave will shatter your blades, and the fourth wave is that and more.</notes>
+	</blade>
+	<blade>
+		<name>Tokiwatari Muramasa</name>
+		<type>Long Blade</type>
+		<attack>724</attack>
+		<secretArt>Waning Moon II</secretArt>
+		<effect>Boost Attack</effect>
+		<character>shared</character>
+		<requirements>
+			<strength/>
+			<vitality/>
+			<blades>
+				<blade/>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes/>
+	</blade>
+	<blade>
+		<name>Oboro Muramasa</name>
+		<type>Blade</type>
+		<attack>757</attack>
+		<secretArt>Disturbance</secretArt>
+		<effect>Strength/Vitality +7</effect>
+		<character>shared</character>
+		<requirements>
+			<strength>222</strength>
+			<vitality>225</vitality>
+			<blades>
+				<blade>Dojigiri Yasutsuna</blade>
+				<blade>Tokiwatari Muramasa</blade>
+			</blades>
+			<spirit/>
+			<soul/>
+		</requirements>
+		<notes>Must unlock all other blades. Equip on each character for their third ending/final boss.</notes>
+	</blade>
+</blades>
+<!--
+	Kisuke: Third Story Ending Complete both characters' SECOND story once, then, in Edo Castle, equip Oboro Muramasa when you enter Tokugawa Tsunayoshi's boss arch. Win the battle 
+	Momohime: Third Story Ending Complete both characters' SECOND story once, then, in Yamato (Shingon's HQ), equip Oboro Muramasa before entering Fudo-Myoou's boss arc 
+	http://www.gamefaqs.com/boards/genmessage.php?board=943228&topic=51478821
+-->
+<!--
+	Name of Enemy Lair | Barrier Color | Location
+complete	100 Shadowy Ninja | Red | Yamashiro
+complete	100 Armed Monks | Red | Musashi
+complete	God of Prestilence | Orange | Owari
+M	Moutain Kagura Dance, Storm of Tengu | Yellow | Totomi
+complete	Toad of Yourou Falls | Green | Mino
+M	Seven Samurai | Light Blue | Mikawa (difficult)
+complete	Snow Woman, Oiran Procession | Blue | Hida | 42 or above | very easy and a great place to farm souls
+M	Courage in Ghostly Hour | Purple | Sagami | 47 or above (not that bad)
+M	Ozaru Stealth Army | Purple | Iga | 49 or above (not very fun)
+M	The Scheming Yagyu Clan | White | Yamato | 57 or above
+	Lair of the Oni | White | Omi | 78 or above
+M	Rising Dragon, Lying Dragon | White | Suruga | 71 or above
+M	Giant Centipede | White | Ise | 64 or above | easy easy - no real experience or souls gain
+	Ghost of the Battlefield | White | Shinaro
+	Total Pandemonium | White | Izu
+-->

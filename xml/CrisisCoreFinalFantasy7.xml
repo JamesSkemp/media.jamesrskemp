@@ -1,0 +1,5690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Licensed under the Creative Commons License Attribution-Noncommercial-Share Alike 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/). Contact information for attribution at http://jamesrskemp.com/ -->
+<missions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2010/11/16/CrisisCoreFinalFantasy7.xsd">
+	<categories>
+		<category id="1" name="Shinra Electric Company">
+			<subcategories>
+				<subcategory id="1" name="Training Missions"/>
+				<subcategory id="2" name="Peacekeeping Troops"/>
+				<subcategory id="3" name="Weapons Development"/>
+				<subcategory id="4" name="Plan for New Equipment"/>
+				<subcategory id="5" name="Special Operations Arm Laboratory"/>
+			</subcategories>
+		</category>
+		<category id="2" name="Monster Research Project">
+			<subcategories>
+				<subcategory id="1" name="Monsters in Midgar"/>
+				<subcategory id="2" name="Monster Reports"/>
+				<subcategory id="3" name="Monster Incidents"/>
+				<subcategory id="4" name="Unexplored Territories"/>
+				<subcategory id="5" name="In Search of the Unknown"/>
+			</subcategories>
+		</category>
+		<category id="3" name="Genesis's Forces">
+			<subcategories>
+				<subcategory id="1" name="Genesis's Forces on the March"/>
+				<subcategory id="2" name="Major Offensives"/>
+				<subcategory id="3" name="Clash with Genesis's Forces"/>
+				<subcategory id="4" name="Genesis Evolution"/>
+				<subcategory id="5" name="The Strongest Copies"/>
+			</subcategories>
+		</category>
+		<category id="4" name="To End the War with Wutai">
+			<subcategories>
+				<subcategory id="1" name="Pursue the Remnants"/>
+				<subcategory id="2" name="Behind the Scenes"/>
+				<subcategory id="3" name="The Crescent Unit"/>
+				<subcategory id="4" name="The Remnants Strike Again"/>
+				<subcategory id="5" name="Annihilate the Crescent Unit"/>
+			</subcategories>
+		</category>
+		<category id="5" name="Hojo's Laboratory">
+			<subcategories>
+				<subcategory id="1" name="Sample Monsters Lv. 1"/>
+				<subcategory id="2" name="Sample Monsters Lv. 2"/>
+				<subcategory id="3" name="Sample Monsters Lv. 3"/>
+				<subcategory id="4" name="Sample Monsters Lv. 4"/>
+			</subcategories>
+		</category>
+		<category id="6" name="Seeking Precious Items">
+			<subcategories>
+				<subcategory id="1" name="Looking for Items"/>
+				<subcategory id="2" name="Midgar City Development Department"/>
+				<subcategory id="3" name="Zack, The Treasure Hunter"/>
+				<subcategory id="4" name="Zack, the Clean-Up Guy"/>
+				<subcategory id="5" name="Zack, the Corporation Crusher"/>
+				<subcategory id="6" name="Counter-Mafia Project"/>
+			</subcategories>
+		</category>
+		<category id="7" name="Seeking Priceless Items">
+			<subcategories>
+				<subcategory id="1" name="Recall Missions"/>
+				<subcategory id="2" name="Precious Things"/>
+				<subcategory id="3" name="ESP Development Project"/>
+				<subcategory id="4" name="Contacts From P"/>
+				<subcategory id="5" name="Orphans Escaping"/>
+				<subcategory id="6" name="The Accessory Craftsman"/>
+			</subcategories>
+		</category>
+		<category id="8" name="Zack, the Materia Hunter">
+			<subcategories>
+				<subcategory id="1" name="Starting Out"/>
+				<subcategory id="2" name="Mako Stones"/>
+				<subcategory id="3" name="To Hell and Back"/>
+				<subcategory id="4" name="From a Hot Treasure Hunter"/>
+				<subcategory id="5" name="Anonymous Hints"/>
+				<subcategory id="6" name="Yuffie's Notices"/>
+			</subcategories>
+		</category>
+		<category id="9" name="Great Caves of Wonders">
+			<subcategories>
+				<subcategory id="1" name="Invitations to the Underground"/>
+				<subcategory id="2" name="Stirrings"/>
+				<subcategory id="3" name="In Search of What?"/>
+				<subcategory id="4" name="Realm of Demons"/>
+				<subcategory id="5" name="Unknown Energy"/>
+				<subcategory id="6" name="Doors to the Unknown"/>
+			</subcategories>
+		</category>
+		<category id="10" name="Mysteries of the World">
+			<subcategories>
+				<subcategory id="1" name="Cactoid Secrets"/>
+				<subcategory id="2" name="Tonberry Quests"/>
+				<subcategory id="3" name="Fun in the Sun!"/>
+				<subcategory id="4" name="More Fun in the Sun"/>
+			</subcategories>
+		</category>
+	</categories>
+	<mission id="1-1-1" category="1" subcategory="1" order="1">
+		<name>Shinra's Basic Training</name>
+		<location/>
+		<bosses>
+			<boss quantity="8">Sentry</boss>
+		</bosses>
+		<rewards>
+			<reward>Elixir</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-1-2" category="1" subcategory="1" order="2">
+		<name>Shinra's Advanced Training</name>
+		<location/>
+		<bosses>
+			<boss quantity="2">Gun Bull Head</boss>
+			<boss>Alert Head</boss>
+			<boss quantity="2">Grenade Combatant</boss>
+			<boss>Captain</boss>
+		</bosses>
+		<rewards>
+			<reward>Hero Drink</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 10</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-1-3" category="1" subcategory="1" order="3">
+		<name>50 Shinra Troops</name>
+		<location/>
+		<bosses>
+			<boss quantity="45">Chief Petty Officer</boss>
+			<boss quantity="5">Sergeant</boss>
+		</bosses>
+		<rewards>
+			<reward quantity="2">Hero Drink</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-1-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-1-4" category="1" subcategory="1" order="4">
+		<name>100 Shinra Troops</name>
+		<location/>
+		<bosses>
+			<boss quantity="90">Special Ops Officer</boss>
+			<boss quantity="10">Sergeant Major</boss>
+		</bosses>
+		<rewards>
+			<reward>Black Belt</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-1-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-1-5" category="1" subcategory="1" order="5">
+		<name>200 Shinra Troops</name>
+		<location/>
+		<bosses>
+			<boss quantity="180">Combatant</boss>
+			<boss quantity="20">Warrant Officer</boss>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-1-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-1-6" category="1" subcategory="1" order="6">
+		<name/>
+		<location/>
+		<bosses>
+			<boss quantity="900">Guard</boss>
+			<boss quantity="100">Ensign</boss>
+		</bosses>
+		<rewards>
+			<reward>Mug materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-1-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-1" category="1" subcategory="2" order="1" missable="true">
+		<name>Challenge from Security</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Storm Trooper</boss>
+			<boss quantity="2">Corporal</boss>
+		</bosses>
+		<chests>
+			<chest>Remedy</chest>
+			<chest>X-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Shinra Alpha</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+			<requirement>Speak with Shinra Captain in Loveless Street.</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-2" category="1" subcategory="2" order="2">
+		<name>Second Challenge</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Corporal</boss>
+			<boss quantity="3">Red Saucer I</boss>
+		</bosses>
+		<chests>
+			<chest>X-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Silence materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-2-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-3" category="1" subcategory="2" order="3">
+		<name>Third Challenge</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Corporal</boss>
+			<boss quantity="2">Red Saucer I</boss>
+		</bosses>
+		<chests>
+			<chest>Hi-Potion</chest>
+			<chest>Elixir</chest>
+		</chests>
+		<rewards>
+			<reward>Four Slots</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-2-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-4" category="1" subcategory="2" order="4">
+		<name>Getting Serious</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="4">Corporal</boss>
+		</bosses>
+		<chests>
+			<chest>Soma</chest>
+			<chest>Hi-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Force Bracelet</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-2-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-5" category="1" subcategory="2" order="5">
+		<name>Armed Challenge</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Sweeper+</boss>
+		</bosses>
+		<chests>
+			<chest>Potion</chest>
+			<chest>Hi-Potion</chest>
+			<chest>Remedy</chest>
+		</chests>
+		<rewards>
+			<reward>Ice Armlet</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-2-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-2-6" category="1" subcategory="2" order="6">
+		<name>Last Challenge</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Arachno</boss>
+		</bosses>
+		<chests>
+			<chest>Elixir</chest>
+			<chest>Soma</chest>
+		</chests>
+		<rewards>
+			<reward>Fat Chocobo Feather</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-2-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-1" category="1" subcategory="3" order="1">
+		<name>Next-Generation Weapons</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-2" category="1" subcategory="3" order="2">
+		<name>New Mechanical Weapons</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-3" category="1" subcategory="3" order="3">
+		<name>To Quash Genesis's Forces</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-4" category="1" subcategory="3" order="4">
+		<name>Experiments Gone Wrong</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-5" category="1" subcategory="3" order="5">
+		<name>Robots in the City</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-3-6" category="1" subcategory="3" order="6">
+		<name>A Director's Request</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-1" category="1" subcategory="4" order="1">
+		<name>Urban Combat Operations</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-3-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-2" category="1" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-3" category="1" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-4" category="1" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-5" category="1" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-4-6" category="1" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-1" category="1" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-4-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-2" category="1" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-5-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-3" category="1" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-5-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-4" category="1" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-5-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-5" category="1" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-5-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="1-5-6" category="1" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">1-5-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-1" category="2" subcategory="1" order="1" missable="true">
+		<name>Beginnings</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Allemagne</boss>
+		</bosses>
+		<chests>
+			<chest>Remedy</chest>
+		</chests>
+		<rewards>
+			<reward>Poison materia</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-2" category="2" subcategory="1" order="2" missable="true">
+		<name>Approaching the Outskirts</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Allemagne</boss>
+		</bosses>
+		<chests>
+			<chest>Potion</chest>
+			<chest>Soma</chest>
+		</chests>
+		<rewards>
+			<reward>Fire Armlet</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-3" category="2" subcategory="1" order="3" missable="true">
+		<name>Sightings in Sector 5</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Bird</boss>
+		</bosses>
+		<chests>
+			<chest>Chocobo Armlet</chest>
+			<chest>Soma</chest>
+		</chests>
+		<rewards>
+			<reward>Phoenix Down</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-4" category="2" subcategory="1" order="4" missable="true">
+		<name>Defend the Slums</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="3">Bird</boss>
+		</bosses>
+		<rewards>
+			<reward>Flame Ring</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-5" category="2" subcategory="1" order="5" missable="true">
+		<name>Highway Closed</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Bomb</boss>
+			<boss quantity="2">Bird</boss>
+		</bosses>
+		<chests>
+			<chest>Mystile</chest>
+		</chests>
+		<rewards>
+			<reward>SPR Up materia</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-1-6" category="2" subcategory="1" order="6" missable="true">
+		<name>Truth in the Wasteland</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="3">Bomb</boss>
+			<boss>Green One Eye</boss>
+		</bosses>
+		<chests>
+			<chest>Four Slots</chest>
+			<chest>Drain materia</chest>
+		</chests>
+		<rewards>
+			<reward>Ice Ring</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-1" category="2" subcategory="2" order="1">
+		<name>Slums of Midgar</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-2" category="2" subcategory="2" order="2">
+		<name>Modeoheim</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 7</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-3" category="2" subcategory="2" order="3">
+		<name>Nibelheim</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 10</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-4" category="2" subcategory="2" order="4">
+		<name>Nibelheim II</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 11</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-5" category="2" subcategory="2" order="5">
+		<name>Gongaga</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 11</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-2-6" category="2" subcategory="2" order="6">
+		<name>World of Monsters</name>
+		<location/>
+		<enemies>
+			<enemy>Magic Pot</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-2-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-1" category="2" subcategory="3" order="1">
+		<name>Unidentified Monsters</name>
+		<location>desert</location>
+		<enemies>
+			<enemy>Demon</enemy>
+			<enemy>Red Cap</enemy>
+		</enemies>
+		<bosses>
+			<boss>Titanis</boss>
+			<boss>Diceratops</boss>
+		</bosses>
+		<chests>
+			<chest>Drainga materia</chest>
+			<chest>Tarot Cards</chest>
+			<chest>Hell Blizzaga materia</chest>
+		</chests>
+		<rewards>
+			<reward>Gongaga Trading</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-2-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-2" category="2" subcategory="3" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-3" category="2" subcategory="3" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-4" category="2" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-5" category="2" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-3-6" category="2" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-1" category="2" subcategory="4" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-3-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-2" category="2" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-3" category="2" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-4" category="2" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-5" category="2" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-4-6" category="2" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-1" category="2" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-4-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-2" category="2" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-5-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-3" category="2" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-5-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-4" category="2" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy>Magic Pot</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-5-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-5" category="2" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy>Magic Pot</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-5-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="2-5-6" category="2" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy>Magic Pot</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">2-5-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-1" category="3" subcategory="1" order="1">
+		<name>Foes on the Waterfront</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-2" category="3" subcategory="1" order="2">
+		<name>Massive Machines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-1-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-3" category="3" subcategory="1" order="3">
+		<name>Eliminate the Copies</name>
+		<location/>
+		<enemies>
+			<enemy>Kactuar</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 5</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-4" category="3" subcategory="1" order="4">
+		<name>Destroy the Death Machines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-1-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-5" category="3" subcategory="1" order="5">
+		<name>Eliminate the Death Machines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-1-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-1-6" category="3" subcategory="1" order="6">
+		<name>Midgar Defense Operations</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-1" category="3" subcategory="2" order="1">
+		<name>Foes in the Slums</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 7</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-2" category="3" subcategory="2" order="2">
+		<name>Take Back the Carrier</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 8</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-3" category="3" subcategory="2" order="3">
+		<name>Raid the Enemy's Stronghold</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-2-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-4" category="3" subcategory="2" order="4">
+		<name>Enemy Attack Prevention</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-2-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-5" category="3" subcategory="2" order="5">
+		<name>Pursue the Foes</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 10</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-2-6" category="3" subcategory="2" order="6">
+		<name>Foes in the Wasteland</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 11</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-1" category="3" subcategory="3" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-2-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-2" category="3" subcategory="3" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-3" category="3" subcategory="3" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-4" category="3" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-5" category="3" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-3-6" category="3" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-1" category="3" subcategory="4" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-3-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-2" category="3" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-3" category="3" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-4" category="3" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-5" category="3" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-4-6" category="3" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-1" category="3" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-4-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-2" category="3" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-5-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-3" category="3" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-5-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-4" category="3" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-5-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-5" category="3" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-5-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="3-5-6" category="3" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-5-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-1" category="4" subcategory="1" order="1">
+		<name>Wutai Units Found</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-2" category="4" subcategory="1" order="2">
+		<name>Anti-SOLDIER Monsters</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-3" category="4" subcategory="1" order="3">
+		<name>Pursue the Deserters</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-4" category="4" subcategory="1" order="4">
+		<name>Wutai Remnants in the Slums</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-5" category="4" subcategory="1" order="5">
+		<name>Stop the Intruders</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-1-6" category="4" subcategory="1" order="6">
+		<name>Search for Wutai Remnants</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-1" category="4" subcategory="2" order="1">
+		<name>Foes in the Corel Mines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-1-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-2" category="4" subcategory="2" order="2">
+		<name>Remnants in the Slums</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-3" category="4" subcategory="2" order="3">
+		<name>Foes inside Shinra Building</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-4" category="4" subcategory="2" order="4">
+		<name>March into Wutai</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-5" category="4" subcategory="2" order="5">
+		<name>Stubborn Wutai Remnants</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-2-6" category="4" subcategory="2" order="6">
+		<name>The Five Saints of Wutai</name>
+		<location>mines</location>
+		<enemies>
+			<enemy>Bajang</enemy>
+			<enemy>Wutai Captain</enemy>
+			<enemy>Wutai Soldier Ding</enemy>
+		</enemies>
+		<bosses>
+			<boss>Primus</boss>
+			<boss>Secundus</boss>
+			<boss>Tertius</boss>
+			<boss>Quartus</boss>
+			<boss>Auintus</boss>
+		</bosses>
+		<chests>
+			<chest>5000 gil</chest>
+			<chest>Drain Blade materia</chest>
+		</chests>
+		<rewards>
+			<reward>Wutai Secret Shop</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-1" category="4" subcategory="3" order="1" missable="true">
+		<name>Defeat the Scout Units</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find first Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-2" category="4" subcategory="3" order="2" missable="true">
+		<name>Obliterate Advance Elements</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find second Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-3" category="4" subcategory="3" order="3" missable="true">
+		<name>Foes in the Wutai Base</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find third Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-4" category="4" subcategory="3" order="4" missable="true">
+		<name>Mobile Units</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find fourth Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-5" category="4" subcategory="3" order="5" missable="true">
+		<name>The Enemy's Stronghold</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find fifth Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-3-6" category="4" subcategory="3" order="6" missable="true">
+		<name>Stop the Assailants</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+			<requirement>Find sixth Wutai spy.</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-4-1" category="4" subcategory="4" order="1">
+		<name>A New Threat</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-2-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-4-2" category="4" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="4-4-3" category="4" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="4-4-4" category="4" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="4-4-5" category="4" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="4-4-6" category="4" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="4-5-1" category="4" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-4-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-5-2" category="4" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-5-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-5-3" category="4" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-5-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-5-4" category="4" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-5-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-5-5" category="4" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-5-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="4-5-6" category="4" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">4-5-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-1" category="5" subcategory="1" order="1">
+		<name>Experiment No. 101</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-2" category="5" subcategory="1" order="2">
+		<name>Experiment No. 102</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-3" category="5" subcategory="1" order="3">
+		<name>Experiment No. 103</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 5</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-4" category="5" subcategory="1" order="4">
+		<name>Experiment No. 104</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-5" category="5" subcategory="1" order="5">
+		<name>Experiment No. 105</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 7</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-1-6" category="5" subcategory="1" order="6">
+		<name>Experiment No. 106</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 7</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-1" category="5" subcategory="2" order="1">
+		<name>Experiment No. 107</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 10</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-2" category="5" subcategory="2" order="2">
+		<name>Experiment No. 108</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 10</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-3" category="5" subcategory="2" order="3">
+		<name>Experiment No. 109</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 11</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-4" category="5" subcategory="2" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-2-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-5" category="5" subcategory="2" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-2-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-2-6" category="5" subcategory="2" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-2-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-1" category="5" subcategory="3" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-2-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-2" category="5" subcategory="3" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-3" category="5" subcategory="3" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-4" category="5" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-5" category="5" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-3-6" category="5" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-4-1" category="5" subcategory="4" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">5-3-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="5-4-2" category="5" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="5-4-3" category="5" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="5-4-4" category="5" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="5-4-5" category="5" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="5-4-6" category="5" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-1-1" category="6" subcategory="1" order="1">
+		<name>Closed Coal Mines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+		</requirements>
+	</mission>
+	<mission id="6-1-2" category="6" subcategory="1" order="2">
+		<name>Desert Island Delights</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-1-3" category="6" subcategory="1" order="3">
+		<name>Scavenger Hunt</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-1-4" category="6" subcategory="1" order="4">
+		<name>In the Depths of the Caverns</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-1-5" category="6" subcategory="1" order="5">
+		<name>Buried in the Caverns</name>
+		<location/>
+		<enemies>
+			<enemy>Tonberry</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-1-6" category="6" subcategory="1" order="6">
+		<name>Item in the Coal Mines II</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-2-1" category="6" subcategory="2" order="1" missable="true">
+		<name>Slum Development Plan 1</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Bat Eye</boss>
+		</bosses>
+		<chests>
+			<chest>White Cape</chest>
+			<chest>Hi-Potion</chest>
+			<chest>Ether</chest>
+		</chests>
+		<rewards>
+			<reward quantity="2">Fat Chcobo Feather</reward>
+			<reward>Sector 8 - Materia Shop</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 6</requirement>
+		</requirements>
+	</mission>
+	<mission id="6-2-2" category="6" subcategory="2" order="2">
+		<name>Slum Development Plan 2</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-2-3" category="6" subcategory="2" order="3">
+		<name>Mako Excavation Site</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-2-4" category="6" subcategory="2" order="4">
+		<name>Ingredient for Soma</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-2-5" category="6" subcategory="2" order="5">
+		<name>Making Phoenix Down</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-2-6" category="6" subcategory="2" order="6">
+		<name>Underground City</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-1" category="6" subcategory="3" order="1">
+		<name>Items in the Plains</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-2" category="6" subcategory="3" order="2">
+		<name>Desert Island Surprises</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-3" category="6" subcategory="3" order="3">
+		<name>An Item for Fusion</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-4" category="6" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-5" category="6" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-3-6" category="6" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-4-1" category="6" subcategory="4" order="1">
+		<name>Monsters in the Caverns</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">6-2-6</requirement>
+			<requirement mission="true">6-3-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="6-4-2" category="6" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-4-3" category="6" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-4-4" category="6" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-4-5" category="6" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-4-6" category="6" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-1" category="6" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-2" category="6" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-3" category="6" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-4" category="6" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-5" category="6" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-5-6" category="6" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-1" category="6" subcategory="6" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-2" category="6" subcategory="6" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-3" category="6" subcategory="6" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-4" category="6" subcategory="6" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-5" category="6" subcategory="6" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="6-6-6" category="6" subcategory="6" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-1-1" category="7" subcategory="1" order="1" missable="true">
+		<name>Freight Recall</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="7-1-2" category="7" subcategory="1" order="2">
+		<name>Black Market Recall</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-1-3" category="7" subcategory="1" order="3">
+		<name>Cargo Recall</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-1-4" category="7" subcategory="1" order="4">
+		<name>Supplies Recall</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-1-5" category="7" subcategory="1" order="5">
+		<name>Deputy Assignment</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-1-6" category="7" subcategory="1" order="6">
+		<name>Second Deputy Assignment</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-2-1" category="7" subcategory="2" order="1">
+		<name>Search and Destroy</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 5</requirement>
+		</requirements>
+	</mission>
+	<mission id="7-2-2" category="7" subcategory="2" order="2">
+		<name>Search and Destroy II</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-2-3" category="7" subcategory="2" order="3">
+		<name>Operation: Mako Reactor I</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-2-4" category="7" subcategory="2" order="4">
+		<name>Operation: Mako Reactor II</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-2-5" category="7" subcategory="2" order="5">
+		<name>Operation: Mako Reactor III</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-2-6" category="7" subcategory="2" order="6">
+		<name>Accessories Recall</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-1" category="7" subcategory="3" order="1">
+		<name>P's Precognition Lv. 1</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-2" category="7" subcategory="3" order="2">
+		<name>P's Precognition Lv. 2</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-3" category="7" subcategory="3" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-4" category="7" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-5" category="7" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-3-6" category="7" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-1" category="7" subcategory="4" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-2" category="7" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-3" category="7" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-4" category="7" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-5" category="7" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-4-6" category="7" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-1" category="7" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-2" category="7" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-3" category="7" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-4" category="7" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-5" category="7" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-5-6" category="7" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-1" category="7" subcategory="6" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-2" category="7" subcategory="6" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-3" category="7" subcategory="6" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-4" category="7" subcategory="6" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-5" category="7" subcategory="6" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="7-6-6" category="7" subcategory="6" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy>Magic Pot</enemy>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">7-6-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-1" category="8" subcategory="1" order="1">
+		<name>Rematch with Ifrit</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Ifrit</boss>
+		</bosses>
+		<rewards>
+			<reward>Ifrit Materia</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-2" category="8" subcategory="1" order="2">
+		<name>Raijincho</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="3">Raijincho</boss>
+		</bosses>
+		<chests>
+			<chest>Hi-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Thunder materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-1-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-3" category="8" subcategory="1" order="3">
+		<name>Clash with Genesis Troops</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">G Avenger</boss>
+			<boss quantity="2">Blood Taste</boss>
+		</bosses>
+		<chests>
+			<chest>Ether</chest>
+		</chests>
+		<rewards>
+			<reward>HP Up materia</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-4" category="8" subcategory="1" order="4">
+		<name>Rematch with Bahamut</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Bahamut</boss>
+		</bosses>
+		<rewards>
+			<reward>Bahamut Materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-1-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-5" category="8" subcategory="1" order="5">
+		<name>Escape from Hojo's Lab</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Replicon</boss>
+			<boss>Epiornis</boss>
+		</bosses>
+		<rewards>
+			<reward>Regen materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-1-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-1-6" category="8" subcategory="1" order="6">
+		<name>Mystery Materia</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Hungry</boss>
+		</bosses>
+		<chests>
+			<chest>Fire Armlet</chest>
+			<chest>Hi-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Odin Materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-1-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-2-1" category="8" subcategory="2" order="1" missable="true">
+		<name>SPR Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 3</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-2-2" category="8" subcategory="2" order="2">
+		<name>VIT Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-2-3" category="8" subcategory="2" order="3">
+		<name>MAG Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-2-4" category="8" subcategory="2" order="4">
+		<name>HP Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-2-5" category="8" subcategory="2" order="5">
+		<name>ATK Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-2-6" category="8" subcategory="2" order="6">
+		<name>LCK Mako Stone</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-1" category="8" subcategory="3" order="1">
+		<name>EM Hell in the Building</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-2" category="8" subcategory="3" order="2">
+		<name>EM Hell on the Island</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-3" category="8" subcategory="3" order="3">
+		<name>EM Hell in the Wasteland</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-4" category="8" subcategory="3" order="4">
+		<name>EM Hell in the Mines</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-5" category="8" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-3-6" category="8" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-4-1" category="8" subcategory="4" order="1">
+		<name>Suspicious Mail 1</name>
+		<location>farm</location>
+		<enemies>
+			<enemy>Grashtrike</enemy>
+			<enemy>Hedgehog Pie</enemy>
+		</enemies>
+		<bosses>
+			<boss quantity="3">Hedgehog Pie</boss>
+		</bosses>
+		<chests>
+			<chest>Potion</chest>
+			<chest>Hi-Potion</chest>
+			<chest>Soma</chest>
+			<chest>Chocobo Feather</chest>
+		</chests>
+		<rewards>
+			<reward>MBarrier materia</reward>
+		</rewards>
+		<requirements>
+			<requirement chapter="true">Chapter 4</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-4-2" category="8" subcategory="4" order="2">
+		<name>Suspicious Mail 2</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-4-3" category="8" subcategory="4" order="3">
+		<name>Suspicious Mail 3</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-4-4" category="8" subcategory="4" order="4">
+		<name>Suspicious Mail 4</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-4-5" category="8" subcategory="4" order="5">
+		<name>Suspicious Mail 5</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-4-6" category="8" subcategory="4" order="6">
+		<name>Suspicious Mail 6</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-5-1" category="8" subcategory="5" order="1">
+		<name>Treasure Info 1</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Evil Eye</boss>
+			<boss>Ahriman</boss>
+		</bosses>
+		<chests>
+			<chest>Hyper Wrist</chest>
+			<chest>Curaga materia</chest>
+			<chest>Ice Armlet</chest>
+			<chest>Hi-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Assault Twister+ materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-4-6</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-5-2" category="8" subcategory="5" order="2">
+		<name>Treasure Info 2</name>
+		<location>caves</location>
+		<enemies>
+			<enemy>Ahriman</enemy>
+			<enemy>Evil Eye</enemy>
+			<enemy>Head Hunter</enemy>
+			<enemy>Mover</enemy>
+		</enemies>
+		<bosses>
+			<boss quantity="2">Mover</boss>
+		</bosses>
+		<chests>
+			<chest>Blizzaga materia</chest>
+			<chest>Hi-Potion</chest>
+			<chest>Death Blade materia</chest>
+		</chests>
+		<rewards>
+			<reward>-100 gil</reward>
+			<reward>Vit Up++ materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-5-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-5-3" category="8" subcategory="5" order="3">
+		<name>Treasure Info 3</name>
+		<location>mines</location>
+		<enemies>
+			<enemy>Hornets</enemy>
+			<enemy>Mine</enemy>
+			<enemy>Razor Weed</enemy>
+		</enemies>
+		<bosses>
+			<boss quantity="6">Hornets</boss>
+		</bosses>
+		<chests>
+			<chest>Gold Armlet</chest>
+			<chest>Drainga materia</chest>
+			<chest>Diamond Bracelet</chest>
+		</chests>
+		<rewards>
+			<reward>Potion - 1</reward>
+			<reward>SPR Up++ materia</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-5-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-5-4" category="8" subcategory="5" order="4">
+		<name>Treasure Info 4</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-5-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-5-5" category="8" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-5-4</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-5-6" category="8" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement mission="true">8-5-5</requirement>
+		</requirements>
+	</mission>
+	<mission id="8-6-1" category="8" subcategory="6" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-6-2" category="8" subcategory="6" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-6-3" category="8" subcategory="6" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-6-4" category="8" subcategory="6" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-6-5" category="8" subcategory="6" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="8-6-6" category="8" subcategory="6" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-1" category="9" subcategory="1" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-2" category="9" subcategory="1" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-3" category="9" subcategory="1" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-4" category="9" subcategory="1" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-5" category="9" subcategory="1" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-1-6" category="9" subcategory="1" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-1" category="9" subcategory="2" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-2" category="9" subcategory="2" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-3" category="9" subcategory="2" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-4" category="9" subcategory="2" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-5" category="9" subcategory="2" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-2-6" category="9" subcategory="2" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-1" category="9" subcategory="3" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-2" category="9" subcategory="3" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-3" category="9" subcategory="3" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-4" category="9" subcategory="3" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-5" category="9" subcategory="3" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-3-6" category="9" subcategory="3" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-1" category="9" subcategory="4" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-2" category="9" subcategory="4" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-3" category="9" subcategory="4" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-4" category="9" subcategory="4" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-5" category="9" subcategory="4" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-4-6" category="9" subcategory="4" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-1" category="9" subcategory="5" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-2" category="9" subcategory="5" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-3" category="9" subcategory="5" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-4" category="9" subcategory="5" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-5" category="9" subcategory="5" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-5-6" category="9" subcategory="5" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-1" category="9" subcategory="6" order="1">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-2" category="9" subcategory="6" order="2">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-3" category="9" subcategory="6" order="3">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-4" category="9" subcategory="6" order="4">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-5" category="9" subcategory="6" order="5">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<chests>
+			<chest/>
+		</chests>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="9-6-6" category="9" subcategory="6" order="6">
+		<name/>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss/>
+		</bosses>
+		<rewards>
+			<reward/>
+		</rewards>
+		<requirements>
+			<requirement/>
+		</requirements>
+	</mission>
+	<mission id="10-1-1" category="10" subcategory="1" order="1">
+		<name>Where's the Cactuar?</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Kactuar</boss>
+		</bosses>
+		<chests>
+			<chest>Potion</chest>
+			<chest>Elixir</chest>
+		</chests>
+		<rewards>
+			<reward>Muscle Belt</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-1-3</requirement>
+			<requirement>Defeat Cactuar</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-1-2" category="10" subcategory="1" order="2">
+		<name>Kactuar?</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="3">Kactuar</boss>
+		</bosses>
+		<chests>
+			<chest>Remedy</chest>
+			<chest>AP Up materia</chest>
+			<chest>Cursed Ring</chest>
+		</chests>
+		<rewards>
+			<reward>Champion Belt</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-1-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-1-3" category="10" subcategory="1" order="3">
+		<name>Cactuar Found?</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Kactuer</boss>
+		</bosses>
+		<chests>
+			<chest>Safety Bit</chest>
+			<chest>White Cape</chest>
+			<chest>X-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Cactus Thorn</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-1-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-2-1" category="10" subcategory="2" order="1">
+		<name>Find the Tonberry!</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss>Tonberry</boss>
+		</bosses>
+		<chests>
+			<chest>Blizzard materia</chest>
+		</chests>
+		<rewards>
+			<reward>Silver Armlet</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">6-1-5</requirement>
+			<requirement>Defeat Tonberry</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-2-2" category="10" subcategory="2" order="2">
+		<name>Tonberries Everywhere</name>
+		<location/>
+		<enemies>
+			<enemy/>
+		</enemies>
+		<bosses>
+			<boss quantity="4">Tonberry</boss>
+		</bosses>
+		<chests>
+			<chest>X-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Gysahl Green</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-2-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-2-3" category="10" subcategory="2" order="3">
+		<name>Master Tonberry</name>
+		<location/>
+		<enemies>
+			<enemy/>
+			<enemy>Magic Pot</enemy>
+		</enemies>
+		<bosses>
+			<boss>Master Tonberry</boss>
+		</bosses>
+		<chests>
+			<chest>Mystile</chest>
+			<chest>Phoenix Down</chest>
+			<chest>X-Potion</chest>
+			<chest>X-Potion</chest>
+		</chests>
+		<rewards>
+			<reward>Tonberry's Knife</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-2-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-3-1" category="10" subcategory="3" order="1">
+		<name>Vacation Time</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss quantity="3">G Marine</boss>
+		</bosses>
+		<rewards>
+			<reward>Dark Matter</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">3-2-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-3-2" category="10" subcategory="3" order="2">
+		<name>Vacation for Real</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss quantity="3">Water Warrior</boss>
+		</bosses>
+		<rewards>
+			<reward>Gysahl Green</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-3-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-3-3" category="10" subcategory="3" order="3">
+		<name>Please Make it a Vacation</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss quantity="3">Steam Engine</boss>
+		</bosses>
+		<rewards>
+			<reward>Hero Drink</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-3-2</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-4-1" category="10" subcategory="4" order="1">
+		<name>You Need a Vacation</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss quantity="11">Coast Runner</boss>
+		</bosses>
+		<rewards>
+			<reward>Phoenix Down</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-3-3</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-4-2" category="10" subcategory="4" order="2">
+		<name>We Hope It's a Vacation</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss quantity="100">Sea Worm</boss>
+		</bosses>
+		<rewards>
+			<reward>Mythril</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-4-1</requirement>
+		</requirements>
+	</mission>
+	<mission id="10-4-3" category="10" subcategory="4" order="3">
+		<name>Is it a Vacation Yet?</name>
+		<location>Costa del Sol</location>
+		<bosses>
+			<boss>Sea Hulk</boss>
+		</bosses>
+		<rewards>
+			<reward>Adamantite</reward>
+		</rewards>
+		<requirements>
+			<requirement mission="true">10-4-2</requirement>
+		</requirements>
+	</mission>
+</missions>

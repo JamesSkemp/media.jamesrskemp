@@ -1,0 +1,24 @@
+<!ELEMENT vehicles (personNameFirst, personNameLast, vehicle*)>
+
+<!ELEMENT personNameFirst (#PCDATA)>
+<!ELEMENT personNameLast (#PCDATA)>
+
+<!ELEMENT vehicle (make, model, year, fillups)>
+<!ATTLIST vehicle id CDATA #REQUIRED>
+
+<!ELEMENT make (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+
+<!ELEMENT fillups (fillup*)>
+
+<!ELEMENT fillup (date, milesCar, milesDriven, gallons, costGallon, costTotal, notes)>
+<!ATTLIST fillup id CDATA #REQUIRED>
+
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT milesCar (#PCDATA)>
+<!ELEMENT milesDriven (#PCDATA)>
+<!ELEMENT gallons (#PCDATA)>
+<!ELEMENT costGallon (#PCDATA)>
+<!ELEMENT costTotal (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>

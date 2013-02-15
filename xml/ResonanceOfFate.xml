@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Licensed under the Creative Commons License Attribution-Noncommercial-Share Alike 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/). Contact information for attribution at http://jamesrskemp.com/ -->
+<?xml-stylesheet type="text/xsl" href="../xslt/ResonanceOfFate.xsl"?>
+<ResonanceOfFate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/ResonanceOfFate.xsd">
+	<!-- Last updated: 2/18/2011 at 8:08 PM Central Time -->
+	<Arena>
+		<Ranks>
+			<Rank id="1" chapter="1" price="300" battleCoins="1 Bronze"><Enemies><Enemy name="Brownie" level="6"/><Enemy name="Cheap Gunner" quantity="2" level="6"/></Enemies></Rank>
+			<Rank id="2" chapter="2" price="600" battleCoins="2 Bronze"><Enemies><Enemy name="Cheap Gunner" quantity="2" level="5"/><Enemy name="Cheap Gunner Machinegun" level="6"/></Enemies></Rank>
+			<Rank id="3" chapter="2" price="900" battleCoins="3 Bronze"><Enemies><Enemy name="Oil Brownie" quantity="3" level="7"/></Enemies></Rank>
+			<Rank id="4" chapter="2" price="1200" battleCoins="4 Bronze"><Enemies><Enemy name="Liese Gunner Magnum" quantity="2" level="12"/><Enemy name="Drum Pixie" quantity="2" level="6"/><Enemy name="Green Gear" level="17"/></Enemies></Rank>
+			<Rank id="5" chapter="2" price="1500" battleCoins="5 Bronze"><Enemies><Enemy name="Liese Gunner Magnum" quantity="2" level="11"/><Enemy name="Oil Brownie" quantity="2" level="6"/><Enemy name="Green Gear" level="16"/></Enemies></Rank>
+			<Rank id="6" chapter="3" price="1800" battleCoins="7 Bronze"><Enemies><Enemy name="Hound" quantity="2" level="8"/><Enemy name="Yellow Gear" quantity="2" level="18"/></Enemies></Rank>
+			<Rank id="7" chapter="3" price="2100" battleCoins="9 Bronze"><Enemies><Enemy name="Hound" quantity="2" level="8"/><Enemy name="Drum Hobbit" level="9"/><Enemy name="Light Gunner MG" quantity="2" level="11"/></Enemies></Rank>
+			<Rank id="8" chapter="4" price="2400" battleCoins="10 Bronze"><Enemies><Enemy name="Coppélia Gunhead" quantity="2" level="14"/><Enemy name="Coppélia Chainsaw" quantity="2" level="13"/></Enemies></Rank>
+			<Rank id="9" chapter="4" price="2700" battleCoins="11 Bronze"><Enemies><Enemy name="Coppélia Flamer" quantity="5" level="14"/></Enemies></Rank>
+			<Rank id="10" chapter="5" price="3000" battleCoins="12 Bronze"><Enemies><Enemy name="Marionette Bazooka" quantity="3" level="15"/></Enemies></Rank>
+			<Rank id="11" chapter="5" price="3300" battleCoins="13 Bronze"><Enemies><Enemy name="Marionette Chainsaw" quantity="4" level="20"/></Enemies></Rank>
+			<Rank id="12" chapter="6" price="3600" battleCoins="14 Bronze"><Enemies><Enemy name="Middle Gunner Magnum" quantity="2" level="23"/><Enemy name="Drum Troll" quantity="2" level="24"/></Enemies></Rank>
+			<Rank id="13" chapter="6" price="3900" battleCoins="18 Bronze"><Enemies><Enemy name="Jumbo Pixie" quantity="2" level="51"/><Enemy name="Drum Troll" quantity="2" level="24"/></Enemies></Rank>
+			<Rank id="14" chapter="6" price="4200" battleCoins="22 Bronze"><Enemies><Enemy name="Fenrir" quantity="3" level="24"/><Enemy name="Middle Gunner Magnum" quantity="2" level="23"/></Enemies></Rank>
+			<Rank id="15" chapter="6" price="4500" battleCoins="26 Bronze"><Enemies><Enemy name="Snow Brownie" quantity="5" level="23"/></Enemies></Rank><!-- first battle level 22 (?) -->
+			<Rank id="16" chapter="6" price="4800" battleCoins="28 Bronze"><Enemies><Enemy name="Fenrir" quantity="2" level="24"/><Enemy name="Snow Brownie" quantity="3" level="22"/></Enemies></Rank>
+			<Rank id="17" chapter="6" price="5100" battleCoins="30 Bronze"><Enemies><Enemy name="Snow Brownie" level="22"/><Enemy name="Middle Gunner Magnum" quantity="2" level="23"/><Enemy name="Middle Gunner Machinegun" level="23"/></Enemies></Rank>
+			<Rank id="18" chapter="6" price="5400" battleCoins="34 Bronze"><Enemies><Enemy name="Humbaba" quantity="2" level="47"/><Enemy name="Middle Gunner Magnum" level="25"/><Enemy name="Middle Gunner Machinegun" level="25"/></Enemies></Rank>
+			<Rank id="19" chapter="6" price="5700" battleCoins="38 Bronze"><Enemies><Enemy name="Bigfoot" level="63"/></Enemies></Rank><!-- first battle level 55 (?) -->
+			<Rank id="20" chapter="6" price="6000" battleCoins="40 Bronze"><Enemies><Enemy name="Black Dog" quantity="2" level="26"/></Enemies></Rank>
+			<Rank id="21" chapter="6" price="6300" battleCoins="1 Silver"><Enemies><Enemy name="Middle Gunner Shotgun" level="23"/><Enemy name="Middle Gunner Machinegun" quantity="2" level="23"/><Enemy name="Black Dog" quantity="2" level="24"/></Enemies></Rank>
+			<Rank id="22" chapter="6" price="6600" battleCoins="2 Silver"><Enemies><Enemy name="Humbaba II" quantity="2" level="34"/></Enemies></Rank>
+			<Rank id="23" chapter="6" price="6900" battleCoins="3 Silver"><Enemies><Enemy name="Humbaba II" quantity="2" level="34"/><Enemy name="Middle Gunner Magnum" quantity="2" level="23"/></Enemies></Rank>
+			<Rank id="24" chapter="8" price="7200" battleCoins="4 Silver"><Enemies><Enemy name="Handgun Hermit" quantity="5" level="28"/></Enemies></Rank><!-- Possibly 27s at 71 - 73 - 74 (next battle at 71-73-75) -->
+			<Rank id="25" chapter="8" price="7500" battleCoins="5 Silver"><Enemies><Enemy name="Drum Spriggan" quantity="3" level="29"/><Enemy name="Hellhound" quantity="2" level="30"/></Enemies></Rank>
+			<Rank id="26" chapter="8" price="7800" battleCoins="7 Silver"><Enemies><Enemy name="Hellhound" quantity="5" level="30"/></Enemies></Rank>
+			<Rank id="27" chapter="8" price="8100" battleCoins="9 Silver"><Enemies><Enemy name="Torch Brownie" quantity="2" level="27"/><Enemy name="Drum Spriggan" quantity="2" level="29"/></Enemies></Rank>
+			<Rank id="28" chapter="8" price="8400" battleCoins="10 Silver"><Enemies><Enemy name="Handgun Hermit" quantity="2" level="28"/><Enemy name="Torch Brownie" quantity="2" level="28"/></Enemies></Rank><!-- first battle, all level 27 -->
+			<Rank id="29" chapter="8" price="8700" battleCoins="11 Silver"><Enemies><Enemy name="Torch Brownie" quantity="2" level="27"/><Enemy name="Drum Spriggan" quantity="2" level="29"/><Enemy name="Jumbo Troll" level="62"/></Enemies></Rank>
+			<Rank id="30" chapter="8" price="9000" battleCoins="12 Silver"><Enemies><Enemy name="Soldier GL-MG" quantity="2" level="28"/><Enemy name="Hellhound" quantity="2" level="30"/></Enemies></Rank>
+			<Rank id="31" chapter="8" price="9300" battleCoins="13 Silver"><Enemies><Enemy name="Shell Tank" level="52"/><Enemy name="Soldier GL-SO" level="28"/><Enemy name="Soldier GL-AR" quantity="2" level="28"/></Enemies></Rank>
+			<Rank id="32" chapter="8" price="9600" battleCoins="14 Silver"><Enemies><Enemy name="Ifreet" level="82"/><Enemy name="Torch Brownie" quantity="2" level="27"/></Enemies></Rank>
+			<Rank id="33" chapter="8" price="9900" battleCoins="18 Silver"><Enemies><Enemy name="Red Gear" level="76"/><Enemy name="Gang King" quantity="2" level="55"/></Enemies></Rank>
+			<Rank id="34" chapter="8" price="10200" battleCoins="22 Silver"><Enemies><Enemy name="Poison Brownie" quantity="2" level="30"/><Enemy name="Shotgun Hermit" quantity="2" level="27"/></Enemies></Rank>
+			<Rank id="35" chapter="8" price="10500" battleCoins="26 Silver"><Enemies><Enemy name="Fáfnir" level="74"/></Enemies></Rank><!-- unknown material g -->
+			<Rank id="36" chapter="9" price="10800" battleCoins="28 Silver"><Enemies><Enemy name="Soldier PE-HG" level="28"/><Enemy name="Soldier PE-SG" level="28"/><Enemy name="Soldier PE-SO" level="28"/></Enemies></Rank>
+			<Rank id="37" chapter="9" price="11100" battleCoins="30 Silver"><Enemies><Enemy name="Solider PE-SH" level="53"/><Enemy name="Queen Soldier PE-HG" level="28"/><Enemy name="Queen Soldier PE-SM" level="28"/></Enemies></Rank><!-- first battle levels 53, 27, 27 -->
+			<Rank id="38" chapter="9" price="11400" battleCoins="34 Silver"><Enemies><Enemy name="Mine Tank" level="79"/><Enemy name="Solider PE-HG" level="29"/><Enemy name="Soldier PE-SG" level="29"/></Enemies></Rank><!-- first battle levels 77, 28, 28 -->
+			<Rank id="39" chapter="9" price="11700" battleCoins="38 Silver"><Enemies><Enemy name="Black Gear" level="83"/><Enemy name="Mine Tank" level="79"/><Enemy name="Soldier PE-SH" level="54"/><Enemy name="Queen Soldier PE-SM" level="28"/></Enemies></Rank><!-- first battle levels 81, 77, 53, 27; second battle levels 82, 78, 53, 28 -->
+			<Rank id="40" chapter="9" price="12000" battleCoins="40 Silver"><Enemies><Enemy name="Black Gear" level="81"/><Enemy name="Lyrical Hermit" quantity="3" level="42"/></Enemies></Rank>
+			<Rank id="41" chapter="10" price="12300" battleCoins="1 Gold"><Enemies><Enemy name="Black Gear" quantity="2" level="83"/><Enemy name="Mist Hermit" quantity="3" level="43"/></Enemies></Rank><!-- first battle levels 81, 42; second battle levels 82, 43 -->
+			<Rank id="42" chapter="10" price="12600" battleCoins="2 Gold"><Enemies><Enemy name="Ullikummi" quantity="2" level="69"/></Enemies></Rank><!-- first battle level 60, second battle level 61 -->
+			<Rank id="43" chapter="14" price="12900" battleCoins="3 Gold"><Enemies><Enemy name="Soldier RO-SH" level="88"/><Enemy name="Solider RO-HG" quantity="2" level="84"/><Enemy name="Sköll" quantity="2" level="73"/></Enemies></Rank><!-- first battle levels 86, 82, 71; second battle 87, 83, 72 -->
+			<Rank id="44" chapter="15" price="13200" battleCoins="4 Gold"><Enemies><Enemy name="Enkidu" level="96"/><Enemy name="Soldier RO-SH" quantity="2" level="86"/><Enemy name="Soldier RO-AR" quantity="2" level="82"/></Enemies></Rank>
+			<Rank id="45" chapter="16" price="13500" battleCoins="5 Gold"><Enemies><Enemy name="ST210-G Cannon" quantity="2" level="145"/><Enemy name="ST344-CO1" level="144"/><Enemy name="Soldier RO-SH" level="86"/><Enemy name="Soldier RO-SG" level="82"/></Enemies></Rank><!-- direct kills = leveling HGs is a breeze -->
+			<Rank id="46" chapter="16 (immediately before last boss)" price="13800" battleCoins="7 Gold"><Enemies><Enemy name="Soldier GA-SO" level="107"/><Enemy name="Soldier GA-R" quantity="2" level="92"/><Enemy name="Soldier GA-SG" quantity="2" level="85"/></Enemies></Rank>
+			<Rank id="47" chapter="16 (immediately before last boss)" price="14100" battleCoins="9 Gold"><Enemies><Enemy name="Soldier AN-SO" level="108"/><Enemy name="Soldier AN-AR" level="93"/><Enemy name="Soldier AN-HG" level="93"/><Enemy name="Soldier AN-R" level="93"/></Enemies></Rank>
+			<Rank id="48" chapter="16 (immediately before last boss)" price="14400" battleCoins="10 Gold"><Enemies><Enemy name="Queen Soldier GA-C" level="96"/><Enemy name="Queen Soldier GA-PO" level="96"/><Enemy name="Queen Soldier AN-C" level="94"/><Enemy name="Queen Soldier AN-FL" level="94"/><Enemy name="Queen Soldier AN-TC" level="94"/></Enemies></Rank>
+			<Rank id="49" chapter="16 (immediately before last boss)" price="14700" battleCoins="11 Gold"><Enemies><Enemy name="Tetra Tank" quantity="2" level="123"/></Enemies></Rank>
+			<Rank id="50" chapter="16 (immediately before last boss)" price="15000" battleCoins="12 Gold"><Enemies><Enemy name="Argos" level="123"/></Enemies></Rank>
+		</Ranks>
+		<Multipliers>
+			<Multiplier id="1" value="1.10"/>
+			<Multiplier id="2" value="1.15"/>
+			<Multiplier id="3" value="1.27"/>
+			<Multiplier id="4" value="1.38"/>
+			<Multiplier id="5" value="1.47"/>
+			<Multiplier id="6" value="1.55"/>
+			<Multiplier id="7" value="1.62"/>
+			<Multiplier id="8" value="1.67"/>
+			<Multiplier id="9" value="1.72"/>
+			<Multiplier id="10" value="1.76"/>
+			<Multiplier id="11" value="1.80"/>
+			<Multiplier id="12" value="1.83"/>
+			<Multiplier id="13" value="1.85"/>
+			<Multiplier id="14" value="1.87"/>
+			<Multiplier id="15" value="1.89"/>
+			<Multiplier id="16" value="1.91"/>
+			<Multiplier id="17" value="1.92"/>
+			<Multiplier id="18" value="1.93"/>
+			<Multiplier id="19" value="1.94"/>
+			<Multiplier id="20" value="1.95"/>
+			<Multiplier id="21" value="1.96"/>
+			<Multiplier id="22" value="1.96"/>
+			<Multiplier id="23" value="1.97"/>
+			<Multiplier id="24" value="1.97"/>
+			<Multiplier id="25" value="1.97"/>
+			<Multiplier id="26" value="1.98"/>
+			<Multiplier id="27" value="1.98"/>
+			<Multiplier id="28" value="1.98"/>
+			<Multiplier id="29" value="1.98"/>
+			<Multiplier id="30" value="1.99"/>
+			<Multiplier id="31" value="1.99"/><!-- Currently at this level in Rank 3 -->
+		</Multipliers>
+	</Arena>
+	<Characters>
+		<Character name="Leanne">
+			<!-- 15170, 891 -->
+			<Levels>
+				<Level id="3" hitPoints="403" weight="332"/>
+				<Level id="4" hitPoints="464" weight="339"/>
+				<Level id="5" hitPoints="526" weight="345"/>
+				<Level id="6" hitPoints="588" weight="352"/>
+				<Level id="7" hitPoints="649" weight="358"/>
+				<Level id="8" hitPoints="711" weight="364"/>
+				<Level id="9" hitPoints="772" weight="371"/>
+				<Level id="10" hitPoints="834" weight="377"/>
+				<Level id="11" hitPoints="896" weight="384"/>
+				<Level id="12" hitPoints="957" weight="390"/>
+				<Level id="13" hitPoints="1019" weight="396"/>
+				<Level id="14" hitPoints="1080" weight="403"/>
+				<Level id="15" hitPoints="1142" weight="409"/>
+				<Level id="16" hitPoints="1204" weight="416"/>
+				<Level id="17" hitPoints="1265" weight="422"/>
+				<Level id="18" hitPoints="1327" weight="428"/>
+				<Level id="19" hitPoints="1388" weight="435"/>
+				<Level id="20" hitPoints="1450" weight="441"/>
+				<Level id="21" hitPoints="1512" weight="448"/>
+				<Level id="22" hitPoints="1573" weight="454"/>
+				<Level id="23" hitPoints="1635" weight="460"/>
+				<Level id="24" hitPoints="1696" weight="467"/>
+				<Level id="25" hitPoints="1758" weight="473"/>
+				<Level id="26" hitPoints="1820" weight="480"/>
+				<Level id="27" hitPoints="1881" weight="486"/>
+				<Level id="28" hitPoints="1943" weight="492"/>
+				<Level id="29" hitPoints="2004" weight="499"/>
+				<Level id="30" hitPoints="2066" weight="505"/>
+				<Level id="31" hitPoints="2128" weight="512"/>
+				<Level id="32" hitPoints="2189" weight="518"/>
+				<Level id="33" hitPoints="2251" weight="524"/>
+				<Level id="34" hitPoints="2312" weight="531"/>
+				<Level id="35" hitPoints="2374" weight="537"/>
+				<Level id="36" hitPoints="2436" weight="544"/>
+				<Level id="37" hitPoints="2497" weight="550"/>
+				<Level id="38" hitPoints="2559" weight="556"/>
+				<Level id="39" hitPoints="2620" weight="563"/>
+				<Level id="40" hitPoints="2682" weight="569"/>
+				<Level id="41" hitPoints="2744" weight="576"/>
+				<Level id="42" hitPoints="2805" weight="585"/>
+				<Level id="43" hitPoints="2867" weight="595"/>
+				<Level id="44" hitPoints="2928" weight="604"/>
+				<Level id="45" hitPoints="2990" weight="614"/>
+				<Level id="46" hitPoints="3052" weight="624"/>
+				<Level id="47" hitPoints="3113" weight="633"/>
+				<Level id="48" hitPoints="3175" weight="643"/>
+				<Level id="49" hitPoints="3236" weight="652"/>
+				<Level id="50" hitPoints="3298" weight="662"/>
+				<Level id="51" hitPoints="3360" weight="672"/>
+				<Level id="52" hitPoints="3421" weight="681"/>
+				<Level id="53" hitPoints="3483" weight="691"/>
+				<Level id="54" hitPoints="3544" weight="700"/>
+				<Level id="55" hitPoints="3606" weight="710"/>
+				<Level id="56" hitPoints="3668" weight="720"/>
+				<Level id="57" hitPoints="3729" weight="729"/>
+				<Level id="58" hitPoints="3791" weight="739"/>
+				<Level id="59" hitPoints="3852" weight="748"/>
+				<Level id="60" hitPoints="3914" weight="758"/>
+				<Level id="61" hitPoints="3976" weight="768"/>
+				<Level id="62" hitPoints="4037" weight="777"/>
+				<Level id="63" hitPoints="4099" weight="787"/>
+				<Level id="64" hitPoints="4160" weight="796"/>
+				<Level id="65" hitPoints="4222" weight="806"/>
+				<Level id="66" hitPoints="4284" weight="816"/>
+				<Level id="67" hitPoints="4345" weight="825"/>
+				<Level id="68" hitPoints="4407" weight="835"/>
+				<Level id="69" hitPoints="4468" weight="844"/>
+				<Level id="70" hitPoints="4530" weight="854"/>
+				<Level id="71" hitPoints="4592" weight="854"/>
+				<Level id="72" hitPoints="4653" weight="854"/>
+				<Level id="73" hitPoints="4715" weight="854"/>
+				<Level id="74" hitPoints="4776" weight="855"/>
+				<Level id="75" hitPoints="4838" weight="855"/>
+				<Level id="76" hitPoints="4900" weight="855"/>
+				<Level id="77" hitPoints="4961" weight="855"/>
+				<Level id="78" hitPoints="5023" weight="855"/>
+				<Level id="79" hitPoints="5084" weight="855"/>
+				<Level id="80" hitPoints="5146" weight="856"/>
+				<Level id="81" hitPoints="5208" weight="856"/>
+				<Level id="82" hitPoints="5269" weight="856"/>
+				<Level id="83" hitPoints="5331" weight="856"/>
+				<Level id="84" hitPoints="5392" weight="856"/>
+				<Level id="85" hitPoints="5454" weight="856"/>
+				<Level id="86" hitPoints="5516" weight="856"/>
+				<Level id="87" hitPoints="5577" weight="857"/>
+				<Level id="88" hitPoints="5639" weight="857"/>
+				<Level id="89" hitPoints="5700" weight="857"/>
+				<Level id="90" hitPoints="5762" weight="857"/>
+				<Level id="91" hitPoints="5824" weight="857"/>
+				<Level id="92" hitPoints="5885" weight="857"/>
+				<Level id="95" hitPoints="6070" weight="858"/>
+				<Level id="97" hitPoints="6193" weight="858"/>
+				<Level id="99" hitPoints="6316" weight="859"/>
+				<Level id="101" hitPoints="6440" weight="859"/>
+				<Level id="103" hitPoints="6563" weight="859"/>
+				<Level id="105" hitPoints="6686" weight="860"/>
+				<Level id="106" hitPoints="6748" weight="860"/>
+				<Level id="107" hitPoints="6809" weight="860"/>
+				<Level id="108" hitPoints="6871" weight="860"/>
+				<Level id="109" hitPoints="6932" weight="860"/>
+				<Level id="110" hitPoints="6994" weight="860"/>
+				<Level id="111" hitPoints="7056" weight="860"/>
+				<Level id="112" hitPoints="7117" weight="861"/>
+				<Level id="113" hitPoints="7179" weight="861"/>
+				<Level id="114" hitPoints="7240" weight="861"/>
+				<Level id="115" hitPoints="7302" weight="861"/>
+				<Level id="116" hitPoints="7364" weight="861"/>
+				<Level id="117" hitPoints="7425" weight="861"/>
+				<Level id="118" hitPoints="7487" weight="862"/>
+				<Level id="119" hitPoints="7548" weight="862"/>
+				<Level id="121" hitPoints="7672" weight="862"/>
+				<Level id="122" hitPoints="7733" weight="862"/>
+				<Level id="123" hitPoints="7795" weight="862"/>
+				<Level id="124" hitPoints="7856" weight="863"/>
+				<Level id="125" hitPoints="7918" weight="863"/>
+				<Level id="126" hitPoints="7980" weight="863"/>
+				<Level id="127" hitPoints="8041" weight="863"/>
+				<Level id="128" hitPoints="8103" weight="863"/>
+				<Level id="129" hitPoints="8164" weight="863"/>
+				<Level id="130" hitPoints="8226" weight="864"/>
+				<Level id="131" hitPoints="8288" weight="864"/>
+				<Level id="132" hitPoints="8349" weight="864"/>
+				<Level id="133" hitPoints="8411" weight="864"/>
+				<Level id="134" hitPoints="8472" weight="864"/>
+				<Level id="135" hitPoints="8534" weight="864"/>
+				<Level id="136" hitPoints="8596" weight="864"/>
+				<Level id="137" hitPoints="8657" weight="865"/>
+				<Level id="138" hitPoints="8719" weight="865"/>
+				<Level id="140" hitPoints="8842" weight="865"/>
+				<Level id="141" hitPoints="8904" weight="865"/>
+				<Level id="142" hitPoints="8965" weight="865"/>
+				<Level id="143" hitPoints="9027" weight="866"/>
+				<Level id="144" hitPoints="9088" weight="866"/>
+				<Level id="145" hitPoints="9150" weight="866"/>
+				<Level id="146" hitPoints="9212" weight="866"/>
+				<Level id="147" hitPoints="9273" weight="866"/>
+				<Level id="148" hitPoints="9335" weight="866"/>
+				<Level id="149" hitPoints="9396" weight="867"/>
+				<Level id="150" hitPoints="9458" weight="867"/>
+				<Level id="151" hitPoints="9520" weight="867"/>
+				<Level id="152" hitPoints="9581" weight="867"/>
+				<Level id="153" hitPoints="9643" weight="867"/>
+				<Level id="154" hitPoints="9704" weight="867"/>
+				<Level id="155" hitPoints="9766" weight="868"/>
+				<Level id="156" hitPoints="9828" weight="868"/>
+				<Level id="157" hitPoints="9889" weight="868"/>
+				<Level id="158" hitPoints="9951" weight="868"/>
+				<Level id="159" hitPoints="10012" weight="868"/>
+				<Level id="160" hitPoints="10074" weight="868"/>
+				<Level id="161" hitPoints="10136" weight="868"/>
+				<Level id="162" hitPoints="10197" weight="869"/>
+				<Level id="163" hitPoints="10259" weight="869"/>
+				<Level id="164" hitPoints="10320" weight="869"/>
+				<Level id="165" hitPoints="10382" weight="869"/>
+				<Level id="166" hitPoints="10444" weight="869"/>
+				<Level id="167" hitPoints="10505" weight="869"/>
+				<Level id="168" hitPoints="10567" weight="870"/>
+				<Level id="169" hitPoints="10628" weight="870"/>
+				<Level id="170" hitPoints="10690" weight="870"/>
+				<Level id="171" hitPoints="10752" weight="870"/>
+				<Level id="172" hitPoints="10813" weight="870"/>
+				<Level id="173" hitPoints="10875" weight="870"/>
+				<Level id="174" hitPoints="10936" weight="871"/>
+				<Level id="175" hitPoints="10998" weight="871"/>
+				<Level id="176" hitPoints="11060" weight="871"/>
+				<Level id="177" hitPoints="11121" weight="871"/>
+				<Level id="178" hitPoints="11183" weight="871"/>
+				<Level id="179" hitPoints="11244" weight="871"/>
+				<Level id="180" hitPoints="11306" weight="872"/>
+				<Level id="181" hitPoints="11368" weight="872"/>
+				<Level id="182" hitPoints="11429" weight="872"/>
+				<Level id="183" hitPoints="11491" weight="872"/>
+				<Level id="184" hitPoints="11552" weight="872"/>
+				<Level id="185" hitPoints="11614" weight="872"/>
+				<Level id="186" hitPoints="11676" weight="872"/>
+				<Level id="187" hitPoints="11737" weight="873"/>
+				<Level id="188" hitPoints="11799" weight="873"/>
+				<Level id="189" hitPoints="11860" weight="873"/>
+				<Level id="190" hitPoints="11922" weight="873"/>
+				<Level id="191" hitPoints="11984" weight="873"/>
+				<Level id="192" hitPoints="12045" weight="873"/>
+				<Level id="193" hitPoints="12107" weight="874"/>
+				<Level id="194" hitPoints="12168" weight="874"/>
+				<Level id="195" hitPoints="12230" weight="874"/>
+				<Level id="196" hitPoints="12258" weight="874"/>
+				<Level id="197" hitPoints="12286" weight="874"/>
+				<Level id="198" hitPoints="12314" weight="874"/>
+				<Level id="199" hitPoints="12342" weight="875"/>
+				<Level id="200" hitPoints="12370" weight="875"/>
+				<Level id="201" hitPoints="12398" weight="875"/>
+				<Level id="202" hitPoints="12426" weight="875"/>
+				<Level id="203" hitPoints="12454" weight="875"/>
+				<Level id="204" hitPoints="12482" weight="875"/>
+				<Level id="205" hitPoints="12510" weight="876"/>
+				<Level id="206" hitPoints="12538" weight="876"/>
+				<Level id="207" hitPoints="12566" weight="876"/>
+				<Level id="208" hitPoints="12594" weight="876"/>
+				<Level id="209" hitPoints="12622" weight="876"/>
+				<Level id="210" hitPoints="12650" weight="876"/>
+				<Level id="211" hitPoints="12678" weight="876"/>
+				<Level id="212" hitPoints="12706" weight="877"/>
+				<Level id="213" hitPoints="12734" weight="877"/>
+				<Level id="214" hitPoints="12762" weight="877"/>
+				<Level id="215" hitPoints="12790" weight="877"/>
+				<Level id="216" hitPoints="12818" weight="877"/>
+				<Level id="217" hitPoints="12846" weight="877"/>
+				<Level id="218" hitPoints="12874" weight="878"/>
+				<Level id="219" hitPoints="12902" weight="878"/>
+				<Level id="220" hitPoints="12930" weight="878"/>
+				<Level id="221" hitPoints="12958" weight="878"/>
+				<Level id="222" hitPoints="12986" weight="878"/>
+				<Level id="223" hitPoints="13014" weight="878"/>
+				<Level id="224" hitPoints="13042" weight="879"/>
+				<Level id="225" hitPoints="13070" weight="879"/>
+				<Level id="226" hitPoints="13098" weight="879"/>
+			</Levels>
+			<Skills>
+				<Skill type="Handgun" level="4" name="Penetration Rate 5%"/>
+				<Skill type="Handgun" level="8" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="12" name="Damage Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="16" name="Penetration Rate 10%"/>
+				<Skill type="Handgun" level="20" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="24" name="Damage Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="28" name="Penetration Rate 15%"/>
+				<Skill type="Handgun" level="32" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="36" name="Damage Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="40" name="Penetration Rate 20%"/>
+				<Skill type="Handgun" level="44" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="48" name="Damage Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="52" name="Penetration Rate 25%"/>
+				<Skill type="Handgun" level="56" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Handgun" level="60" name="Damage Up x6: Chance 33%"/>
+				<Skill type="Handgun" level="64" name="Penetration Rate 30%"/>
+				<Skill type="Handgun" level="68" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Handgun" level="72" name="Damage Up x7: Chance 33%"/>
+				<Skill type="Handgun" level="76" name="Penetration Rate 50%"/>
+				<Skill type="Handgun" level="80" name="Knockdown Rate Up x8: Chance 33%"/>
+				<Skill type="Handgun" level="84" name="Damage Up x8: Chance 33%"/>
+				<Skill type="Handgun" level="92" name="Penetration Rate 100%"/>
+				<Skill type="Handgun" level="96" name="Knockdown Rate Up ∞: Chance 33%"/>
+				<Skill type="Handgun" level="100" name="Damage Up x10: Chance 33%"/>
+				<Skill type="Machinegun" level="4" name="Stun Rate 5%"/>
+				<Skill type="Machinegun" level="8" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Machinegun" level="12" name="Full Scratch Rate 5%"/>
+				<Skill type="Machinegun" level="16" name="Stun Rate 10%"/>
+				<Skill type="Machinegun" level="20" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Machinegun" level="24" name="Full Scratch Rate 10%"/>
+				<Skill type="Machinegun" level="28" name="Stun Rate 15%"/>
+				<Skill type="Machinegun" level="32" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Machinegun" level="36" name="Full Scratch Rate 15%"/>
+				<Skill type="Machinegun" level="40" name="Stun Rate 20%"/>
+				<Skill type="Machinegun" level="44" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Machinegun" level="48" name="Full Scratch Rate 20%"/>
+				<Skill type="Machinegun" level="52" name="Stun Rate 25%"/>
+				<Skill type="Machinegun" level="56" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Machinegun" level="60" name="Full Scratch Rate 25%"/>
+				<Skill type="Machinegun" level="64" name="Stun Rate 30%"/>
+				<Skill type="Machinegun" level="68" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Machinegun" level="72" name="Full Scratch Rate 30%"/>
+				<Skill type="Machinegun" level="76" name="Stun Rate 50%"/>
+				<Skill type="Machinegun" level="80" name="Knockdown Rate Up x8: Chance 33%"/>
+				<Skill type="Machinegun" level="84" name="Full Scratch Rate 50%"/>
+				<Skill type="Machinegun" level="92" name="Stun Rate 100%"/>
+				<Skill type="Machinegun" level="96" name="Knockdown Rate Up ∞: Chance 33%"/>
+				<Skill type="Machinegun" level="100" name="Full Scratch Rate 100%"/>
+				<Skill type="Thrown Weapons" level="4" name="Hyper Damage Rate 5%"/>
+				<Skill type="Thrown Weapons" level="8" name="Ailment Rate x2: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="12" name="Charge Cancel Rate 5%"/>
+				<Skill type="Thrown Weapons" level="16" name="Hyper Damage Rate 10%"/>
+				<Skill type="Thrown Weapons" level="20" name="Ailment Rate x3: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="24" name="Charge Cancel Rate 10%"/>
+			</Skills>
+		</Character>
+		<Character name="Vashyron">
+			<!-- 17337, 974 -->
+			<Levels>
+				<Level id="3" hitPoints="460" weight="364"/>
+				<Level id="4" hitPoints="531" weight="370"/>
+				<Level id="5" hitPoints="601" weight="378"/>
+				<Level id="6" hitPoints="672" weight="385"/>
+				<Level id="7" hitPoints="742" weight="392"/>
+				<Level id="8" hitPoints="812" weight="399"/>
+				<Level id="9" hitPoints="883" weight="406"/>
+				<Level id="10" hitPoints="953" weight="412"/>
+				<Level id="11" hitPoints="1024" weight="420"/>
+				<Level id="12" hitPoints="1094" weight="427"/>
+				<Level id="13" hitPoints="1164" weight="434"/>
+				<Level id="14" hitPoints="1235" weight="441"/>
+				<Level id="15" hitPoints="1305" weight="448"/>
+				<Level id="16" hitPoints="1376" weight="454"/>
+				<Level id="17" hitPoints="1446" weight="462"/>
+				<Level id="18" hitPoints="1516" weight="469"/>
+				<Level id="19" hitPoints="1587" weight="476"/>
+				<Level id="20" hitPoints="1657" weight="483"/>
+				<Level id="21" hitPoints="1728" weight="490"/>
+				<Level id="22" hitPoints="1798" weight="497"/>
+				<Level id="23" hitPoints="1868" weight="504"/>
+				<Level id="24" hitPoints="1939" weight="511"/>
+				<Level id="25" hitPoints="2009" weight="518"/>
+				<Level id="26" hitPoints="2080" weight="525"/>
+				<Level id="27" hitPoints="2150" weight="532"/>
+				<Level id="28" hitPoints="2220" weight="539"/>
+				<Level id="29" hitPoints="2291" weight="546"/>
+				<Level id="30" hitPoints="2361" weight="553"/>
+				<Level id="31" hitPoints="2432" weight="560"/>
+				<Level id="32" hitPoints="2502" weight="567"/>
+				<Level id="33" hitPoints="2572" weight="574"/>
+				<Level id="34" hitPoints="2643" weight="581"/>
+				<Level id="35" hitPoints="2713" weight="588"/>
+				<Level id="36" hitPoints="2784" weight="595"/>
+				<Level id="37" hitPoints="2854" weight="602"/>
+				<Level id="38" hitPoints="2924" weight="609"/>
+				<Level id="39" hitPoints="2995" weight="616"/>
+				<Level id="40" hitPoints="3065" weight="623"/>
+				<Level id="41" hitPoints="3136" weight="630"/>
+				<Level id="42" hitPoints="3206" weight="640"/>
+				<Level id="43" hitPoints="3276" weight="651"/>
+				<Level id="44" hitPoints="3347" weight="661"/>
+				<Level id="45" hitPoints="3417" weight="672"/>
+				<Level id="46" hitPoints="3488" weight="682"/>
+				<Level id="47" hitPoints="3558" weight="693"/>
+				<Level id="48" hitPoints="3628" weight="703"/>
+				<Level id="49" hitPoints="3699" weight="714"/>
+				<Level id="50" hitPoints="3769" weight="724"/>
+				<Level id="51" hitPoints="3840" weight="734"/>
+				<Level id="52" hitPoints="3910" weight="745"/>
+				<Level id="53" hitPoints="3980" weight="756"/>
+				<Level id="54" hitPoints="4051" weight="766"/>
+				<Level id="55" hitPoints="4121" weight="777"/>
+				<Level id="56" hitPoints="4192" weight="787"/>
+				<Level id="57" hitPoints="4262" weight="798"/>
+				<Level id="58" hitPoints="4332" weight="808"/>
+				<Level id="59" hitPoints="4403" weight="819"/>
+				<Level id="60" hitPoints="4473" weight="829"/>
+				<Level id="61" hitPoints="4544" weight="840"/>
+				<Level id="62" hitPoints="4614" weight="850"/>
+				<Level id="63" hitPoints="4684" weight="861"/>
+				<Level id="64" hitPoints="4755" weight="871"/>
+				<Level id="65" hitPoints="4825" weight="882"/>
+				<Level id="66" hitPoints="4896" weight="892"/>
+				<Level id="67" hitPoints="4966" weight="903"/>
+				<Level id="68" hitPoints="5036" weight="913"/>
+				<Level id="69" hitPoints="5107" weight="924"/>
+				<Level id="70" hitPoints="5177" weight="934"/>
+				<Level id="71" hitPoints="5248" weight="934"/>
+				<Level id="72" hitPoints="5318" weight="934"/>
+				<Level id="73" hitPoints="5388" weight="935"/>
+				<Level id="74" hitPoints="5459" weight="935"/>
+				<Level id="75" hitPoints="5529" weight="935"/>
+				<Level id="76" hitPoints="5600" weight="935"/>
+				<Level id="77" hitPoints="5670" weight="935"/>
+				<Level id="78" hitPoints="5740" weight="935"/>
+				<Level id="79" hitPoints="5811" weight="936"/>
+				<Level id="80" hitPoints="5881" weight="936"/>
+				<Level id="81" hitPoints="5952" weight="936"/>
+				<Level id="82" hitPoints="6022" weight="936"/>
+				<Level id="83" hitPoints="6092" weight="936"/>
+				<Level id="84" hitPoints="6163" weight="936"/>
+				<Level id="85" hitPoints="6233" weight="937"/>
+				<Level id="86" hitPoints="6304" weight="937"/>
+				<Level id="87" hitPoints="6374" weight="937"/>
+				<Level id="88" hitPoints="6444" weight="937"/>
+				<Level id="89" hitPoints="6515" weight="937"/>
+				<Level id="90" hitPoints="6585" weight="938"/>
+				<Level id="91" hitPoints="6656" weight="938"/>
+				<Level id="92" hitPoints="6726" weight="938"/>
+				<Level id="93" hitPoints="6796" weight="938"/>
+				<Level id="94" hitPoints="6867" weight="938"/>
+				<Level id="95" hitPoints="6937" weight="938"/>
+				<Level id="96" hitPoints="7008" weight="939"/>
+				<Level id="97" hitPoints="7078" weight="939"/>
+				<Level id="98" hitPoints="7148" weight="939"/>
+				<Level id="99" hitPoints="7219" weight="939"/>
+				<Level id="100" hitPoints="7289" weight="939"/>
+				<Level id="101" hitPoints="7360" weight="939"/>
+				<Level id="102" hitPoints="7430" weight="940"/>
+				<Level id="103" hitPoints="7500" weight="940"/>
+				<Level id="104" hitPoints="7571" weight="940"/>
+				<Level id="105" hitPoints="7641" weight="940"/>
+				<Level id="106" hitPoints="7712" weight="940"/>
+				<Level id="107" hitPoints="7782" weight="940"/>
+				<Level id="108" hitPoints="7852" weight="941"/>
+				<Level id="110" hitPoints="7993" weight="941"/>
+				<Level id="111" hitPoints="8064" weight="941"/>
+				<Level id="112" hitPoints="8134" weight="941"/>
+				<Level id="113" hitPoints="8204" weight="942"/>
+				<Level id="114" hitPoints="8275" weight="942"/>
+				<Level id="115" hitPoints="8345" weight="942"/>
+				<Level id="116" hitPoints="8416" weight="942"/>
+				<Level id="117" hitPoints="8486" weight="942"/>
+				<Level id="118" hitPoints="8556" weight="942"/>
+				<Level id="119" hitPoints="8627" weight="943"/>
+				<Level id="120" hitPoints="8697" weight="943"/>
+				<Level id="121" hitPoints="8768" weight="943"/>
+				<Level id="122" hitPoints="8838" weight="943"/>
+				<Level id="123" hitPoints="8908" weight="943"/>
+				<Level id="125" hitPoints="9049" weight="944"/>
+				<Level id="126" hitPoints="9120" weight="944"/>
+				<Level id="127" hitPoints="9190" weight="944"/>
+				<Level id="128" hitPoints="9260" weight="944"/>
+				<Level id="129" hitPoints="9331" weight="944"/>
+				<Level id="130" hitPoints="9401" weight="945"/>
+				<Level id="131" hitPoints="9472" weight="945"/>
+				<Level id="132" hitPoints="9542" weight="945"/>
+				<Level id="133" hitPoints="9612" weight="945"/>
+				<Level id="134" hitPoints="9683" weight="945"/>
+				<Level id="135" hitPoints="9753" weight="945"/>
+				<Level id="136" hitPoints="9824" weight="946"/>
+				<Level id="137" hitPoints="9894" weight="946"/>
+				<Level id="138" hitPoints="9964" weight="946"/>
+				<Level id="139" hitPoints="10035" weight="946"/>
+				<Level id="140" hitPoints="10105" weight="946"/>
+				<Level id="141" hitPoints="10176" weight="946"/>
+				<Level id="142" hitPoints="10246" weight="947"/>
+				<Level id="143" hitPoints="10316" weight="947"/>
+				<Level id="144" hitPoints="10387" weight="947"/>
+				<Level id="145" hitPoints="10457" weight="947"/>
+				<Level id="146" hitPoints="10528" weight="947"/>
+				<Level id="147" hitPoints="10598" weight="947"/>
+				<Level id="148" hitPoints="10668" weight="948"/>
+				<Level id="149" hitPoints="10739" weight="948"/>
+				<Level id="150" hitPoints="10809" weight="948"/>
+				<Level id="151" hitPoints="10880" weight="948"/>
+				<Level id="152" hitPoints="10950" weight="948"/>
+				<Level id="153" hitPoints="11020" weight="949"/>
+				<Level id="154" hitPoints="11091" weight="949"/>
+				<Level id="155" hitPoints="11161" weight="949"/>
+				<Level id="156" hitPoints="11232" weight="949"/>
+				<Level id="157" hitPoints="11302" weight="949"/>
+				<Level id="158" hitPoints="11372" weight="949"/>
+				<Level id="159" hitPoints="11443" weight="950"/>
+				<Level id="160" hitPoints="11513" weight="950"/>
+				<Level id="161" hitPoints="11584" weight="950"/>
+				<Level id="162" hitPoints="11654" weight="950"/>
+				<Level id="163" hitPoints="11724" weight="950"/>
+				<Level id="164" hitPoints="11795" weight="950"/>
+				<Level id="165" hitPoints="11865" weight="951"/>
+				<Level id="166" hitPoints="11936" weight="951"/>
+				<Level id="167" hitPoints="12006" weight="951"/>
+				<Level id="169" hitPoints="12147" weight="951"/>
+				<Level id="171" hitPoints="12288" weight="952"/>
+				<Level id="172" hitPoints="12358" weight="952"/>
+				<Level id="174" hitPoints="12499" weight="952"/>
+				<Level id="178" hitPoints="12780" weight="953"/>
+				<Level id="181" hitPoints="12992" weight="953"/>
+				<Level id="182" hitPoints="13062" weight="954"/>
+				<Level id="183" hitPoints="13132" weight="954"/>
+				<Level id="184" hitPoints="13203" weight="954"/>
+				<Level id="185" hitPoints="13273" weight="954"/>
+				<Level id="187" hitPoints="13414" weight="954"/>
+				<Level id="188" hitPoints="13484" weight="955"/>
+				<Level id="189" hitPoints="13555" weight="955"/>
+				<Level id="190" hitPoints="13625" weight="955"/>
+				<Level id="191" hitPoints="13696" weight="955"/>
+				<Level id="192" hitPoints="13766" weight="955"/>
+				<Level id="193" hitPoints="13836" weight="956"/>
+				<Level id="194" hitPoints="13907" weight="956"/>
+				<Level id="195" hitPoints="13977" weight="956"/>
+				<Level id="196" hitPoints="14009" weight="956"/>
+				<Level id="197" hitPoints="14041" weight="956"/>
+				<Level id="198" hitPoints="14073" weight="956"/>
+				<Level id="199" hitPoints="14105" weight="957"/>
+				<Level id="200" hitPoints="14137" weight="957"/>
+				<Level id="201" hitPoints="14169" weight="957"/>
+				<Level id="202" hitPoints="14201" weight="957"/>
+				<Level id="203" hitPoints="14233" weight="957"/>
+				<Level id="204" hitPoints="14265" weight="957"/>
+				<Level id="205" hitPoints="14297" weight="958"/>
+				<Level id="206" hitPoints="14329" weight="958"/>
+				<Level id="207" hitPoints="14361" weight="958"/>
+				<Level id="208" hitPoints="14393" weight="958"/>
+				<Level id="209" hitPoints="14425" weight="958"/>
+				<Level id="210" hitPoints="14457" weight="959"/>
+				<Level id="211" hitPoints="14489" weight="959"/>
+				<Level id="212" hitPoints="14521" weight="959"/>
+				<Level id="213" hitPoints="14553" weight="959"/>
+				<Level id="214" hitPoints="14585" weight="959"/>
+				<Level id="215" hitPoints="14617" weight="959"/>
+				<Level id="216" hitPoints="14649" weight="960"/>
+				<Level id="217" hitPoints="14681" weight="960"/>
+				<Level id="218" hitPoints="14713" weight="960"/>
+				<Level id="219" hitPoints="14745" weight="960"/>
+				<Level id="220" hitPoints="14777" weight="960"/>
+				<Level id="221" hitPoints="14809" weight="960"/>
+				<Level id="222" hitPoints="14841" weight="961"/>
+				<Level id="223" hitPoints="14873" weight="961"/>
+				<Level id="224" hitPoints="14905" weight="961"/>
+				<Level id="225" hitPoints="14937" weight="961"/>
+				<Level id="226" hitPoints="14969" weight="961"/>
+				<Level id="227" hitPoints="15001" weight="961"/>
+				<Level id="228" hitPoints="15033" weight="962"/>
+				<Level id="229" hitPoints="15065" weight="962"/>
+				<Level id="230" hitPoints="15097" weight="962"/>
+				<Level id="231" hitPoints="15129" weight="962"/>
+				<Level id="232" hitPoints="15161" weight="962"/>
+				<Level id="233" hitPoints="15193" weight="963"/>
+				<Level id="234" hitPoints="15225" weight="963"/>
+				<Level id="235" hitPoints="15257" weight="963"/>
+				<Level id="236" hitPoints="15289" weight="963"/>
+				<Level id="237" hitPoints="15321" weight="963"/>
+				<Level id="238" hitPoints="15353" weight="963"/>
+				<Level id="239" hitPoints="15385" weight="964"/>
+				<Level id="240" hitPoints="15417" weight="964"/>
+				<Level id="241" hitPoints="15449" weight="964"/>
+				<Level id="242" hitPoints="15481" weight="964"/>
+				<Level id="243" hitPoints="15513" weight="964"/>
+				<Level id="244" hitPoints="15545" weight="964"/>
+				<Level id="245" hitPoints="15577" weight="965"/>
+				<Level id="246" hitPoints="15609" weight="965"/>
+				<Level id="247" hitPoints="15641" weight="965"/>
+				<Level id="248" hitPoints="15673" weight="965"/>
+				<Level id="249" hitPoints="15705" weight="965"/>
+				<Level id="250" hitPoints="15737" weight="966"/>
+				<Level id="251" hitPoints="15769" weight="966"/>
+				<Level id="252" hitPoints="15801" weight="966"/>
+				<Level id="253" hitPoints="15833" weight="966"/>
+				<Level id="254" hitPoints="15865" weight="966"/>
+				<Level id="255" hitPoints="15897" weight="966"/>
+				<Level id="256" hitPoints="15929" weight="967"/>
+				<Level id="257" hitPoints="15961" weight="967"/>
+				<Level id="258" hitPoints="15993" weight="967"/>
+				<Level id="259" hitPoints="16025" weight="967"/>
+				<Level id="260" hitPoints="16057" weight="967"/>
+				<Level id="261" hitPoints="16089" weight="967"/>
+				<Level id="262" hitPoints="16121" weight="968"/>
+				<Level id="263" hitPoints="16153" weight="968"/>
+				<Level id="264" hitPoints="16185" weight="968"/>
+				<Level id="265" hitPoints="16217" weight="968"/>
+				<Level id="266" hitPoints="16249" weight="968"/>
+				<Level id="267" hitPoints="16281" weight="968"/>
+				<Level id="268" hitPoints="16313" weight="969"/>
+				<Level id="269" hitPoints="16345" weight="969"/>
+				<Level id="270" hitPoints="16377" weight="969"/>
+				<Level id="271" hitPoints="16409" weight="969"/>
+				<Level id="272" hitPoints="16441" weight="969"/>
+				<Level id="273" hitPoints="16473" weight="970"/>
+			</Levels>
+			<Skills>
+				<Skill type="Handgun" level="4" name="Damage Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="8" name="Penetration Rate 5%"/>
+				<Skill type="Handgun" level="12" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="16" name="Damage Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="20" name="Penetration Rate 10%"/>
+				<Skill type="Handgun" level="24" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="28" name="Damage Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="32" name="Penetration Rate 15%"/>
+				<Skill type="Handgun" level="36" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="40" name="Damage Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="44" name="Penetration Rate 20%"/>
+				<Skill type="Handgun" level="48" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="52" name="Damage Up x6: Chance 33%"/>
+				<Skill type="Handgun" level="56" name="Penetration Rate 25%"/>
+				<Skill type="Handgun" level="60" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Handgun" level="64" name="Damage Up x7: Chance 33%"/>
+				<Skill type="Handgun" level="68" name="Penetration Rate 30%"/>
+				<Skill type="Handgun" level="72" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Handgun" level="76" name="Damage Up x8: Chance 33%"/>
+				<Skill type="Handgun" level="80" name="Penetration Rate %50"/>
+				<Skill type="Handgun" level="84" name="Knockdown Rate Up x8: Chance 33%"/>
+				<Skill type="Handgun" level="92" name="Damage Up x10: Chance 33%"/>
+				<Skill type="Handgun" level="96" name="Penetration Rate 100%"/>
+				<Skill type="Handgun" level="100" name="Knockdown Rate Up ∞: Chance 33%"/>
+				<Skill type="Machinegun" level="4" name="Full Scratch Rate 5%"/>
+				<Skill type="Machinegun" level="8" name="Stun Rate 5%"/>
+				<Skill type="Machinegun" level="12" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Machinegun" level="16" name="Full Scratch Rate 10%"/>
+				<Skill type="Machinegun" level="20" name="Stun Rate 10%"/>
+				<Skill type="Machinegun" level="24" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Machinegun" level="28" name="Full Scratch Rate 15%"/>
+				<Skill type="Machinegun" level="32" name="Stun Rate 15%"/>
+				<Skill type="Machinegun" level="36" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Machinegun" level="40" name="Full Scratch Rate 20%"/>
+				<Skill type="Machinegun" level="44" name="Stun Rate 20%"/>
+				<Skill type="Machinegun" level="48" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Machinegun" level="52" name="Full Scratch Rate 25%"/>
+				<Skill type="Machinegun" level="56" name="Stun Rate 25%"/>
+				<Skill type="Machinegun" level="60" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Machinegun" level="64" name="Full Scratch Rate 30%"/>
+				<Skill type="Machinegun" level="68" name="Stun Rate 30%"/>
+				<Skill type="Machinegun" level="72" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Machinegun" level="76" name="Full Scratch Rate 50%"/>
+				<Skill type="Machinegun" level="80" name="Stun Rate 50%"/>
+				<Skill type="Machinegun" level="84" name="Knockdown Rate Up x8: Chance 33%"/>
+				<Skill type="Machinegun" level="92" name="Full Scratch Rate 100%"/>
+				<Skill type="Machinegun" level="96" name="Stun Rate 100%"/>
+				<Skill type="Machinegun" level="100" name="Knockdown Rate Up ∞: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="4" name="Charge Cancel Rate 5%"/>
+				<Skill type="Thrown Weapons" level="8" name="Hyper Damage Rate 5%"/>
+				<Skill type="Thrown Weapons" level="12" name="Ailment Rate x2: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="16" name="Charge Cancel Rate 10%"/>
+				<Skill type="Thrown Weapons" level="20" name="Hyper Damage Rate 10%"/>
+				<Skill type="Thrown Weapons" level="24" name="Ailment Rate x3: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="28" name="Charge Cancel Rate 15%"/>
+				<Skill type="Thrown Weapons" level="32" name="Hyper Damage Rate 15%"/>
+				<Skill type="Thrown Weapons" level="36" name="Ailment Rate x4: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="40" name="Charge Cancel Rate 20%"/>
+				<Skill type="Thrown Weapons" level="44" name="Hyper Damage Rate 20%"/>
+				<Skill type="Thrown Weapons" level="48" name="Ailment Rate x5: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="52" name="Charge Cancel Rate 25%"/>
+				<Skill type="Thrown Weapons" level="56" name="Hyper Damage Rate 25%"/>
+				<Skill type="Thrown Weapons" level="60" name="Ailment Rate x6: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="64" name="Charge Cancel Rate 30%"/>
+				<Skill type="Thrown Weapons" level="68" name="Hyper Damage Rate 30%"/>
+				<Skill type="Thrown Weapons" level="72" name="Ailment Rate x7: Chance 33%"/>
+				
+			</Skills>
+		</Character>
+		<Character name="Zephyr">
+			<!-- 16254, 932 -->
+			<Levels>
+				<Level id="3" hitPoints="432" weight="348"/>
+				<Level id="4" hitPoints="498" weight="355"/>
+				<Level id="5" hitPoints="564" weight="361"/>
+				<Level id="6" hitPoints="630" weight="368"/>
+				<Level id="7" hitPoints="696" weight="375"/>
+				<Level id="8" hitPoints="762" weight="381"/>
+				<Level id="9" hitPoints="828" weight="388"/>
+				<Level id="10" hitPoints="894" weight="395"/>
+				<Level id="11" hitPoints="960" weight="402"/>
+				<Level id="12" hitPoints="1026" weight="408"/>
+				<Level id="13" hitPoints="1092" weight="415"/>
+				<Level id="14" hitPoints="1158" weight="422"/>
+				<Level id="15" hitPoints="1224" weight="428"/>
+				<Level id="16" hitPoints="1290" weight="435"/>
+				<Level id="17" hitPoints="1356" weight="442"/>
+				<Level id="18" hitPoints="1421" weight="448"/>
+				<Level id="19" hitPoints="1488" weight="455"/>
+				<Level id="20" hitPoints="1554" weight="462"/>
+				<Level id="21" hitPoints="1620" weight="469"/>
+				<Level id="22" hitPoints="1686" weight="475"/>
+				<Level id="23" hitPoints="1752" weight="482"/>
+				<Level id="24" hitPoints="1818" weight="489"/>
+				<Level id="25" hitPoints="1884" weight="495"/>
+				<Level id="26" hitPoints="1950" weight="502"/>
+				<Level id="27" hitPoints="2015" weight="509"/>
+				<Level id="28" hitPoints="2082" weight="515"/>
+				<Level id="29" hitPoints="2148" weight="522"/>
+				<Level id="30" hitPoints="2214" weight="529"/>
+				<Level id="31" hitPoints="2280" weight="536"/>
+				<Level id="32" hitPoints="2346" weight="542"/>
+				<Level id="33" hitPoints="2412" weight="549"/>
+				<Level id="34" hitPoints="2478" weight="556"/>
+				<Level id="35" hitPoints="2543" weight="562"/>
+				<Level id="36" hitPoints="2610" weight="569"/>
+				<Level id="37" hitPoints="2676" weight="576"/>
+				<Level id="38" hitPoints="2742" weight="582"/>
+				<Level id="39" hitPoints="2808" weight="589"/>
+				<Level id="40" hitPoints="2874" weight="596"/>
+				<Level id="41" hitPoints="2940" weight="603"/>
+				<Level id="42" hitPoints="3006" weight="613"/>
+				<Level id="43" hitPoints="3072" weight="623"/>
+				<Level id="44" hitPoints="3138" weight="633"/>
+				<Level id="45" hitPoints="3204" weight="643"/>
+				<Level id="46" hitPoints="3270" weight="653"/>
+				<Level id="47" hitPoints="3336" weight="663"/>
+				<Level id="48" hitPoints="3402" weight="673"/>
+				<Level id="49" hitPoints="3468" weight="683"/>
+				<Level id="50" hitPoints="3534" weight="693"/>
+				<Level id="51" hitPoints="3600" weight="703"/>
+				<Level id="52" hitPoints="3666" weight="713"/>
+				<Level id="53" hitPoints="3731" weight="723"/>
+				<Level id="54" hitPoints="3798" weight="733"/>
+				<Level id="55" hitPoints="3864" weight="743"/>
+				<Level id="56" hitPoints="3930" weight="753"/>
+				<Level id="57" hitPoints="3996" weight="763"/>
+				<Level id="58" hitPoints="4062" weight="773"/>
+				<Level id="59" hitPoints="4128" weight="783"/>
+				<Level id="60" hitPoints="4194" weight="793"/>
+				<Level id="61" hitPoints="4260" weight="804"/>
+				<Level id="62" hitPoints="4326" weight="814"/>
+				<Level id="63" hitPoints="4392" weight="824"/>
+				<Level id="64" hitPoints="4458" weight="834"/>
+				<Level id="65" hitPoints="4524" weight="844"/>
+				<Level id="66" hitPoints="4590" weight="854"/>
+				<Level id="67" hitPoints="4656" weight="864"/>
+				<Level id="68" hitPoints="4722" weight="874"/>
+				<Level id="69" hitPoints="4788" weight="884"/>
+				<Level id="70" hitPoints="4854" weight="894"/>
+				<Level id="71" hitPoints="4920" weight="894"/>
+				<Level id="72" hitPoints="4986" weight="894"/>
+				<Level id="73" hitPoints="5052" weight="894"/>
+				<Level id="74" hitPoints="5118" weight="895"/>
+				<Level id="75" hitPoints="5184" weight="895"/>
+				<Level id="76" hitPoints="5250" weight="895"/>
+				<Level id="77" hitPoints="5316" weight="895"/>
+				<Level id="78" hitPoints="5382" weight="895"/>
+				<Level id="79" hitPoints="5448" weight="895"/>
+				<Level id="80" hitPoints="5513" weight="896"/>
+				<Level id="81" hitPoints="5580" weight="896"/>
+				<Level id="82" hitPoints="5646" weight="896"/>
+				<Level id="83" hitPoints="5712" weight="896"/>
+				<Level id="84" hitPoints="5778" weight="896"/>
+				<Level id="85" hitPoints="5844" weight="896"/>
+				<Level id="86" hitPoints="5910" weight="897"/>
+				<Level id="87" hitPoints="5976" weight="897"/>
+				<Level id="88" hitPoints="6042" weight="897"/>
+				<Level id="89" hitPoints="6108" weight="897"/>
+				<Level id="90" hitPoints="6174" weight="897"/>
+				<Level id="91" hitPoints="6240" weight="897"/>
+				<Level id="92" hitPoints="6306" weight="898"/>
+				<Level id="93" hitPoints="6372" weight="898"/>
+				<Level id="94" hitPoints="6437" weight="898"/>
+				<Level id="95" hitPoints="6504" weight="898"/>
+				<Level id="96" hitPoints="6570" weight="898"/>
+				<Level id="97" hitPoints="6636" weight="898"/>
+				<Level id="98" hitPoints="6702" weight="899"/>
+				<Level id="99" hitPoints="6768" weight="899"/>
+				<Level id="100" hitPoints="6834" weight="899"/>
+				<Level id="101" hitPoints="6900" weight="899"/>
+				<Level id="102" hitPoints="6966" weight="899"/>
+				<Level id="103" hitPoints="7032" weight="899"/>
+				<Level id="104" hitPoints="7098" weight="900"/>
+				<Level id="105" hitPoints="7163" weight="900"/>
+				<Level id="106" hitPoints="7230" weight="900"/>
+				<Level id="107" hitPoints="7296" weight="900"/>
+				<Level id="108" hitPoints="7362" weight="900"/>
+				<Level id="109" hitPoints="7428" weight="900"/>
+				<Level id="110" hitPoints="7494" weight="901"/>
+				<Level id="111" hitPoints="7560" weight="901"/>
+				<Level id="112" hitPoints="7626" weight="901"/>
+				<Level id="113" hitPoints="7692" weight="901"/>
+				<Level id="114" hitPoints="7758" weight="901"/>
+				<Level id="115" hitPoints="7824" weight="901"/>
+				<Level id="117" hitPoints="7956" weight="902"/>
+				<Level id="118" hitPoints="8022" weight="902"/>
+				<Level id="120" hitPoints="8154" weight="902"/>
+				<Level id="121" hitPoints="8220" weight="902"/>
+				<Level id="122" hitPoints="8286" weight="903"/>
+				<Level id="123" hitPoints="8352" weight="903"/>
+				<Level id="124" hitPoints="8418" weight="903"/>
+				<Level id="125" hitPoints="8484" weight="903"/>
+				<Level id="126" hitPoints="8550" weight="903"/>
+				<Level id="127" hitPoints="8616" weight="903"/>
+				<Level id="129" hitPoints="8748" weight="904"/>
+				<Level id="130" hitPoints="8814" weight="904"/>
+				<Level id="131" hitPoints="8880" weight="904"/>
+				<Level id="132" hitPoints="8946" weight="904"/>
+				<Level id="133" hitPoints="9012" weight="905"/>
+				<Level id="134" hitPoints="9078" weight="905"/>
+				<Level id="135" hitPoints="9144" weight="905"/>
+				<Level id="136" hitPoints="9210" weight="905"/>
+				<Level id="137" hitPoints="9276" weight="905"/>
+				<Level id="138" hitPoints="9342" weight="905"/>
+				<Level id="139" hitPoints="9408" weight="906"/>
+				<Level id="140" hitPoints="9474" weight="906"/>
+				<Level id="141" hitPoints="9540" weight="906"/>
+				<Level id="142" hitPoints="9606" weight="906"/>
+				<Level id="143" hitPoints="9672" weight="906"/>
+				<Level id="144" hitPoints="9738" weight="906"/>
+				<Level id="145" hitPoints="9804" weight="907"/>
+				<Level id="146" hitPoints="9870" weight="907"/>
+				<Level id="147" hitPoints="9936" weight="907"/>
+				<Level id="148" hitPoints="10002" weight="907"/>
+				<Level id="149" hitPoints="10068" weight="907"/>
+				<Level id="150" hitPoints="10134" weight="907"/>
+				<Level id="153" hitPoints="10332" weight="908"/>
+				<Level id="154" hitPoints="10398" weight="908"/>
+				<Level id="155" hitPoints="10464" weight="908"/>
+				<Level id="156" hitPoints="10530" weight="908"/>
+				<Level id="157" hitPoints="10596" weight="909"/>
+				<Level id="158" hitPoints="10662" weight="909"/>
+				<Level id="160" hitPoints="10794" weight="909"/>
+				<Level id="161" hitPoints="10860" weight="909"/>
+				<Level id="162" hitPoints="10925" weight="909"/>
+				<Level id="163" hitPoints="10992" weight="910"/>
+				<Level id="164" hitPoints="11058" weight="910"/>
+				<Level id="165" hitPoints="11124" weight="910"/>
+				<Level id="166" hitPoints="11190" weight="910"/>
+				<Level id="167" hitPoints="11256" weight="910"/>
+				<Level id="168" hitPoints="11322" weight="910"/>
+				<Level id="169" hitPoints="11388" weight="911"/>
+				<Level id="170" hitPoints="11454" weight="911"/>
+				<Level id="171" hitPoints="11520" weight="911"/>
+				<Level id="172" hitPoints="11586" weight="911"/>
+				<Level id="173" hitPoints="11652" weight="911"/>
+				<Level id="174" hitPoints="11718" weight="911"/>
+				<Level id="175" hitPoints="11784" weight="912"/>
+				<Level id="176" hitPoints="11850" weight="912"/>
+				<Level id="177" hitPoints="11916" weight="912"/>
+				<Level id="178" hitPoints="11982" weight="912"/>
+				<Level id="179" hitPoints="12048" weight="912"/>
+				<Level id="180" hitPoints="12114" weight="912"/>
+				<Level id="181" hitPoints="12180" weight="913"/>
+				<Level id="182" hitPoints="12246" weight="913"/>
+				<Level id="183" hitPoints="12312" weight="913"/>
+				<Level id="184" hitPoints="12377" weight="913"/>
+				<Level id="185" hitPoints="12444" weight="913"/>
+				<Level id="186" hitPoints="12510" weight="913"/>
+				<Level id="187" hitPoints="12575" weight="914"/>
+				<Level id="188" hitPoints="12642" weight="914"/>
+				<Level id="189" hitPoints="12708" weight="914"/>
+				<Level id="190" hitPoints="12774" weight="914"/>
+				<Level id="191" hitPoints="12840" weight="914"/>
+				<Level id="192" hitPoints="12906" weight="914"/>
+				<Level id="193" hitPoints="12972" weight="915"/>
+				<Level id="194" hitPoints="13038" weight="915"/>
+				<Level id="195" hitPoints="13104" weight="915"/>
+				<Level id="196" hitPoints="13134" weight="915"/>
+				<Level id="197" hitPoints="13164" weight="915"/>
+				<Level id="198" hitPoints="13194" weight="915"/>
+				<Level id="199" hitPoints="13224" weight="916"/>
+				<Level id="200" hitPoints="13254" weight="916"/>
+				<Level id="201" hitPoints="13284" weight="916"/>
+			</Levels>
+			<Skills>
+				<Skill type="Handgun" level="4" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="8" name="Damage Up x2: Chance 33%"/>
+				<Skill type="Handgun" level="12" name="Penetration Rate 5%"/>
+				<Skill type="Handgun" level="16" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="20" name="Damage Up x3: Chance 33%"/>
+				<Skill type="Handgun" level="24" name="Penetration Rate 10%"/>
+				<Skill type="Handgun" level="28" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="32" name="Damage Up x4: Chance 33%"/>
+				<Skill type="Handgun" level="36" name="Penetration Rate 15%"/>
+				<Skill type="Handgun" level="40" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="44" name="Damage Up x5: Chance 33%"/>
+				<Skill type="Handgun" level="48" name="Penetration Rate 20%"/>
+				<Skill type="Handgun" level="52" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Handgun" level="56" name="Damage Up x6: Change 33%"/>
+				<Skill type="Handgun" level="60" name="Penetration Rate 25%"/>
+				<Skill type="Handgun" level="64" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Handgun" level="68" name="Damage Up x7: Change 33%"/>
+				<Skill type="Handgun" level="72" name="Penetration Rate 30%"/>
+				<Skill type="Handgun" level="76" name="Knockdown Rate Up x8: Chance 33%"/>
+				<Skill type="Handgun" level="80" name="Damage Up x8: Change 33%"/>
+				<Skill type="Handgun" level="84" name="Penetration Rate 50%"/>
+				<Skill type="Handgun" level="92" name="Knockdown Rate Up ∞: Chance 33%"/>
+				<Skill type="Handgun" level="96" name="Damage Up x10: Change 33%"/>
+				<Skill type="Handgun" level="100" name="Penetration Rate 100%"/>
+				<Skill type="Machinegun" level="4" name="Knockdown Rate Up x2: Chance 33%"/>
+				<Skill type="Machinegun" level="8" name="Full Scratch Rate 5%"/>
+				<Skill type="Machinegun" level="12" name="Stun Rate 5%"/>
+				<Skill type="Machinegun" level="16" name="Knockdown Rate Up x3: Chance 33%"/>
+				<Skill type="Machinegun" level="20" name="Full Scratch Rate 10%"/>
+				<Skill type="Machinegun" level="24" name="Stun Rate 10%"/>
+				<Skill type="Machinegun" level="28" name="Knockdown Rate Up x4: Chance 33%"/>
+				<Skill type="Machinegun" level="32" name="Full Scratch Rate 15%"/>
+				<Skill type="Machinegun" level="36" name="Stun Rate 15%"/>
+				<Skill type="Machinegun" level="40" name="Knockdown Rate Up x5: Chance 33%"/>
+				<Skill type="Machinegun" level="44" name="Full Scratch Rate 20%"/>
+				<Skill type="Machinegun" level="48" name="Stun Rate 20%"/>
+				<Skill type="Machinegun" level="52" name="Knockdown Rate Up x6: Chance 33%"/>
+				<Skill type="Machinegun" level="56" name="Full Scratch Rate 25%"/>
+				<Skill type="Machinegun" level="60" name="Stun Rate 25%"/>
+				<Skill type="Machinegun" level="64" name="Knockdown Rate Up x7: Chance 33%"/>
+				<Skill type="Machinegun" level="68" name="Full Scratch Rate 30%"/>
+				<Skill type="Machinegun" level="72" name="Stun Rate 30%"/>
+				
+				<Skill type="Thrown Weapons" level="4" name="Ailment Rate x2: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="8" name="Charge Cancel Rate 5%"/>
+				<Skill type="Thrown Weapons" level="12" name="Hyper Damage Rate 5%"/>
+				<Skill type="Thrown Weapons" level="16" name="Ailment Rate x3: Chance 33%"/>
+				<Skill type="Thrown Weapons" level="20" name="Charge Cancel Rate 10%"/>
+				<Skill type="Thrown Weapons" level="24" name="Hyper Damage Rate 10%"/>
+			</Skills>
+		</Character>
+	</Characters>
+	<Weapons>
+		<Listing>
+			<Weapon name="B-N84" type="Handgun" attained="Starting weapon." description="A weapon capable of dealing Direct Damage. This model excels in rapid fire." attackPower="4" gaugeBreak="10" knockback="4" chargeSpeed="10" chargeAcceleration="1%" rapidFire="56" spread="88" magazineSize="8" weight="245" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_B-N84.jpg"/>
+			<Weapon name="1191.45-Auto" type="Handgun" attained="Starting weapon." description="A weapon capable of dealing Direct Damage. This model excels in HP breakage." attackPower="5" gaugeBreak="20" knockback="5" chargeSpeed="10" chargeAcceleration="1%" rapidFire="46" spread="85" magazineSize="6" weight="255" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_1191.45-Auto.jpg"/>
+			<Weapon name="SG-B226" type="Handgun" attained="Shop at Ebel City for 100,000." description="A weapon capable of dealing Direct Damage. This model excels in magazine size." attackPower="4" gaugeBreak="12" knockback="4" chargeSpeed="15" chargeAcceleration="2%" rapidFire="52" spread="89" magazineSize="9" weight="240" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_SG-B226.jpg"/>
+			<Weapon name="LP-09" type="Handgun" attained="Shop at Albona for 200,000." description="A weapon capable of dealing Direct Damage. This model excels in charge speed." attackPower="4" gaugeBreak="13" knockback="4" chargeSpeed="30" chargeAcceleration="3%" rapidFire="48" spread="89" magazineSize="8" weight="235" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_LP-09.jpg"/>
+			<Weapon name="Z-40" type="Handgun" attained="Chapter 15 'This Gun's for You!' optional mission." description="A weapon capable of dealing Direct Damage. This model excels in charge acceleration." attackPower="5" gaugeBreak="15" knockback="4" chargeSpeed="20" chargeAcceleration="5%" rapidFire="54" spread="88" magazineSize="7" weight="230" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_Z-40.jpg"/>
+			<Weapon name="MI50A" type="Handgun" attained="Arena Exchange for 500 Copper, 200 Silver, and 50 Gold Coins." description="A weapon capable of dealing Direct Damage. This model exceeds in attack power." attackPower="6" gaugeBreak="18" knockback="5" chargeSpeed="25" chargeAcceleration="4%" rapidFire="40" spread="84" magazineSize="16" weight="250" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_MI50A.jpg"/>
+			<Weapon name="B-N84 Golden" type="Handgun" attained="First hex in Primary Gate in Neverland." description="One of the three Golden Handguns. Excels in all regards, especially fire rate." attackPower="10" gaugeBreak="30" knockback="4" chargeSpeed="40" chargeAcceleration="10%" rapidFire="58" spread="89" magazineSize="8" weight="245" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_B-N84Golden.jpg"/>
+			<Weapon name="1191.45 Golden" type="Handgun" attained="Secondary Central in Neverland." description="One of the three Golden Handguns. Excels in all regards, especially power." attackPower="13" gaugeBreak="30" knockback="5" chargeSpeed="40" chargeAcceleration="10%" rapidFire="54" spread="87" magazineSize="7" weight="255" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_1191.45Golden.jpg"/>
+			<Weapon name="SG-B226 Golden" type="Handgun" attained="Tertiary East in Neverland" description="One of the three Golden Handguns. Excels in all regards, especially capacity." attackPower="11" gaugeBreak="30" knockback="4" chargeSpeed="40" chargeAcceleration="10%" rapidFire="56" spread="90" magazineSize="9" weight="240" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_SG-B226Golden.jpg"/>
+			<!-- 
+				Primary west park = (PARAGON) Quartz Hunter bow and (PARAGON) Ruby Hunter glasses
+			-->
+			<Weapon name="SMG-05" type="Machinegun" attained="Starting weapon." description="A weapon capable of dealing Scratch Damage. This model excels in rapid fire." attackPower="6" gaugeBreak="0" knockback="3" chargeSpeed="8" chargeAcceleration="1%" rapidFire="77" spread="75" magazineSize="12" weight="260" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_SMG-05.jpg"/>
+			<Weapon name="PDW-XN.V2" type="Machinegun" attained="Dakota Vein treasure." description="A weapon capable of dealing Scratch Damage. This model excels in charge speed." attackPower="7" gaugeBreak="0" knockback="3" chargeSpeed="20" chargeAcceleration="4%" rapidFire="76" spread="74" magazineSize="14" weight="265" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_PDW-XN.V2.jpg"/>
+			<Weapon name="NP.05C" type="Machinegun" attained="Shop at Ebel City for 300,000, during and after Chapter 12." description="A weapon capable of dealing Scratch Damage. This model excels in charge acceleration." attackPower="7" gaugeBreak="0" knockback="3" chargeSpeed="17" chargeAcceleration="7%" rapidFire="76" spread="75" magazineSize="13" weight="270" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_NP.05C.jpg"/>
+			<Weapon name="PDW-XN.V3" type="Machinegun" attained="Aetersyl treasure." description="A weapon capable of dealing Scratch Damage. This model excels in magazine size." attackPower="8" gaugeBreak="0" knockback="3" chargeSpeed="19" chargeAcceleration="5%" rapidFire="75" spread="74" magazineSize="15" weight="275" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_PDW-XN.V3.jpg"/>
+			
+			<Weapon name="NP.05 Golden" type="Machinegun" attained="Secondary East in Neverland," description="A gleaming Golden Machinegun. It excels in all regards." attackPower="15" gaugeBreak="0" knockback="3" chargeSpeed="40" chargeAcceleration="10%" rapidFire="78" spread="77" magazineSize="15" weight="265" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Weapon_NP.05Golden.jpg"/>
+			<Weapon name="First Aid Kit" type="Other" attained="Starting weapon." description="Never leave home without medical supplies! Equip it to use healing items in combat." weight="80"/>
+			<Weapon name="Grenade Box" type="Other" attained="Starting weapon." description="A padded case for transporting explosives. Equip it to use attack items in combat." weight="100"/>
+			<Weapon name="Magazine Case" type="Other" attained="Starting weapon." description="Various forms of ammo fit in this hard case. Equip it to use specialty rounds in combat." weight="70"/>
+		</Listing>
+		<Leveling>
+			<Level id="1" experience="160"/>
+			<Level id="2" experience="240"/>
+			<Level id="3" experience="1200"/>
+			<Level id="4" experience="1360"/>
+			<Level id="5" experience="3200"/>
+			<Level id="6" experience="3440"/>
+			<Level id="7" experience="5600"/>
+			<Level id="8" experience="5920"/>
+			<Level id="9" experience="11000"/>
+			<Level id="10" experience="11500"/>
+			<Level id="11" experience="16000"/>
+			<Level id="12" experience="16600"/>
+			<Level id="13" experience="22000"/>
+			<Level id="14" experience="22700"/>
+			<Level id="15" experience="29000"/>
+			<Level id="16" experience="29800"/>
+			<Level id="17" experience="37000"/>
+			<Level id="18" experience="37900"/>
+			<Level id="19" experience="56000"/>
+			<Level id="20" experience="57100"/>
+			<Level id="21" experience="79000"/>
+			<Level id="22" experience="80300"/>
+			<Level id="23" experience="200000"/>
+			<Level id="24" experience="210000"/>
+			<Level id="25" experience="400000"/>
+			<Level id="26" experience="420000"/>
+			<Level id="27" experience="500000"/>
+			<Level id="28" experience="500000"/>
+			<Level id="29" experience="500000"/>
+			<Level id="30" experience="500000"/><!-- Verified through Thrown Weapons -->
+			<Level id="31" experience="500000"/>
+			<Level id="32" experience="500000"/>
+			<Level id="33" experience="500000"/>
+			<Level id="34" experience="500000"/>
+			<Level id="35" experience="500000"/>
+			<Level id="36" experience="500000"/>
+			<Level id="37" experience="500000"/>
+			<Level id="38" experience="500000"/>
+			<Level id="39" experience="500000"/>
+			<Level id="40" experience="500000"/>
+			<Level id="41" experience="500000"/>
+			<Level id="42" experience="500000"/>
+			<Level id="43" experience="500000"/>
+			<Level id="44" experience="500000"/>
+			<Level id="45" experience="500000"/>
+			<Level id="46" experience="500000"/>
+			<Level id="47" experience="500000"/>
+			<Level id="48" experience="500000"/>
+			<Level id="49" experience="500000"/>
+			<Level id="50" experience="750000"/>
+			<Level id="51" experience="750000"/>
+			<Level id="52" experience="750000"/>
+			<Level id="53" experience="750000"/>
+			<Level id="54" experience="750000"/>
+			<Level id="55" experience="750000"/>
+			<Level id="56" experience="750000"/>
+			<Level id="57" experience="750000"/>
+			<Level id="58" experience="750000"/>
+			<Level id="59" experience="750000"/>
+			<Level id="60" experience="750000"/>
+			<Level id="61" experience="750000"/>
+			<Level id="62" experience="750000"/>
+			<Level id="63" experience="750000"/>
+			<Level id="64" experience="750000"/>
+			<Level id="65" experience="750000"/>
+			<Level id="66" experience="750000"/>
+			<Level id="67" experience="750000"/>
+			<Level id="68" experience="750000"/>
+			<Level id="69" experience="750000"/>
+			<Level id="70" experience="750000"/>
+			<Level id="71" experience="750000"/>
+			<Level id="72" experience="750000"/>
+			<Level id="73" experience="750000"/>
+			<Level id="74" experience="750000"/>
+			<!-- Incorrectly show as 100000 experience. -->
+			<Level id="75" experience="1000000"/>
+			<Level id="76" experience="1000000"/>
+			<Level id="77" experience="1000000"/>
+			<Level id="78" experience="1000000"/>
+			<Level id="79" experience="1000000"/>
+			<Level id="80" experience="1000000"/>
+			<Level id="81" experience="1000000"/>
+			<Level id="82" experience="1000000"/>
+			<Level id="83" experience="1000000"/>
+			<Level id="84" experience="1000000"/>
+			<Level id="85" experience="1000000"/>
+			<Level id="86" experience="1000000"/>
+			<Level id="87" experience="1000000"/>
+			<Level id="88" experience="1000000"/>
+			<Level id="89" experience="1000000"/>
+			<Level id="90" experience="1000000"/>
+			<Level id="91" experience="1000000"/>
+			<Level id="92" experience="1000000"/>
+			<Level id="93" experience="1000000"/>
+			<Level id="94" experience="1000000"/>
+			<Level id="95" experience="1000000"/>
+			<Level id="96" experience="1000000"/>
+			<Level id="97" experience="1000000"/>
+			<Level id="98" experience="1000000"/>
+			<Level id="99" experience="1000000"/>
+			<Level id="100" experience="0"/><!-- Verified through Handguns and Machineguns -->
+		</Leveling>
+		<CustomParts>
+			<Parts name="Rookie Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/RookieSight.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="Top Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/TopSight.jpg"><tinker cost="500"><material name="Rookie Sight"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="Dot Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/DotSight.jpg"/><!-- not in tinker listing as of Chapter 14? -->
+			<Parts name="Combat Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/CombatSight.jpg"/>
+			<Parts name="Sub-Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Sub-Sight.jpg"/>
+			<Parts name="Compact Scope α" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/CompactScopeAlpha.jpg"><tinker cost="3000"><material name="Scrap Iron"/><material name="Glass Shard"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="Compact Scope β" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/CompactScopeBeta.jpg"><tinker cost="3000"><material name="Scrap Iron"/><material name="Glass Shard"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="High-Mount Sight" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/High-MountSight.jpg"/>
+			<Parts name="High-Mount Pro" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/High-MountPro.jpg"/>
+			<Parts name="Telephoto Lens" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/TelephotoLens.jpg"/>
+			<Parts name="Mini-Lens" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Mini-Lens.jpg"/>
+			<Parts name="Long Lens" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongLens.jpg"/>
+			<Parts name="High-Mount Elite" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/High-MountElite.jpg"/>
+			<Parts name="Special Scope" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/SpecialScope.jpg"/>
+			<Parts name="Long Scope" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongScope.jpg"/>
+			<Parts name="Top-Rail Scope" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Top-RailScope.jpg"/>
+			<Parts name="Long Scope Pro" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongScopePro.jpg"/>
+			<Parts name="Long Scope Elite" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongScopeElite.jpg"><purchase>Arena exchange for 300 Copper, 60 Silver, and 3 Gold Coins.</purchase></Parts>
+			<Parts name="Lens Adapter" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LensAdapter.jpg"/>
+			<Parts name="Prototype Mount" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/PrototypeMount.jpg"/>
+			<Parts name="Scope Mount" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ScopeMount.jpg"/>
+			<Parts name="Long Scope Mount" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongScopeMount.jpg"/>
+			<Parts name="HG Rookie Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGRookieBarrel.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="HG Expander Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGExpanderBarrel.jpg"><tinker cost="500"><material name="HG Rookie Barrel"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="HG Expander Barrel Pro" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGExpanderBarrelPro.jpg"/>
+			<Parts name="HG Multi-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMulti-Barrel.jpg"/>
+			<Parts name="HG High Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGHighBarrel.jpg"><tinker cost="1500"><material name="Scrap Iron"/><material name="Scrapped Gun MQ"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="HG Long Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGLongBarrel.jpg"/>
+			<Parts name="HG S-Rail Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGS-RailBarrel.jpg"/>
+			<Parts name="HG L-Rail Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGL-RailBarrel.jpg"/>
+			<Parts name="MG Rookie Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGRookieBarrel.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="MG Expander Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGExpanderBarrel.jpg"><tinker cost="500"><material name="MG Rookie Barrel"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="MG Multi-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMulti-Barrel.jpg"/>
+			<Parts name="MG High Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGHighBarrel.jpg"><tinker cost="1700"><material name="Scrap Iron"/><material name="Scrapped Machinegun MS"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="MG Long Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGLongBarrel.jpg"/>
+			<Parts name="MG Double Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGDoubleBarrel.jpg"/>
+			<Parts name="MG S-Rail Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGS-RailBarrel.jpg"/>
+			<Parts name="MG L-Rail Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGL-RailBarrel.jpg"/>
+			<Parts name="Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Sub-Barrel.jpg"><tinker cost="500"><material name="Scrap Iron"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="Multi Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MultiSub-Barrel.jpg"/>
+			<Parts name="Short Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ShortSub-Barrel.jpg"/>
+			<Parts name="Terminal Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/TerminalSub-Barrel.jpg"/>
+			<Parts name="Flash Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/FlashSub-Barrel.jpg"/>
+			<Parts name="Expander T Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderTSub-Barrel.jpg"/>
+			<Parts name="Expander + Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderPlusSub-Barrel.jpg"/>
+			<Parts name="Expander Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderSub-Barrel.jpg"/>
+			<Parts name="Long Expander Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LongExpanderBarrel.jpg"/>
+			<Parts name="Rail Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/RailSub-Barrel.jpg"/>
+			<Parts name="Expander Twin S-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderTwinS-Barrel.jpg"/>
+			<Parts name="Double Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/DoubleSub-Barrel.jpg"/>
+			<Parts name="Expander Super Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderSuperBarrel.jpg"/>
+			<Parts name="Scattershot Sub-Barrel" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ScattershotSub-Barrel.jpg"/>
+			<Parts name="Rookie Grip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/RookieGrip.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="Expander Grip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderGrip_1.jpg"><tinker cost="3000"><material name="Rookie Grip"/><material name="Custom Kit Set"/><location>Ebel City</location><location>Cranktown</location><location>Albona</location></tinker></Parts>
+			<Parts name="L-Grip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/L-Grip.jpg"/>
+			<Parts name="Handguard" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Handguard.jpg"><tinker cost="800"><material name="Scrap Iron" quantity="2"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="Foregrip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/Foregrip.jpg"><tinker cost="3000"><material name="Scrap Lead" quantity="2"/><material name="Scrapped Weapon MQ"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="Expandable Handguard" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpandableHandguard.jpg"/>
+			<Parts name="Adapter Handguard" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/AdapterHandguard.jpg"/>
+			<Parts name="Adapter Foregrip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/AdapterForegrip.jpg"/>
+			<Parts name="Expander Grip" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/ExpanderGrip_2.jpg"/>
+			<Parts name="Barrel Adapter" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/BarrelAdapter.jpg"/>
+			<Parts name="L-Barrel Adapter" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/LBarrelAdapter.jpg"/>
+			<Parts name="HG Rookie Magazine" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGRookieMagazine.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="HG Magazine +2" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMagazine2.jpg"><tinker cost="500"><material name="HG Rookie Magazine"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="HG Magazine +3" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMagazine3.jpg"/>
+			<Parts name="HG Magazine +4" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMagazine4.jpg"/>
+			<Parts name="HG Magazine +5" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMagazine5.jpg"/>
+			<Parts name="HG Magazine +6" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGMagazine6.jpg"/>
+			<Parts name="HG Drum Magazine" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/HGDrumMagazine.jpg"/>
+			<Parts name="MG Rookie Magazine" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGRookieMagazine.jpg"><purchase cost="1000">Shop at Ebel City.</purchase><purchase cost="1000">Shop at Cranktown.</purchase><purchase cost="1000">Shop at Albona during Chapter 7 and later.</purchase></Parts>
+			<Parts name="MG Magazine +3" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine3.jpg"><tinker cost="500"><material name="MG Rookie Magazine"/><material name="Custom Kit Set"/><location>Ebel City - starting at Prologue</location></tinker></Parts>
+			<Parts name="MG Magazine +5" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine5.jpg"/>
+			<Parts name="MG Magazine +6" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine6.jpg"/>
+			<Parts name="MG Magazine +8" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine8.jpg"/>
+			<Parts name="MG Magazine +9" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine9.jpg"/>
+			<Parts name="MG Magazine +12" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGMagazine12.jpg"><purchase>Arena exchange for 200 Copper, 40 Silver, and 1 Gold Coin.</purchase></Parts><!-- not in tinker listing as of Chapter 14 - available in Arena and reward (have one) -->
+			<Parts name="MG Drum Magazine" imageLocation="http://media.jamesrskemp.com/graphics/ResonanceOfFate/Parts/MGDrumMagazine.jpg"/>
+		</CustomParts>
+	</Weapons>
+	<Missions>
+		<Mission chapter="Prologue" title="Star from the Heavens" type="Story">
+			<Client name="Pater"/>
+			<Rewards hunterPoints="25" rubies="25000">
+			</Rewards>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="Prologue" title="Bridge Restoration" type="Optional">
+			<Client name="Familar Staffer" location="Ebel City Guild - Level 4"/>
+			<Rewards hunterPoints="5" rubies="2000"><Item name="Escape Hex"/></Rewards>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="Prologue" title="Lex's Knives" type="Optional">
+			<Client name="Rose" location="Ebel City Guild - Level 4"/>
+			<Rewards hunterPoints="5" rubies="500"><Item name="Anti-Damage" quantity="3"/></Rewards>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="Prologue" title="Pest Extermination" type="Optional">
+			<Client name="Alcott"/>
+			<Rewards hunterPoints="5" rubies="700"><Item name="Dot Sight"/></Rewards>
+			<Description/>
+			<Notes>Assassination of enemies on 1 single red hex on Level 4.</Notes>
+		</Mission>
+		<Mission chapter="Prologue" title="What the Maid Lost" type="Optional">
+			<Client name="Theresa's Maid" location="Theresa's Manor"/>
+			<Rewards hunterPoints="3" rubies="1000"><Item name="Clairvoyance" quantity="3"/></Rewards>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="1" title="The Garden Party" type="Story">
+			<Client name="Theresa" location="Theresa's Manor (daytime)"/>
+			<Rewards/>
+			<Description/>
+			<Notes>Receive a flower and red hexes from doorman. Next Story mission begins.</Notes>
+		</Mission>
+		<Mission chapter="1" title="A Battlefield Revisited" type="Story">
+			<Client name="Theresa" location="Theresa's Manor (daytime)"/>
+			<Rewards hunterPoints="25" rubies="20000"/>
+			<Description/>
+			<Notes>Use red hexes to clear a path on level 4 to the elevator down to level 6 and to Lucia, then fight all the way through until the end.</Notes>
+		</Mission>
+		<Mission chapter="1" title="Power Station Checkup" type="Optional">
+			<Client name="Familar Staffer" location="Ebel City - Level 4"/>
+			<Rewards hunterPoints="5" rubies="1000"><Item name="Sonic Chug" quantity="5"/></Rewards>
+			<Description/>
+			<Notes>Using a red hex from the story mission, and normal hexes for the rest, clear a path to the Hughes Power Station.</Notes>
+		</Mission>
+		<Mission chapter="1" title="An Act of Kindness" type="Optional">
+			<Client name="Daniel" location="Ebel City near the Shop (daytime) - Level 4"/>
+			<Rewards hunterPoints="3" rubies="2000"><Item name="Metal-Coated Rounds" quantity="15"/></Rewards>
+			<Description/>
+			<Notes>In the top-left corner of Leanne's room can be found a Bongo the Clown doll. Give to Daniel.</Notes>
+		</Mission>
+		<Mission chapter="2" title="Blackout" type="Story">
+			<Client/>
+			<Rewards hunterPoints="25"/>
+			<Description/>
+			<Notes>Defeat the boss at Hughes Power Station on Level 4.</Notes>
+		</Mission>
+		<Mission chapter="2" title="A Father Attacked" type="Optional">
+			<Client name="Familar Staffer" location="Ebel City Guild - Level 4"/>
+			<Rewards hunterPoints="5" rubies="1500"><Item name="Compact Scope "/></Rewards>
+			<Description/>
+			<Notes>Defeat enemy on Level 4, around Cafe.</Notes>
+		</Mission>
+		<Mission chapter="2" title="Salvage Hunt" type="Optional">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="2" title="Lost in the Darkness" type="Optional">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="3" title="For Art Enthusiasts Only" type="Story">
+			<Client name="Garigliano"/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="3" title="The Search for Beauty" type="Story">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="3" title="Rebel Suppression" type="Optional">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="3" title="A Father Missing" type="Optional">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="3" title="The Effort to Stand" type="Optional">
+			<Client/>
+			<Rewards/>
+			<Description/>
+			<Notes/>
+		</Mission>
+		<Mission chapter="4" title="The Invitation" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="4" title="Honorable Work" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="4" title="Rebel Suppression 2" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="4" title="The Broken Sewing Machine" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="4" title="All-Natural Meat" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="Barbarella's Crisis" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="Not to be Denied" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="Expedited Delivery" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="Igniting Creativity" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="More Merchandise!" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="The Prelate's Medal" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="Motive Undeclared" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="The Sign" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="5" title="A Small Errand" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="Cold Medicine" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="The Fashion Check" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="The Courage to Walk" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="Rebel Suppression 3" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="Fashion is Art!" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="6" title="Freight Request" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="The Hunt for Gelsey" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="The Hope to Advance" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="The Town of Hope" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="Emergency Call-Up!" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="A Seductive Proposal" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="7" title="The Mystery Beauty" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="8" title="Snoop Patrol" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="8" title="Cleaned Out by Creativity!" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="8" title="A Water Beast Gone Dry" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="8" title="Different Values" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="8" title="Top Secret!" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Lucia's Sacred Sign" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Search for the Sacred Sign" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Lady in the Red" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Authentic Cuisine" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="A Letter to My Girl" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Serious Advice" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="9" title="Feel Better, Kitty Dog!" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="Crank Seminary" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="Rebel Suppression 4" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="A Job Too Big" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="Chicken Gruel for the Soul" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="Pater's Message" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="10" title="The Secret Medicine" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="11" title="A Visitor from the Past" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="11" title="The Roadblock" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="11" title="A Dyeing Request" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="11" title="A Beast on the Loose" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="11" title="Making Amends" type="Optional"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="12" title="The Wedding Crasher" type="Story"><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="12" title="Going Gangbusters" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="12" title="Christmas Cheer" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="12" title="Not Available as Trash" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="12" title="The Missing Brother" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="The Christmas Party" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="A Christmas Prayer" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="The Forefront of Fashion" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="Is it Just Me?" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="The Ravening Beasts" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="13" title="The Future of Medicine" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="14" title="An Old Promise" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="14" title="Showdown" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="14" title="A Trivial Matter" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="14" title="A Thirst for Knowledge" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="15" title="Search for Sullivan" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="15" title="This Gun's for You!" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="15" title="Winter Fashion Materials" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="15" title="The Locked Trunk" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="16" title="Rebel Termination Order" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="16" title="Rare Materials Sought" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="16" title="My Trauma" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+		<Mission chapter="16" title="The Basilica" type=""><Client/><Rewards/><Description/><Notes/></Mission>
+	</Missions>
+	<Enemies>
+		<Special>
+			<Challenge chapter="3" level="5">
+				<Enemy name="Shady Thug" level="16" quantity="3"/>
+				<Enemy name="Stray Cur" level="5" quantity="4"/>
+				<Reward name="Perfect Aid"/>
+				<Notes>Between Forest of Idols and one terminal.</Notes>
+			</Challenge>
+			<Challenge chapter="4" level="5">
+				<Enemy name="Rocketfoot" level="29" leader="true"/>
+				<Enemy name="Shady Thug" level="16" quantity="2"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Next to two terminals.</Notes>
+			</Challenge>
+			<Challenge chapter="4" level="6">
+				<Enemy name="Bronze Ooze" level="12" quantity="6"/>
+				<Reward name="Perfect Aid"/>
+				<Notes>In front of Patertopolis.</Notes>
+			</Challenge>
+			<Challenge chapter="5" level="5">
+				<Enemy name="Rocketfoot" level="24" quantity="2"/>
+				<Enemy name="Hooded Gangster" level="19"/>
+				<Reward name="Perfect Aid"/>
+				<Notes>To right of Forest of Idols, looking at it from the entrance.</Notes>
+			</Challenge>
+			<Challenge chapter="5" level="7">
+				<Enemy name="Hooded Gangster" level="19" quantity="2"/>
+				<Enemy name="Hooded Gangster MG" level="19"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Only one in Silver Canyon area.</Notes>
+			</Challenge>
+			<Challenge chapter="6" level="4">
+				<Enemy name="Missile Gear" level="54" quantity="2"/>
+				<Reward name="Bezel Shard"/>
+			</Challenge>
+			<Challenge chapter="7" level="7">
+				<Enemy name="Heavy Tiger" level="28" quantity="5"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Near Cranktown, towards lift to level 6.</Notes>
+			</Challenge>
+			<Challenge chapter="7" level="8">
+				<Enemy name="Dolled-Up Dog" level="46" leader="true"/>
+				<Enemy name="Hot Dog" level="21" quantity="3"/>
+				<Reward name="Witchy Bazooka"/>
+				<Notes>In front of Freud Remnants.</Notes>
+			</Challenge>
+			<Challenge chapter="7" level="8">
+				<Enemy name="Dolled-Up Gremlin" level="41" leader="true"/>
+				<Enemy name="Torch Gremlin" level="19" quantity="3"/>
+				<Reward name="Bound Doll"/>
+				<Notes>Behind Freud Remnants.</Notes>
+			</Challenge>
+			<Challenge chapter="8" level="8">
+				<Enemy name="Mad Goliath" level="73" quantity="3"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Against wall, near Invisibility terminal.</Notes>
+			</Challenge>
+			<Challenge chapter="9" level="6">
+				<Enemy name="Sprocket Juggernaut" level="57" quantity="2"/>
+				<Enemy name="Screw-Top" level="52" leader="true"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Behind Patertopolis.</Notes>
+			</Challenge>
+			<Challenge chapter="10" level="5">
+				<Enemy name="Tar Armor" level="73" leader="true"/>
+				<Enemy name="Mask Raider MG" level="37" leader="true"/>
+				<Enemy name="Mask Raider MG" level="30" quantity="2"/>
+				<Reward name="Bezel Shard"/>
+				<Notes>Between Forest of Idols and two terminals.</Notes>
+			</Challenge>
+			<Challenge chapter="12" level="5">
+				<Enemy name="Blob Clown" level="40" quantity="4"/>
+				<Reward name="Perfect Aid"/>
+				<Notes>Above and to the right of Forest of Idols, looking at the entrance.</Notes>
+			</Challenge>
+			<!--
+	Chapter 10 - Level 7: Dweller (4), Pistol Dweller (6), Prop Dweller (17), Junk Mimic (20), Wrecking Baller (29), Mask Raider MG (37) [Perfect Aid]
+	Chapter 11 - Level 7: Hell Slots (30), Blob Clown (49) [Bezel Shard]
+	
+	Chapter 6 - Level 9: Silver Jelly (29) [Perfect Aid]
+	Chapter 8 - Level 9: Safety Dwellest (52) [Perfect Aid]
+	Chapter 12 - Level 9: R-Commando Assault (58) [Bezel Shard]
+	
+Chapter 7 - Level 10: Missile Plough (67) [Perfect Aid]
+Chapter 14 - Level 10: Chinoppio (59) [Bezel Shard]
+
+Chapter 9 - Level 11: Sprocket Juggernaut (57), Fullmetal Gear (77) [Perfect Aid]
+Chapter 11 - Level 11: Blood Doll Omega (20), Puppeteer (65) [Milky Snow]
+Chapter 11 - Level 11: Rocketfoot (24), Dolled-Up Walker (54) [Lucky Doll]
+Chapter 14 - Level 11: Cathedral Sniper (65), Cathedral Guard (71), Cathedral Fencer (73) [Perfect Aid]
+Chapter 16 - Level 11: Judge's Assault (66), Judge's Blade (76) [Bezel Shard]
+
+Chapter 11 - Level 12: Hell Slots (30) [Perfect Aid]
+Chapter 13 - Level 12: Wrecking Baller (29), Dolled-Up Dweller (58) [Cursed Doll]
+Chapter 13 - Level 12: R-Commando Shotgun (58), Bolt Yeti (68) [Bezel Shard]
+Chapter 13 - Level 12: Commander (39), Storm Striker (73) [Perfect Aid]
+Chapter 15 - Level 12: Cathedral Sniper (65), Chummy Gremlin (61) [Bezel Shard]
+Chapter 15 - Level 12: Venomous Fog (68) [Perfect Aid]
+Chapter 16 - Level 12: Judge's Assault (66), Shot Raptor (66) [Bezel Shard]
+
+??? Chapter 3 - Level 5: Frag Dwellest (44), Outcast (7) [Bezel Shard]
+??? Chapter 4 - Level 6: Dwellest (12), Dolled-Up Dwellest (48) [Bridal Doll]
+			-->
+		</Special>
+	</Enemies>
+	<!-- Secret stash at chapter 16 is 300,000 -->
+	<!--
+		http://www.ps3trophies.org/game/resonance-of-fate/guide/
+		http://www.xbox360achievements.org/game/resonance-of-fate/achievements/
+	-->
+</ResonanceOfFate>
+<!--
+	Prologue
+	
+	Star from the Heavens
+	Instructions: Visit Cafe Chelsey to obtain the Attache Case from Sulivan. You now have access to Core Lift 1 and can head to Level 3. Do so and give the case to Pater at his mansion.
+	
+	Bridge Restoration
+	Instructions: This is essentially a tutorial on the Energy Hexes used to clear the map. Wander the Back Alley to trigger a random battle which should reward you with a hex piece. Place it so Rainy Bridge can be used and return to the Staffer for your reward.
+	
+	Lex's Knives
+	Instructions: Head over Rainy Bridge and into Core Lift 1 to find Lex and deliver the knives he forgot to complete the mission.
+	
+	Pest Extermination
+	
+	What the Maid Lost
+	Instructions: Use an energy hex to unblock the third hex on the way to Jean Paulet's Manor to find the watch; return it to complete the mission.
+	
+	Chapter 2
+	
+	Salvage Hunt
+	Client: Izzy
+	Location: Ebel City, Cheyenne Street
+	Reward: HPx5, Rx3000, HG Magazine +2
+	Instructions: While in the Hughes Power Station you should receive three Scrapped Machinegun MS dropped from enemies; give them to Izzy.
+	
+	Lost in the Darkness
+	Client: Charles
+	Location: Ebel City, Razzle Street
+	Reward: HPx5, Rx3000, Barrier Padding
+	Instructions: Head to the Cafe Chelsey and search some chairs stacked on the left wall to find a missing notebook; return it to Charles.
+	
+	Chapter 3
+	
+	For Art Enthusiasts Only
+	Location: Garigliano's Manor
+	Instructions: Unblock the path to the Manor with the hex pieces from the letter, speak with him and receive additional hex pieces from his doorman.
+	
+	The Search for Beauty
+	Client: Garigliano
+	Location: Garigliano's Manor
+	Reward: HPx30, Rx30000
+	Instructions: Using the hex pieces from the last mission, clear a path to the Forest of Idols on Level 5. Proceed through the dungeon, locate the Female Mannequin and deliver it to Garigliano in the Open Air Studio.
+	
+	Rebel Suppression
+	Client: The Cardinals
+	Location: Level 4
+	Reward: HPx6, Rx1000, Hollow-Point Rounds+ x15
+	Instructions: Assassination of two hexes on level 4 by level 6 elevator.
+	
+	A Father Missing
+	Client: Familiar Staffer
+	Location: Ebel City Guild
+	Reward: HPx5, Rx4000, Compact Scope B
+	Instructions: Speak to Daniel at The Shop twice to learn that Alcott went to Cafe Chelsey, then head there and speak with him. Return to the Staffer and let him know about his father.
+	
+	The Effort to Stand
+	Client: Burnell
+	Location: Ebel City Guild
+	Reward: HPx8, Rx4000, Foregrip
+	Instructions: Take the business card to Izzy on Cheyenne Street (Daytime).
+	
+	Chapter 4
+
+The Invitation
+Client: Jean Paulet
+Location: Jean Paulet's Manor
+Instructions: Speak with Jean. The next mission begins immediately after.
+
+Honorable Work
+Client: Jean Paulet
+Location: Forest of Idols, Open Air Studio
+Reward: HPx30, Rx20000
+Instructions: You must escort and protect a statue as it moves along the Forest of Idols. Defeat the enemies quickly to move on to the next area (Incendiary Ammo and Molotovs help). If the statue gets to the next section before all enemies are defeated, move on so you can continue to protect it. If it is broken completely, the game is over. However, you can pay 50,000 to restore its health completely and restart from the same hex you failed on. I would not suggest doing this with more than three hexes to go. You won't be able to defeat the boss fast enough if it arrives with less than 25% health remaining.
+
+Rebel Suppression 2
+Client: The Cardinals
+Location: Level 6
+Reward: HPx10, Rx1000, Incendiary Rounds x20
+Instructions: Assassination - 3 hexes near Lucia.
+
+The Broken Sewing Machine
+Client: Miranda
+Location: Ebel City, Boutique Lily
+Reward: HPx8, Rx2000, Bolt Padding
+Instructions: Assassination - three hexes near Hughes Power Station on level 4.
+
+All-Natural Meat
+Client: Lex
+Location: Barbarella's Manor - Level 2
+Reward: HPx5, Rx3000, HG Magazine +4
+Instructions: Fight Dwellest enemies in Hughes Power Station to obtain Quality Meat; return it to Lex.
+
+Chapter 5
+
+Barbarella's Crisis
+Client: Barbarella
+Location: Barbarella's Manor
+Instructions: Speak with Barbarella and obtain the Core Lift 2 Pass from her doorman.
+
+Not to be Denied
+Client: Barbarella
+Location: Barbarella's Manor
+Instructions: Take the Core Lift 2 to Level 7 and clear a path to Silver Canyon. Fight through to Refridgia to obtain the Red Wine.
+
+Expedited Delivery
+Client: Barbarella
+Location: Barbarella's Manor
+Reward: HPx30, Rx25000
+Instructions: Deliver the Red Wine to Barbarella's Page in Le Chit-Chat Noir on Level 7.
+
+Igniting Creativity
+Client: Garigliano
+Location: Garigliano's Manor
+Reward: HPx10, Rx5000, Ice-Resistant Vest
+Instructions: Take photos of three Idols. They can be found at Jean Paulet's Manor, Lucia Downtown (where you placed the Flower in Chapter 1) and in the Crank Seminary on Level 7. Deliver the photos to Garigliano.
+
+More Merchandise!
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx8, Rx3000, Shooting Star
+Instructions: You need to acquire five each of Mannequin Head, Arms, Torso and Legs. Kill more mannequin enemies in the Forest of Idols for this. You can fight Ms. Vulcans or Mr. Chainsaws in the Arena (rank 8?) for the Head item which is the hardest to obtain.
+
+The Prelate's Medal
+Client: Theresa
+Location: Theresa's Manor
+Reward: HPx10, Rx10000, Perfect Aid
+Instructions: This can be found by activating hexes outside Lucia. You may already have this item. Give it to Theresa when acquired.
+
+Motive Undeclared
+Client: Ellis
+Location: Cafe Chelsey
+Reward: HPx10, Rx3500, Freezer Grenade x10
+Instructions: Clear a path on Level 9 to the Dakota Vein. This will require clearing and activating two elevators from Level 7 and 8, as well as having earned the Core Lift 2 Pass from Barbarella's doorman.
+
+The Sign
+Client: Traveling Merchant
+Location: Forsaken
+Reward: HPx8, Rx4000, Armor-Piercing Rounds x30
+Instructions: Assassination.
+
+A Small Errand
+Client: Postman
+Location: Core Lift 1 Entrance
+Reward: HPx8, Rx1500, Escape Hex x5
+Instructions: Deliver the parcel to Bennett who can be found outside the Basilica on Level 1.
+
+Chapter 6
+
+Cold Medicine
+Client: Leanne
+Location: Silver Canyon
+Reward: HPx25
+Instructions: You need to retrieve some Cold Medicine from the Chemist's Closet in Silver Canyon. Proceed through and defeat the boss to obtain it, then return to the Base.
+
+The Fashion Check
+Client: Garigliano
+Location: Garigliano's Manor
+Reward: HPx8, Rx15000, MG Drum Magazine
+Instructions: Wearing Style B clothing with Zephyr as the on-screen character, speak with Garigliano. DO NOT sell the "Fashion is Art 1st ed." item he gives you!
+
+The Courage to Walk
+Client: Burnell
+Location: Ebel City Guild (Daytime)
+Reward: HPx8, Rx7000, Expandable Handguard
+Instructions: Deliver the Business Card (Pharm) to Stanley in Cranktown on Level 7, near the Guild.
+
+Rebel Suppression 3
+Client: The Cardinals
+Location: Level 7
+Reward: HPx12, Rx8000, Hollow-Point Rounds++ x20
+Instructions: Assassination.
+
+Fashion is Art!
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx8, Rx2000, Cold Padding
+Instructions: Give Miranda the book you received from the "Fashion Check" quest.
+
+Freight Request
+Client: Darrel
+Location: Cranktown
+Reward: HPx12, Rx8000, Hollow-Point Rounds++ x20
+Instructions: Deliver the cargo to Bobby outside Boutique Lily in Ebel City.
+
+Chapter 7
+
+The Hunt for Gelsey
+Client: Sullivan
+Reward: HPx30, Rx50000
+Instructions: Clear a path to Mine 24 on Level 11. Proceed through the dungeon and defeat the boss.
+
+The Hope to Advance
+Client: Burnell
+Location: Ebel City Guild (Daytime)
+Reward: HPx8, Rx10000, Adapter Handguard
+Instructions: Deliver the Lens Material to William in Cranktown, outside the Inn.
+
+The Town of Hope
+Client: Pater
+Location: Pater's Manor
+Reward: HPx10, Rx5000, Toxicity Shield
+Instructions: You will need to create a Terminal Effect on Pateropolis. The closest Terminal is on Level 6 (Experience) which requires 70 hexes. See which color you have the most hex pieces of and place a Station of the same color on the Thoroughfare near Pateropolis. Connect the Experience Terminal to Pateropolis to complete the quest.
+
+Emergency Call-Up!
+Client: Traveling Merchant
+Location: Waterless Bridge (Level 8)
+Reward: HPx10, Rx5000, Molotov Cocktail+ x20
+Instructions: Clear a path to Albona on Level 10 and deliver the Mega-Sack to the Shop Owner, her sister.
+
+A Seductive Proposal
+Client: Juliet
+Location: Core Lift 2
+Reward: HPx8, Rx2000, MC Electrified Rounds x25
+Instructions: She wants an "HG Magazine +4" item. You may have one already, or you can get one from the tinker in Cranktown with Scrap Lead and a Scrapped Bazooka E.
+
+The Mystery Beauty
+Client: Postman
+Location: Core Lift 1 (Level 4)
+Reward: HPx5, Rx1500, First Aid EX
+Instructions: Deliver the letter to Jeanne on Waterless Bridge, Level 8.
+
+Chapter 8
+
+Snoop Patrol
+Location: Pateropolis
+Rewards: HPx20
+Instructions: Another basic mission: dungeon, boss and done.
+
+Cleaned Out by Creativity!
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx8, Rx4000, Elemental Protector
+Instructions: Give her 80 Fabric Scraps. Many enemies drop them, or you can buy them at the Waterless Bridge on Level 8.
+
+A Water Beast Gone Dry
+Client: Juliet
+Location: Core Lift 2 Entrance
+Reward: HPx10, Rx4000, Toxic Grenade+ x20
+Instructions: Assassination.
+
+Different Values
+Client: Bennett
+Location: Basilica
+Reward: HPx8, Rx3000, Telephoto Lens
+Instructions: Head to the Freud Remnants on Level 8, battle through the dungeon and procure the Ancient Text.
+
+Top Secret!
+Client: Sammy
+Location: Core Lift 1
+Reward: HPx5, Rx500, Multi-Aid R-EX
+Instructions: Deliver the letter to Kate at Core Lift 2, Level 6.
+
+Chapter 9
+
+Lucia's Sacred Sign
+Client: Antourion
+Location: Antourion's Manor
+Instructions: Speak with Antourion to launch the next mission.
+
+Search for the Sacred Sign
+Client: Antourion
+Location: Antourion's Manor
+Reward: HPx30, Rx35000
+Instructions: Another typical story mission.
+
+Lady in the Red
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx10, Rx2000, Hawk Eye
+Instructions: Find Darrel on Widlar Street in Cranktown, then return to Miranda with the Steamer Trunk.
+
+Authentic Cuisine
+Client: Lex
+Location: Barbarella's Manor
+Reward: HPx8, Rx3000, Mighty Suit
+Instructions: Deliver the food to his mother on Cheyenne Street in Ebel City.
+
+A Letter to My Girl
+Client: David
+Location: Albona, Angus Street
+Reward: HPx5, Rx5000, Toxic Rounds+ x20
+Instructions: Deliver the letter to Joanne at the Core Lift 3 Entrance on Level 9.
+
+Serious Advice
+Client: Rose
+Location: Ebel City, Cheyenne Street
+Reward: HPx8, Rx5000, MG Magazine +12
+Instructions: Deliver the letter to Lex near Barbarella's Manor.
+
+Feel Better, Kitty Dog!
+Client: Sarah
+Location: Albona Guild
+Reward: HPx3, Rx500, Perfect Aid
+Instructions: Give her pet one Luxury Meat. These drop from Wrecking Baller enemies in Lucia.
+
+Chapter 10
+
+Crank Seminary
+Location: Crank Seminary
+Reward: HPx5
+Instructions: Enter the Seminary to trigger a scene, then return to the Base. Easiest story mission ever...
+
+Rebel Suppression 4
+Client: The Cardinals
+Location: Level 6
+Reward: HPx10, Rx10000, Hand Grenade++ x20
+Instructions: Assassination.
+
+A Job Too Big
+Client: David
+Location: Level 8
+Reward: HPx10, Rx7500, MC Sub-Zero Rounds+ x25
+Instructions: Assassination.
+
+Chicken Gruel for the Soul
+Client: Barbarella
+Location: Barbarella's Manor
+Reward: HPx8, Rx10000, Perfect Aid
+Instructions: Head to the same Chemist's Closet area you got the medicine for Leanne out of in Silver Canyon to get a Medicine Chest.
+
+Pater's Message
+Client: Pater's Maid
+Location: Pater's Manor
+Reward: HPx5, Rx2500, (Victory) Pater (L)
+Instructions: Head to the end of Pateropolis to retrieve the Bundle of Love from a chest, then return it to the maid.
+
+The Secret Medicine
+Client: Stanley
+Location: Cranktown, Solam Street
+Reward: HPx8, Rx5000, First Aid EX x3
+Instructions: Assassination, Level 8.
+
+Chapter 11
+
+A Visitor from the Past
+Client: Lagerfeld
+Location: Rainy Bridge
+Reward: HPx35
+Instructions: Duel Lagerfeld.
+
+The Roadblock
+Client: David
+Location: Level 10
+Reward: HPx10, Rx5000, HP Electrified Rounds+ x30
+Instructions: Assassination.
+
+A Dyeing Request
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx10, Rx4000. Heat Protector
+Instructions: Head to the Ruins Site East in the Freud Remnants to battle a beefed up Vibrant Tar Man. Return to Miranda with the Iristone from the battle.
+
+A Beast on the Loose
+Client: Pater's Maid
+Location: Pater's Manor
+Reward: HPx5, Rx2500, High-Mount Elite
+Instructions: Find the missing dog at the Basilica.
+
+Making Amends
+Client: Bernard
+Location: Level 11
+Reward: HPx8, Rx10000, Molotov Cocktail++ x20
+Instructions: Assassination.
+
+Chapter 12
+
+The Wedding Crasher
+Client: Cimano
+Location: Square Garden
+Reward: HPx35, Rx15000
+Instructions: Clear a circuitous path to Square Garden by going through Level 3, up the elevator near Theresa's Manor, then up again with the elevator past Barbarella's Manor. Proceed through the Garden and fight another boss.
+
+Going Gangbusters
+Client: The Cardinals
+Location: Level 10
+Reward: HPx12, Rx15000, Hollow-Point Rounds EX x30
+Instructions: Assassination.
+
+Christmas Cheer
+Client: Theresa
+Location: Theresa's Manor
+Reward: HPx10, Rx5000, Expander Clip
+Instructions: Talk with Izzy outside the Ebel City Guild, then obtain Scrap Iron x10, Scrap Bronze x10 and a Scrapped Hammer SH1. Return the Tree Voucher to Theresa.(Note: You can get additional rewards if you get a Six-Way Light Bulb from William in Cranktown and a Ritzy Star from the Shop Owner in Albona. Neither of those are required to complete the mission though.)
+
+Not Available as Trash
+Client: Slash
+Location: Albona
+Reward: HPx8, Rx15000, Electro Grenade++ x20
+Instructions: Give him an Armanium, which can be received by scrapping a Scrapped Eater TAR2 dropped by the Tar Armors and Vibrant Tar Man enemies.
+
+The Missing Brother
+Client: Elisa
+Location: Cranktown
+Reward: HPx5, Rx250, Perfect Aid
+Instructions: Find her Broken Glasses to the right of a statue inside Crank's Seminary, then return them to her.
+
+Chapter 13
+
+The Christmas Party
+Client: Theresa
+Location: Theresa's Manor
+Reward: HPx30, Rx10000
+Instructions: A bit of a bizarre mission, but head to Square Garden and play sort of a present-tossing mini-game against a bunch of children.
+
+A Christmas Prayer
+Client: [None]
+Location: Basilica
+Reward: HPx5
+Instructions: Trigger a scene with Rowan with only Leanne in the party.
+
+The Forefront of Fashion
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx8, Rx6000, Shockproof Suit
+Instructions: Obtain a Vulcanized Hide, which can drop from Junker Behemoths in Etsia on Level 10.
+
+Is it Just Me?
+Client: David
+Location: Level 10
+Reward: HPx10, Rx12500, MC Incendiary Rounds+ x30
+Instructions: Assassination.
+
+The Ravening Beasts
+Client: Barbarella
+Location: Level 7
+Reward: HPx10, Rx10000, Rail Sub-Barrel
+Instructions: Assassination.
+
+The Future of Medicine
+Client: Stanley
+Location: Cranktown
+Reward: HPx5, Rx5000, Multi-Aid R-EX
+Instructions: Get a Pharmacology Text from Warden at the Core Lift 2 Entrance on Level 6 and return it.
+
+Chapter 14
+
+An Old Promise
+Client: [None]
+Location: Aetersyl
+Reward: HPx40
+Instructions: Head to Rainy Bridge so Leanne rejoins the party, then visit Aetersyl for another basic dungeon routine.
+
+Showdown
+Client: The Cardinals
+Location: Level 5
+Reward: HPx15, Rx25000, Toxic Rounds+ x30
+Instructions: Assassination.
+
+A Trivial Matter
+Client: Stanley
+Location: Cranktown
+Reward: HPx8, Rx5000, Perfect Aid
+Instructions: Clear a path to the Gran Idee Mines on Level 12 and battle through the dungeon to retrieve the book Pharmacology Vol. VI and return it to him.
+
+A Thirst for Knowledge
+Client: Antourion
+Location: Antourion's Manor
+Reward: HPx15, Rx20000, MG S-Rail Barrel
+Instructions: Activate every single hex on Level 10 and return when done.
+
+Chapter 15
+
+Search for Sullivan
+Client: [None]
+Location: Outer Wall
+Reward: HPx35
+Instructions: Dungeon, boss, etc.
+
+This Gun's for You!
+Client: Anthony
+Location: Cranktown (Night)
+Reward: Z-40
+Instructions: You need to obtain two items: a Moonlight Gem from Mine 24 and a Human Fossil from the Gran Idee Mines. Return them both.
+
+Winter Fashion Materials
+Client: Miranda
+Location: Boutique Lily
+Reward: HPx8, Rx2500, MG L-Rail Barrel
+Instructions: Obtain and hand over Hide x20.
+
+The Locked Trunk
+Client: Carlo
+Location: Le Chit-Chat Noir
+Reward: HPx10, Rx5000, HG S-Rail Barrel
+Instructions: Activate hexes south of Gran Idee Mines on Level 12 until you find the item, then return it.
+
+Chapter 16
+
+Rebel Termination Order
+Client: The Cardinals
+Location: Level 4
+Reward: HPx20, Rx10000, Expander Super Barrel
+Instructions: Assassination.
+
+Rare Materials Sought
+Client: Izzy
+Location: Ebel City Guild
+Reward: HPx15, Rx35000, Long Scope Elite
+Instructions: Deliver a Crystal Core (Mad Goliaths, Gran Idee Mine) and a Rare Metal Shard (Treasure Mimics, Closed Roads). You can also scrap a Flame or Iceproof Suit for both items.
+
+My Trauma
+Client: MacGregor
+Location: Cranktown
+Reward: HPx12, Rx5100, Special Scope
+Instructions: Enter the Hughes Power Station. In the second area you will spot a UFO which you need to attack quickly and damage as much as possible. It will flee shortly, so defeat any remaining enemies and follow it. Continue the hit and run tactics until it is defeated.
+
+The Basilica
+Client: [None]
+Location: Basilica
+Reward: [None]
+Instructions: The final dungeon of the game. This will be your last mission!
+-->
+<!-- 
+	Locations:
+	Chapter 1, Bongo the Clown: Found in Leanne's room during the "An Act of Kindness" quest.
+	Chapter 4, Bridal Doll: Defeat Special Enemy on Level 6.
+	Chapter 7, Witchy Bazooka: Defeat Special Enemy on Level 8.
+	Chapter 7, Bound Doll: Defeat the other Special Enemy on Level 8.
+	Chapter 7, Witchy Wallace: After clearing a path of Albona for "Emergency Call-Up!" you can find this on Malcolm Street.
+	Chapter 8, Buddy Bear: Having completed all three quests for Burnell, speak with Kacy in the Ebel City Guild.
+	Chapter 9, Witchy Mama: After completing the quest "Feel Better, Kitty Dog!" you can continue to feed Sarah's dog until it is full. 12 Quality Meats should do the trick. Once it is full and she thanks you, leave and return to acquire the doll.
+	Chapter 11, Milky Snow: Defeat the Special Enemy on Level 11.
+	Chapter 11, Lucky Doll: Defeat the other Special Enemy on Level 11.
+	Chapter 13, Cursed Doll: Defeat the Special Enemy on Level 12.
+	
+	Rewards:
+	Scattershot Sub-Barrel
+	EXP Trainer
+	Flame-Resistant Vest
+	Barrel Adapter
+	Lucky Charm
+	Smash Grenade x30
+	Hi-Polymer Padding
+	Sub-Zero Rounds+ x30
+	Germproof Suit
+	Perfect Aid x3
+-->
+<!-- <Level id="		" hitPoints="		" weight="		"/> -->

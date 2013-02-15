@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html manifest="/manifest/media.manifest">
+<head>
+    <title>Video game listing - JamesRSkemp.com</title>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-541034-10']);
+		_gaq.push(['_setDomainName', 'media.jamesrskemp.com']);
+		_gaq.push(['_trackPageview']);
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<h1>James Skemp's video game listing</h1>
+	<p><!-- todo, link to Silverlight version --></p>
+	<p>This page supports offline access. <a href="/AppManager.html">Web application manager</a> for media.jamesrskemp.com.</p>
+	<div id="MainData" style="padding:.5em 1em;">This page requires JavaScript to be enabled.</div>
+	<div id="OfflineInformation" style="border-top:1px solid dashed;font-size:90%;padding:.25em;"></div>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript">window.jQuery || document.write('<script src="/js/jquery-1.5.2.min.js">\x3C/script>')</script>
+	<script type="text/javascript" src="/js/jquery.xml2json-1.0.min.js"></script>
+	<script type="text/javascript" src="/js/JamesRSkemp.min.js"></script>
+	<script type="text/javascript">
+		var videoGameXml = "";
+
+		function pullData() {
+			if (videoGameXml == "") {
+				JamesRSkemp.recordConsoleMessage("videoGameXml is empty");
+				$(document).ready(function () {
+					$.ajax({
+						url: "/xml/video_games.xml",
+						dataType: 'text', // We'll grab it as text, so we can save it into localStorage
+						success: function (data) {
+							JamesRSkemp.recordConsoleMessage("XML file successfully grabbed.");
+							videoGameXml = data;
+							if (JamesRSkemp.LocalStorage.isSupported()) {
+								JamesRSkemp.recordConsoleMessage("Local storage supported, and XML data saved.");
+								localStorage['VideoGameXml'] = videoGameXml;
+							}
+							addDataToPage();
+						}
+					});
+				});
+			} else {
+				JamesRSkemp.recordConsoleMessage("videoGameXml is not empty");
+				addDataToPage();
+			}
+		}
+
+		function refreshData() {
+			videoGameXml = "";
+			if (JamesRSkemp.LocalStorage.isSupported()) {
+				localStorage["VideoGameXml"] = "";
+			}
+			pullData();
+		}
+
+		function addDataToPage() {
+			$('#MainData').hide();
+			JamesRSkemp.recordConsoleMessage("videoGameXml will be looped through and output");
+			var htmlOutput = "<ol>";
+			try {
+				var videoGames = $($.parseXML(videoGameXml)).children("game");
+				videoGames.each(function () {
+					if ($(this).attr('addOn') != "true" && $(this).children('own').text() == "yes") {
+						var gameTitle = $(this).children('title').text();
+						htmlOutput += "<li><strong>" + gameTitle + "</strong> for the " + $(this).find("console").text() + " " + $(this).find("version").text() + "</li>";
+					}
+				});
+			} catch (e) {
+				JamesRSkemp.dumpObject(e);
+			}
+			htmlOutput += "</ol>";
+			$('#MainData').html(htmlOutput);
+			$('#MainData').show();
+		}
+
+		if (typeof ($) !== undefined) {
+			$(document).ready(function () {
+				if (JamesRSkemp.LocalStorage.isSupported()) {
+					JamesRSkemp.recordConsoleMessage("Supports local storage");
+					if ("VideoGameXml" in localStorage && localStorage["VideoGameXml"] != "") {
+						JamesRSkemp.recordConsoleMessage("VideoGameXml local storage is populated");
+						videoGameXml = localStorage["VideoGameXml"];
+					} else {
+						JamesRSkemp.recordConsoleMessage("VideoGameXml local storage is not defined or is empty");
+					}
+				}
+
+				pullData();
+
+				$('#OfflineInformation').html('Offline support: ' + JamesRSkemp.supportsOffline() + '<br />Browser online: ' + !JamesRSkemp.browserOffline());
+				if (!JamesRSkemp.browserOffline()) {
+					$('#OfflineInformation').append('<br /><a href="#" onclick="refreshData();return false;">Refresh data</a>');
+				}
+			});
+		}
+	</script>
+</body>
+</html>

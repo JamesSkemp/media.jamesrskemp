@@ -1,0 +1,5773 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/MyCDs.xslt"?>
+<albums xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/MyCDs.xsd">
+	<album id="1">
+		<title>Let It Be</title>
+		<artist>Beatles, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="2">
+		<title>One</title>
+		<artist>Beatles, The</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="3">
+		<title>Yellow Submarine Soundtrack</title>
+		<artist>Beatles, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="4">
+		<title>Best of Blue Öyster Cult Don't Fear the Reaper, The</title>
+		<artist>Blue Öyster Cult</artist>
+		<purchase>
+			<date>2000-08-11</date>
+			<price>7.99</price>
+		</purchase>
+		<notes>Borders</notes>
+	</album>
+	<album id="5">
+		<title>Best of David Bowie 1969/1974, The</title>
+		<artist>David Bowie</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="6">
+		<title>Songs You Know By Heart: Jimmy Buffett's Greatest Hit(s)</title>
+		<artist>Jimmy Buffett</artist>
+		<purchase>
+			<place>Gift from Mom</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Mom pre 12/13/2000. Given back 9/4/2011.</notes>
+	</album>
+	<album id="7">
+		<title>Fiddle Fire: 25 Years of The Charlie Daniels Band</title>
+		<artist>Charlie Daniels Band, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="8">
+		<title>Reptile</title>
+		<artist>Eric Clapton</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="9">
+		<title>Timepieces The Best of Eric Clapton</title>
+		<artist>Eric Clapton</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="10">
+		<title>No Ordinary World</title>
+		<artist>Joe Cocker</artist>
+		<notes>Bought after 12/13/2000. Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="11">
+		<title>Cosmo's Factory</title>
+		<artist>Creedence Clearwater Revival</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="12">
+		<title>Photographs &amp; Memories: His Greatest Hits</title>
+		<artist>Jim Croce</artist>
+		<notes>Bought before 12/13/2000. Sold to mom for $1 on 9/4/2011.</notes>
+	</album>
+	<album id="13">
+		<title>Very Best of Deep Purple, The</title>
+		<artist>Deepest Purple</artist>
+		<notes>Bought before 12/13/2000. Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="14">
+		<title>Sultans of Swing: The Very Best of Dire Straits</title>
+		<artist>Dire Straits</artist>
+		<notes>After 12/13/2000</notes>
+	</album>
+	<album id="15">
+		<title>Dylan &amp; The Dead</title>
+		<artist>Bob Dylan and The Grateful Dead</artist>
+		<notes>After 12/13/2000</notes>
+	</album>
+	<album id="16">
+		<title>Blonde on Blonde</title>
+		<artist>Bob Dylan</artist>
+		<purchase>
+			<date>2001-08-30</date>
+			<place>Borders (East Madison)</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="17">
+		<title>Blood on the Tracks</title>
+		<artist>Bob Dylan</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="18">
+		<title>Essential Bob Dylan, The</title>
+		<artist>Bob Dylan</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="19">
+		<title>Love And Theft</title>
+		<artist>Bob Dylan</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="20">
+		<title>Hell Freezes Over</title>
+		<artist>Eagles</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="21">
+		<title>Greatest Hits</title>
+		<artist>Eurythmics</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="22">
+		<title>Greatest Hits</title>
+		<artist>Fleetwood Mac</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="23">
+		<title>Too Legit To Quit</title>
+		<artist>Hammer</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="24">
+		<title>Janis Joplin's Greatest Hits</title>
+		<artist>Janis Joplin</artist>
+		<purchase>
+			<date>2000-08-11</date>
+			<place>Borders</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="25">
+		<title>Best of Kansas, The</title>
+		<artist>Kansas</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="26">
+		<title>Gord's Gold Volume II</title>
+		<artist>Gordon Lightfoot</artist>
+		<purchase>
+			<place>Borders</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="27">
+		<title>Best of the Mamas and the Papas, The</title>
+		<artist>Mamas and The Papas, The</artist>
+		<notes>20th Century Masters</notes>
+	</album>
+	<album id="28">
+		<title>Satisfy My Soul</title>
+		<artist>Bob Marley</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="29">
+		<title>Soul Rebel</title>
+		<artist>Bob Marley</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="30">
+		<title>American Pie</title>
+		<artist>Don McLean</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="31">
+		<title>Greatest Hits</title>
+		<artist>Monkees, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="32">
+		<title>Best of The Moody Blues, The</title>
+		<artist>Moody Blues, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="33">
+		<title>Complete Hits Collection: 1973-1997, The</title>
+		<artist>Billy Joel</artist>
+		<notes>CD 1: Greatest Hits Volume I (1973-1977) CD 2: Greatest Hits Volume II (1978-1985) CD
+			3: Greatest Hits Volume III (1986-1997) CD 4: "An Evening Of Questions &amp;
+			Answers.. &amp; A Little Magic"</notes>
+	</album>
+	<album id="34">
+		<title>Trouble in Shangri-La</title>
+		<artist>Stevie Nicks</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="35">
+		<title>Greatest Hits</title>
+		<artist>Nitty Gritty Dirt Band</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="36">
+		<title>Echoes: The Best of Pink Floyd</title>
+		<artist>Pink Floyd</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="37">
+		<title>Wall, The</title>
+		<artist>Pink Floyd</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="38">
+		<title>Classic Queen</title>
+		<artist>Queen</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="39">
+		<title>Greatest Hits</title>
+		<artist>Queen</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="40">
+		<title>Supernatural</title>
+		<artist>Santana</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="41">
+		<title>Chants of India</title>
+		<artist>Ravi Shankar</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="42">
+		<title>You're the One</title>
+		<artist>Paul Simon</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="43">
+		<title>Simon and Garfunkel's Greatest Hits</title>
+		<artist>Simon and Garfunkel</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="44">
+		<title>18 Tracks</title>
+		<artist>Bruce Springsteen</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="45">
+		<title>Born in the U.S.A.</title>
+		<artist>Bruce Springsteen</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="46">
+		<title>Bruce Springsteen &amp; The E Street Band Live/1975-85</title>
+		<artist>Bruce Springsteen</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="47">
+		<title>Bruce Springsteen &amp; The E Street Band Live in New York City</title>
+		<artist>Bruce Springsteen</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="48">
+		<title>Greetings from Asbury Park N.J.</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2000-08-11</date>
+			<place>Borders</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="49">
+		<title>Lucky Town</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<place>Gift from Mom</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Gift from Mom pre 12/13/2000</notes>
+	</album>
+	<album id="50">
+		<title>Nebraska</title>
+		<artist>Bruce Springsteen</artist>
+		<notes>After 12/13/2000</notes>
+	</album>
+	<album id="51">
+		<title>Wild, The Innocent &amp; The E Street Shuffle, The</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2001-08-30</date>
+			<place>Barnes &amp; Nobles Bookseller, 7433 Mineral Point Road, Madison WI 53717</place>
+			<price>9.99</price>
+		</purchase>
+		<notes></notes>
+	</album>
+	<album id="52">
+		<title>Best of Steppenwolf, The</title>
+		<artist>Steppenwolf</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="53">
+		<title>Downtown Train</title>
+		<artist>Rod Stewart</artist>
+		<notes>Given to me by mom, from her collection.</notes>
+	</album>
+	<album id="54">
+		<title>Ballad Album, The</title>
+		<artist>Rod Stewart</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="55">
+		<title>Rock Album, The</title>
+		<artist>Rod Stewart</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="56">
+		<title>Greatest Hits</title>
+		<artist>James Taylor</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="57">
+		<title>Best of Three Dog Night, The</title>
+		<artist>Three Dog Night</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="58">
+		<title>Original Masters</title>
+		<artist>Jethro Tull</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="59">
+		<title>Joshua Tree, The</title>
+		<artist>U2</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="60">
+		<title>Silver &amp; Gold</title>
+		<artist>Neil Young</artist>
+		<purchase>
+			<date>2000-08-11</date>
+			<place>Borders</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="61">
+		<title>Harvest</title>
+		<artist>Neil Young</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="62">
+		<title>BBC Sessions</title>
+		<artist>Led Zeppelin</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="63">
+		<title>Every Breath You Take: The Classics</title>
+		<artist>Police, The</artist>
+		<purchase>
+			<date>2001-12-25</date>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="64">
+		<title>So Far</title>
+		<artist>Crosby, Stills, Nash &amp; Young</artist>
+		<purchase>
+			<date>2001-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Gift for Christmas from Mom.</notes>
+	</album>
+	<album id="65">
+		<title>Best of Glenn Frey, The</title>
+		<artist>Glenn Frey</artist>
+		<purchase>
+			<date>2001-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>20th Century Masters</notes>
+	</album>
+	<album id="66">
+		<title>Negotiations and Love Songs 1971-1986</title>
+		<artist>Paul Simon</artist>
+		<purchase>
+			<date>2001-12-25</date>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="67">
+		<title>Dark Side of the Moon</title>
+		<artist>Pink Floyd</artist>
+		<purchase>
+			<date>2001-12-25</date>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="68">
+		<title>Dr. Demento 20th Anniversary Collection</title>
+		<artist>various</artist>
+		<notes>Christmas gift from Mom.  The Greatest Novelty Records of all Time.  Bought before 12/13/2000.</notes>
+	</album>
+	<album id="69">
+		<title>1980's Rock: The Best Hits of the 80's</title>
+		<artist>various</artist>
+		<notes>Three CD Set.  Bought before 12/13/2000.</notes>
+	</album>
+	<album id="70">
+		<title>1970's Rock: The Best of 70's Classic Rock</title>
+		<artist>various</artist>
+		<notes>Three CD Set.  Bought before 12/13/2000.</notes>
+	</album>
+	<album id="71">
+		<title>70's Rock</title>
+		<artist>various</artist>
+		<notes>Bought before 12/13/2000,</notes>
+	</album>
+	<album id="72">
+		<title>Bell Bottom Rock</title>
+		<artist>various</artist>
+		<notes>Bought before 12/13/2000.</notes>
+	</album>
+	<album id="73">
+		<title>Blade Runner</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2001-05-09</date>
+			<place>Borders</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="74">
+		<title>Blues Brothers Original Soundtrack Recording, The</title>
+		<artist>Blues Brothers, The</artist>
+		<notes>Bought before 12/13/2000</notes>
+	</album>
+	<album id="75">
+		<title>Lost in Meditation: Meditative Gregorian Chants</title>
+		<artist>Gregorian Monks</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="76">
+		<title>Gregorian Chants: The Best of the Bendictine Monks of St. Michael's</title>
+		<artist>Benedictine Monks of St. Michael's, The</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="77">
+		<title>Midnight Classics</title>
+		<artist>various</artist>
+	</album>
+	<album id="78">
+		<title>Best of Beethoven, The</title>
+		<artist>Beethoven</artist>
+		<notes>Bought after 12/13/2000</notes>
+	</album>
+	<album id="79">
+		<title>Teenage Mutant Ninja Turtles I: The Original Motion Picture Soundtrack</title>
+		<artist>various</artist>
+	</album>
+	<album id="80">
+		<title>Teenage Mutant Ninja Turtles III: Original Motion Picture Soundtrack</title>
+		<artist>various</artist>
+	</album>
+	<album id="81">
+		<title>Born To Run</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-01-05</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Bought by mom from Best Buy ($9.99)</notes>
+	</album>
+	<album id="82">
+		<title>Greatest Hits (Ten Years and Change 1979-1991)</title>
+		<artist>Starship</artist>
+		<purchase>
+			<date>2002-01-19</date>
+			<place>Mad City Music Exchange</place>
+			<price>7.49</price>
+		</purchase>
+	</album>
+	<album id="83">
+		<title>Greatest Hits</title>
+		<artist>Peter Frampton</artist>
+		<purchase>
+			<date>2002-01-19</date>
+			<place>Mad City Music Exchange</place>
+			<price>6.49</price>
+		</purchase>
+	</album>
+	<album id="84">
+		<title>Greatest Of The Guess Who, The</title>
+		<artist>Guess Who, The</artist>
+		<purchase>
+			<date>2002-01-19</date>
+			<place>Mad City Music Exchange</place>
+			<price>6.49</price>
+		</purchase>
+	</album>
+	<album id="85">
+		<title>Greatest Hits</title>
+		<artist>Styx</artist>
+		<purchase>
+			<date>2002-01-19</date>
+			<place>Mad City Music Exchange</place>
+			<price>7.49</price>
+		</purchase>
+	</album>
+	<album id="86">
+		<title>What A Long Strange Trip It's Been: The Best of The Grateful Dead</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-01-19</date>
+			<place>Mad City Music Exchange</place>
+			<price>12.49</price>
+		</purchase>
+	</album>
+	<album id="87">
+		<title>Greatest Hits</title>
+		<artist>Bob Seger &amp; The Silver Bullet Band</artist>
+		<purchase>
+			<date>2002-02-09</date>
+			<place>Sam's Club</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="88">
+		<title>Greatest Hits</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-02-09</date>
+			<place>Sam's Club</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="89">
+		<title>Ghost of Tom Joad, The</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-02-09</date>
+			<place>Barnes &amp; Noble</place>
+			<price>15.29</price>
+		</purchase>
+	</album>
+	<album id="90">
+		<title>In Concert/MTV Unplugged</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-02-09</date>
+			<place>Barnes &amp; Noble</place>
+			<price>11.69</price>
+		</purchase>
+	</album>
+	<album id="91">
+		<title>Toxicity</title>
+		<artist>System of a Down</artist>
+		<purchase>
+			<date>2002-02-19</date>
+			<place>Best Buy</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="92">
+		<title>In The Dark</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-02-19</date>
+			<place>Best Buy</place>
+			<price>14.99</price>
+		</purchase>
+	</album>
+	<album id="93">
+		<title>Story of the Ghost, The</title>
+		<artist>Phish</artist>
+		<purchase>
+			<date>2002-02-19</date>
+			<place>Best Buy</place>
+			<price>14.99</price>
+		</purchase>
+	</album>
+	<album id="94">
+		<title>Complete Greatest Hits, The</title>
+		<artist>America</artist>
+		<purchase>
+			<date>2002-03-06</date>
+			<place>Sam Goody</place>
+			<price>17.99</price>
+		</purchase>
+		<notes>Used $25 gift certificate to buy (along with Lennon Legends...)</notes>
+	</album>
+	<album id="95">
+		<title>Legend: The Very Best of John Lennon</title>
+		<artist>John Lennon</artist>
+		<purchase>
+			<date>2002-03-06</date>
+			<place>Sam Goody</place>
+			<price>14.99</price>
+		</purchase>
+		<notes>Used $25 gift certificate to buy (along with America: Complete...). Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="96">
+		<title>Themes</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-03-19</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Bought at Borders in Madison.</notes>
+	</album>
+	<album id="97">
+		<title>Direct</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-03-23</date>
+			<price>6.98</price>
+		</purchase>
+	</album>
+	<album id="98">
+		<title>L.A. Woman</title>
+		<artist>Doors, The</artist>
+		<purchase>
+			<date>2002-03-30</date>
+			<price>7.98</price>
+		</purchase>
+		<notes>Bought at Sam's Club in Green Bay.</notes>
+	</album>
+	<album id="99">
+		<title>Voices</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-04-08</date>
+			<price>10.92</price>
+		</purchase>
+		<notes>Bought off of bn.com</notes>
+	</album>
+	<album id="100">
+		<title>Friends of Mr. Cairo, The</title>
+		<artist>Jon and Vangelis</artist>
+		<purchase>
+			<date>2002-04-08</date>
+			<price>9.01</price>
+		</purchase>
+		<notes>Bought of bn.com</notes>
+	</album>
+	<album id="101">
+		<title>Best of Blondie, The</title>
+		<artist>Blondie</artist>
+		<purchase>
+			<date>2002-04-13</date>
+			<price>6.29</price>
+		</purchase>
+		<notes>'Ten Best Series'. Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="102">
+		<title>Skeletons From the Closet/The Best of the Grateful Dead</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-04-25</date>
+			<place>Sam's Club</place>
+			<price>7.98</price>
+		</purchase>
+	</album>
+	<album id="103">
+		<title>Gord's Gold</title>
+		<artist>Gordon Lightfoot</artist>
+		<purchase>
+			<date>2002-04-25</date>
+			<place>Sam's Club</place>
+			<price>12.49</price>
+		</purchase>
+		<notes>Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="104">
+		<title>Greatest Hits</title>
+		<artist>Doobie Brothers, The</artist>
+		<purchase>
+			<date>2002-04-25</date>
+			<place>Sam's Club</place>
+			<price>12.49</price>
+		</purchase>
+	</album>
+	<album id="105">
+		<title>Very Best of the Doors, The</title>
+		<artist>Doors, The</artist>
+		<purchase>
+			<date>2002-04-27</date>
+			<price>12.49</price>
+		</purchase>
+	</album>
+	<album id="106">
+		<title>Led Zeppelin IV: Zoso</title>
+		<artist>Led Zeppelin</artist>
+		<purchase>
+			<date>2002-05-02</date>
+			<place>Sam's Club</place>
+			<price>12.49</price>
+		</purchase>
+	</album>
+	<album id="107">
+		<title>Best of: Volume I</title>
+		<artist>Van Halen</artist>
+		<purchase>
+			<date>2002-05-02</date>
+			<place>Sam's Club</place>
+			<price>12.49</price>
+		</purchase>
+	</album>
+	<album id="108">
+		<title>Greatest Hits</title>
+		<artist>Tom Petty &amp; the Heartbreakers</artist>
+		<purchase>
+			<date>2002-05-07</date>
+			<place>Sam's Club</place>
+			<price>12.79</price>
+		</purchase>
+	</album>
+	<album id="109">
+		<title>Albedo 0.39</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-05-12</date>
+			<price>10.79</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble (West Madison)</notes>
+	</album>
+	<album id="110">
+		<title>Postcards of the Hanging: Grateful Dead Perform the Songs of Bob Dylan</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-05-12</date>
+			<price>16.19</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble (West Madison). Sold physical copy for $3 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="111">
+		<title>Wingspan: Paul McCartney Hits and History</title>
+		<artist>Paul McCartney</artist>
+		<purchase>
+			<date>2002-05-14</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Birthday present from mom.</notes>
+	</album>
+	<album id="112">
+		<title>Mask</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-05-14</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Birthday present from mom.</notes>
+	</album>
+	<album id="113">
+		<title>River, The</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-05-14</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Birthday present from mom.</notes>
+	</album>
+	<album id="114">
+		<title>Rock And Roll Band</title>
+		<artist>Boston</artist>
+		<purchase>
+			<date>2002-05-20</date>
+			<price>5.99</price>
+		</purchase>
+		<notes>Bought at Shopko (Green Bay).</notes>
+	</album>
+	<album id="115">
+		<title>Abbey Road</title>
+		<artist>Beatles, The</artist>
+		<purchase>
+			<date>2002-05-26</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Got from Mom for 'gift'…</notes>
+	</album>
+	<album id="116">
+		<title>Heathen</title>
+		<artist>David Bowie</artist>
+		<purchase>
+			<date>2002-06-11</date>
+			<price>14.00</price>
+		</purchase>
+		<notes>Tiffany Bought at Target, Two CDs</notes>
+	</album>
+	<album id="117">
+		<title>18</title>
+		<artist>Moby</artist>
+		<purchase>
+			<date>2002-06-20</date>
+			<place>Best Buy</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="118">
+		<title>Songs In A Minor</title>
+		<artist>Alicia Keys</artist>
+		<purchase>
+			<date>2002-06-20</date>
+			<price>13.99</price>
+		</purchase>
+		<notes>Best Buy</notes>
+	</album>
+	<album id="119">
+		<title>China</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-07-07</date>
+			<place>Barnes &amp; Noble</place>
+			<price>8.99</price>
+		</purchase>
+	</album>
+	<album id="120">
+		<title>1492: The Conquest of Paradise</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-07-07</date>
+			<place>Barnes &amp; Noble</place>
+			<price>14.39</price>
+		</purchase>
+	</album>
+	<album id="121">
+		<title>Page of Life</title>
+		<artist>Jon and Vangelis</artist>
+		<purchase>
+			<date>2002-07-07</date>
+			<place>Barnes &amp; Noble</place>
+			<price>15.29</price>
+		</purchase>
+	</album>
+	<album id="122">
+		<title>Very Best of Chicago: Only the Beginning, The</title>
+		<artist>Chicago</artist>
+		<purchase>
+			<date>2002-07-14</date>
+			<place>Sam's Club</place>
+			<price>16.95</price>
+		</purchase>
+	</album>
+	<album id="123">
+		<title>Images: The Best of Jean Michel Jarre</title>
+		<artist>Jean Michel Jarre</artist>
+		<purchase>
+			<date>2002-07-14</date>
+			<place>Barnes &amp; Noble</place>
+			<price>15.29</price>
+		</purchase>
+	</album>
+	<album id="124">
+		<title>Rising, The</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-08-01</date>
+			<place>Best Buy</place>
+			<price>12.65</price>
+		</purchase>
+	</album>
+	<album id="125">
+		<title>Midnight in the Sunken Cathedral: The Voice from the Edge</title>
+		<artist>Harlan Ellison</artist>
+		<purchase>
+			<date>2002-09-13</date>
+			<price>18.96</price>
+		</purchase>
+	</album>
+	<album id="126">
+		<title>Audio</title>
+		<artist>Blue Man Group</artist>
+		<purchase>
+			<date>2002-10-03</date>
+			<price>13.52</price>
+		</purchase>
+		<notes>bn.com</notes>
+	</album>
+	<album id="127">
+		<title>Forty Licks</title>
+		<artist>Rolling Stones</artist>
+		<purchase>
+			<date>2002-10-08</date>
+			<price>20.99</price>
+		</purchase>
+	</album>
+	<album id="128">
+		<title>Jimi Hendrix Experience: Smash Hits</title>
+		<artist>Jimi Hendrix</artist>
+		<purchase>
+			<date>2002-10-15</date>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="129">
+		<title>Extended Versions: George Thorogood</title>
+		<artist>George Thorogood &amp; The Destroyers</artist>
+		<purchase>
+			<date>2002-10-15</date>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="130">
+		<title>Best of John Denver, The</title>
+		<artist>John Denver</artist>
+		<purchase>
+			<date>2002-10-15</date>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="131">
+		<title>Greatest</title>
+		<artist>Duran Duran</artist>
+		<purchase>
+			<date>2002-10-26</date>
+			<price>9.98</price>
+		</purchase>
+	</album>
+	<album id="132">
+		<title>Fashion Nugget</title>
+		<artist>Cake</artist>
+		<purchase>
+			<date>2002-10-25</date>
+			<price>14.23</price>
+		</purchase>
+		<notes>Bought online at bn.com</notes>
+	</album>
+	<album id="133">
+		<title>Comalies</title>
+		<artist>Lacuna Coil</artist>
+		<purchase>
+			<date>2002-11-08</date>
+			<price>15.29</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="134">
+		<title>John Wesley Harding</title>
+		<artist>Bob Dylan</artist>
+		<purchase>
+			<date>2002-11-08</date>
+			<price>8.99</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="135">
+		<title>Tunnel of Love</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2002-11-08</date>
+			<price>11.69</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="136">
+		<title>Times They Are A-Changin', The</title>
+		<artist>Bob Dylan</artist>
+		<purchase>
+			<date>2002-11-16</date>
+			<price>8.99</price>
+		</purchase>
+		<notes>Bought at B-Side Compact Discs on State St.</notes>
+	</album>
+	<album id="137">
+		<title>Grateful Dead</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-11-16</date>
+			<price>10.99</price>
+		</purchase>
+		<notes>Bought at B-Side Compact Discs on State St.</notes>
+	</album>
+	<album id="138">
+		<title>Before the Flood</title>
+		<artist>Bob Dylan/The Band</artist>
+		<purchase>
+			<date>2002-11-16</date>
+			<price>16.99</price>
+		</purchase>
+		<notes>Bought at B-Side Compact Discs on State St.</notes>
+	</album>
+	<album id="139">
+		<title>Essentials: Devo, The</title>
+		<artist>Devo</artist>
+		<purchase>
+			<date>2002-12-14</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Bought at Sam Goody's in Bay Park Mall w/ money from work.</notes>
+	</album>
+	<album id="140">
+		<title>Band Greatest Hits, The</title>
+		<artist>Band, The</artist>
+		<purchase>
+			<date>2002-12-14</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Bought at Sam Goody's in Bay Park Mall w/ money from work.</notes>
+	</album>
+	<album id="141">
+		<title>Encore: Tangerine Dream Live 1977</title>
+		<artist>Tangerine Dream</artist>
+		<purchase>
+			<date>2002-12-14</date>
+			<price>11.69</price>
+		</purchase>
+		<notes>Bought at Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="142">
+		<title>Rise and Fall of Ziggy Stardust and the Spiders from Mars: 30th Anniversay 2CD
+			Edition, The</title>
+		<artist>David Bowie</artist>
+		<purchase>
+			<date>2002-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>2 CDs, received from mom for Christmas</notes>
+	</album>
+	<album id="143">
+		<title>Blues Project Anthology, The</title>
+		<artist>Blues Project</artist>
+		<purchase>
+			<date>2002-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Received from mom for Christmas</notes>
+	</album>
+	<album id="144">
+		<title>Best of Led Zeppelin Volume One: Early Days, The</title>
+		<artist>Led Zeppelin</artist>
+		<purchase>
+			<date>2002-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Received from mom for Christmas</notes>
+	</album>
+	<album id="145">
+		<title>Best of Led Zeppelin Volume Two: Latter Days, The</title>
+		<artist>Led Zeppelin</artist>
+		<purchase>
+			<date>2002-12-25</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Received from mom for Christmas</notes>
+	</album>
+	<album id="146">
+		<title>Heaven and Hell</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-12-28</date>
+			<price>10.79</price>
+		</purchase>
+	</album>
+	<album id="147">
+		<title>City, The</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-12-28</date>
+			<price>13.49</price>
+		</purchase>
+	</album>
+	<album id="148">
+		<title>Opera Sauvage</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2002-12-28</date>
+			<price>11.69</price>
+		</purchase>
+	</album>
+	<album id="149">
+		<title>Private Collection</title>
+		<artist>Jon and Vangelis</artist>
+		<purchase>
+			<date>2002-12-28</date>
+			<price>9.89</price>
+		</purchase>
+	</album>
+	<album id="150">
+		<title>Best of War… And More, The</title>
+		<artist>War</artist>
+		<purchase>
+			<date>2002-12-31</date>
+			<price>8.33</price>
+		</purchase>
+		<notes>Bought at East Madison Borders.</notes>
+	</album>
+	<album id="151">
+		<title>Running on Empty</title>
+		<artist>Jackson Browne</artist>
+		<purchase>
+			<date>2002-12-31</date>
+			<price>8.33</price>
+		</purchase>
+		<notes>Bought at East Madison Borders.</notes>
+	</album>
+	<album id="152">
+		<title>American Beauty</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2002-12-31</date>
+			<price>8.34</price>
+		</purchase>
+		<notes>Bought at East Madison Borders.</notes>
+	</album>
+	<album id="153">
+		<title>Hits</title>
+		<artist>Phil Collins</artist>
+		<purchase>
+			<date>2003-01-05</date>
+			<place>Sam's Club</place>
+			<price>11.88</price>
+		</purchase>
+	</album>
+	<album id="154">
+		<title>Human Touch</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2003-01-09</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Bought at East Madison Borders</notes>
+	</album>
+	<album id="155">
+		<title>Darkness on the Edge of Town</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2003-01-09</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Bought at East Madison Borders</notes>
+	</album>
+	<album id="156">
+		<title>Revisited</title>
+		<artist>Peter Gabriel</artist>
+		<purchase>
+			<date>2003-01-14</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Bought at Best Buy, Green Bay</notes>
+	</album>
+	<album id="157">
+		<title>Built to Last</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2003-01-14</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Bought at Best Buy, Green Bay</notes>
+	</album>
+	<album id="158">
+		<title>Big Ones</title>
+		<artist>Aerosmith</artist>
+		<purchase>
+			<date>2003-02-01</date>
+			<price>10.48</price>
+		</purchase>
+		<notes>Sam's Club (Green Bay)</notes>
+	</album>
+	<album id="159">
+		<title>Trans-Europe Express</title>
+		<artist>Kraftwerk</artist>
+		<purchase>
+			<date>2003-02-01</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy (Green Bay)</notes>
+	</album>
+	<album id="160">
+		<title>Computer World</title>
+		<artist>Kraftwerk</artist>
+		<purchase>
+			<date>2003-02-01</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy (Green Bay)</notes>
+	</album>
+	<album id="161">
+		<title>Puttin' In Overtime</title>
+		<artist>Men at Work</artist>
+		<purchase>
+			<date>2003-02-01</date>
+			<price>6.29</price>
+		</purchase>
+		<notes>Barnes &amp; Noble (Green Bay)</notes>
+	</album>
+	<album id="162">
+		<title>Electric Light Orchestra Part 2</title>
+		<artist>Electric Light Orchestra</artist>
+		<purchase>
+			<date>2003-02-01</date>
+			<price>6.29</price>
+		</purchase>
+		<notes>Barnes &amp; Noble (Green Bay)</notes>
+	</album>
+	<album id="163">
+		<title>Autobahn</title>
+		<artist>Kraftwerk</artist>
+		<purchase>
+			<date>2003-02-10</date>
+			<price>17.52</price>
+		</purchase>
+		<notes>Bought on bn.com</notes>
+	</album>
+	<album id="164">
+		<title>Mona Bone Jakon</title>
+		<artist>Cat Stevens</artist>
+		<purchase>
+			<date>2003-02-22</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy (Green Bay) spent mom's Valentine's money</notes>
+	</album>
+	<album id="165">
+		<title>Numbers</title>
+		<artist>Cat Stevens</artist>
+		<purchase>
+			<date>2003-02-22</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy (Green Bay) spent mom's Valentine's money</notes>
+	</album>
+	<album id="166">
+		<title>S &amp; M</title>
+		<artist>Metallica</artist>
+		<purchase>
+			<date>2003-02-22</date>
+			<price>22.99</price>
+		</purchase>
+		<notes>Best Buy (Green Bay) Had mp3s since Nov 2000</notes>
+	</album>
+	<album id="167">
+		<title>Essentials: Alice Cooper, The</title>
+		<artist>Alice Cooper</artist>
+		<purchase>
+			<date>2003-02-22</date>
+			<price>8.78</price>
+		</purchase>
+		<notes>Sam's Club Green Bay. Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="168">
+		<title>Tea for the Tillerman</title>
+		<artist>Cat Stevens</artist>
+		<purchase>
+			<date>2003-03-07</date>
+			<price>14.99</price>
+		</purchase>
+		<notes>Bought at Green Bay Best Buy</notes>
+	</album>
+	<album id="169">
+		<title>El Greco</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2003-03-14</date>
+			<price>15.99</price>
+		</purchase>
+		<notes>Bought at Best Buy Ashwaubenon/Green Bay</notes>
+	</album>
+	<album id="170">
+		<title>Bat Out of Hell</title>
+		<artist>Meat Loaf</artist>
+		<purchase>
+			<date>2003-03-17</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Bought at Target East Madison</notes>
+	</album>
+	<album id="171">
+		<title>Oceanic</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2003-03-29</date>
+			<price>11.69</price>
+		</purchase>
+		<notes>Barnes &amp; Noble Bookseller (Appleton)</notes>
+	</album>
+	<album id="172">
+		<title>Edgar Allan Poe Audio Collection, The</title>
+		<artist>Basil Rathbone (1-3) &amp; Vincent Price (4-5)</artist>
+		<purchase>
+			<date>2003-04-07</date>
+			<price>29.95</price>
+		</purchase>
+	</album>
+	<album id="173">
+		<title>Greatest Hits 1974-78</title>
+		<artist>Steve Miller Band, The</artist>
+		<purchase>
+			<date>2003-04-10</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="174">
+		<title>Grateful Dawg: The Original Motion Picture Soundtrack</title>
+		<artist>Jerry Garcia &amp; David Grisman</artist>
+		<purchase>
+			<date>2003-04-23</date>
+			<price>14.99</price>
+		</purchase>
+		<notes>ShopKo West Green Bay</notes>
+	</album>
+	<album id="175">
+		<title>Fallen</title>
+		<artist>Evanescence</artist>
+		<purchase>
+			<date>2003-04-23</date>
+			<price>14.99</price>
+		</purchase>
+		<notes>ShopKo West Green Bay</notes>
+	</album>
+	<album id="176">
+		<title>Collection</title>
+		<artist>Keiko Matsui</artist>
+		<purchase>
+			<date>2003-04-26</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="177">
+		<title>Retrospective: The Best of Buffalo Springfield</title>
+		<artist>Buffalo Springfield</artist>
+		<purchase>
+			<date>2003-04-26</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="178">
+		<title>Morrison Hotel</title>
+		<artist>Doors, The</artist>
+		<purchase>
+			<date>2003-04-26</date>
+			<price>11.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="179">
+		<title>Brandy (You're a Fine Girl)</title>
+		<artist>Looking Glass</artist>
+		<purchase>
+			<date>2003-04-28</date>
+			<price>5.34</price>
+		</purchase>
+		<notes>Bought on BN.com</notes>
+	</album>
+	<album id="180">
+		<title>Complete Collection, The</title>
+		<artist>Aphrodite's Child</artist>
+		<purchase>
+			<date>2003-04-28</date>
+			<price>26.34</price>
+		</purchase>
+		<notes>bn.com</notes>
+	</album>
+	<album id="181">
+		<title>Slippery When Wet</title>
+		<artist>Bon Jovi</artist>
+		<purchase>
+			<date>2003-05-03</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="182">
+		<title>Freewheelin' Bob Dylan, The</title>
+		<artist>Bob Dylan</artist>
+		<purchase>
+			<date>2003-05-03</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="183">
+		<title>God Shuffled His Feet</title>
+		<artist>Crash Test Dummies</artist>
+		<purchase>
+			<date>2003-05-03</date>
+			<price>14.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="184">
+		<title>MTV Unplugged in New York</title>
+		<artist>Nirvana</artist>
+		<purchase>
+			<date>2003-05-03</date>
+			<price>13.99</price>
+		</purchase>
+		<notes>Best Buy Green Bay</notes>
+	</album>
+	<album id="185">
+		<title>666</title>
+		<artist>Aphrodite's Child</artist>
+		<purchase>
+			<date>2003-05-07</date>
+			<price>37.52</price>
+		</purchase>
+		<notes>bn.com</notes>
+	</album>
+	<album id="186">
+		<title>Wednesday Morning, 3 A.M. (Disc One of The Columbia Studio Recordings
+			1964-1970)</title>
+		<artist>Simon &amp; Garfunkel</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<price>6.00</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay West. Part of 5 disc box set.</notes>
+	</album>
+	<album id="187">
+		<title>Sounds of Silence (Disc Two of The Columbia Studio Recordings 1964-1970)</title>
+		<artist>Simon &amp; Garfunkel</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<price>6.00</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay West. Part of 5 disc box set.</notes>
+	</album>
+	<album id="188">
+		<title>Parsley, Sage, Rosemary and Thyme (Disc Three of The Columbia Studio Recordings
+			1964-1970)</title>
+		<artist>Simon &amp; Garfunkel</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<price>6.00</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay West. Part of 5 disc box set.</notes>
+	</album>
+	<album id="189">
+		<title>Bookends (Disc Four of The Columbia Studio Recordings 1964-1970)</title>
+		<artist>Simon &amp; Garfunkel</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<price>6.00</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay West. Part of 5 disc box set.</notes>
+	</album>
+	<album id="190">
+		<title>Bridge Over Troubled Water (Disc Five of The Columbia Studio Recordings
+			1964-1970)</title>
+		<artist>Simon &amp; Garfunkel</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<price>6.00</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay West. Part of 5 disc box set.</notes>
+	</album>
+	<album id="191">
+		<title>Paint the Sky with Stars: The Best of Enya</title>
+		<artist>Enya</artist>
+		<purchase>
+			<date>2003-05-29</date>
+			<price>9.78</price>
+		</purchase>
+		<notes>Bought at Sam's Club Green Bay</notes>
+	</album>
+	<album id="192">
+		<title>Live Rust</title>
+		<artist>Neil Young &amp; Crazy Horse</artist>
+		<purchase>
+			<date>2003-06-15</date>
+			<price>9.78</price>
+		</purchase>
+		<notes>Sam's Club Madison West</notes>
+	</album>
+	<album id="193">
+		<title>Very Best of Prince, The</title>
+		<artist>Prince</artist>
+		<purchase>
+			<date>2003-06-15</date>
+			<price>9.78</price>
+		</purchase>
+		<notes>Sam's Club Madison West</notes>
+	</album>
+	<album id="194">
+		<title>Extraterrestrial Live</title>
+		<artist>Blue Öyster Cult</artist>
+		<purchase>
+			<date>2003-07-02</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Best Buy West Green Bay</notes>
+	</album>
+	<album id="195">
+		<title>Fire of Unknown Origin</title>
+		<artist>Blue Öyster Cult</artist>
+		<purchase>
+			<date>2003-07-02</date>
+			<price>9.99</price>
+		</purchase>
+		<notes>Best Buy West Green Bay</notes>
+	</album>
+	<album id="196">
+		<title>Greatest Hits</title>
+		<artist>ZZ Top</artist>
+		<purchase>
+			<date>2003-07-12</date>
+			<price>9.78</price>
+		</purchase>
+		<notes>Sam's Club Green Bay</notes>
+	</album>
+	<album id="197">
+		<title>In the City of Angels</title>
+		<artist>Jon Anderson</artist>
+		<purchase>
+			<date>2003-07-26</date>
+			<price>8.99</price>
+		</purchase>
+		<notes>Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="198">
+		<title>En attendant Cousteau</title>
+		<artist>Jean Michel Jarre</artist>
+		<purchase>
+			<date>2003-07-26</date>
+			<price>15.29</price>
+		</purchase>
+		<notes>Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="199">
+		<title>John Henry</title>
+		<artist>They Might Be Giants</artist>
+		<purchase>
+			<date>2003-07-26</date>
+			<price>11.69</price>
+		</purchase>
+		<notes>Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="200">
+		<title>Adiemus 2 Cantata Mundi</title>
+		<artist>Karl Jenkins</artist>
+		<purchase>
+			<date>2003-07-26</date>
+			<price>11.69</price>
+		</purchase>
+		<notes>Barnes &amp; Noble Ashwaubenon</notes>
+	</album>
+	<album id="201">
+		<title>Beethoven's Greatest Hits</title>
+		<artist>Beethoven</artist>
+		<purchase>
+			<date>2003-09-06</date>
+			<place>Best Buy East Madison (Gift from Mom)</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="202">
+		<title>Bella Donna</title>
+		<artist>Stevie Nicks</artist>
+		<purchase>
+			<date>2003-10-11</date>
+			<place>Sam's Club Green Bay</place>
+			<price>7.86</price>
+		</purchase>
+	</album>
+	<album id="203">
+		<title>Fleetwood Mac</title>
+		<artist>Fleetwood Mac</artist>
+		<purchase>
+			<date>2003-10-11</date>
+			<place>Sam's Club Green Bay</place>
+			<price>7.86</price>
+		</purchase>
+	</album>
+	<album id="204">
+		<title>Dead Letter Office</title>
+		<artist>R.E.M.</artist>
+		<purchase>
+			<date>2003-10-11</date>
+			<place>Best Buy Green Bay</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="205">
+		<title>Very Best of Grateful Dead, The</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2003-10-11</date>
+			<place>Best Buy Green Bay</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="206">
+		<title>Sixty Six to Timbuktu</title>
+		<artist>Robert Plant</artist>
+		<purchase>
+			<date>2003-12-25</date>
+			<place>Gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="207">
+		<title>Greatest Hits 1970-2002</title>
+		<artist>Elton John</artist>
+		<purchase>
+			<date>2003-12-25</date>
+			<place>Gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="208">
+		<title>Live at the Royal Albert Hall</title>
+		<artist>Who, The</artist>
+		<purchase>
+			<date>2003-12-25</date>
+			<place>Gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Sold physical copy for $3 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="209">
+		<title>Very Best of Eagles, The</title>
+		<artist>Eagles</artist>
+		<purchase>
+			<date>2003-12-25</date>
+			<place>Gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="210">
+		<title>Hit: The Definitive Two CD Collection</title>
+		<artist>Peter Gabriel</artist>
+		<purchase>
+			<date>2004-01-25</date>
+			<place>Best Buy</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Stan bought for me.</notes>
+	</album>
+	<album id="211">
+		<title>An American Prayer</title>
+		<artist>Doors, The</artist>
+		<purchase>
+			<date>2004-07-24</date>
+			<place>Barnes &amp; Noble, East Madison</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Mom bought for me, for some reason or other.</notes>
+	</album>
+	<album id="212">
+		<title>Thriller: Special Edition</title>
+		<artist>Michael Jackson</artist>
+		<purchase>
+			<date>2004-08-10</date>
+			<place>Target - East Madison</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="214">
+		<title>Classic Sinatra: His Great Performances 1953 - 1960</title>
+		<artist>Frank Sinatra</artist>
+		<purchase>
+			<date>2004-11-14</date>
+			<place>Target - East Madison</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="215">
+		<title>Best of Emerson, Lake &amp; Palmer, The</title>
+		<artist>Emerson, Lake &amp; Palmer</artist>
+		<purchase>
+			<date>2004-12-25</date>
+			<place>Christmas gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="216">
+		<title>Wind on the Water</title>
+		<artist>David Crosby &amp; Graham Nash</artist>
+		<purchase>
+			<date>2004-12-25</date>
+			<place>Christmas gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="217">
+		<title>Crosby Nash</title>
+		<artist>Crosby Nash</artist>
+		<purchase>
+			<date>2004-12-25</date>
+			<place>Christmas gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="218">
+		<title>Spine</title>
+		<artist>They Might Be Giants</artist>
+		<purchase>
+			<date>2004-12-25</date>
+			<place>Christmas gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="219">
+		<title>Rubber Soul</title>
+		<artist>Beatles, The</artist>
+		<purchase>
+			<date>2004-12-29</date>
+			<place>Best Buy #59 (East Madison)</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="220">
+		<title>Magical Mystery Tour</title>
+		<artist>Beatles, The</artist>
+		<purchase>
+			<date>2004-12-29</date>
+			<place>Best Buy #59 (East Madison)</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="221">
+		<title>Port of Mystery</title>
+		<artist>Yanni</artist>
+		<purchase>
+			<date>2004-12-31</date>
+			<place>ShopKo - East Madison</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Bought for mom along with another, but she already had.</notes>
+	</album>
+	<album id="222">
+		<title>Broadsword and the Beast</title>
+		<artist>Jethro Tull</artist>
+		<purchase>
+			<date>2005-02-19</date>
+			<place>Sam's Club West Madison</place>
+			<price>6.57</price>
+		</purchase>
+		<notes>Three CDs for $19.72.</notes>
+	</album>
+	<album id="223">
+		<title>Crest of a Knave</title>
+		<artist>Jethro Tull</artist>
+		<purchase>
+			<date>2005-02-19</date>
+			<place>Sam's Club West Madison</place>
+			<price>6.57</price>
+		</purchase>
+		<notes>Three CDs for $19.72.</notes>
+	</album>
+	<album id="224">
+		<title>Rock Island</title>
+		<artist>Jethro Tull</artist>
+		<purchase>
+			<date>2005-02-19</date>
+			<place>Sam's Club West Madison</place>
+			<price>6.58</price>
+		</purchase>
+		<notes>Three CDs for $19.72.</notes>
+	</album>
+	<album id="225">
+		<title>Greatest Hits</title>
+		<artist>Al Stewart</artist>
+		<purchase>
+			<date>2005-04-23</date>
+			<place>Best Buy #59 - East Madison</place>
+			<price>10.99</price>
+		</purchase>
+	</album>
+	<album id="226">
+		<title>"White Album"</title>
+		<artist>Beatles, The</artist>
+		<purchase>
+			<date>2005-04-23</date>
+			<place>Best Buy #59 - East Madison</place>
+			<price>29.99</price>
+		</purchase>
+	</album>
+	<album id="227">
+		<title>Alexander: Original Motion Picture Soundtrack</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2005-04-23</date>
+			<place>Borders East Madison</place>
+			<price>18.98</price>
+		</purchase>
+	</album>
+	<album id="228">
+		<title>Greatest Hits</title>
+		<artist>Beach Boys, The</artist>
+		<purchase>
+			<date>2005-09-03</date>
+			<place>Wal-Mart, West Madison</place>
+			<price>9.72</price>
+		</purchase>
+	</album>
+	<album id="229">
+		<title>Tracks</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2005-11-27</date>
+			<place>Sam's Club Madison</place>
+			<price>34.48</price>
+		</purchase>
+	</album>
+	<album id="230">
+		<title>Cripple Crow</title>
+		<artist>Devendra Banhart</artist>
+		<purchase>
+			<date>2006-01-05</date>
+			<place>Best Buy East Madison</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="231">
+		<title>Bruce Springsteen: The Classic Interviews</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2006-01-05</date>
+			<place>Best Buy East Madison</place>
+			<price>11.99</price>
+		</purchase>
+		<notes>Spoken - Import from England</notes>
+	</album>
+	<album id="232">
+		<title>Hotel</title>
+		<artist>Moby</artist>
+		<purchase>
+			<date>2006-01-05</date>
+			<place>Best Buy East Madison</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="233">
+		<title>Synchronicity</title>
+		<artist>Police, The</artist>
+		<purchase>
+			<date>2006-08-20</date>
+			<place>Best Buy #208</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="234">
+		<title>Super Hits</title>
+		<artist>New Kids on the Block</artist>
+		<purchase>
+			<date>2006-09-23</date>
+			<place>Best Buy, West Madison</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Gift from mom (was 6.99).</notes>
+	</album>
+	<album id="235">
+		<title>Hits!</title>
+		<artist>Boz Scaggs</artist>
+		<purchase>
+			<date>2006-12-04</date>
+			<place>Best Buy #208</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="236">
+		<title>Best of R.E.M.: In Time 1988-2003</title>
+		<artist>R.E.M.</artist>
+		<purchase>
+			<date>2006-12-04</date>
+			<place>Best Buy #208</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="237">
+		<title>Aerodynamik</title>
+		<artist>Kraftwerk</artist>
+		<purchase>
+			<date>2006-12-23</date>
+			<place>The Exclusive Company (West Madison)</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="238">
+		<title>Expo Remix</title>
+		<artist>Kraftwerk</artist>
+		<purchase>
+			<date>2006-12-23</date>
+			<place>The Exclusive Company (West Madison)</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="239">
+		<title>Apollo 18</title>
+		<artist>They Might Be Giants</artist>
+		<purchase>
+			<date>2006-12-23</date>
+			<place>The Exclusive Company (West Madison)</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="240">
+		<title>Carpenters Gold</title>
+		<artist>Carpenters</artist>
+		<purchase>
+			<date>2007-01-17</date>
+			<place>Sam's Club - Madison</place>
+			<price>15.23</price>
+		</purchase>
+	</album>
+	<album id="241">
+		<title>Full Moon</title>
+		<artist>Charlie Daniels</artist>
+		<purchase>
+			<date>2007-01-04</date>
+			<place>iTunes</place>
+			<price>8.91</price>
+		</purchase>
+	</album>
+	<album id="242">
+		<title>Calamine</title>
+		<artist>Calamine</artist>
+		<purchase>
+			<date>2007-01-04</date>
+			<place>iTunes</place>
+			<price>5.94</price>
+		</purchase>
+	</album>
+	<album id="243">
+		<title>Devils &amp; Dust</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-02-28</date>
+			<place>Wal-Mart, East Madison</place>
+			<price>14.88</price>
+		</purchase>
+	</album>
+	<album id="244">
+		<title>Greatest Hits</title>
+		<artist>Guns N Roses</artist>
+		<purchase>
+			<date>2007-03-10</date>
+			<place>ShopKo Store #032 (Monona)</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="245">
+		<title>Essential John Denver, The</title>
+		<artist>John Denver</artist>
+		<purchase>
+			<date>2007-03-24</date>
+			<place>Sam's Club, West Madison</place>
+			<price>15.23</price>
+		</purchase>
+	</album>
+	<album id="246">
+		<title>Revolver</title>
+		<artist>Beatles, The</artist>
+		<purchase>
+			<date>2007-05-27</date>
+			<place>Target, Fond du Lac</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Bought by mom, was $9.99.</notes>
+	</album>
+	<album id="247">
+		<title>Retrospectacle: The Supertramp Anthology</title>
+		<artist>Supertramp</artist>
+		<purchase>
+			<date>2007-07-14</date>
+			<place>Gift from mom</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="248">
+		<title>Sgt. Pepper's Lonely Hearts Club Band</title>
+		<artist>Beatles</artist>
+		<purchase>
+			<date>2007-07-21</date>
+			<place>Best Buy #667 (Delafield WI)</place>
+			<price>13.99</price>
+		</purchase>
+	</album>
+	<album id="249">
+		<title>Live in Dublin</title>
+		<artist>Bruce Springsteen with the Sessions Band</artist>
+		<purchase>
+			<date>2007-07-21</date>
+			<place>Best Buy #667 (Delafield WI)</place>
+			<price>16.99</price>
+		</purchase>
+	</album>
+	<album id="250">
+		<title>We Shall Overcome - The Seeger Sessions: American Land Edition</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-07-21</date>
+			<place>Best Buy #667 (Delafield WI)</place>
+			<price>19.99</price>
+		</purchase>
+	</album>
+	<album id="251">
+		<title>Essential Bruce Springsteen, The</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-09-27</date>
+			<place>Amazon.com</place>
+			<price>14.97</price>
+		</purchase>
+	</album>
+	<album id="252">
+		<title>Bruce Springsteen &amp; The E Street Band: Hammersmith Odeon, London '75</title>
+		<artist>Bruce Sprinsteen</artist>
+		<purchase>
+			<date>2007-09-27</date>
+			<place>Amazon.com</place>
+			<price>14.97</price>
+		</purchase>
+	</album>
+	<album id="253">
+		<title>Born to Run: 30th Anniversary</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-09-27</date>
+			<place>Amazon.com</place>
+			<price>23.97</price>
+		</purchase>
+	</album>
+	<album id="254">
+		<title>Magic</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-10-31</date>
+			<place>Best Buy (West Madison)</place>
+			<price>14.99</price>
+		</purchase>
+	</album>
+	<album id="255">
+		<title>Pizza Tapes, The</title>
+		<artist>Jerry Garcia, David Grisman, Tony Rice</artist>
+		<purchase>
+			<date>2007-10-31</date>
+			<place>Best Buy (West Madison)</place>
+			<price>14.99</price>
+		</purchase>
+	</album>
+	<album id="256">
+		<title>Well-Matched: The Best of Merl Saunders &amp; Jerry Garcia</title>
+		<artist>Merl Saunders, Jerry Garcia</artist>
+		<purchase>
+			<date>2007-10-31</date>
+			<place>Best Buy (West Madison)</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="257">
+		<title>If I Could Turn Back Time - Cher's Greatest Hits</title>
+		<artist>Cher</artist>
+		<purchase>
+			<date>2007-02-17</date>
+			<place>iTunes</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="258">
+		<title>Discography: The Complete Singles Collection</title>
+		<artist>Pet Shop Boys</artist>
+		<purchase>
+			<date>2007-02-17</date>
+			<place>iTunes</place>
+			<price>12.90</price>
+		</purchase>
+	</album>
+	<album id="259">
+		<title>Chimes of Freedom (Live) - EP + Santa Claus Single</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2007-09-23</date>
+			<place>iTunes</place>
+			<price>4.95</price>
+		</purchase>
+	</album>
+	<album id="260">
+		<title>Diary of Alicia Keys, The</title>
+		<artist>Alicia Keys</artist>
+		<purchase>
+			<date>2007-11-14</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="261">
+		<title>Morningmusume All Singles Complete - 10th Anniversary</title>
+		<artist>Morningmusume</artist>
+		<purchase>
+			<date>2007-11-14</date>
+			<place>iTunes</place>
+			<price>19.98</price>
+		</purchase>
+	</album>
+	<album id="262">
+		<title>Mes courants électriques</title>
+		<artist>Alizée</artist>
+		<purchase>
+			<date>2008-01-04</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="263">
+		<title>The Downward Spiral</title>
+		<artist>Nine Inch Nails</artist>
+		<purchase>
+			<date>2008-01-04</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="264">
+		<title>Gourmandises</title>
+		<artist>Alizée</artist>
+		<purchase>
+			<date>2008-01-04</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+	</album>
+	<album id="265">
+		<title>No Doubt: The Singles 1992-2003</title>
+		<artist>No Doubt</artist>
+		<purchase>
+			<date>2008-01-05</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="266">
+		<title>Björk's Greatest Hits</title>
+		<artist>Björk</artist>
+		<purchase>
+			<date>2008-01-05</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="267">
+		<title>Road Tested - Live 2003-2005</title>
+		<artist>Sage Francis</artist>
+		<purchase>
+			<date>2008-01-10</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="268">
+		<title>At Worse...The Best Of Boy George And Culture Club</title>
+		<artist>Culture Club</artist>
+		<purchase>
+			<date>2008-01-13</date>
+			<place>Exclusive Company (West Madison)</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="269">
+		<title>Tumbleweed Connection</title>
+		<artist>Elton John</artist>
+		<purchase>
+			<date>2008-01-13</date>
+			<place>Exclusive Company (West Madison)</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Sold physical copy for $2 on 2/2/2013 to Mega Media Xchange (7610 Mineral Point Rd, Madison WI).</notes>
+	</album>
+	<album id="270">
+		<title>They Only Come Out At Night</title>
+		<artist>Edgar Winter Group, The</artist>
+		<purchase>
+			<date>2008-01-13</date>
+			<place>Exclusive Company (West Madison)</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="271">
+		<title>Blue</title>
+		<artist>Joni Mitchell</artist>
+		<purchase>
+			<date>2008-01-27</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+	</album>
+	<album id="272">
+		<title>Alright, Still</title>
+		<artist>Lily Allen</artist>
+		<purchase>
+			<date>2008-01-27</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="273">
+		<title>I.V. - Single</title>
+		<artist>X Japan</artist>
+		<purchase>
+			<date>2008-03-08</date>
+			<place>iTunes</place>
+			<price>0.99</price>
+		</purchase>
+	</album>
+	<album id="274">
+		<title>Jenifer</title>
+		<artist>Jenifer</artist>
+		<purchase>
+			<date>2008-03-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="275">
+		<title>Le meilleur de Mélanie Cohl</title>
+		<artist>Mélanie Cohl</artist>
+		<purchase>
+			<date>2008-03-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="276">
+		<title>Celtic Woman</title>
+		<artist>Celtic Woman</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="277">
+		<title>Best of Peter, Paul &amp; Mary: Ten Years Together</title>
+		<artist>Peter, Paul &amp; Mary</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="278">
+		<title>In-A-Gadda-Da-Vida</title>
+		<artist>Iron Butterfly</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="279">
+		<title>Best of Ten Years (1976-1986)</title>
+		<artist>Kitaro</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="280">
+		<title>Kojiki</title>
+		<artist>Kitaro</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="281">
+		<title>Astral Voyage</title>
+		<artist>Kitaro</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="282">
+		<title>Reiki: The Light Touch</title>
+		<artist>Merlin's Magic</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="283">
+		<title>The Celts</title>
+		<artist>Enya</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="284">
+		<title>Devotion</title>
+		<artist>Yanni</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="285">
+		<title>Chameleon Days</title>
+		<artist>Yanni</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="286">
+		<title>The Memory of Trees</title>
+		<artist>Enya</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="287">
+		<title>Watermark</title>
+		<artist>Enya</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="288">
+		<title>Fruit Cake</title>
+		<artist>Jimmy Buffett</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="289">
+		<title>Nightbird</title>
+		<artist>Yanni</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="290">
+		<title>Songs from A Secret Garden</title>
+		<artist>Secret Garden</artist>
+		<purchase>
+			<date>2008-05-03</date>
+			<place>Connie</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>From Connie.</notes>
+	</album>
+	<album id="291">
+		<title>The Rythm of the Saints</title>
+		<artist>Paul Simon</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="292">
+		<title>Hello, I Must Be Going!</title>
+		<artist>Phil Collins</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="293">
+		<title>Unplugged</title>
+		<artist>Eric Clapton</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="294">
+		<title>Riding with the King</title>
+		<artist>B.B. King and Eric Clapton</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="295">
+		<title>Live and Sleazy</title>
+		<artist>Village People</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="296">
+		<title>On the Road to Kingdom Come</title>
+		<artist>Harry Chapin</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="297">
+		<title>Morning Has Broken</title>
+		<artist>Cat Stevens</artist>
+		<purchase>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="298">
+		<title>Nevermind</title>
+		<artist>Nirvana</artist>
+		<purchase>
+			<place>Tiffany's collection</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="299">
+		<title>Tupelo Honey</title>
+		<artist>Van Morrison</artist>
+		<purchase>
+			<date>2008-05-18</date>
+			<place>Mega Media Xchange (Madison WI)</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="300">
+		<title>Cats Under the Stars</title>
+		<artist>Jerry Garcia Band</artist>
+		<purchase>
+			<date>2008-05-18</date>
+			<place>Mega Media Xchange (Madison WI)</place>
+			<price>6.99</price>
+		</purchase>
+	</album>
+	<album id="301">
+		<title>Terrapin Station</title>
+		<artist>Grateful Dead</artist>
+		<purchase>
+			<date>2008-05-18</date>
+			<place>Mega Media Xchange (Madison WI)</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="302">
+		<title>The Legendary Jim Croce: Volume 2</title>
+		<artist>Jim Croce</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="303">
+		<title>Greatest Hits</title>
+		<artist>Cat Stevens</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="304">
+		<title>Tapestry</title>
+		<artist>Carole King</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="305">
+		<title>Something About The Way You Look Tonight</title>
+		<artist>Elton John</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="306">
+		<title>The Very Best of Fleetwood Mac</title>
+		<artist>Fleetwood Mac</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="307">
+		<title>12 Gardens Live</title>
+		<artist>Billy Joel</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="308">
+		<title>All the Greatest Hits</title>
+		<artist>Diana Ross</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="309">
+		<title>All the Best</title>
+		<artist>Tina Turner</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="310">
+		<title>Shepherd Moons</title>
+		<artist>Enya</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="311">
+		<title>Captain Fantastic and the Brown Dirt Cowboy</title>
+		<artist>Elton John</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="312">
+		<title>Words &amp; Music: John Mellencamp's Greatest Hits</title>
+		<artist>John Mellencamp</artist>
+		<purchase>
+			<date>2008-05-30</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="313">
+		<title>An Other Cup</title>
+		<artist>Yusuf</artist>
+		<purchase>
+			<date>2006-12-22</date>
+			<place>Mom's collection</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's collection.</notes>
+	</album>
+	<album id="314">
+		<title>T.A.T.U.: The Best</title>
+		<artist>T.A.T.U.</artist>
+		<purchase>
+			<date>2008-06-27</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="315">
+		<title>Re-Creation</title>
+		<artist>Naked Music</artist>
+		<purchase>
+			<date>2008-06-27</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="316">
+		<title>Twelve Deadly Cyns ... And Then Some</title>
+		<artist>Cyndi Lauper</artist>
+		<purchase>
+			<date>2008-04-17</date>
+			<place>Mom's library</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="317">
+		<title>Bring Ya To The Brink</title>
+		<artist>Cyndi Lauper</artist>
+		<purchase>
+			<date>2008-06-21</date>
+			<place>Mom's library</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="318">
+		<title>Crystal Visions... The Very Best of Stevie Nicks</title>
+		<artist>Stevie Nicks</artist>
+		<purchase>
+			<date>2008-06-21</date>
+			<place>Mom's library</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="319">
+		<title>Faith</title>
+		<artist>George Michael</artist>
+		<purchase>
+			<date>2008-08-03</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="320">
+		<title>Quelqu'un M'a Dit</title>
+		<artist>Carla Bruni</artist>
+		<purchase>
+			<date>2008-08-03</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="321">
+		<title>Unleashed Memories</title>
+		<artist>Lacuna Coil</artist>
+		<purchase>
+			<place>Ralph Gadbois</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Ralph had a copy he lent to me, I believe.</notes>
+	</album>
+	<album id="322">
+		<title>Harmonium</title>
+		<artist>Vanessa Carlton</artist>
+		<notes>Mom's copy.</notes>
+	</album>
+	<album id="323">
+		<title>Paprika (From the Motion Picture)</title>
+		<artist>Susumu Hirasawa</artist>
+		<purchase>
+			<date>2008-08-24</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="324">
+		<title>Music</title>
+		<artist>Carole King</artist>
+		<purchase>
+			<date>2008-09-05</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's stash.</notes>
+	</album>
+	<album id="325">
+		<title>Really Rosie</title>
+		<artist>Carole King</artist>
+		<purchase>
+			<date>2008-09-05</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Part of mom's stash.</notes>
+	</album>
+	<album id="326">
+		<title>Kathy's Song - EP</title>
+		<artist>Apoptygma Berzerk</artist>
+		<purchase>
+			<date>2008-09-12</date>
+			<place>iTunes</place>
+			<price>5.94</price>
+		</purchase>
+	</album>
+	<album id="327">
+		<title>Mezzanine</title>
+		<artist>Massive Attack</artist>
+		<purchase>
+			<date>2008-10-03</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="328">
+		<title>Simple Things</title>
+		<artist>Zero 7</artist>
+		<purchase>
+			<date>2008-10-03</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="329">
+		<title>The Mirror Conspiracy</title>
+		<artist>Thievery Corporation</artist>
+		<purchase>
+			<date>2008-10-03</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="330">
+		<title>Blue Blood</title>
+		<artist>X Japan</artist>
+		<purchase>
+			<date>2008-10-14</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="331">
+		<title>Jealousy</title>
+		<artist>X Japan</artist>
+		<purchase>
+			<date>2008-10-14</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+	</album>
+	<album id="332">
+		<title>As I Am</title>
+		<artist>Alicia Keys</artist>
+		<purchase>
+			<date>2008-10-18</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="333">
+		<title>Left Of The Middle</title>
+		<artist>Natalie Imbruglia</artist>
+		<purchase>
+			<date>2008-10-28</date>
+			<place>Borrowed from Rob Lumley.</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Borrowed from Rob Lumley.</notes>
+	</album>
+	<album id="334">
+		<title>White Lilies Island</title>
+		<artist>Natalie Imbruglia</artist>
+		<purchase>
+			<date>2008-10-28</date>
+			<place>Borrowed from Rob Lumley.</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Borrowed from Rob Lumley.</notes>
+	</album>
+	<album id="335">
+		<title>Dummy</title>
+		<artist>Portishead</artist>
+		<purchase>
+			<date>2008-11-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="336">
+		<title>Bing Crosby - Christmas Classics</title>
+		<artist>Bing Crosby</artist>
+		<purchase>
+			<date>2008-11-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="337">
+		<title>Felt Mountain</title>
+		<artist>Goldfrapp</artist>
+		<purchase>
+			<date>2008-11-25</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="338">
+		<title>Earth Mover</title>
+		<artist>Cosmic Gate</artist>
+		<purchase>
+			<date>2008-12-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="339">
+		<title>Flight of the Conchords</title>
+		<artist>Flight of the Conchords</artist>
+		<purchase>
+			<date>2008-12-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Group recommended by Jessica Parins.</notes>
+	</album>
+	<album id="340">
+		<title>Heroes &amp; Thieves</title>
+		<artist>Vanessa Carlton</artist>
+		<purchase>
+			<date>2008-12-26</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="341">
+		<title>Be Not Nobody</title>
+		<artist>Vanessa Carlton</artist>
+		<purchase>
+			<date>2008-12-26</date>
+			<place>iTunes</place>
+			<price>6.99</price>
+		</purchase>
+	</album>
+	<album id="342">
+		<title>Le sac des filles</title>
+		<artist>Camille</artist>
+		<purchase>
+			<date>2009-01-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="343">
+		<title>Pure Moods</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2002-07-07</date>
+			<place>Barnes &amp; Noble</place>
+			<price>16.19</price>
+		</purchase>
+	</album>
+	<album id="344">
+		<title>Casey Kasem Presents America's Top 10 1970s: The Singers/Songwriters</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2002-07-14</date>
+			<place>Bought at Sam's Club.</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="345">
+		<title>Music From the Television Series "Miami Vice"</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2002-07-17</date>
+			<price>4.99</price>
+		</purchase>
+		<notes>Some store on State St.</notes>
+	</album>
+	<album id="346">
+		<title>Strange Days: Music from the Motion Picture</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2003-01-14</date>
+			<place>BN.com</place>
+			<price>10.37</price>
+		</purchase>
+	</album>
+	<album id="347">
+		<title>Freejack Soundtrack</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2003-05-25</date>
+			<place>Farm and Fleet Madison East</place>
+			<price>3.99</price>
+		</purchase>
+	</album>
+	<album id="348">
+		<title>Kill Bill Volume 1 Original Soundtrack</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2003-11-08</date>
+			<place>Best Buy Green Bay</place>
+			<price>15.99</price>
+		</purchase>
+	</album>
+	<album id="349">
+		<title>Bach: The Cello Suites</title>
+		<artist>Yo-Yo Ma</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>12.99</price>
+		</purchase>
+	</album>
+	<album id="350">
+		<title>50 Techno Trance Anthems, Vol. 2</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="351">
+		<title>Moondance</title>
+		<artist>Van Morrison</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>8.99</price>
+		</purchase>
+	</album>
+	<album id="352">
+		<title>The Reminder</title>
+		<artist>Feist</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="353">
+		<title>Living In America</title>
+		<artist>The Sounds</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="354">
+		<title>Oracular Spectacular</title>
+		<artist>MGMT</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="355">
+		<title>Unplugged</title>
+		<artist>Alicia Keys</artist>
+		<purchase>
+			<date>2009-01-23</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="356">
+		<title>Working On a Dream</title>
+		<artist>Bruce Springsteen</artist>
+		<purchase>
+			<date>2009-01-27</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="357">
+		<title>Melody A.M.</title>
+		<artist>Royksopp</artist>
+		<purchase>
+			<date>2009-01-27</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="358">
+		<title>Let It Die</title>
+		<artist>Feist</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="359">
+		<title>You Are Free</title>
+		<artist>Cat Power</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="360">
+		<title>Back to Front</title>
+		<artist>Lionel Richie</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="361">
+		<title>Number Ones</title>
+		<artist>Michael Jackson</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="362">
+		<title>Collision Course - EP</title>
+		<artist>Jay-Z &amp; Linkin Park</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>5.94</price>
+		</purchase>
+	</album>
+	<album id="363">
+		<title>Reasonable Doubt</title>
+		<artist>Jay-Z</artist>
+		<purchase>
+			<date>2009-02-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="364">
+		<title>It's Not Me, It's You</title>
+		<artist>Lily Allen</artist>
+		<purchase>
+			<date>2009-02-10</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="365">
+		<title>Kind of Blue</title>
+		<artist>Miles Davis</artist>
+		<purchase>
+			<date>2009-02-10</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="366">
+		<title>Portishead</title>
+		<artist>Portishead</artist>
+		<purchase>
+			<date>2009-02-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="367">
+		<title>Speak for Yourself</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-02-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="368">
+		<title>Begin to Hope</title>
+		<artist>Regina Spektor</artist>
+		<purchase>
+			<date>2009-02-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="369">
+		<title>Win the Game</title>
+		<artist>Paola &amp; Chiara</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="370">
+		<title>Loose (iTunes Version)</title>
+		<artist>Nelly Furtado</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="371">
+		<title>Given to Sudden Panic and Noisy Retreat</title>
+		<artist>Angie Mattson</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="372">
+		<title>X &amp; Y</title>
+		<artist>Coldplay</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="373">
+		<title>Blue Lines</title>
+		<artist>Massive Attack</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>8.91</price>
+		</purchase>
+	</album>
+	<album id="374">
+		<title>Maxinquaye</title>
+		<artist>Tricky</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="375">
+		<title>Psychédélices</title>
+		<artist>Alizée</artist>
+		<purchase>
+			<date>2009-03-01</date>
+			<place>Amazon.com</place>
+			<price>24.98</price>
+		</purchase>
+	</album>
+	<album id="376">
+		<title>Supernature</title>
+		<artist>Goldfrapp</artist>
+		<purchase>
+			<date>2009-03-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="377">
+		<title>The Fame</title>
+		<artist>Lady GaGa</artist>
+		<purchase>
+			<date>2009-03-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="378">
+		<title>If These Trees Could Talk</title>
+		<artist>If These Trees Could Talk</artist>
+		<purchase>
+			<date>2009-03-14</date>
+			<place>iTunes</place>
+			<price>5.94</price>
+		</purchase>
+	</album>
+	<album id="379">
+		<title>Panopticon</title>
+		<artist>Isis</artist>
+		<purchase>
+			<date>2009-03-14</date>
+			<place>iTunes</place>
+			<price>6.93</price>
+		</purchase>
+	</album>
+	<album id="380">
+		<title>City of Echoes</title>
+		<artist>Pelican</artist>
+		<purchase>
+			<date>2009-03-14</date>
+			<place>iTunes</place>
+			<price>7.92</price>
+		</purchase>
+	</album>
+	<album id="381">
+		<title>A String Cheese Incident</title>
+		<artist>The String Cheese Incident</artist>
+		<purchase>
+			<date>2009-03-29</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="382">
+		<title>Lawn Boy</title>
+		<artist>Phish</artist>
+		<purchase>
+			<date>2009-03-29</date>
+			<place>iTunes</place>
+			<price>8.99</price>
+		</purchase>
+	</album>
+	<album id="383">
+		<title>Moon Safari</title>
+		<artist>Air</artist>
+		<purchase>
+			<date>2009-03-29</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="384">
+		<title>Le soleil est près de moi - Single (Remixes)</title>
+		<artist>Air</artist>
+		<purchase>
+			<date>2009-03-29</date>
+			<place>iTunes</place>
+			<price>1.98</price>
+		</purchase>
+	</album>
+	<album id="385">
+		<title>Le soleil est près de moi - EP</title>
+		<artist>Air</artist>
+		<purchase>
+			<date>2009-03-29</date>
+			<place>iTunes</place>
+			<price>3.49</price>
+		</purchase>
+	</album>
+	<album id="386">
+		<title>Fur and Gold</title>
+		<artist>Bat for Lashes</artist>
+		<purchase>
+			<date>2009-04-07</date>
+			<place>iTunes</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="387">
+		<title>It's Blitz!</title>
+		<artist>Yeah Yeah Yeahs</artist>
+		<purchase>
+			<date>2009-04-07</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="388">
+		<title>1986 - EP</title>
+		<artist>Kavinsky</artist>
+		<purchase>
+			<date>2009-04-19</date>
+			<place>iTunes</place>
+			<price>3.99</price>
+		</purchase>
+	</album>
+	<album id="389">
+		<title>Alive 2007</title>
+		<artist>Daft Punk</artist>
+		<purchase>
+			<date>2009-04-19</date>
+			<place>iTunes</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="390">
+		<title>Discovery</title>
+		<artist>Daft Punk</artist>
+		<purchase>
+			<date>2009-04-19</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="391">
+		<title>Hybrid Theory (Bonus Version)</title>
+		<artist>Linkin Park</artist>
+		<purchase>
+			<date>2009-04-19</date>
+			<place>iTunes</place>
+			<price>11.99</price>
+		</purchase>
+	</album>
+	<album id="392">
+		<title>Goodnight and Go - Single</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>1.98</price>
+		</purchase>
+	</album>
+	<album id="393">
+		<title>Cumulus - Single</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>0.99</price>
+		</purchase>
+	</album>
+	<album id="394">
+		<title>Not Now But Soon - Single</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>0.99</price>
+		</purchase>
+	</album>
+	<album id="395">
+		<title>Urban Angel</title>
+		<artist>Natalie Walker</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="396">
+		<title>Madita</title>
+		<artist>Madita</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="397">
+		<title>Too</title>
+		<artist>Madita</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="398">
+		<title>Angel Milk</title>
+		<artist>Télépopmusik</artist>
+		<purchase>
+			<date>2009-05-08</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="399">
+		<title>Re-Arrange Us</title>
+		<artist>Mates of State</artist>
+		<purchase>
+			<date>2009-05-14</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+	</album>
+	<album id="400">
+		<title>Happy Smiles</title>
+		<artist>T.A.T.U.</artist>
+		<purchase>
+			<date>2009-05-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="401">
+		<title>(A)spera</title>
+		<artist>Mirah</artist>
+		<purchase>
+			<date>2009-05-25</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+	</album>
+	<album id="402">
+		<title>The Con</title>
+		<artist>Tegan and Sara</artist>
+		<purchase>
+			<date>2009-05-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="403">
+		<title>Want</title>
+		<artist>3OH!3</artist>
+		<purchase>
+			<date>2009-05-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="404">
+		<title>The Odd Couple</title>
+		<artist>Gnarls Barkley</artist>
+		<purchase>
+			<date>2009-05-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="405">
+		<title>Nymphetamine</title>
+		<artist>Cradle of Filth</artist>
+		<purchase>
+			<date>2009-06-01</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="406">
+		<title>Antichrist Superstar</title>
+		<artist>Marilyn Manson</artist>
+		<purchase>
+			<date>2009-06-01</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="407">
+		<title>So Jealous</title>
+		<artist>Tegan and Sara</artist>
+		<purchase>
+			<date>2009-06-02</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="408">
+		<title>Philosophy Of The World</title>
+		<artist>The Shaggs</artist>
+		<purchase>
+			<date>2009-06-02</date>
+		</purchase>
+		<notes>Loaned from Tiffany Skemp, courtesy of Jeff.</notes>
+	</album>
+	<album id="409">
+		<title>The Dock of the Bay</title>
+		<artist>Otis Redding</artist>
+		<purchase>
+			<date>2009-06-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="410">
+		<title>Superfly (Soundtrack from the Motion Picture)</title>
+		<artist>Curtis Mayfield</artist>
+		<purchase>
+			<date>2009-06-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="411">
+		<title>What's Going On (Remastered)</title>
+		<artist>Marvin Gaye</artist>
+		<purchase>
+			<date>2009-06-19</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="412">
+		<title>Vulgar Display Of Power</title>
+		<artist>Pantera</artist>
+		<purchase>
+			<date>2009-06-21</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="413">
+		<title>Emperor Tomato Ketchup</title>
+		<artist>Stereolab</artist>
+		<purchase>
+			<date>2009-06-22</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="414">
+		<title>Dots And Loops</title>
+		<artist>Stereolab</artist>
+		<purchase>
+			<date>2009-06-22</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="415">
+		<title>Sound-Dust</title>
+		<artist>Stereolab</artist>
+		<purchase>
+			<date>2009-06-22</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="416">
+		<title>Happy End of the World</title>
+		<artist>Pizzicato Five</artist>
+		<purchase>
+			<date>2009-06-25</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="417">
+		<title>Heavy Metal: Music From the Motion Picture</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-06-18</date>
+			<place>Amazon.com</place>
+			<price>6.97</price>
+		</purchase>
+		<notes>Delivered on June 27 2009.</notes>
+	</album>
+	<album id="418">
+		<title>Two Suns</title>
+		<artist>Bat for Lashes</artist>
+		<purchase>
+			<date>2009-06-28</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="419">
+		<title>Still Night, Still Light</title>
+		<artist>Au Revoir Simone</artist>
+		<purchase>
+			<date>2009-06-28</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Recommended by my sister. Seemed to like another of their albums too, but went with this one, having watched the music videos for them.</notes>
+	</album>
+	<album id="420">
+		<title>Structure &amp; Cosmetics</title>
+		<artist>The Brunettes</artist>
+		<purchase>
+			<date>2009-07-01</date>
+			<place>iTunes</place>
+			<price>8.91</price>
+		</purchase>
+		<notes>Recommended because of Au Revoir Simone.</notes>
+	</album>
+	<album id="421">
+		<title>Underachievers Please Try Harder</title>
+		<artist>Camera Obscura</artist>
+		<purchase>
+			<date>2009-07-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes></notes>
+	</album>
+	<album id="422">
+		<title>The Great Unwanted</title>
+		<artist>Lucky Soul</artist>
+		<purchase>
+			<date>2009-07-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Probably because of adding The Brunettes and Camera Obscura.</notes>
+	</album>
+	<album id="423">
+		<title>Neon Bible</title>
+		<artist>Arcade Fire</artist>
+		<purchase>
+			<date>2009-07-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="424">
+		<title>Reverse Migration</title>
+		<artist>Au Revoir Simone</artist>
+		<purchase>
+			<date>2009-07-01</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="425">
+		<title>Greatest Hits: Grand Funk Railroad</title>
+		<artist>Grand Funk Railroad</artist>
+		<purchase>
+			<date>2009-07-07</date>
+		</purchase>
+		<notes>Loaned from my mom.</notes>
+	</album>
+	<album id="426">
+		<title>The Best of the Animals</title>
+		<artist>The Animals</artist>
+		<purchase>
+			<date>2009-08-02</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+	</album>
+	<album id="427">
+		<title>Innovator</title>
+		<artist>Derrick May</artist>
+		<purchase>
+			<date>2009-08-09</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Recommendation from The 25 Greatest Elecontric Albums of the 20th Century at http://www.slantmagazine.com/music/features/2520electronicalbums.asp</notes>
+	</album>
+	<album id="428">
+		<title>Rendezvous</title>
+		<artist>French Affair</artist>
+		<purchase>
+			<date>2009-08-09</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Recommendation because of Mélanie Cohl, Jenifer, and Alizée purchases.</notes>
+	</album>
+	<album id="429">
+		<title>Selected Ambient Works 85-92</title>
+		<artist>Aphex Twin</artist>
+		<purchase>
+			<date>2009-08-09</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Recommendation from The 25 Greatest Elecontric Albums of the 20th Century at http://www.slantmagazine.com/music/features/2520electronicalbums.asp</notes>
+	</album>
+	<album id="430">
+		<title>Verses Of Comfort, Assurance &amp; Salvation</title>
+		<artist>Au Revoir Simone</artist>
+		<purchase>
+			<date>2009-08-12</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>7.12</price>
+		</purchase>
+		<notes>80 cents cheaper than iTunes.</notes>
+	</album>
+	<album id="431">
+		<title>First Train Home - Single</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-08-20</date>
+			<place>iTunes</place>
+			<price>0.99</price>
+		</purchase>
+		<notes>Pre-ordered Ellipse and received first track (as single). Didn't check whether Amazon was cheaper, but looks like they don't even have available for pre-order; they just have the single.</notes>
+	</album>
+	<album id="432">
+		<title>Melankton</title>
+		<artist>Kate Havnevik</artist>
+		<purchase>
+			<date>2009-08-20</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>Recommended because of Imogen Heap and Natalie Walker (Urban Angel). 50 cents cheaper than iTunes.</notes>
+	</album>
+	<album id="433">
+		<title>The Earth Is Not a Cold Dead Place</title>
+		<artist>Explosions In The Sky</artist>
+		<purchase>
+			<date>2009-08-22</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>4.95</price>
+		</purchase>
+		<notes>In under $4.99 area on Amazon, high reviews, and the clips sounded good. $9.99 on iTunes.</notes>
+	</album>
+	<album id="434">
+		<title>I Megaphone</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-08-24</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>$9.90 on iTunes.</notes>
+	</album>
+	<album id="435">
+		<title>In These Arms</title>
+		<artist>The Swell Season</artist>
+		<purchase>
+			<date>2009-08-24</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>0.99</price>
+		</purchase>
+		<notes>Featured on Amazon's MP3 home page. Sounds really good, so ... $1.29 on iTunes.</notes>
+	</album>
+	<album id="436">
+		<title>The Swell Season</title>
+		<artist>Glen Hansard and Marketa Irglova</artist>
+		<purchase>
+			<date>2009-08-24</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Really enjoyed In These Arms single, so purchased this album as well. Tempted to buy the soundtrack to Once instead, but this is probably the best place to start. $9.90 on iTunes.</notes>
+	</album>
+	<album id="437">
+		<title>Ellipse (Bonus Track Version)</title>
+		<artist>Imogen Heap</artist>
+		<purchase>
+			<date>2009-08-20</date>
+			<place>iTunes</place>
+			<price>12.00</price>
+		</purchase>
+		<notes>Pre-ordered and received first track (as single). Amazon didn't have available for pre-order. Released/received 8/25/2009.</notes>
+	</album>
+	<album id="438">
+		<title>The Flower Book</title>
+		<artist>Émilie Simon</artist>
+		<purchase>
+			<date>2009-08-25</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Same price on Amazon.com. Recommendation from Tiffany, for french version of Desert (and I liked Fleur de saison).</notes>
+	</album>
+	<album id="439">
+		<title>Nolita</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2009-08-29</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>$9.99 on iTunes. Amazon recommendation from Émilie Simon and Carla Bruni.</notes>
+	</album>
+	<album id="440">
+		<title>Fantasies</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2009-09-08</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>$9.99 on iTunes. Recommendation, albeit indirect, from Tiffany.</notes>
+	</album>
+	<album id="441">
+		<title>Meiko</title>
+		<artist>Meiko</artist>
+		<purchase>
+			<date>2009-09-08</date>
+			<place>Amazon Digital Services, Inc. (Amazon.com)</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>$9.99 on iTunes. Recommended based on interest in Amy Millan, to Ingrid Michaelson (but I think she's been recommended before).</notes>
+	</album>
+	<album id="442">
+		<title>March of the Empress</title>
+		<artist>Émilie Simon</artist>
+		<purchase>
+			<date>2009-09-24</date>
+			<place>iTunes</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Same price on Amazon, but iTunes includes extra track and video.</notes>
+	</album>
+	<album id="443">
+		<title>Azure Ray</title>
+		<artist>Azure Ray</artist>
+		<purchase>
+			<date>2009-09-25</date>
+			<place>iTunes</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>$9.99 on iTunes. Last.fm recommendation due to Au Revoir Simone (40.22/100), Bat for Lashes(24.11/100), and Feist (44.92/100).</notes>
+	</album>
+	<album id="444">
+		<title>11:11</title>
+		<artist>Maria Taylor</artist>
+		<purchase>
+			<date>2009-09-25</date>
+			<place>iTunes</place>
+			<price>9.90</price>
+		</purchase>
+		<notes>Same price on iTunes. Amazon recommendation due to looking at Azure Ray (she was part of that duet). Also Last.fm recommendation due to Feist (42.34).</notes>
+	</album>
+	<album id="445">
+		<title>Everybody</title>
+		<artist>Ingrid Michaelson</artist>
+		<purchase>
+			<date>2009-10-04</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>$10.99 on iTunes, with two videos and the booklet, while this was special pricing for the month of October. No-brainer.</notes>
+	</album>
+	<album id="446">
+		<title>Oaklandazulasylum</title>
+		<artist>Why?</artist>
+		<purchase>
+			<date>2009-10-05</date>
+			<price>0.00</price>
+		</purchase>
+		<notes>Borrowed from my sister.</notes>
+	</album>
+	<album id="447">
+		<title>La Biographie De Luka Philipse</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2009-10-18</date>
+			<place>Amazon.com</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>$9.99 on iTunes. Purchased because I liked the other album I purchased of her, and want to start with her early stuff first.</notes>
+	</album>
+	<album id="448">
+		<title>Odessey and Oracle</title>
+		<artist>The Zombies</artist>
+		<purchase>
+			<date>2009-10-24</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Daily special. Normally 7.99 and 9.99 on iTunes.</notes>
+	</album>
+	<album id="449">
+		<title>5:55</title>
+		<artist>Charlotte Gainsbourg</artist>
+		<purchase>
+			<date>2009-10-26</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Same price on iTunes.</notes>
+	</album>
+	<album id="450">
+		<title>The Bird of Music</title>
+		<artist>Au Revoir Simone</artist>
+		<purchase>
+			<date>2009-10-26</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>9.99 on iTunes.</notes>
+	</album>
+	<album id="451">
+		<title>Old World Underground, Where Are You Now?</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2009-10-30</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>9.90 on iTunes. Like her voice, even if Fantasies isn't a 'must listen to.'</notes>
+	</album>
+	<album id="452">
+		<title>Advisory Committee</title>
+		<artist>Mirah</artist>
+		<purchase>
+			<date>2009-10-30</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>9.99 on iTunes. Highest downloaded on iTunes and Amazon (after (A)spera for the latter), so I decided to give it a go since I like the first I purchased.</notes>
+	</album>
+	<album id="453">
+		<title>The 99 Most Essential Vivaldi Masterpieces (Amazon Exclusive)</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-11-01</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Special pricing for 10/30.</notes>
+	</album>
+	<album id="454">
+		<title>Dreamboat Annie</title>
+		<artist>Heart</artist>
+		<purchase>
+			<date>2009-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Special pricing for November (50 under $5).</notes>
+	</album>
+	<album id="455">
+		<title>Human After All</title>
+		<artist>Daft Punk</artist>
+		<purchase>
+			<date>2009-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Special pricing for November (50 under $5).</notes>
+	</album>
+	<album id="456">
+		<title>Four Thieves Gone - The Robbinsville Sessions</title>
+		<artist>The Avett Brothers</artist>
+		<purchase>
+			<date>2009-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Special pricing for November (50 under $5). Artist suggested by sister, and since I started tapping my feet as I listened to previews ...</notes>
+	</album>
+	<album id="457">
+		<title>Paper Bag Records Fall '09 Sampler</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-11-19</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free sampler. Liked songs 1, 6, 8, from 30 second samples.</notes>
+	</album>
+	<album id="458">
+		<title>In a Power Free Interview</title>
+		<artist>Gentle Giant</artist>
+		<purchase>
+			<date>2009-11-19</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free sampler. Didn't really care for anything based on the samples, but ...</notes>
+	</album>
+	<album id="459">
+		<title>Anti Sampler Fall 2009</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-11-19</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free sampler. Liked song 3 sample, and it's got Swell Season, so ...</notes>
+	</album>
+	<album id="460">
+		<title>Acoustic EP</title>
+		<artist>Kate Walsh</artist>
+		<purchase>
+			<date>2009-11-19</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Is it a sampler, or something else? Either way, one reviewer said "If you like Hope Sandoval (Mazzy Star), Bat For Lashes, Jewel, Beth Gibbons, Tori- please get this!"</notes>
+	</album>
+	<album id="461">
+		<title>The 99 Most Essential Christmas Masterpieces (Amazon Exclusive)</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2009-12-23</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of 100 for $5 deal in Decemember.</notes>
+	</album>
+	<album id="462">
+		<title>Kate Earl</title>
+		<artist>Kate Earl</artist>
+		<purchase>
+			<date>2009-12-23</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>"This is great!" = me after listening to a couple of songs. Listed under 'Great Music You May Have Missed' section on Amazon.com.</notes>
+	</album>
+	<album id="463">
+		<title>A Good Day</title>
+		<artist>Priscilla Ahn</artist>
+		<purchase>
+			<date>2009-12-23</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Meiko recommendation. Didn't check iTunes first; had same price with additional song. Oh well.</notes>
+	</album>
+	<album id="464">
+		<title>Spilt Milk</title>
+		<artist>Kristina Train</artist>
+		<purchase>
+			<date>2009-12-23</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Kate Earl recommendation. Didn't check iTunes first; had same price with two additional songs. Okay, now that sucks after just screwing up the above. Ah well ...</notes>
+	</album>
+	<album id="465">
+		<title>Dancing The Whole Way Home</title>
+		<artist>Miss Li</artist>
+		<purchase>
+			<date>2009-12-23</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Listed under 'Great Music You May Have Missed' section on Amazon.com.</notes>
+	</album>
+	<album id="466">
+		<title>Plastic Makes It Possible</title>
+		<artist>Techno Squirrels</artist>
+		<purchase>
+			<date>2009-12-30</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Been on my list for a while. $9.99 on iTunes.</notes>
+	</album>
+	<album id="467">
+		<title>11:11</title>
+		<artist>Rodrigo Y Gabriela</artist>
+		<purchase>
+			<date>2010-01-02</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>On special today, and kept showing up as an Amazon recommendation.</notes>
+	</album>
+	<album id="468">
+		<title>Aja</title>
+		<artist>Steely Dan</artist>
+		<purchase>
+			<date>2010-01-02</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>In 50 Classic Rock Albums for $5 Each listing, but was free from $5 credit from 12/30/2009 purchase. Have heard almost every song before, on the radio.</notes>
+	</album>
+	<album id="469">
+		<title>Never For Ever</title>
+		<artist>Kate Bush</artist>
+		<purchase>
+			<date>2010-01-02</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Can't recall the recommendation item, but I'm pretty sure it keeps coming up. Like the sound on all the previews. The Kick Inside > this album > The Dreaming, with Lionheart  being called Kick Inside Two per reviewers. Not on iTunes at all, but her other works are.</notes>
+	</album>
+	<album id="470">
+		<title>MCMXC A.D.</title>
+		<artist>Enigma</artist>
+		<purchase>
+			<date>2010-01-05</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Downloaded songs in the past. $5 this month, and free from credit.</notes>
+	</album>
+	<album id="471">
+		<title>La Disparition</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2010-01-05</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Seems to be more like the stuff of her's that I liked. $8.99 on iTunes, but either way this should get me another $5 credit.</notes>
+	</album>
+	<album id="472">
+		<title>Toystore</title>
+		<artist>Coralie Clément</artist>
+		<purchase>
+			<date>2010-01-09</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>$9.99 on iTunes with extra song (Amazon doesn't have, although it seems they should ...). Keren Ann recommendation.</notes>
+	</album>
+	<album id="473">
+		<title>One Cell In The Sea</title>
+		<artist>A Fine Frenzy</artist>
+		<purchase>
+			<date>2010-01-09</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free after using $5 credit. Meiko and Ingird Michaelson recommendations.</notes>
+	</album>
+	<album id="474">
+		<title>Et Pourquoi les Crayons ?</title>
+		<artist>Amélie-les-crayons</artist>
+		<purchase>
+			<date>2010-01-09</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Recommendation from Coralie Clément, I believe. $9.99 on iTunes.</notes>
+	</album>
+	<album id="475">
+		<title>Demon Days</title>
+		<artist>Gorillaz</artist>
+		<purchase>
+			<date>2010-01-10</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special. Liked that one song everyone seemed to like at one point, and the first couple sounded interesting, so ...</notes>
+	</album>
+	<album id="476">
+		<title>Machine Dreams</title>
+		<artist>Little Dragon</artist>
+		<purchase>
+			<date>2010-01-12</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>$5, but had credit that expired today. Couldn't find anything else, so after much searching, purchased this.</notes>
+	</album>
+	<album id="477">
+		<title>Rain for Sleeping and Relaxation</title>
+		<artist>Joe Baker</artist>
+		<purchase>
+			<date>2010-01-19</date>
+			<place>Amazon.com</place>
+			<price>0.89</price>
+		</purchase>
+		<notes>Good reviews on his works and cheap. Level 1: A Calm Steady Rain.</notes>
+	</album>
+	<album id="478">
+		<title>Thundering Rainstorm</title>
+		<artist>Joe Baker</artist>
+		<purchase>
+			<date>2010-01-19</date>
+			<place>Amazon.com</place>
+			<price>0.89</price>
+		</purchase>
+		<notes>Good reviews on his works and cheap. Level 3: Thunderclaps and Periods of High Intensity.</notes>
+	</album>
+	<album id="479">
+		<title>The Sound of Summer Rain</title>
+		<artist>Joe Baker</artist>
+		<purchase>
+			<date>2010-01-19</date>
+			<place>Amazon.com</place>
+			<price>0.89</price>
+		</purchase>
+		<notes>Good reviews on his works and cheap. Level 2: Distant Thunder and Rain Variations.</notes>
+	</album>
+	<album id="480">
+		<title>Song Up In Her Head</title>
+		<artist>Sarah Jarosz</artist>
+		<purchase>
+			<date>2010-01-21</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Daily special. Doesn't sound too bad.</notes>
+	</album>
+	<album id="481">
+		<title>Greatest Hits: Huey Lewis And The News</title>
+		<artist>Huey Lewis And The News</artist>
+		<purchase>
+			<date>2010-01-30</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Know most of the songs, and it's been on the top 10 album listing almost the entire month.</notes>
+	</album>
+	<album id="482">
+		<title>In This Light And On This Evening</title>
+		<artist>Editors</artist>
+		<purchase>
+			<date>2010-02-04</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="483">
+		<title>Green River</title>
+		<artist>Creedence Clearwater Revival</artist>
+		<purchase>
+			<date>2010-02-05</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="484">
+		<title>Special Delivery</title>
+		<artist>Michael Bublé</artist>
+		<purchase>
+			<date>2010-02-09</date>
+			<place>Amazon.com</place>
+			<price>0.99</price>
+		</purchase>
+		<notes>Daily special. Torn on this, but ... at that price.</notes>
+	</album>
+	<album id="485">
+		<title>Grow Up And Blow Away</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2010-02-09</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Digital box set at 27.99, available only on iTunes. Amazon.com pricing is 9.49 for the three and 5.94 for the smaller one.</notes>
+	</album>
+	<album id="486">
+		<title>Live It Out</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2010-02-09</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Digital box set at 27.99, available only on iTunes. Amazon.com pricing is 9.49 for the three and 5.94 for the smaller one.</notes>
+	</album>
+	<album id="487">
+		<title>Knives Don't Have Your Back</title>
+		<artist>Emily Haines &amp; The Soft Skeleton</artist>
+		<purchase>
+			<date>2010-02-09</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Digital box set at 27.99, available only on iTunes. Amazon.com pricing is 9.49 for the three and 5.94 for the smaller one.</notes>
+	</album>
+	<album id="488">
+		<title>What Is Free To A Good Home?</title>
+		<artist>Emily Haines &amp; The Soft Skeleton</artist>
+		<purchase>
+			<date>2010-02-09</date>
+			<place>iTunes</place>
+			<price>4.02</price>
+		</purchase>
+		<notes>Digital box set at 27.99, available only on iTunes. Amazon.com pricing is 9.49 for the three and 5.94 for the smaller one.</notes>
+	</album>
+	<album id="489">
+		<title>Grand</title>
+		<artist>Matt &amp; Kim</artist>
+		<purchase>
+			<date>2010-02-17</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Daily special. Mates of State was used in why it was recommended. Sounded okay, and price is hard to beat.</notes>
+	</album>
+	<album id="490">
+		<title>The Great Misdirect</title>
+		<artist>Between The Buried And Me</artist>
+		<purchase>
+			<date>2010-02-18</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="491">
+		<title>Invisible Touch (2007 Remaster)</title>
+		<artist>Genesis</artist>
+		<purchase>
+			<date>2010-03-06</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special</notes>
+	</album>
+	<album id="492">
+		<title>Conditions</title>
+		<artist>The Temper Trap</artist>
+		<purchase>
+			<date>2010-03-08</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special from a few days ago. Looked at Florence + the Machine (Bat for Lashes recommendation) and found this was listed on Amazon.com as an also of interest. Sounds okay, but we'll see.</notes>
+	</album>
+	<album id="493">
+		<title>Lungs (Deluxe Version)</title>
+		<artist>Florence + The Machine</artist>
+		<purchase>
+			<date>2010-03-09</date>
+			<place>Amazon.com</place>
+			<price>12.99</price>
+		</purchase>
+		<notes>Bat for Lashes recommendation. Liked the sound and the few CD 2 songs I listened to, so opted for the Deluxe edition. $1 more on iTunes.</notes>
+	</album>
+	<album id="494">
+		<title>A Different Day</title>
+		<artist>Kinnie Starr</artist>
+		<purchase>
+			<date>2010-03-15</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special. Has potential.</notes>
+	</album>
+	<album id="495">
+		<title>One EskimO</title>
+		<artist>One Eskimo</artist>
+		<purchase>
+			<date>2010-03-18</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="496">
+		<title>Lady &amp; Bird</title>
+		<artist>Lady &amp; Bird</artist>
+		<purchase>
+			<date>2010-03-29</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Features Keren Ann, and enjoy the sound from the previews. Same price on iTunes.</notes>
+	</album>
+	<album id="497">
+		<title>Not Going Anywhere</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2010-03-29</date>
+			<place>Amazon.com</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>Enjoy her other music. 50 cents cheaper than iTunes.</notes>
+	</album>
+	<album id="498">
+		<title>Keren Ann</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2010-03-29</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Enjoy her other music.</notes>
+	</album>
+	<album id="499">
+		<title>The Good, The Bad &amp; The Ugly</title>
+		<artist>Ennio Morricone</artist>
+		<purchase>
+			<date>2010-04-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly $5 special.</notes>
+	</album>
+	<album id="500">
+		<title>IRM</title>
+		<artist>Charlotte Gainsbourg</artist>
+		<purchase>
+			<date>2010-04-21</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="501">
+		<title>xx</title>
+		<artist>Xx</artist>
+		<purchase>
+			<date>2010-05-04</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="502">
+		<title>Miike Snow</title>
+		<artist>Miike Snow</artist>
+		<purchase>
+			<date>2010-05-04</date>
+			<place>Amazon.com</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="503">
+		<title>the bird and the bee</title>
+		<artist>The Bird And The Bee</artist>
+		<purchase>
+			<date>2010-05-04</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+	</album>
+	<album id="504">
+		<title>Paranoia Agent Original Soundtrack</title>
+		<artist>Susumu Hirasawa</artist>
+		<purchase>
+			<date>2008-08-24</date>
+			<place>Galbadia Hotel</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="505">
+		<title>Ghost in the Shell</title>
+		<artist>Kenji Kawai</artist>
+		<purchase>
+			<date>2010-05-08</date>
+			<place>Galbadia Hotel</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="506">
+		<title>Ghost in the Shell 2: Innocence</title>
+		<artist>Kenji Kawai</artist>
+		<purchase>
+			<date>2010-05-08</date>
+			<place>Galbadia Hotel</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="507">
+		<title>Ghost in the Shell: Stand Alone Complex</title>
+		<artist>Yoko Kanno</artist>
+		<purchase>
+			<date>2010-05-08</date>
+			<place>Galbadia Hotel</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="507">
+		<title>Ghost in the Shell: Stand Alone Complex Vol. 2</title>
+		<artist>Yoko Kanno</artist>
+		<purchase>
+			<date>2010-05-08</date>
+			<place>Galbadia Hotel</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="508">
+		<title>The Best Of Bill Withers: Lean On Me</title>
+		<artist>Bill Withers</artist>
+		<purchase>
+			<date>2010-05-11</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+	</album>
+	<album id="509">
+		<title>Bach, J.S.: Motets (Bach Collegium Japan, M. Suzuki)</title>
+		<artist>Masaaki Suzuki</artist>
+		<purchase>
+			<date>2010-05-15</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="510">
+		<title>Eyelid Movies</title>
+		<artist>Phantogram</artist>
+		<purchase>
+			<date>2010-05-21</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="511">
+		<title>Hope for Your Happiness</title>
+		<artist>Yoshiki Sawa</artist>
+		<purchase>
+			<date>2010-05-28</date>
+			<place>Amazon.com</place>
+			<price>7.92</price>
+		</purchase>
+		<notes>Was looking for the artist related to X Japan, and found this unrelated artist instead. Sounded good yesterday, and still sounds good today. Same price on iTunes.</notes>
+	</album>
+	<album id="512">
+		<title>We Started Nothing</title>
+		<artist>The Ting Tings</artist>
+		<purchase>
+			<date>2010-06-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Tiffany recommended a while ago, and it's a monthly $5 special.</notes>
+	</album>
+	<album id="513">
+		<title>Plastic Beach</title>
+		<artist>Gorillaz</artist>
+		<purchase>
+			<date>2010-06-02</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Stylo.</notes>
+	</album>
+	<album id="514">
+		<title>Wait For Me</title>
+		<artist>Moby</artist>
+		<purchase>
+			<date>2010-06-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>$5 special during June.</notes>
+	</album>
+	<album id="515"> 
+		<title>Ghost in the Shell: Stand Alone Complex Vol. 3</title> 
+		<artist>Yoko Kanno</artist> 
+		<purchase> 
+			<date>2010-06-06</date> 
+			<place>Galbadia Hotel</place> 
+			<price>0.00</price> 
+		</purchase> 
+	</album> 
+	<album id="516">
+		<title>The Ghost Who Walks</title>
+		<artist>Karen Elson</artist>
+		<purchase>
+			<date>2010-06-11</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Recommendation from Tiffany. Really liked first song's music video. After the fact noticed I only paid $2.99 due to a $5 credit, from something ... ?</notes>
+	</album>
+	<album id="517">
+		<title>Une Enfant Du Siècle</title>
+		<artist>Alizée</artist>
+		<purchase>
+			<date>2010-06-19</date>
+			<place>Amazon.com</place>
+			<price>22.98</price>
+		</purchase>
+		<notes>Paid import pricing and $2.98 for shipping, but received 6/22/2010. Was tempted to order through Amazon.co.uk. Album before this still isn't available on Amazon.com MP3.</notes>
+	</album>
+	<album id="518">
+		<title>Head First</title>
+		<artist>Goldfrapp</artist>
+		<purchase>
+			<date>2010-06-30</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special. Came with digital booklet. While marked as $3.99, they knocked $1 off of the purchase price, for some reason.</notes>
+	</album>
+	<album id="519">
+		<title>Solid Gold Hits [Explicit]</title>
+		<artist>Beastie Boys</artist>
+		<purchase>
+			<date>2010-07-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="520">
+		<title>Give Up The Ghost</title>
+		<artist>Brandi Carlile</artist>
+		<purchase>
+			<date>2010-07-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Sounds interesting from the clips, and Ingrid Michaelson listed as a 'customers also bought.'</notes>
+	</album>
+	<album id="521">
+		<title>Let's Get Out of This Country</title>
+		<artist>Camera Obscura</artist>
+		<purchase>
+			<date>2010-07-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. The other album that I purchased of their's is solid at the beginning, and there's some songs I can keep in my head, so ... we'll give them another try.</notes>
+	</album>
+	<album id="522">
+		<title>Happy Defiance Day Everyday [Explicit]</title>
+		<artist>Ted Nugent</artist>
+		<purchase>
+			<date>2010-07-04</date>
+			<place>Amazon.com</place>
+			<price>0.76</price>
+		</purchase>
+		<notes>Special price for the 4th. For Fred Bear alone, it's worth it.</notes>
+	</album>
+	<album id="523">
+		<title>Mitch All Together [Explicit]</title>
+		<artist>Mitch Hedberg</artist>
+		<purchase>
+			<date>2010-08-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="524">
+		<title>66 Lounge &amp; Chill Songs</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2010-08-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="525">
+		<title>Red Dead Redemption Original Soundtrack</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2010-08-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="526">
+		<title>Fixin to Thrill</title>
+		<artist>Dragonette</artist>
+		<purchase>
+			<date>2010-08-03</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="527">
+		<title>The Understanding</title>
+		<artist>Röyksopp</artist>
+		<purchase>
+			<date>2010-08-03</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="528">
+		<title>La Roux (Amazon MP3 Exclusive Version)</title>
+		<artist>La Roux</artist>
+		<purchase>
+			<date>2010-08-03</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Part of the 1000 for $5 for August.</notes>
+	</album>
+	<album id="529">
+		<title>Deep Elm Sampler No. 9 "We Dream Alone"</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2010-08-11</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free sampler of music, some of which sounded pretty good.</notes>
+	</album>
+	<album id="530">
+		<title>Ryko: Flash Of Light Sampler</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2010-08-11</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free sampler, which keeps popping up.</notes>
+	</album>
+	<album id="531">
+		<title>Clocktower Park</title>
+		<artist>Kate Walsh</artist>
+		<purchase>
+			<date>2010-08-11</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes><![CDATA[Tim's House seems to sell better, but more of the top Amazon songs for her were on this album, and since it's acoustic and I like her EP because of that ... $9.90 on iTunes.]]></notes>
+	</album>
+	<album id="532">
+		<title>La Ballade Of Lady &amp; Bird : A Project By Keren Ann Zeidel &amp; Bardi Johannsson</title>
+		<artist>Lady &amp; Bird</artist>
+		<purchase>
+			<date>2010-08-16</date>
+			<place>Amazon.com</place>
+			<price>9.49</price>
+		</purchase>
+		<notes><![CDATA[After much debate, picked this up.]]></notes>
+	</album>
+	<album id="533">
+		<title>Tiny Cities</title>
+		<artist>Sun Kil Moon</artist>
+		<purchase>
+			<date>2010-08-16</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes><![CDATA[Really liked the song in the Gears of War 3 trailer. Not sure about the last songs, but the beginning of the album sounds good.]]></notes>
+	</album>
+	<album id="534">
+		<title>R.E.T.R.O.</title>
+		<artist>mind.in.a.box</artist>
+		<purchase>
+			<date>2010-08-25</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes><![CDATA[Really liked the song 8 Bits, and after much thought (3 days), decided to pick up the album.]]></notes>
+	</album>
+	<album id="535">
+		<title>Sigh No More</title>
+		<artist>Mumford &amp; Sons</artist>
+		<purchase>
+			<date>2010-08-25</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Monthly special. Wasn't going to, but I like the general sound of it, and it's selling fairly well.]]></notes>
+	</album>
+	<album id="536">
+		<title>Business Casual</title>
+		<artist>Chromeo</artist>
+		<purchase>
+			<date>2010-09-14</date>
+			<place>Amazon.com</place>
+			<price>4.99</price>
+		</purchase>
+		<notes><![CDATA[$7.99, but daily special allowed for $3 off one of 35 albums released today. This group has come up enough that it was time to purchase.]]></notes>
+	</album>
+	<album id="537">
+		<title>LP4</title>
+		<artist>Ratatat</artist>
+		<purchase>
+			<date>2010-09-16</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special for yesterday.]]></notes>
+	</album>
+	<album id="538">
+		<title>What We Forgot to Remember</title>
+		<artist>Calamine</artist>
+		<purchase>
+			<date>2010-09-27</date>
+			<place>Amazon.com</place>
+			<price>8.91</price>
+		</purchase>
+		<notes><![CDATA[Used American Express gift card to purchase.]]></notes>
+	</album>
+	<album id="539">
+		<title>One Love (New Version) [Explicit]</title>
+		<artist>David Guetta</artist>
+		<purchase>
+			<date>2010-09-27</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Used American Express gift card to purchase. Monthly special.]]></notes>
+	</album>
+	<album id="540">
+		<title>Histoire De Melody Nelson</title>
+		<artist>Serge Gainsbourg</artist>
+		<purchase>
+			<date>2010-09-27</date>
+			<place>Amazon.com</place>
+			<price>5.99</price>
+		</purchase>
+		<notes><![CDATA[Used American Express gift card to purchase.]]></notes>
+	</album>
+	<album id="541">
+		<title>Ghosts from the Past</title>
+		<artist>Bang Gang</artist>
+		<purchase>
+			<date>2010-09-29</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes><![CDATA[Used American Express gift card to purchase. Enjoyed his work with Keren Ann.]]></notes>
+	</album>
+	<album id="542">
+		<title>Vespertine (US Internet Release)</title>
+		<artist>Björk</artist>
+		<purchase>
+			<date>2010-10-06</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special. Had a downloaded version from long ago, that was missing one track/had substituted another for it.]]></notes>
+	</album>
+	<album id="543">
+		<title>Ghost in the Shell: Stand Alone Complex: Solid State Society: O.S.T.</title>
+		<artist>Yoko Kanno</artist>
+		<purchase>
+			<date>2010-10-03</date>
+			<place>Amazon.com</place>
+			<price>17.97</price>
+		</purchase>
+		<notes><![CDATA[Used last of American Express gift card to purchase this and pay the $2.98 shipping. Received 10/6/2010.]]></notes>
+	</album>
+	<album id="544">
+		<title>Black Light</title>
+		<artist>Groove Armada</artist>
+		<purchase>
+			<date>2010-10-27</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special.]]></notes>
+	</album>
+	<album id="545">
+		<title>The Five Ghosts</title>
+		<artist>Stars</artist>
+		<purchase>
+			<date>2010-10-30</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special.]]></notes>
+	</album>
+	<album id="546">
+		<title>Best Of</title>
+		<artist>The Classics IV</artist>
+		<purchase>
+			<date>2010-10-30</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special from yesterday.]]></notes>
+	</album>
+	<album id="547">
+		<title>Soviet Kitsch (U.S. Version)</title>
+		<artist>Regina Spektor</artist>
+		<purchase>
+			<date>2010-10-30</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Like Ode to Divorce. Monthly special.]]></notes>
+	</album>
+	<album id="548">
+		<title>Tim's House</title>
+		<artist>Kate Walsh</artist>
+		<purchase>
+			<date>2010-10-30</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes><![CDATA[Since I was buying music this morning ... Really like her stuff.]]></notes>
+	</album>
+	<album id="549">
+		<title>The 99 Darkest Pieces of Classical Music</title>
+		<artist>Various</artist>
+		<purchase>
+			<date>2010-10-31</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes><![CDATA[Daily special.]]></notes>
+	</album>
+	<album id="550">
+		<title>Drawing Down the Moon</title>
+		<artist>Azure Ray</artist>
+		<purchase>
+			<date>2010-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Monthly special.]]></notes>
+	</album>
+	<album id="551">
+		<title>Madonna (Bonus Tracks)</title>
+		<artist>Madonna</artist>
+		<purchase>
+			<date>2010-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Monthly special.]]></notes>
+	</album>
+	<album id="552">
+		<title>Barking</title>
+		<artist>Underworld</artist>
+		<purchase>
+			<date>2010-11-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes><![CDATA[Monthly special.]]></notes>
+	</album>
+	<album id="553">
+		<title>A Strange Arrangement</title>
+		<artist>Mayer Hawthorne</artist>
+		<purchase>
+			<date>2010-11-03</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="554">
+		<title>Autumn, Again</title>
+		<artist>A Sunny Day In Glasgow</artist>
+		<purchase>
+			<date>2010-11-03</date>
+			<place>Amazon.com</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free. For some reason.</notes>
+	</album>
+	<album id="555">
+		<title>Berzerkus Tour Sampler [Explicit]</title>
+		<artist>Black Label Society</artist>
+		<purchase>
+			<date>2010-11-10</date>
+			<place>Amazon.com</place>
+			<price>0.69</price>
+		</purchase>
+		<notes>Daily special. Can't beat that price ...</notes>
+	</album>
+	<album id="556">
+		<title>The Suburbs</title>
+		<artist>Arcade Fire</artist>
+		<purchase>
+			<date>2010-11-28</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Part of the Black Friday sale, from I believe a day or so ago.</notes>
+	</album>
+	<album id="557">
+		<title>Hurley</title>
+		<artist>Weezer</artist>
+		<purchase>
+			<date>2010-11-28</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Part of the Black Friday sale, from I believe a day or so ago. Now I have some Weezer in my library.</notes>
+	</album>
+	<album id="558">
+		<title>Trans-Continental Hustle</title>
+		<artist>Gogol Bordello</artist>
+		<purchase>
+			<date>2010-11-28</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="559">
+		<title>The Lady Killer [Explicit]</title>
+		<artist>Cee Lo Green</artist>
+		<purchase>
+			<date>2010-12-06</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="560">
+		<title>Metallic Spheres</title>
+		<artist>The Orb featuring David Gilmour</artist>
+		<purchase>
+			<date>2010-12-06</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Had downloaded music by The Orb a long time ago, and enjoyed it well enough.</notes>
+	</album>
+	<album id="561">
+		<title>Metallica</title>
+		<artist>Metallica</artist>
+		<purchase>
+			<date>2010-12-06</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Currently number 1 on Amazon in Thrash &amp; Speed Metal. 'Twas either this or Garage, Inc.</notes>
+	</album>
+	<album id="562">
+		<title>10 years after</title>
+		<artist>Najwajean</artist>
+		<purchase>
+			<date>2010-12-06</date>
+			<place>Amazon.com</place>
+			<price>5.99</price>
+		</purchase>
+		<notes>Bought it for Drive Me (background music on a YouTube video that I found 11/28, and searched Google for the lyrics), but after listening to the first three songs, I was hooked by her voice.</notes>
+	</album>
+	<album id="563">
+		<title>Tron Legacy (Amazon MP3 Exclusive Version)</title>
+		<artist>Daft Punk</artist>
+		<purchase>
+			<date>2010-12-07</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special. Not interested in the movie, but am in Daft Punk.</notes>
+	</album>
+	<album id="564">
+		<title>Man On The Moon II: The Legend Of Mr. Rager [Explicit]</title>
+		<artist>Kid Cudi</artist>
+		<purchase>
+			<date>2010-12-14</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special. Amazon gives it "4th best rap and hip-hop album of the year and 26th best album of the year overall." Sounds okay, so I'll give it a try.</notes>
+	</album>
+	<album id="565">
+		<title>Beyond The Infinite</title>
+		<artist>Juno Reactor</artist>
+		<purchase>
+			<date>2010-12-14</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Heard the track on a YouTube video, I believe. Has been on my 'to get' list for a little while.</notes>
+	</album>
+	<album id="567">
+		<title>The Eminem Show</title>
+		<artist>Eminem</artist>
+		<purchase>
+			<date>2010-12-21</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Recovery was today's daily special on Amazon, but decided to pick this up instead. Same price on Amazon, but appears to only be the clean version.</notes>
+	</album>
+	<album id="568">
+		<title>Senior</title>
+		<artist>Röyksopp</artist>
+		<purchase>
+			<date>2010-12-28</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special for January.</notes>
+	</album>
+	<album id="569">
+		<title>Divided By Night</title>
+		<artist>The Crystal Method</artist>
+		<purchase>
+			<date>2010-12-28</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special for January. Bought really because of the songs featuring Emily Haines and Meiko.</notes>
+	</album>
+	<album id="570">
+		<title>Random Album Title</title>
+		<artist>Deadmau5</artist>
+		<purchase>
+			<date>2010-12-30</date>
+		</purchase>
+		<notes>Loaned from Dan Conderman.</notes>
+	</album>
+	<album id="571">
+		<title>Record Collection [Explicit]</title>
+		<artist>Mark Ronson &amp; The Business Intl</artist>
+		<purchase>
+			<date>2010-12-30</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="572">
+		<title>Something Wrong</title>
+		<artist>Bang Gang</artist>
+		<purchase>
+			<date>2010-12-30</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Enjoy his other work.</notes>
+	</album>
+	<album id="573">
+		<title>The Greatest Hits - Why Try Harder</title>
+		<artist>Fatboy Slim</artist>
+		<purchase>
+			<date>2010-12-30</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special for January. Kept debating about this, so I finally just went for it.</notes>
+	</album>
+	<album id="574">
+		<title>Greatest Hits</title>
+		<artist>Billy Idol</artist>
+		<purchase>
+			<date>2010-12-30</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special for January.</notes>
+	</album>
+	<album id="575">
+		<title>Shout: The Very Best Of Tears For Fears</title>
+		<artist>Tears For Fears</artist>
+		<purchase>
+			<date>2010-12-30</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="576">
+		<title>Martika</title>
+		<artist>Martika</artist>
+		<purchase>
+			<date>2011-01-18</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+	</album>
+	<album id="577">
+		<title>Waste Management Transcendent Version [Explicit]</title>
+		<artist>T.A.T.U.</artist>
+		<purchase>
+			<date>2011-01-18</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Since I have the original ... went with the version that consists of just the one song.</notes>
+	</album>
+	<album id="578">
+		<title>Morning Becomes Eclectic (Live On KCRW Radio Show) - EP</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2011-01-18</date>
+			<place>iTunes</place>
+			<price>6.45</price>
+		</purchase>
+	</album>
+	<album id="579">
+		<title>Live Session (iTunes Exclusive)</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2011-01-18</date>
+			<place>iTunes</place>
+			<price>5.99</price>
+		</purchase>
+	</album>
+	<album id="580">
+		<title>Rolling Stone Original</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2011-01-18</date>
+			<place>Amazon.com</place>
+			<price>3.68</price>
+		</purchase>
+	</album>
+	<album id="581">
+		<title>My Name Is Trouble</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2011-01-25</date>
+			<place>Amazon.com</place>
+			<price>0.99</price>
+		</purchase>
+		<notes>Single, released today.</notes>
+	</album>
+	<album id="582">
+		<title>$O$ [Explicit]</title>
+		<artist>Die Antwoord</artist>
+		<purchase>
+			<date>2011-01-25</date>
+			<place>Amazon.com</place>
+			<price>4.99</price>
+		</purchase>
+		<notes>Keeps popping up, and part of the under $5 listing on Amazon. Track 2 is my favorite of the previews.</notes>
+	</album>
+	<album id="583">
+		<title>Acoustic</title>
+		<artist>Lights</artist>
+		<purchase>
+			<date>2011-01-25</date>
+			<place>Amazon.com</place>
+			<price>4.95</price>
+		</purchase>
+		<notes>Another one in the under $5 listing on Amazon. Was featured on Kotaku for her Lightning hairstyle.</notes>
+	</album>
+	<album id="584">
+		<title>Ocean Way Sessions, The</title>
+		<artist>Christina Perri</artist>
+		<purchase>
+			<date>2011-01-25</date>
+			<place>Amazon.com</place>
+			<price>4.49</price>
+		</purchase>
+		<notes>Part of the under $5 listing of Amazon. Sounds pretty good. Doesn't seem to have much else released.</notes>
+	</album>
+	<album id="585">
+		<title>You [Explicit]</title>
+		<artist>Bang Gang</artist>
+		<purchase>
+			<date>2011-01-25</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+	</album>
+	<album id="586">
+		<title>Hits Collection Volume One [Explicit], The</title>
+		<artist>Jay-Z</artist>
+		<purchase>
+			<date>2011-01-31</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Listened to Empire State of Mind on YouTube and figured I'd give him another try, after not caring for his album I purchased.</notes>
+	</album>
+	<album id="587">
+		<title>Holy Diver</title>
+		<artist>Dio</artist>
+		<purchase>
+			<date>2011-02-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Title song was mentioned somewhere ...</notes>
+	</album>
+	<album id="588">
+		<title>Lsd - Love Sensuality Devotion</title>
+		<artist>Enigma</artist>
+		<purchase>
+			<date>2011-02-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="589">
+		<title>You Forgot It In People</title>
+		<artist>Broken Social Scene</artist>
+		<purchase>
+			<date>2011-02-01</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Finally broke down and purchased one of their albums.</notes>
+	</album>
+	<album id="590">
+		<title>Screaming For Vengeance</title>
+		<artist>Judas Priest</artist>
+		<purchase>
+			<date>2011-03-07</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Special additional collection of Metal.</notes>
+	</album>
+	<album id="591">
+		<title>The Crow: New Songs For the Five-String Banjo</title>
+		<artist>Steve Martin</artist>
+		<purchase>
+			<date>2011-03-07</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="592">
+		<title>...And Justice For All</title>
+		<artist>Metallica</artist>
+		<purchase>
+			<date>2011-03-07</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Special additional collection of Metal.</notes>
+	</album>
+	<album id="593">
+		<title>A Matter Of Life And Death</title>
+		<artist>Iron Maiden</artist>
+		<purchase>
+			<date>2011-03-14</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special. Special additional collection of Metal. Figured I'd give it a try.</notes>
+	</album>
+	<album id="594">
+		<title>101</title>
+		<artist>Keren Ann</artist>
+		<purchase>
+			<date>2011-03-22</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Released today. $9.99 on iTunes, for the same tracks (which is why I checked).</notes>
+	</album>
+	<album id="595">
+		<title>Kaputt</title>
+		<artist>Destroyer</artist>
+		<purchase>
+			<date>2011-03-31</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special, that sounded pretty good. Also gave me a chance to try out the Amazon Cloud.</notes>
+	</album>
+	<album id="596">
+		<title>Youth Novels</title>
+		<artist>Lykke Li</artist>
+		<purchase>
+			<date>2011-04-09</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special. I believe I heard her stuff on Last.fm, a long while ago.</notes>
+	</album>
+	<album id="597">
+		<title>Best Of 00-10</title>
+		<artist>Ladytron</artist>
+		<purchase>
+			<date>2011-05-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="598">
+		<title>Catching A Tiger</title>
+		<artist>Lissie</artist>
+		<purchase>
+			<date>2011-05-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special.</notes>
+	</album>
+	<album id="599">
+		<title>Carousel</title>
+		<artist>Vanessa Carlton</artist>
+		<purchase>
+			<date>2011-05-07</date>
+			<place>Amazon.com</place>
+			<price>1.29</price>
+		</purchase>
+		<notes>Same price as iTunes, which is actually what triggered an email to let me know this was available.</notes>
+	</album>
+	<album id="600">
+		<title>Lost Odyssey Original Soundtrack</title>
+		<artist>various</artist>
+		<purchase>
+			<date>2011-05-11</date>
+			<place>Blue Laguna</place>
+			<price>0.00</price>
+		</purchase>
+	</album>
+	<album id="601">
+		<title>In Your Dreams</title>
+		<artist>Stevie Nicks</artist>
+		<purchase>
+			<date>2011-05-15</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Effectively paid only half price, since my mom threw in $5.</notes>
+	</album>
+	<album id="602">
+		<title>Middle Cyclone</title>
+		<artist>Neko Case</artist>
+		<purchase>
+			<date>2011-07-02</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly special, and I've known about her far too long to not get this album now.</notes>
+	</album>
+	<album id="603">
+		<title>Sucker Punch: Original Motion Picture Soundtrack [+Digital Booklet]</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2011-07-02</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special. Wasn't going to pick this up, but because I'm making another purchase, and like how some of the songs sound ...</notes>
+	</album>
+	<album id="604">
+		<title>Rabbits on the Run</title>
+		<artist>Vanessa Carlton</artist>
+		<purchase>
+			<date>2011-07-26</date>
+			<place>Amazon.com</place>
+			<price>10.99</price>
+		</purchase>
+		<notes>Released today. Accidentally purchased the one without the digital booklet (but oh well). Same price as iTunes, but iTunes had a deluxe edition for $2 more. Decided to stick with Amazon.</notes>
+	</album>
+	<album id="605">
+		<title>Within And Without</title>
+		<artist>Washed Out</artist>
+		<purchase>
+			<date>2011-07-26</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Recommendation from Rabbits on the Run.</notes>
+	</album>
+	<album id="606">
+		<title>Escaping The Tangle</title>
+		<artist>Colorpulse</artist>
+		<purchase>
+			<date>2011-08-16</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>melodysheep (Symphony of Science) project.</notes>
+	</album>
+	<album id="607">
+		<title>Deus Ex Soundtrack</title>
+		<artist/>
+		<purchase>
+			<date>2011-08-22</date>
+			<place>SnakeByte Studios</place>
+		</purchase>
+		<notes>Original game soundtrack converted to MP3.</notes>
+	</album>
+	<album id="608">
+		<title>Yakuza 3 Soundtrack</title>
+		<artist/>
+		<purchase>
+			<date>2011-08-23</date>
+			<place>straycat blog</place>	
+		</purchase>
+		<notes>http://straycat.3alamy.org/b/2010/03/11/yakuza-3-soundtrack/</notes>
+	</album>
+	<album id="609">
+		<title>Actor (Amazon Exclusive)</title>
+		<artist>St. Vincent</artist>
+		<purchase>
+			<date>2011-08-24</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>I've been meaning to get something of her's, and this was today's daily special.</notes>
+	</album>
+	<album id="610">
+		<title>She's So Unusual</title>
+		<artist>Cyndi Lauper</artist>
+		<purchase>
+			<date>2011-09-10</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily deal.</notes>
+	</album>
+	<album id="611">
+		<title>Heaven And Hell</title>
+		<artist>Black Sabbath</artist>
+		<purchase>
+			<date>2011-09-21</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Not the daily deal (Rabbits on the Run is), but nonetheless cheap.</notes>
+	</album>
+	<album id="612">
+		<title>The Greatest Video Game Music (Amazon Bonus Track Edition)</title>
+		<artist>London Philharmonic Orchestra and Andrew Skeet</artist>
+		<purchase>
+			<date>2011-11-07</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily deal.</notes>
+	</album>
+	<album id="613">
+		<title>Lights (Amazon MP3 Exclusive Version) [+Digital Booklet]</title>
+		<artist>Ellie Goulding</artist>
+		<purchase>
+			<date>2011-11-07</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Monthly deal.</notes>
+	</album>
+	<album id="614">
+		<title>The Hotel Café presents... Winter Songs</title>
+		<artist>Various</artist>
+		<purchase>
+			<date>2011-11-07</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>I think a monthly deal, on Christmas/Winter-related music.</notes>
+	</album>
+	<album id="615">
+		<title>Siberia</title>
+		<artist>Lights</artist>
+		<purchase>
+			<date>2011-12-26</date>
+			<place>Amazon.com</place>
+			<price>4.99</price>
+		</purchase>
+		<notes>Liked her acoustic album, and since this newer one is less than $5 ...</notes>
+	</album>
+	<album id="616">
+		<title>Oh Land</title>
+		<artist>Oh Land</artist>
+		<purchase>
+			<date>2012-01-26</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Listed as a recommendation when looking at a Yelle album. Not sure if it's $5 for this month or not.</notes>
+	</album>
+	<album id="617">
+		<title>Safari Disco Club</title>
+		<artist>Yelle</artist>
+		<purchase>
+			<date>2012-01-26</date>
+			<place>Amazon.com</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>Nathan Barnatt keeps doing dance videos based on her music. Hooked (on at least the few songs he's covered).</notes>
+	</album>
+	<album id="618">
+		<title>Le Voyage Dans La Lune [+Video]</title>
+		<artist>Air</artist>
+		<purchase>
+			<date>2012-02-07</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="619">
+		<title>NieR Gestalt &amp; NieR RepliCant Original Soundtrack</title>
+		<artist>Keiichi Okabe, Kakeru Ishihama, Keigo Hoashi, Takafumi Nishimura</artist>
+		<purchase>
+			<date>2012-02-09</date>
+			<place>Play-Asia.com</place>
+			<price>36.99</price>
+		</purchase>
+		<notes>Received 2/13/2012, via FedEx Express, despite it shipping from Hong Kong on the 10th. Wowsa. Paid $15.00 for shipping.</notes>
+	</album>
+	<album id="620">
+		<title>Plug In, Plug Out - EP</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2012-04-09</date>
+			<place>iTunes</place>
+			<price>3.99</price>
+		</purchase>
+	</album>
+	<album id="621">
+		<title>Live At Metropolis - EP</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2012-04-09</date>
+			<place>iTunes</place>
+			<price>0.99</price>
+		</purchase>
+	</album>
+	<album id="622">
+		<title>iTunes Session</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2012-04-09</date>
+			<place>iTunes</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="623">
+		<title>The Bright Side [+digital booklet]</title>
+		<artist>Meiko</artist>
+		<purchase>
+			<date>2012-05-15</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>$1 cheaper than iTunes. Release day purchase. Opted for the digital booklet version, which was the same price.</notes>
+	</album>
+	<album id="624">
+		<title>Synthetica</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>6.99</price>
+		</purchase>
+		<notes>Release date.</notes>
+	</album>
+	<album id="625">
+		<title>Four On The Floor</title>
+		<artist>Juliette and the Licks</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="626">
+		<title>Under The Blacklight</title>
+		<artist>Rilo Kiley</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="627">
+		<title>Volume One</title>
+		<artist>She &amp; Him</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="628">
+		<title>Celebration</title>
+		<artist>Madonna</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="629">
+		<title>Break Up (Amazon Exclusive)</title>
+		<artist>Pete Yorn &amp; Scarlett Johansson</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="630">
+		<title>Acid Tongue</title>
+		<artist>Jenny Lewis</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="631">
+		<title>The Very Best of Daryl Hall / John Oates</title>
+		<artist>Daryl Hall &amp; John Oates</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+	</album>
+	<album id="632">
+		<title>Tron: Legacy Reconfigured</title>
+		<artist>Daft Punk</artist>
+		<purchase>
+			<date>2012-06-12</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+	</album>
+	<album id="633">
+		<title>Hands All Over</title>
+		<artist>Maroon 5</artist>
+		<purchase>
+			<date>2012-06-26</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>One of the weekly specials.</notes>
+	</album>
+	<album id="634">
+		<title>Bleach (Deluxe)</title>
+		<artist>Nirvana</artist>
+		<purchase>
+			<date>2012-07-10</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Part of Indie albums for $2.99 thing.</notes>
+	</album>
+	<album id="635">
+		<title>I Told You I Was Freaky</title>
+		<artist>Flight Of The Conchords</artist>
+		<purchase>
+			<date>2012-07-10</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Part of Indie albums for $2.99 thing.</notes>
+	</album>
+	<album id="636">
+		<title>So Tonight That I Might See</title>
+		<artist>Mazzy Star</artist>
+		<purchase>
+			<date>2012-07-10</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Part of Indie albums for $2.99 thing.</notes>
+	</album>
+	<album id="637">
+		<title>Antarctica</title>
+		<artist>Vangelis</artist>
+		<purchase>
+			<date>2012-08-01</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>August $5 album.</notes>
+	</album>
+	<album id="638">
+		<title>Blacklisted</title>
+		<artist>Neko Case</artist>
+		<purchase>
+			<date>2012-08-01</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>At this price, I have to try another of her albums.</notes>
+	</album>
+	<album id="639">
+		<title>NOW That's What I Call 80s Hits</title>
+		<artist>Various Artists</artist>
+		<purchase>
+			<date>2012-08-08</date>
+			<place>Amazon.com</place>
+			<price>2.99</price>
+		</purchase>
+		<notes>Daily special.</notes>
+	</album>
+	<album id="640">
+		<title>The Robots in Love - Ep</title>
+		<artist>Beautiful Small Machines</artist>
+		<purchase>
+			<date>2012-08-08</date>
+			<place>Amazon.com</place>
+			<price>4.95</price>
+		</purchase>
+		<notes>Recommendation from Tiffany.</notes>
+	</album>
+	<album id="641">
+		<title>Fox Confessor Brings The Flood (Bonus Track Version)</title>
+		<artist>Neko Case</artist>
+		<purchase>
+			<date>2012-08-22</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Need more Neko Case.</notes>
+	</album>
+	<album id="642">
+		<title>Yuna</title>
+		<artist>Yuna</artist>
+		<purchase>
+			<date>2012-09-25</date>
+			<place>Amazon.com</place>
+			<price>5.99</price>
+		</purchase>
+		<notes>I forget how I found her, but she's quite good.</notes>
+	</album>
+	<album id="643">
+		<title>Summer Lines</title>
+		<artist>Au Revoir Simone</artist>
+		<purchase>
+			<date>2012-09-25</date>
+			<place>Amazon.com</place>
+			<price>1.78</price>
+		</purchase>
+		<notes>Short one from 2008.</notes>
+	</album>
+	<album id="644">
+		<title>Halcyon</title>
+		<artist>Ellie Goulding</artist>
+		<purchase>
+			<date>2012-11-02</date>
+			<place>Amazon.com</place>
+			<price>5.99</price>
+		</purchase>
+		<notes>Daily special. When did they get so expensive?</notes>
+	</album>
+	<album id="645">
+		<title>The Greatest Video Game Music 2</title>
+		<artist>London Philharmonic Orchestra and Andrew Skeet</artist>
+		<purchase>
+			<date>2012-11-12</date>
+			<place>Amazon.com</place>
+			<price>3.99</price>
+		</purchase>
+		<notes>Just came out a week or so ago, and Amazon is running a special on it.</notes>
+	</album>
+	<album id="646">
+		<title>2001-2011 [Explicit]</title>
+		<artist>Mylène Farmer</artist>
+		<purchase>
+			<date>2012-12-03</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Heard a couple songs on Last.fm yesterday, and decided to pick this up.</notes>
+	</album>
+	<album id="647">
+		<title>Paradise [Explicit]</title>
+		<artist>Lana Del Rey</artist>
+		<purchase>
+			<date>2012-12-24</date>
+			<place>Amazon.com</place>
+			<price>1.99</price>
+		</purchase>
+		<notes>Tiffany suggested I might like this, so I picked it up (was tempted to get her first album, but this was on sale today for holiday savings thing).</notes>
+	</album>
+	<album id="648">
+		<title>Lindsey Stirling</title>
+		<artist>Lindsey Stirling</artist>
+		<purchase>
+			<date>2012-12-24</date>
+			<place>iTunes</place>
+			<price>11.99</price>
+		</purchase>
+		<notes>Can only purchase the CD otherwise. Supposedly it's just that good. And I kept digging and purchased tickets to her show in March. At $20, you can't go wrong.</notes>
+	</album>
+</albums>

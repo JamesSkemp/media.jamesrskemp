@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Licensed under the Creative Commons License Attribution-Noncommercial-Share Alike 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/). Contact information for attribution at http://jamesrskemp.com/ -->
+<OdinSphere xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/OdinSphere.xsd">
+	<Characters><!-- ~37 hours to 5 stars. --><!-- L1 + R1 + Select + Start = return to attic -->
+		<Character name="Gwendolyn">
+			<HP>
+				<Levels>
+					<Level id="1" hitPoints="90"/>
+					<Level id="2" hitPoints="99"/>
+					<Level id="3" hitPoints="110"/>
+					<Level id="4" hitPoints="122"/>
+					<Level id="5" hitPoints="135"/>
+					<Level id="6" hitPoints="148"/>
+					<Level id="7" hitPoints="162"/>
+					<Level id="8" hitPoints="178"/>
+					<Level id="9" hitPoints="195"/>
+					<Level id="10" hitPoints="213"/>
+					<Level id="11" hitPoints="232"/>
+					<Level id="12" hitPoints="252"/>
+					<Level id="13" hitPoints="273"/>
+					<Level id="14" hitPoints="296"/>
+					<Level id="15" hitPoints="319"/>
+					<Level id="16" hitPoints="344"/>
+					<Level id="17" hitPoints="370"/>
+					<Level id="18" hitPoints="397"/>
+					<Level id="19" hitPoints="426"/>
+					<Level id="20" hitPoints="454"/>
+					<Level id="21" hitPoints="484"/>
+					<Level id="22" hitPoints="519"/>
+					<Level id="23" hitPoints="552"/>
+					<Level id="24" hitPoints="586"/>
+					<Level id="25" hitPoints="622"/><!-- After first play through -->
+					<Level id="26" hitPoints="659"/>
+					<Level id="27" hitPoints="697"/>
+					<Level id="28" hitPoints="736"/>
+					<Level id="29" hitPoints="776"/>
+					<Level id="30" hitPoints="818"/>
+					<!-- Subtract 9 HP from Seafood Salad +7 and Omelet +2 -->
+				</Levels>
+			</HP>
+			<Psypher><!-- 1 'ball' = Chapter * 10 exp -->
+				<Levels><!-- Easy. Subtract 200 for Normal/Hard difficulties. -->
+					<Level id="1" maxPoints="300"/><!-- Cyclone -->
+					<Level id="2" maxPoints="300"/>
+					<Level id="3" maxPoints="300"/>
+					<Level id="4" maxPoints="300"/>
+					<Level id="5" maxPoints="300"/>
+					<Level id="6" maxPoints="400"/>
+					<Level id="7" maxPoints="400"/>
+					<Level id="8" maxPoints="400"/>
+					<Level id="9" maxPoints="400"/>
+					<Level id="10" maxPoints="400"/>
+					<Level id="11" maxPoints="500"/><!-- Invisible -->
+					<Level id="12" maxPoints="500"/>
+					<Level id="13" maxPoints="500"/>
+					<Level id="14" maxPoints="500"/>
+					<Level id="15" maxPoints="500"/>
+					<Level id="16" maxPoints="600"/><!-- Phozon Burst -->
+					<Level id="17" maxPoints="600"/>
+					<Level id="18" maxPoints="600"/>
+					<Level id="19" maxPoints="600"/>
+					<Level id="20" maxPoints="600"/>
+					<Level id="21" maxPoints="700"/>
+					<Level id="22" maxPoints="700"/>
+					<Level id="23" maxPoints="700"/><!-- Overload -->
+					<Level id="24" maxPoints="700"/>
+					<Level id="25" maxPoints="700"/>
+					<Level id="26" maxPoints="800"/>
+					<Level id="27" maxPoints="800"/>
+					<Level id="28" maxPoints="800"/>
+					<Level id="29" maxPoints="800"/><!-- Phozon Release -->
+					<Level id="30" maxPoints="800"/>
+					<Level id="31" maxPoints="900"/>
+					<Level id="32" maxPoints="900"/>
+					<Level id="33" maxPoints="900"/><!-- After first play through -->
+					<Level id="34" maxPoints="900"/>
+					<Level id="35" maxPoints="900"/><!-- Shadow Ally -->
+					<Level id="36" maxPoints="1000"/>
+					<Level id="37" maxPoints="1000"/>
+					<Level id="38" maxPoints="1000"/>
+					<Level id="39" maxPoints="1000"/>
+					<Level id="40" maxPoints="1000"/>
+					<Level id="41" maxPoints="1000"/>
+				</Levels><!-- Level 40 -->
+			</Psypher>
+			<!-- Chapter 3: Winterhorn Ridge; The Deep Forests of Elrit -->
+			<!-- Chapter 4: Nebulapolis; The Deep Forests of Elrit; Winterhorn Ridge -->
+			<!-- Chapter 5: Volkenon Lava Pit; The Deep Forests of Elrit; Winterhorn Ridge -->
+		</Character>
+		<Character name="Cornelius">
+			<HP>
+				<Levels>
+					<Level id="1" hitPoints="75"/>
+					<Level id="2" hitPoints="83"/>
+					<Level id="3" hitPoints="92"/>
+					<Level id="4" hitPoints="102"/>
+					<Level id="5" hitPoints="112"/>
+					<Level id="6" hitPoints="123"/>
+					<Level id="7" hitPoints="135"/>
+					<Level id="8" hitPoints="148"/>
+					<Level id="9" hitPoints="162"/>
+					<Level id="10" hitPoints="177"/>
+					<Level id="11" hitPoints="193"/>
+					<Level id="12" hitPoints="210"/>
+					<Level id="13" hitPoints="228"/>
+					<Level id="14" hitPoints="246"/>
+					<Level id="15" hitPoints="266"/>
+					<Level id="16" hitPoints="287"/>
+					<Level id="17" hitPoints="309"/>
+					<Level id="18" hitPoints="331"/>
+					<Level id="19" hitPoints="355"/>
+					<Level id="20" hitPoints="380"/>
+					<Level id="21" hitPoints="405"/>
+					<Level id="22" hitPoints="432"/>
+					<Level id="23" hitPoints="460"/><!-- After first play through -->
+					<Level id="24" hitPoints="489"/>
+					<Level id="25" hitPoints="519"/>
+					<Level id="26" hitPoints="549"/>
+					<Level id="27" hitPoints="581"/>
+				</Levels>
+			</HP>
+			<Psypher><!-- 1 ball = 10 exp? -->
+				<Levels><!-- Easy. Subtract 200 for Normal/Hard difficulties. -->
+					<Level id="1" maxPoints="300"/><!-- Cyclone -->
+					<Level id="2" maxPoints="300"/>
+					<Level id="3" maxPoints="300"/>
+					<Level id="4" maxPoints="300"/>
+					<Level id="5" maxPoints="300"/>
+					<Level id="6" maxPoints="400"/>
+					<Level id="7" maxPoints="400"/>
+					<Level id="8" maxPoints="400"/>
+					<Level id="9" maxPoints="400"/>
+					<Level id="10" maxPoints="400"/>
+					<Level id="11" maxPoints="500"/><!-- Phozon Release -->
+					<Level id="12" maxPoints="500"/>
+					<Level id="13" maxPoints="500"/>
+					<Level id="14" maxPoints="500"/>
+					<Level id="15" maxPoints="500"/>
+					<Level id="16" maxPoints="600"/>
+					<Level id="17" maxPoints="600"/><!-- Invisible -->
+					<Level id="18" maxPoints="600"/>
+					<Level id="19" maxPoints="600"/>
+					<Level id="20" maxPoints="600"/>
+					<Level id="21" maxPoints="700"/>
+					<Level id="22" maxPoints="700"/>
+					<Level id="23" maxPoints="700"/>
+					<Level id="24" maxPoints="700"/>
+					<Level id="25" maxPoints="700"/><!-- Phozon Burst -->
+					<Level id="26" maxPoints="800"/>
+					<Level id="27" maxPoints="800"/>
+					<Level id="28" maxPoints="800"/>
+					<Level id="29" maxPoints="800"/>
+					<Level id="30" maxPoints="800"/><!-- Overload --><!-- After first play through -->
+					<Level id="31" maxPoints="900"/>
+					<Level id="32" maxPoints="900"/>
+					<Level id="33" maxPoints="900"/>
+					<Level id="34" maxPoints="900"/>
+				</Levels><!-- exp for 33+ --><!-- 98 / 14 = 7 -->
+			</Psypher>
+		</Character>
+		<Character name="Mercedes">
+			<HP>
+				<Levels>
+					<Level id="1" hitPoints="45"/>
+					<Level id="2" hitPoints="49"/>
+					<Level id="3" hitPoints="55"/>
+					<Level id="4" hitPoints="61"/>
+					<Level id="5" hitPoints="67"/>
+					<Level id="6" hitPoints="74"/>
+					<Level id="7" hitPoints="81"/>
+					<Level id="8" hitPoints="89"/>
+					<Level id="9" hitPoints="97"/>
+					<Level id="10" hitPoints="106"/>
+					<Level id="11" hitPoints="116"/>
+					<Level id="12" hitPoints="126"/>
+					<Level id="13" hitPoints="136"/>
+					<Level id="14" hitPoints="148"/>
+					<Level id="15" hitPoints="159"/>
+					<Level id="16" hitPoints="172"/>
+					<Level id="17" hitPoints="185"/>
+					<Level id="18" hitPoints="198"/>
+					<Level id="19" hitPoints="213"/>
+					<Level id="20" hitPoints="228"/>
+					<Level id="21" hitPoints="243"/><!-- After first play through -->
+					<Level id="22" hitPoints="259"/>
+					<Level id="23" hitPoints="276"/>
+					<Level id="24" hitPoints="293"/>
+					<Level id="25" hitPoints="311"/>
+				</Levels>
+			</HP>
+			<Psypher>
+				<Levels><!-- Easy. Subtract 200 for Normal/Hard difficulties. -->
+					<Level id="1" maxPoints="300"/><!-- Piercing Shot -->
+					<Level id="2" maxPoints="300"/>
+					<Level id="3" maxPoints="300"/>
+					<Level id="4" maxPoints="300"/>
+					<Level id="5" maxPoints="300"/>
+					<Level id="6" maxPoints="400"/>
+					<Level id="7" maxPoints="400"/>
+					<Level id="8" maxPoints="400"/>
+					<Level id="9" maxPoints="400"/>
+					<Level id="10" maxPoints="400"/><!-- Phozon Release -->
+					<Level id="11" maxPoints="500"/>
+					<Level id="12" maxPoints="500"/>
+					<Level id="13" maxPoints="500"/>
+					<Level id="14" maxPoints="500"/>
+					<Level id="15" maxPoints="500"/><!-- Invisible? -->
+					<Level id="16" maxPoints="600"/>
+					<Level id="17" maxPoints="600"/>
+					<Level id="18" maxPoints="600"/>
+					<Level id="19" maxPoints="600"/><!-- Phozon Burst -->
+					<Level id="20" maxPoints="600"/>
+					<Level id="21" maxPoints="700"/>
+					<Level id="22" maxPoints="700"/>
+					<Level id="23" maxPoints="700"/>
+					<Level id="24" maxPoints="700"/>
+					<Level id="25" maxPoints="700"/>
+					<Level id="26" maxPoints="800"/>
+					<Level id="27" maxPoints="800"/>
+					<Level id="28" maxPoints="800"/>
+					<Level id="29" maxPoints="800"/>
+					<Level id="30" maxPoints="800"/>
+					<Level id="31" maxPoints="900"/><!-- Overload? -->
+					<Level id="32" maxPoints="900"/><!-- After first play through -->
+					<Level id="33" maxPoints="900"/>
+					<Level id="34" maxPoints="900"/>
+					<Level id="35" maxPoints="900"/>
+				</Levels>
+			</Psypher>
+			<!-- Chapter 1: The Deep Forests of Elrit -->
+			<!-- Chapter 2: Ringford, Forest of Fairies; The Deep Forests of Elrit -->
+			<!-- Chapter 3: Winterhorn Ridge; The Deep Forests of Elrit -->
+		</Character>
+		<Character name="Oswald">
+			<HP>
+				<Levels>
+					<Level id="1" hitPoints="90"/>
+					<Level id="2" hitPoints="99"/>
+					<Level id="3" hitPoints="110"/>
+					<Level id="4" hitPoints="122"/>
+					<Level id="5" hitPoints="135"/>
+					<Level id="6" hitPoints="148"/>
+					<Level id="7" hitPoints="162"/>
+					<Level id="8" hitPoints="178"/>
+					<Level id="9" hitPoints="195"/>
+					<Level id="10" hitPoints="213"/>
+					<Level id="11" hitPoints="232"/>
+					<Level id="12" hitPoints="252"/>
+					<Level id="13" hitPoints="273"/>
+					<Level id="14" hitPoints="296"/>
+					<Level id="15" hitPoints="319"/>
+					<Level id="16" hitPoints="344"/>
+					<Level id="17" hitPoints="370"/>
+					<Level id="18" hitPoints="397"/>
+					<Level id="19" hitPoints="426"/>
+					<Level id="20" hitPoints="456"/>
+					<Level id="21" hitPoints="486"/>
+					<Level id="22" hitPoints="519"/>
+					<Level id="23" hitPoints="552"/>
+					<Level id="24" hitPoints="586"/>
+					<Level id="25" hitPoints="622"/><!-- After first play through -->
+					<Level id="26" hitPoints="659"/>
+				</Levels>
+			</HP>
+			<Psypher>
+				<Levels><!-- Easy. Subtract 200 for Normal/Hard difficulties. -->
+					<Level id="1" maxPoints="300"/><!-- Invisible -->
+					<Level id="2" maxPoints="300"/>
+					<Level id="3" maxPoints="300"/>
+					<Level id="4" maxPoints="300"/>
+					<Level id="5" maxPoints="300"/>
+					<Level id="6" maxPoints="400"/>
+					<Level id="7" maxPoints="400"/>
+					<Level id="8" maxPoints="400"/>
+					<Level id="9" maxPoints="400"/><!-- Phozon Burst -->
+					<Level id="10" maxPoints="400"/>
+					<Level id="11" maxPoints="500"/>
+					<Level id="12" maxPoints="500"/>
+					<Level id="13" maxPoints="500"/><!-- Phozon Release -->
+					<Level id="14" maxPoints="500"/>
+					<Level id="15" maxPoints="500"/>
+					<Level id="16" maxPoints="600"/>
+					<Level id="17" maxPoints="600"/>
+					<Level id="18" maxPoints="600"/>
+					<Level id="19" maxPoints="600"/>
+					<Level id="20" maxPoints="600"/>
+					<Level id="21" maxPoints="700"/>
+					<Level id="22" maxPoints="700"/><!-- Phypher Heal at or before this point -->
+					<Level id="23" maxPoints="700"/>
+					<Level id="24" maxPoints="700"/>
+					<Level id="25" maxPoints="700"/>
+					<Level id="26" maxPoints="800"/>
+					<Level id="27" maxPoints="800"/><!-- Cyclone -->
+					<Level id="28" maxPoints="800"/>
+					<Level id="29" maxPoints="800"/>
+					<Level id="30" maxPoints="800"/>
+					<Level id="31" maxPoints="900"/>
+					<Level id="32" maxPoints="900"/>
+					<Level id="33" maxPoints="900"/><!-- After first play through -->
+					<Level id="34" maxPoints="900"/>
+				</Levels>
+			</Psypher>
+			<!-- Chapter 1: Nebulapolis -->
+		</Character>
+		<Character name="Velvet">
+			<HP>
+				<Levels>
+					<Level id="1" hitPoints="60"/>
+					<Level id="2" hitPoints="66"/>
+					<Level id="3" hitPoints="73"/>
+					<Level id="4" hitPoints="81"/>
+					<Level id="5" hitPoints="90"/>
+					<Level id="6" hitPoints="99"/>
+					<Level id="7" hitPoints="108"/>
+					<Level id="8" hitPoints="118"/>
+					<Level id="9" hitPoints="130"/>
+					<Level id="10" hitPoints="142"/>
+					<Level id="11" hitPoints="154"/>
+					<Level id="12" hitPoints="168"/>
+					<Level id="13" hitPoints="182"/>
+					<Level id="14" hitPoints="197"/>
+					<Level id="15" hitPoints="213"/>
+					<Level id="16" hitPoints="229"/>
+					<Level id="17" hitPoints="247"/>
+					<Level id="18" hitPoints="265"/>
+					<Level id="19" hitPoints="284"/>
+					<Level id="20" hitPoints="304"/>
+					<Level id="21" hitPoints="324"/>
+					<Level id="22" hitPoints="346"/>
+					<Level id="23" hitPoints="368"/>
+					<Level id="24" hitPoints="391"/>
+					<Level id="25" hitPoints="415"/>
+					<Level id="26" hitPoints="439"/>
+					<Level id="27" hitPoints="465"/>
+					<Level id="28" hitPoints="490"/>
+					<Level id="29" hitPoints="517"/>
+					<Level id="30" hitPoints="545"/>
+					<Level id="31" hitPoints="573"/><!-- After first play through -->
+					<Level id="32" hitPoints="602"/>
+					<Level id="33" hitPoints="631"/>
+				</Levels>
+			</HP>
+			<Psypher>
+				<Levels><!-- Easy. Subtract 200 for Normal/Hard difficulties. -->
+					<Level id="1" maxPoints="300"/><!-- Cyclone -->
+					<Level id="2" maxPoints="300"/>
+					<Level id="3" maxPoints="300"/>
+					<Level id="4" maxPoints="300"/>
+					<Level id="5" maxPoints="300"/>
+					<Level id="6" maxPoints="400"/>
+					<Level id="7" maxPoints="400"/>
+					<Level id="8" maxPoints="400"/>
+					<Level id="9" maxPoints="400"/>
+					<Level id="10" maxPoints="400"/>
+					<Level id="11" maxPoints="500"/>
+					<Level id="12" maxPoints="500"/><!-- Phozon Release -->
+					<Level id="13" maxPoints="500"/>
+					<Level id="14" maxPoints="500"/>
+					<Level id="15" maxPoints="500"/>
+					<Level id="16" maxPoints="600"/>
+					<Level id="17" maxPoints="600"/><!-- Phozon Burst -->
+					<Level id="18" maxPoints="600"/>
+					<Level id="19" maxPoints="600"/>
+					<Level id="20" maxPoints="600"/>
+					<Level id="21" maxPoints="700"/>
+					<Level id="22" maxPoints="700"/><!-- Invisible -->
+					<Level id="23" maxPoints="700"/>
+					<Level id="24" maxPoints="700"/>
+					<Level id="25" maxPoints="700"/>
+					<Level id="26" maxPoints="800"/>
+					<Level id="27" maxPoints="800"/>
+					<Level id="28" maxPoints="800"/><!-- Psypher Heal -->
+					<Level id="29" maxPoints="800"/>
+					<Level id="30" maxPoints="800"/>
+					<Level id="31" maxPoints="900"/>
+					<Level id="32" maxPoints="900"/>
+					<Level id="33" maxPoints="900"/>
+					<Level id="34" maxPoints="900"/>
+					<Level id="35" maxPoints="900"/><!-- Overload -->
+					<Level id="36" maxPoints="1000"/>
+					<Level id="37" maxPoints="1000"/><!-- After first play through -->
+					<Level id="38" maxPoints="1000"/>
+					<Level id="39" maxPoints="1000"/>
+				</Levels><!-- Level 39 --><!-- 3326/84734>2182/85878 (88+4 release) @22 a piece -->
+			</Psypher>
+			<!-- Chapter 1: Netherworld Endelphia -->
+			<!-- Chapter 2: Ringford, Forest of Fairies; Netherworld Endelphia -->
+			<!-- Chapter 3: Capital of Valentine, the Lost Kingdom; Netherworld Endelphia; Ringford, Forest of Fairies -->
+		</Character>
+		<Leveling>
+			<Level id="1" experience="60"/>
+			<Level id="2" experience="190"/>
+			<Level id="3" experience="340"/>
+			<Level id="4" experience="500"/>
+			<Level id="5" experience="700"/>
+			<Level id="6" experience="950"/>
+			<Level id="7" experience="1260"/>
+			<Level id="8" experience="1640"/>
+			<Level id="9" experience="2100"/>
+			<Level id="10" experience="2650"/>
+			<Level id="11" experience="3300"/>
+			<Level id="12" experience="4060"/>
+			<Level id="13" experience="4940"/>
+			<Level id="14" experience="5950"/>
+			<Level id="15" experience="7100"/>
+			<Level id="16" experience="8400"/>
+			<Level id="17" experience="9860"/>
+			<Level id="18" experience="11490"/>
+			<Level id="19" experience="13300"/>
+			<Level id="20" experience="15300"/>
+			<Level id="21" experience="17500"/>
+			<Level id="22" experience="19910"/>
+			<Level id="23" experience="22540"/>
+			<Level id="24" experience="25400"/>
+			<Level id="25" experience="28500"/>
+			<Level id="26" experience="31850"/>
+			<Level id="27" experience="35460"/>
+			<Level id="28" experience="39340"/>
+			<Level id="29" experience="43500"/>
+			<Level id="30" experience="47950"/>
+			<Level id="31" experience="52700"/>
+			<Level id="32" experience="57760"/>
+			<Level id="33" experience="63140"/>
+			<Level id="34" experience="68850"/>
+			<Level id="35" experience="74900"/>
+			<Level id="36" experience="81300"/>
+			<Level id="37" experience="88060"/>
+			<Level id="38" experience="95190"/>
+			<Level id="39" experience="102700"/>
+			<Level id="40" experience="110600"/>
+			<Level id="41" experience="118900"/>
+		</Leveling>
+	</Characters>
+</OdinSphere>

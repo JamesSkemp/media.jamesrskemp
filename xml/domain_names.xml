@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE domains SYSTEM "http://media.jamesrskemp.com/dtd/domain_names.dtd">
+<domains>
+	<domain id="1">
+		<name>jamesrskemp.net</name>
+		<created year="2002" month="12" day="11"/>
+		<expires year="2010" month="5" day="15"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>http://jamesrskemp.com</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>http://jamesrskemp.com</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="2">
+		<name>strivinglife.net</name>
+		<created year="2004" month="9" day="17"/>
+		<expires year="2009" month="9" day="17"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>http://strivinglife.com</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>http://strivinglife.com</path>
+			</subdomain>
+			<subdomain id="2" name="papers" server="1">
+				<path>http://strivinglife.com/words</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="3">
+		<name>jamesrskemp.com</name>
+		<created year="2007" month="1" day="4"/>
+		<expires year="2012" month="1" day="4"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\jamesrskemp</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>http://jamesrskemp.com</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="4">
+		<name>strivinglife.com</name>
+		<created year="2007" month="7" day="1"/>
+		<expires year="2012" month="7" day="1"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\strivinglife</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>http://strivinglife.com</path>
+			</subdomain>
+			<subdomain id="2" name="media" server="1">
+				<path>\Inetpub\media</path>
+			</subdomain>
+			<subdomain id="3" name="feeds" server="1">
+				<path>http://feeds.feedburner.com</path>
+			</subdomain>
+			<subdomain id="4" name="papers" server="1">
+				<path>http://strivinglife.com/words</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="5">
+		<name>clownsstealsouls.net</name>
+		<created year="2005" month="6" day="28"/>
+		<expires year="2009" month="6" day="28"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\clowsstealsouls</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\clowsstealsouls</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="6">
+		<name>stopstriving.net</name>
+		<created year="2005" month="6" day="28"/>
+		<expires year="2009" month="6" day="28"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\inetpub\wwwroot</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\inetpub\wwwroot</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="7">
+		<name>donotdenymyunicorn.com</name>
+		<created year="2005" month="8" day="29"/>
+		<expires year="2009" month="8" day="29"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\donotdenymyunicorn</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\donotdenymyunicorn</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="8">
+		<name>wakinglifemovie.org</name>
+		<created year="2007" month="10" day="21"/>
+		<expires year="2009" month="10" day="21"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\wakinglife</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\wakinglife</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="9">
+		<name>wakinglifemovie.net</name>
+		<created year="2007" month="10" day="21"/>
+		<expires year="2009" month="10" day="21"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\wakinglife</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\wakinglife</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="10">
+		<name>dontstealmyunicorn.com</name>
+		<created year="2008" month="2" day="8"/>
+		<expires year="2010" month="2" day="8"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\dontstealmyunicorn</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\dontstealmyunicorn</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+	<domain id="11">
+		<name>logparserplus.com</name>
+		<created year="2008" month="09" day="12"/>
+		<expires year="2010" month="09" day="12"/>
+		<registrar>GoDaddy</registrar>
+		<servers>
+			<server id="1">
+				<ip>76.12.10.196</ip>
+				<path>\Inetpub\wwwroot\logparserplus</path>
+			</server>
+		</servers>
+		<subdomains>
+			<subdomain id="1" name="www" server="1">
+				<path>\Inetpub\wwwroot\logparserplus</path>
+			</subdomain>
+		</subdomains>
+	</domain>
+</domains>

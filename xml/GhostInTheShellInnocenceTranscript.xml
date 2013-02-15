@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transcript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2012/01/Transcript.xsd">
+	<Name>Ghost in the Shell 2: Innocence script</Name>
+	<Notes></Notes>
+	<Purchase></Purchase>
+	<Chapters>
+		<Chapter Id="1">
+			<Name>New City</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Text displays onscreen.)</p>
+<p>In a future time, when most human thought has been accelerated by artificial intelligence and external memory can be shared on a universal matrix, Batou, an agent of the elite Section 9 Security Force and a begin so artificially modified as to be essentially cyborg, is assigned, along with his mostly human partner, Togusa, to investigage a series of gruesome murders.</p>
+<p>Time has passed since Batou's original partner, Major Motoko Kusanagi, cybernetically enhanced to such a degree that only her "ghost" remained human, disappeared into the Net. Since then, Batou has wondered where her ghost might be and if the Major will ever return ...</p>
+<p>(Japanese text)</p>
+<p>If our gods and our hopes are nothing but scientific phenomena, then it must be said that our love is scientific as well - "L'Eve Future"</p>
+<p>(Opens to an aerial view of a large tower, with a glowing orange base. We slowly descend, and move to a view of a being on a one-man helicopter. It shoots to the top of the tower, and begins circling.)</p>
+<p>"Repo 202 to Control. Arrived at target airspace. Commencing data relay."</p>
+<p>(Transfer to a view out of a car's windshield, driving through human traffic. Base of the tower, a S.W.A.T. like group is getting ready.)</p>
+<p>Batou: "Fill me in."</p>
+<p>"The perp killed the owner 52 minutes ago, at crime scene #1, then took off. Ambushed and murdered two cops at crime scene #2, an unmapped alley. All access points are blocked. We storm it in 2 minutes."</p>
+<p>(Batou heads towards the building. A police officer goes to stop him, but another stops him.)</p>
+<p>"That's the cyborg cop from Section 9. Keep your distance. I hear his bum luck catches like the plague."</p>
+<p>"E-police want to horn in on us. They're asking for a data link."</p>
+<p>"First it's Public Safety, now the E-police. Decline their request respectfully."</p>
+<p>(Walking through an alley. Two dead and a girl. He approaches and she attacks, but he knocks her back. He draws.)</p>
+<p>"Help me. Help me."</p>
+<p>(Whispered. She rips off her skin, and her chest falls apart, tubes and wires springing loose. Her face does the same, and Batou fires once.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="2">
+			<Name>Main Title and Credits</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Opening. We see the creation of one of the female machines seen in the first scene.</p>
+<p>Along with the fantastic images, we hear the beautiful music you'll hear later.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="3">
+			<Name>Jurisdiction</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(A room with a window looking into a forest.)</p>
+<p>"Already this week, we've had eight cases of gynoids murdering their masters. After each killing, they self-destruct, electronic brains reformatted. In each case, the model in question is Locus Solus #2052, "Hadaly" type. A prototype developed for testing, they were provided free of charge to contractors. Now, they've recalled all the prototypes. According to their most recent report, they've identified no defects in either software or hardware."</p>
+<p>"You get all that?"</p>
+<p>"Manufacturer's latest gynoids go berserk, attacking their owners, company panics and recalls every one. They can expect lawsuits by bereaved families, inevitable liability trials and mammoth damage awards. I get it all except why Section 9 is involved."</p>
+<p>"You get it? What you call getting it may be just wishful thinking. Right now, Section 9's involved for two reasons.</p>
+<p>"First, not one single family has filed a lawsuit. In every case they've settled with Locus Solus out of court.</p>
+<p>"Second, the victims included a politician and a retired Public Safety official.</p>
+<p>"Because terrorism's a possible motive, it's our job to consider if it's a matter for Section 9.</p>
+<p>"Ishikawa and Azuma are getting background on the victims. You two check out the gynoids.</p>
+<p>"No questions. Go."</p>
+<p>===</p>
+<p>(Driving.)</p>
+<p>Togusa: "Just for the record, I didn't volunteer for this. There's no way I'll measure up to the Major."</p>
+<p>Batou: "That's beside the point."</p>
+<p>"I hear she's still listed as missing."</p>
+<p>"The Major could only call her brain and her ghost her own. Although even she doubted whether they were real. Her brains and hardware were government property and her entire memory, including the classified information, were part of the deal. The top brass only cares about recovering that memory. Her life is not an issue for them."</p>
+<p>"So, where do we start?"</p>
+<p>"Locus Solus is located in the nortern frontier. The first step is to check in with local Forensics."</p>
+<p>===</p>
+<p>(Police station. It's crowded. They walk back to a desk.)</p>
+<p>"You guys ..."</p>
+<p>"About the gynoid this guy wasted yesterday ..."</p>
+<p>"She cost us two young officers. Don't tell me you want her back?"</p>
+<p>"That's part of what we've come to determine."</p>
+<p>He sighs. "Forensics is up on 19, a right at the end of the hall. Need a guide?"</p>
+<p>"No thanks, we'll skip the tour."</p>
+<p>"'Birds never peck at green persimmons, they wait until the fruit is ripe.'"</p>
+<p>(Togusa gets angry, but Batou restrains him. Once they walk away, the detective lashes out.)</p>
+<p>===</p>
+<p>(Elevator.)</p>
+<p>"Back when you were a detective, you would've had a choice word or two for guys like us swooping down to horn in on your case."</p>
+<p>"That's why it's so irritating. It's like watching my old self."</p>
+<p>Batou: "'It is no use to blame the looking glass if your face is askew."</p>
+<p>Togusa: "The mirror is not an instrument of enlightenment but of illusion.'" (He seems surprised.)</p>
+<p>"Well, neither of us has looks worth staring at in the mirror."</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="4">
+			<Name>Coroner Haraway</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(A lab.)</p>
+<p>The technician: "You can come here all you want, I'm not sharing this investigation. And if you're too persistent, I'll have you detained."</p>
+<p>"I'm Togusa, Public Safety Section 9. This scary-looking fellow ..."</p>
+<p>"Blew her apart with double-0 buckshot. A 50 caliber hollow point would've left her easier to reconstruct."</p>
+<p>"She wasted 3 people, two of 'em cops."</p>
+<p>"She was trying to commit suicide before you shot her. Isn't that right?"</p>
+<p>(Long pause amongst them all.)</p>
+<p>Togusa: "'Commit suicide' meaning ... Miss ..."</p>
+<p>"Haraway."</p>
+<p>"Miss Haraway, how exactly would a robot kill itself?"</p>
+<p>"By intentionally malfunctioning, these gynoids are capable of self-authorizing attacks against humans. This liberates them from Moral Code #3."</p>
+<p>"Which stipulates, 'Maintain existence without injuring humans.' Isn't 'self-destruction' more accurate?"</p>
+<p>"If you assume differences between humans and machines are obvious."</p>
+<p>"Are such 'suicides' confined to a particular model?"</p>
+<p>"Not necessarily. In recent years we've seen a surge of robot related problems, especially among the 'pets'."</p>
+<p>"The cause?"</p>
+<p>"E-brain contamination from microbes and viruses, human production errors, functional defects from wear-and-tear. Take your pick, but ..."</p>
+<p>"But?"</p>
+<p>"I say it's because humans discard their robots once they're redundant. When owners trade up to newer models, some of those abandoned become vagrants, and degenerate. Perhaps it's a protest against their own obsolescence."</p>
+<p>"Absurd."</p>
+<p>"Humans are different from robots. That's an article of faith, like black isn't white. It's no more helpful than the basic fact that humans aren't machines.</p>
+<p>"Unlike industrial robots, the androids and gynoids designed as 'pets,' weren't designed along utilitarian or practical models. Instead, we model them on a human image, an idealized one at that. Why are humans so obsessed with recreating themselves?</p>
+<p>"Do you have children?"</p>
+<p>Togusa: "A daughter."</p>
+<p>"Children have always been excluded from the customary standards of human behavior, if you define humans as beings who possess a conventional identify and act out of free will. Then what are children who endure in the chaos preceding maturity? They differ profoundly from 'humans,' but they obviously have human form. The dolls that little girls mother, are not surrogates for real babies. Little girls aren't so much imitating child rearing, as they are experiencing something deeply akin to child rearing."</p>
+<p>"What on earth are you talking about?"</p>
+<p>"Raising children is the simplest way to achieve the ancient dream of artificial life. At least, that's my hypothesis."</p>
+<p>"Children aren't dolls!"</p>
+<p>Batou: "Descartes didn't differentitate man from machine, animate from inanimate. He lost his beloved five-year-old daughter and then named a doll after her, Francine. He doted on her. At least that's what they say."</p>
+<p>Togusa: "Can we get back to reality here? I'd like your observations with respect to the Hadaly robot, model #2502, manufactured by Locus Solus."</p>
+<p>"Right.</p>
+<p>"It's very well designed. I understand it's a prototype, but it's intended for particular functions."</p>
+<p>"Particular functions?"</p>
+<p>"It's equipped with organs unnecessary in service robots."</p>
+<p>"Meaning?"</p>
+<p>"It's a sexaroid. Nothing to brag about to your neighbors, but hardly illegal."</p>
+<p>"I get it. Scandal. No wonder those families settled out of court."</p>
+<p>"When it's systems shut down, the electronic brain reformats. That's standard protection for manufacturer's proprietary software. But ..."</p>
+<p>"But, what?"</p>
+<p>"We found a file in the audio buffer. Care to hear it?"</p>
+<p>(She plays the file.)</p>
+<p>"Help me." (It repeats 12 and a half times before Batou stops it.)</p>
+<p>Batou: "Thanks for your help."</p>
+<p>Togusa: "One last question. It's none of my business, but ..."</p>
+<p>"No, I've never raised a child. Nothing registered at the ovum bank."</p>
+<p>"Thank you, Miss ..."</p>
+<p>"Haraway. No need for Miss or Mrs."</p>
+<p>(Togusa walks away, and her eyes and part of her face raise out and up from her head.)</p>
+<p>===</p>
+<p>(Back to the car.)</p>
+<p>Togusa: "She's not really the type for technical work."</p>
+<p>Batou: "Her reports are doubtless full of unsolicited opinions, just like mine."</p>
+<p>"Which probably held you back from promotion."</p>
+<p>"We secure that gynoid's brain for the labs at Section 9."</p>
+<p>"Guess that's the last we'll see of her."</p>
+<p>"She your type?"</p>
+<p>"Actually, I like older women. What's next?"</p>
+<p>"We follow standard procedure."</p>
+<p>"Investigate the Hadaly inspector?"</p>
+<p>(From the car, a map pops up.)</p>
+<p>"09 calling 907. There's been a 602 in the District 201 boathouse. Victim is inspector for Locus Solus. Scene secured two minutes prior to local police."</p>
+<p>"Roger, 907.</p>
+<p>"Unbelievable timing."</p>
+<p>Batou: "'A fine spring day. A carriage sprints between this world and the next.'"</p>
+<p>(They drive out and off.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="5">
+			<Name>Boat House</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(A nice house, on the water.)</p>
+<p>"You're all alone here?"</p>
+<p>"Koga got reacquainted with his dinner and went back with the corpse."</p>
+<p>"What a wimp."</p>
+<p>"The scene, 22 minutes ago."</p>
+<p>(A disk, which Togusa plugs into his neck.)</p>
+<p>"You made a rookie deal with this mess?"</p>
+<p>"Life's a learning curve."</p>
+<p>(Electronically speaking.)</p>
+<p>"Here's what we've got. Analysis of victim's brain yields ... Jack Volkerson, age 54. Consignment inspector for Locus Solus. He applied for leave five days ago and vanished. Three days ago, he rented this boathouse.</p>
+<p>"The murder weapon, kitchen utensils. Inspection of the area turned up a vehicle license linked to organized crime. We're checking it out.</p>
+<p>"Seven credit cards found in jacket, presumably the victim's. Investigating transaction history."</p>
+<p>(Batou is walking along a bookcase and spots one book that does not match the others. He pulls it out - it's <em>The Doll</em> by Hans Bellmer - and opens it. He finds a photo of a girl.)</p>
+<p>"38 caliber SW Model 2602. Looks like he ran out of time."</p>
+<p>"Doubt it would've done him much good."</p>
+<p>"'An illegally powerful cyborg,' or maybe a professional faking a psycho."</p>
+<p>"969 calling 906, 20 seconds away from the scene, don't touch."</p>
+<p>"Not a thing."</p>
+<p>"Let's leave this to Forensics.</p>
+<p>"907 calling 09. We're handing the scene over to 969."</p>
+<p>"09, Roger."</p>
+<p>Togusa: "It's my daughter's birthday."</p>
+<p>"Family man, huh?"</p>
+<p>"I'll drop you off."</p>
+<p>Batou: "Wrong direction. Ishikawa?"</p>
+<p>"Not headed his way, either."</p>
+<p>Batou: "Okay. Daughter's birthday takes priority."</p>
+<p>"You're a cheerful bunch."</p>
+<p>"The chief showing up at a scene?"</p>
+<p>"The corpse is missing parts, that's why."</p>
+<p>"The place is all yours. Take your time."</p>
+<p>"What's the big deal over a local case?"</p>
+<p>"The boss has taken an interest."</p>
+<p>"Found it! Divided up in jars in the refrigerator. Heart, liver, kidneys, even the pancreas."</p>
+<p>"Conscientious bastard."</p>
+<p>===</p>
+<p>(An empty cage, with white feathers at the bottom.)</p>
+<p>===</p>
+<p>(Batou walks out of a store, carrying a bag.)</p>
+<p>"Fresh dog food, huh? Stick to dry food and he'll last longer."</p>
+<p>"I can't feed him that."</p>
+<p>"You're teamed up with Togusa? Beats being paired off with a rookie fresh out of training."</p>
+<p>"For an ex-detective, he's got his uses. I've got no complaints."</p>
+<p>"Except that the only one up to your standards was the Major."</p>
+<p>(Ishikawa starts to speak.)</p>
+<p>"Cut the chatter, Ishikawa."</p>
+<p>(They pull up to a curb, a display says that they are 'All clear'. Batou checks the rear-view and gets out.)</p>
+<p>"Later."</p>
+<p>"Batou ..."</p>
+<p>"What now?"</p>
+<p>"Stick to the dry food. For nutritonal balance, it's better for the dog."</p>
+<p>(Batou walks away from the car, but as soon as it pulls away, he changes directions. He walks through an alleyway, to a garage, pulls out a device which turns to 2501, then "Safe", and heads towards a car.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="6">
+			<Name>Batou's Safe House</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Living room. A car drives by and a dog gets out of a chair, heading to the door. Batou walks in and steps in something. The dog hides.)</p>
+<p>(Batou cleans off his shoe in a tub while the dog tries to watch.)</p>
+<p>('Gabriel', a gear-driven dog. Batou prepares the dog's food, tenderly moves it's ears out of the dish when it begins to eat. Grabs a drink, sits on a chair, pulls out the photo of the girl. After moving a ball, containing a fish, slightly. The dog jumps onto his lap and falls asleep.)</p>
+<p>===</p>
+<p>"He died from a blow that severed his cervical vertebrae. The kitchen utensils were for evisceration, not murder."</p>
+<p>"Someone took their sweet time dismembering the corpse?"</p>
+<p>"So it appears.</p>
+<p>"We've confirmed the organs in the refrigerator were the victim's. They reveal gastritis and cirrhosis of the liver. Apparently an alcoholic."</p>
+<p>"Why'd the perp bother with the organs?"</p>
+<p>"Maybe to create the impression he was a psycho or a freak."</p>
+<p>"Or to underscore an element of retribution or revenge."</p>
+<p>"So we're not looking for an assassin posing as a thrill-seeker."</p>
+<p>"What's with the warped doorknob?"</p>
+<p>"Analysis indicates a Chinese prosthetic limb, model NR26.</p>
+<p>"Known as the Crab Claw. Strictly military. Available on the black market, defective ones, anyway. The Claw jives with that stiff's mutilated neck, too."</p>
+<p>"Did you track down the license on those yakuza wheels?"</p>
+<p>"Yeah. They've covered their tracks with a lot of illegal modifications."</p>
+<p>"Stick to the facts."</p>
+<p>"We tracked down records from a nearby parking lot. The vehicle in question's registered to an organized crime group called Kojinkai. Car's bulletproofed, with a reinforced chassis and rear shocks. It's been linked to a number of assault scenes."</p>
+<p>"Custom wheels for a cyborg."</p>
+<p>"An illegally powerful bodyguard at that. So this was yakuza payback?"</p>
+<p>"But where's the motive?"</p>
+<p>"The Kojinkai's an entrenched Japanese crime syndicate. Drugs, hookers, gambling, scams, an anything-goes yakuza operation. And a Hadaly gynoid yanked of the big boss, Inoue's head 3 days ago. A young turk, Wakabayashi, took over the show."</p>
+<p>"It's a no brainer, then."</p>
+<p>"Avenge the boss' death and his throne is yours."</p>
+<p>"Hold on. If Volkerson knew they had it in for him, why'd he take the trouble of hiding out on their turf?"</p>
+<p>"We don't know. His e-brain's wiped clean, so the car's our only lead."</p>
+<p>"Let's leave this one to the locals."</p>
+<p>"The terrorists-masquerading-as-deranged-robots scenario? There's no political link between the victims, so I think that's a dead end. But I'm putting Batou and Togusa on all our berserk Hadaly cases full-time, this one included. The rest of you, get back to your regular shifts. That's it."</p>
+<p>(The room changes and four of the seven disappear.)</p>
+<p>"Togusa. See me before you go."</p>
+<p>(He too disappears. Only Batou and Togusa are left in the room.)</p>
+<p>===</p>
+<p>"Talk to me."</p>
+<p>Togusa: "We'll check out any links between the Kojinkai mob and Locus Solus."</p>
+<p>"I mean Batou. Your job includes monitoring your partner's emotional state."</p>
+<p>"I know, but I'm not a cyborg or an electronic neurologist."</p>
+<p>"'One need not be Caesar in order to understand Caesar.' You're a family man, right? Do you consider yourself to be happy?"</p>
+<p>"Well, sure."</p>
+<p>"Most of us are neither so happy nor as miserable as we think. The key is to stay engaged with your life and your hopes."</p>
+<p>"I don't understand."</p>
+<p>"Lately, Batou's reminding me of the Major before she disappeared. You know, 'Let one walk alone, committing no sin, with few wishes, like an elephant in the forest.'"</p>
+<p>(Togusa starts to leave.)</p>
+<p>"Chief, why did you pick me for this job?"</p>
+<p>"Because it was the Major who plucked you off your local beat."</p>
+<p>===</p>
+<p>(A car is being moved upwards.)</p>
+<p>Batou: "What'd he want?"</p>
+<p>"Apparently you don't need to be Caesar in order to understand him."</p>
+<p>"That goes without saying. 'The world cannot live at the level of its great men.'"</p>
+<p>(Batou pulls out a big gun from the trunk.)</p>
+<p>"You planning on starting a war?"</p>
+<p>"No need to be a yakuza to pay them a visit, but we'll need weapons."</p>
+<p>"I want to get something straight."</p>
+<p>"What?"</p>
+<p>"We're just going to chat with these guys, right?"</p>
+<p>"You dislike yakuza?"</p>
+<p>"Sure. Detest them."</p>
+<p>"Same here."</p>
+<p>"But we're just going to chat, right?"</p>
+<p>"Like I said, you don't need to be a yakuza ..."</p>
+<p>"I know. To pay them a visit. But you also said we need weapons. I'm a family man."</p>
+<p>"I can always go alone."</p>
+<p>"No. I'll go with you, I am your partner. But I want your word."</p>
+<p>"Okay. We're just going to chat. Avoid shooting as best you can.</p>
+<p>"Happy now?"</p>
+<p>"Just fine."</p>
+<p>"Let's go then, pal."</p>
+<p>(They shut the trunk.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="7">
+			<Name>Yakuza Office</Name>
+			<Notes>
+				<Note><![CDATA[<p>Listed as Togusa's Office on the DVD, but I do believe this is what was actually meant.</p>]]></Note>
+			</Notes>
+			<Content><![CDATA[
+<p>"Who the fuck are you?"</p>
+<p>"Here to chat with Wakabayashi. Go get him."</p>
+<p>"What about, 'Avoid shooting?'"</p>
+<p>"I did as best I could. Move out, you're on point. Here comes their back-up."</p>
+<p>(Batou disappears.)</p>
+<p>"Images!"</p>
+<p>"That son of a bitch infiltrated our vision!"</p>
+<p>(He takes them out from behind and below.)</p>
+<p>"Blame your own cheap shit electronics.</p>
+<p>"What's up?"</p>
+<p>"Narrow, dark stairs. What's the program?"</p>
+<p>"We take turns, I'll lead."</p>
+<p>"No, I'll lead. You're so damned big, I can't cover you."</p>
+<p>Your little gifts exploded above my head. Even persuming they went off at their most lethal range, you think two grenades are going to off an armored cyborg? You insult me.</p>
+<p>"Start by telling me about the dead consignment inspector, then spill your connections to Locus Solus.</p>
+<p>"Well, look who's here.</p>
+<p>"Bring it on, Crab Man. You and that claw look nasty, but I'm ready.</p>
+<p>"Betting on that obvous a move? Moron."</p>
+<p>(Batou inserts a device into the nodes at the back of his head. With the moving of a joystick, he can control his head. He rips the plugs out and the man drops.)</p>
+<p>"They told me where to find the consignment inspector ... so we whacked him. I'm fresh out of 3 years in the pen. I know jack shit about what the boss was up to with that outfit."</p>
+<p>"Still with me, pal?"</p>
+<p>"All I could see ... were my wife and daughter's faces."</p>
+<p>"That wasn't your wife or daughter. It was the grim reaper."</p>
+<p>===</p>
+<p>"I ordered you to conduct an investigation. I never said skip the paperwork and act like vigilantes. I certainly don't recall ordering you to barge into any yakuza office. This isn't the jungle and you're not Special Forces hit men."</p>
+<p>===</p>
+<p>"You still pissed off?"</p>
+<p>"I am not pissed. And I hate to sound ungrateful to the man who saved my life ... But being your partner is definitely gonna take a toll on me."</p>
+<p>"Look it's only the two of us on this case. A half-assed approach just won't cut it. If Locus Solus has anything to hide, they'll come after us."</p>
+<p>"So that's why you put on that yakuza gun show."</p>
+<p>"Yeah, and if the chief was really pissed, he'd have suspended us. Pull over, will you?"</p>
+<p>(Togusa pulls the car over, and they check for pursuing vehicles. It looks like one is found, but Batou gets out anyways.)</p>
+<p>"Later."</p>
+<p>(Batou walks into the same store as earlier.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="8">
+			<Name>The Store</Name>
+			<Notes>
+				<Note><![CDATA[<p>I personally think this is one of the coolest scenes in the movie.</p>]]></Note>
+			</Notes>
+			<Content><![CDATA[
+<p>(Batou walks into the store, and heads towards the back.)</p>
+<p>(A voice in his head.) "You're in the kill zone."</p>
+<p>===</p>
+<p>"Don't tamper with the settings on that new arm of yours. The operating system upgrades can conflict with the weapon-control, rendering it entirely useless."</p>
+<p>"Then you'll just have to reformat the thing. Hey, where are the remains of my old arm?"</p>
+<p>"Don't even think about it. Not much left. The organic components in this one match your DNA."</p>
+<p>"I suppose that, with enough use, it'll feel like my own."</p>
+<p>"Ouch. Hey, just hold on."</p>
+<p>"The fact that you carried him here means that ..."</p>
+<p>"Yeah. I broke into your little love nest. I just couldn't stomach the thought of him moaning with hunger, covered in shit, waiting for you. Believe it or not, I'm a dog lover."</p>
+<p>"But I'm the one that took him in for the night. My daughter's in heaven and my wife's fuming over her dirty carpets."</p>
+<p>"When did you start tailing me?"</p>
+<p>"It's no big deal, man."</p>
+<p>"Yes, it is a big deal. You used me as a smokescreen."</p>
+<p>"If you had more experience, you would've caught on. Blame it on the boss."</p>
+<p>"Is this pooch a clone? Aren't originals outrageously expensive?"</p>
+<p>"His was the first line bred by artificial insemination."</p>
+<p>"It's hardly your style to let them hack into your brain. And any daily routine just makes you vulnerable to traps. I told you to stick to dry food."</p>
+<p>"But he likes the fresh stuff and that's the only store that carries it."</p>
+<p>"They had you going berserk, shooting five bullets into your own arm, and nearly blowing away the storeowner."</p>
+<p>"He may be nuts, but it's a rare bird that can hack into this guy. Except for the Major."</p>
+<p>"And why didn't they make me blow my head off?"</p>
+<p>"I think because they want to disgrace you, not wipe you out. First, you barge into a yakuza office, send a dozen men to heaven or the hospital, and that very same day, unload your weapon in a grocery store. So we think either you've gone mad or your e-brain's shot."</p>
+<p>"But this was a planned attack. It proves that our case wasn't random."</p>
+<p>"We can't pull out. We'd jeopardize the whole point of Section 9."</p>
+<p>"That's what the Major'd say. And I've got a message from the boss, too. Stay on it, but no more official Section support until you come up with material proof."</p>
+<p>"We'll go to the source then, Locus Solus."</p>
+<p>"Nothing preserves secrecy like speed. You're going to the northern frontier immediately."</p>
+<p>"Far north?"</p>
+<p>"You two can't handle it?"</p>
+<p>"Sure, but what about the basset?"</p>
+<p>"The idea of a single man in this line of work keeping a dog is preposterous! And of all dogs, you choose a high-maintenance hound. It's not my problem. You guys figure it out!"</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="9">
+			<Name>Orange Sky</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>"This area was once intended as the Fear East's most important information center, a Special Economic Zone in its heyday. These towers survive as a shadow of the city's former glory. Its dubious sovereignty has made it the ideal haven for multi-nationals and the criminal elements that feed off their spoils. It's a lawless zone, beyond the reach of UN or E-police. Reminds me of the line, 'What the body creates, is as much an expression of DNA as the body itself.'"</p>
+<p>"But the same applies to beaver dams and spiderwebs."</p>
+<p>"I'll take the coral reefs as my metaphor. Though hardly so beautiful. If the essence of life is information carried in DNA, then society and civilization are just colossal memory systems and a metropolis like this one, simply a sprawling external memory."</p>
+<p>"'How great is the sum of thy thoughts. If I should count them, they are more in number than the sand.'"</p>
+<p>"Psalms 139, Old Testament. The way you spout these spontaneous exotic references, I'd say your own external memory's pretty twisted."</p>
+<p>"Look who's talking!"</p>
+<p>"Sorry to interrupt, but we're about to fly over Locus Solus. This pass is for you, so take a good look.</p>
+<p>"So much for the free tour. Prepare for landing."</p>
+<p>"'His legions, angel forms, who lay entranced. Thick as autumnal leaves that strow the brooks.'"</p>
+<p>"Now you're quoting Milton, but we are not Satan."</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="10">
+			<Name>Festival</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>"Batou!"</p>
+<p>===</p>
+<p>"You sure have gotten informal, Lin. Since when do you skip the 'Sir'?"</p>
+<p>"I haven't forgotten the debt I owe you."</p>
+<p>"'The less one forgets the less one can remember?'"</p>
+<p>"Oh, c'mon, Batou... Sir."</p>
+<p>"Now you want to butter me up with 'Sir'."</p>
+<p>"Please, forgive me, I beg you. I beseech you."</p>
+<p>"Know a guy called Kim?"</p>
+<p>"Never heard of him. Actually, they're a dime a dozen up this way."</p>
+<p>"I'm just looking for a particular one."</p>
+<p>"We got loyalty even in my line."</p>
+<p>"'There's loyalty that protects secrets and loyalty that protects the truth.' You can't serve both masters, so which loyalty is yours?"</p>
+<p>"They say there's no truth without secrets."</p>
+<p>"I'll ask you again, do you know a guy called Kim?"</p>
+<p>"Never heard of him. Actually, they're a dime a dozen..."</p>
+<p>(Togusa, reading from the wall.)</p>
+<p>"'Life and death come and go like marionettes dancing on a table. Once their strings are cut, they easily crumble.'"</p>
+<p>===</p>
+<p>(A large bonfire, with 'children' being thrown in, their painted-on skins burning off.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="11">
+			<Name>Kim's Mansion</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>"He used to be a long-range military scout. 'Unfit as a commander, unfit to be commanded, fit only to languish by the wayside.' He bounced around between Special Forces and Electronics, and got into black market weapons. His reputation turned to shit. Wound up your garden-variety hacker."</p>
+<p>"Sounds like quite a story."</p>
+<p>"Yeah, but no matter how far a jackass travels, it won't come back a horse. His downfall came when his reach exceeded his grasp. Let's go."</p>
+<p>===</p>
+<p>('aemaeth' is written on the ground, with a girl pointing down to them.)</p>
+<p>"Batou, the study on the top floor."</p>
+<p>(There's a body laying back in a chair, the back of the head severly charred.)</p>
+<p>"I guess we were a little late. Pro-active firewalls must have zapped him hacking in somewhere. In any case, doesn't look like he would've been of much use."</p>
+<p>"'The deceased firmly declines offerings of fresh or artificial flowers or birds released in his honor.'"</p>
+<p>(Batou throws the chair onto it's side, knocking the body onto the floor.)</p>
+<p>"Hey!"</p>
+<p>"'Sleep not you of the dead.' Even Confucius says you should never pretend to sleep like a corpse. I haven't got time for your stupid little jokes, Kim."</p>
+<p>(The body begins to laugh.)</p>
+<p>===</p>
+<p>"Haven't seen you since that landing operation in Nemuro."</p>
+<p>"I'm here on a job."</p>
+<p>"Meaning Locus Solus? They came late to the robot racket, but expanded rapidly once they focused on high-end gynoids. There are whispers of links to politicians, bureaucrats, even crime syndicates. Wary of local regulators for these 'specialized' mannequins, they shifted all production to a multi-national factory ship anchored in international waters. They turn out some mighty fine dolls."</p>
+<p>"Fine enough to commit suicide after murdering humans?"</p>
+<p>"If that's true, it's pretty unseemly. That would mean replicating humans by breathing souls into dolls. Who'd want to do that? The definition of a truly beautiful doll is a living, breathing body devoid of a soul. 'An unyielding corpse, tiptoeing on the brink of collapse.'"</p>
+<p>"Or reduced to a ravaged body with an e-brain... like you."</p>
+<p>"The human is no match for a doll, in its form, its elegance in motion, its very being. The inadequacies of human awareness become the inadequacies of life's reality. Perfection is possible only for those without consciousness, or perhaps endowed with infinite consciousness. In other words, for dolls and for gods."</p>
+<p>"Shouldn't we get back to business?"</p>
+<p>"Actually there's one more mode of existence commensurate with dolls and deities."</p>
+<p>"Animals?"</p>
+<p>"Shelley's skylarks are suffused with a profound, instinctive joy. Joy we humans, driven by self-consciousness, can never know. For those of us who lust after knowledge, it is a condition more elusive than godhood."</p>
+<p>"And this conundrum compelled you to inhabit a doll and play dead? Is that your reason?"</p>
+<p>"'Without knowing life, how can we know death?' That's what Confucius says."</p>
+<p>(Togusa pulls two books away from the bookshelf, and a model of the house comes out from the wall. He looks into a hole, and we see the scene from the beginning of this scene from above.)</p>
+<p>"It is a rare human how knows death. Most meet death unprepared, armed only with ignorant familiarity. In other words, people die simply because it is inevitable."</p>
+<p>Batou: "But death is a precondition of life for a doll."</p>
+<p>(Continued into the next chapter.)</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="12">
+			<Name>Kim's Mansion. Again</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Continued from the previous chapter.)</p>
+<p>"Kim chose to become a complete cyborg. That was his reason. He bounced around between Special Forces and Electronics, and got into black market weapons. His reputation turned to shit. Wound up your garden-variety hacker."</p>
+<p>"Sounds like quite a story."</p>
+<p>"No matter how far a jackass travels, it won't come back a horse."</p>
+<p>(Batou pauses.)</p>
+<p>"What's wrong? Lets go."</p>
+<p>===</p>
+<p>(Same girl, this time 'a' and 'e' have been moved so that the letters only spell 'maeth'.)</p>
+<p>(Togusa:) "Batou!"</p>
+<p>(This time a Togusa-like body is in the chair.)</p>
+<p>"'The deceased hereby proclaims, that on this day of this month, I have attained my own celebrated death.'"</p>
+<p>(Again Batou knocks the chair and body over, and the body begins to make choking noises.)</p>
+<p>"Truly disturbing, isn't it? I really understand. The doubt is whether a creature that certainly appears to be alive, really is. Alternatively, the doubt that a lifeless object might actually live. That's why dolls haunt us. They are modeled on humans. They are, in fact, nothing but human. They make us face the terror of being reduced to simple mechanisms and matter. In other words, the fear that, fundamentally, all humans belong to the void."</p>
+<p>"Enough. Let's get down to business."</p>
+<p>"Further, science, seeking to unlock the secret of life, brought about this terror. The notion that nature is calculable inevitably leads to the conclusion that humans too, are reducible to basic, mechanical parts."</p>
+<p>"'The human body is a machine which winds its own springs. It is the living image of perpetual motion.'"</p>
+<p>"In this age, the twin technologies of robotics and electronic neurology resurrected the 18th century theory of man as machine. And now that computers have enabled externalized memory, humans have pursued self-mechanization aggressively, to expand the limits of their own functions. Determined to leave behind Darwinian natural selection, this human determination to beat evolutionary odds also reveals the desire to transcend the very quest for perfection that gave it birth. The mirage of life equipped with perfect hardware engendered this nightmare."</p>
+<p>Batou: "'God's everlasting geometry.'"</p>
+<p>(His head begins moving like a gear towards Togusa. His face breaks open, and Togusa moves his body way from him ...)</p>
+<p>===</p>
+<p>(Continued in the next chapter.)</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="13">
+			<Name>Kim's Mansion. Again and Again</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(We're back outside, and Batou and Togusa turn towards the building, hearing a shot.)</p>
+<p>"Here goes!"</p>
+<p>(The girl is gone, but there's the number '2501'.)</p>
+<p>"Batou!"</p>
+<p>(This time Batou is on the chair. There's a noise, and the window explodes inward. This is where it gets damn cool. The building is attacked by the Locus Solus sub.)</p>
+<p>(Togusa is shot from behind, through the chest, and as he looks, his chest bursts open, revealing his mechanical parts. He screams.)</p>
+<p>(We see Togusa, staring, and then move back to see Batou standing behind him.)</p>
+<p>"How do you feel?"</p>
+<p>"How did I..."</p>
+<p>"Looks like a tangle of virtual experience hacked into your e-brain. Just as luck appears in threes, misfortune also arrives three times. A gaze averted in discomfort, a realization unspoken, advice unbidden. Without noticing, we welcome catastrophe. But our world cannot afford to ignore the first sign, let alone all three. I told you, Kim, I don't have time for your stupid jokes!"</p>
+<p>"When did you catch on?"</p>
+<p>"No one's easier to trick than the trickster. You may be an electronic warfare specialist, but you forget my line's intelligence. And besides... I come complete with a guardian angel. Try digging up the hall image in your external memory database.</p>
+<p>"Jacob Grimm wrote that by inscribing 'aemaeth' upon the ancient Golem's brow, the clay man lived by drawing energy from the word for 'truth'. But simply removing the 'ae' to form 'maeth' or 'death,' returned the Golem back to inanimate clay. That prophecy told me that no truth would be found within these walls."</p>
+<p>"Someone broke through the firewalls I devised? Preposterous. Who on earth could!"</p>
+<p>"Like I told you, my guardian angel. Game's over, Kim. It's time you started talking..."</p>
+<p>(His head falls back and the small girl who served the tea goes running. Batou shoots it through the head.)</p>
+<p>"That's just a doll. You don't know when to quit, Kim. I won't fall for another diversion."</p>
+<p>"Batou, how can you disprove this reality is genuine or an extension of false illusions generated by virtual signals?"</p>
+<p>"My ghost is whispering to me."</p>
+<p>"Humans are nothing but the thread from which the dream of life is woven. If dreams, consciousness, even ghosts are no more than rifts and warps in the uniform weave of the matrix."</p>
+<p>"We are both but worthless humans, though we walk very different paths. Of course, if you don't believe in ghosts, you'll never know madness or schizophrenia, either. The little that's left of your body will not rot, Kim, but continue to function until you meet a suitable death."</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="14">
+			<Name>Kim's Mansion. The 4th Encounter</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Togusa:) "Are we actually back in physical reality?"</p>
+<p>(Batou:) "There is no way to distinguish reminiscence from true memory. Whatever they are, they can only be analyzed after the fact. The passage of time itself can't be stored, so it's tough. And inevitable, now that our e-brains share external memories. Do your wife and daughter, waiting for you at home, really exist? Or are you, in reality, still single, living in some cheap rented room, only dreaming of that family. Don't you want to verify what actually happened back there?"</p>
+<div class="note">
+<p>A reference to the first movie.</p>
+</div>
+<p>"And if you knew almost from the start, why?"</p>
+<p>"I had to ascertain his motives. Kim set his trap knowing I'd come calling, inserting the virtual reality to shake us off. That's about the gist of it. Maybe he was the hacker who planted something in my e-brain, making me dance to his tune and blow away my right arm. Just as Ishikawa surmised, not many could have pulled that off. Locus Solus suspects as much."</p>
+<p>"So you anticipated all of this."</p>
+<p>"Pretended to fall into his trap, then beat him at his own game ... that was my plan. But Kim was pretty sophisticated. I only made it out because of the hallway clue."</p>
+<p>"The guardian angel you spoke of ..."</p>
+<p>"She's gone. Somewhere beyond that 'rift in the uniform weave of the matrix.' She's definitely alive. Merging somewhere on the vast net, or with the entire domain. Though that's not for me. There are as many paths to proving your existence as there are ghosts. And you've got your daughter. I thought Kim knew other paths too, back when he and I were in the jungle together."</p>
+<p>"At least I've figured one thing out."</p>
+<p>"What's that?"</p>
+<p>"That I'll never cut it as your partner."</p>
+<p>"Lost your nerve?"</p>
+<p>"No, but to quote you, I've got a daughter to go home to."</p>
+<p>"That may be, but you'll still need to pay your way out of here."</p>
+<p>"Don't you have enough? We can nail Locus Solus with the data from Kim's e-brain."</p>
+<p>"We can only prove he interfered with an investigation plus the ethics violation. Besides, our investigation's officially off the record. So, if we're going to make charges in those gynoid serial murders stick, we need material evidence."</p>
+<p>"And Kim's a dead end."</p>
+<p>"No, he's not. His ghost may be beyond reach, but his e-brain's still tied to Locus Solus. We've got to settle this case before they clean out their operation.</p>
+<p>"There's an old saying, 'When you're neither right nor wrong, it's time to beat the drums and attack.' In other words, when dialogue fails, it's time for violence."</p>
+<p>"Hey, this isn't like barging into some yakuza office!"</p>
+<p>"Then I won't count on your Mateba revolver for cover. 'Birds seek refuge in the heavens, fish dive deep into the sea.'"</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="15">
+			<Name>Undersea</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Batou goes under the water. He grabs onto a dolphin.)</p>
+<p>"I've made contact with the escort."</p>
+<p>"Roger."</p>
+<p>"Diving's risky for a heavy cyborg physique like yours. It's so deep here, if you sank we'd never retrieve you."</p>
+<p>"I used to know a cyborg whose hobby was diving. Don't know what got into her."</p>
+<div class="note">
+<p>Alluding here to the first movie.</p>
+</div>
+<p>"I'm helping out because you're a friend of Lin's, but they say no one's come back from that ship alive. Then I don't know what's got into you."</p>
+<p>"Exactly. Let's go."</p>
+<p>"Hold on!"</p>
+<p>===</p>
+<p>"In 12 seconds, we'll trip their sensors. I'll send two seconds of camouflage signal."</p>
+<p>"Roger."</p>
+<p>"I've routed this thing into the chief of security's e-brain. Initiating synchronization."</p>
+<p>===</p>
+<p>(Batou heads towards the sub.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="16">
+			<Name>The Ship</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Batou busts into the ship from above.)</p>
+<p>"I'm in. Forward the vessel data. Download complete. You got my vision in your sites?"</p>
+<p>"Recording now. Wouldn't miss my mentor's assault."</p>
+<p>"You're a real smart ass."</p>
+<p>"Infiltrator detected. Rebooting level 2 security system. Review status of all onboard e-brains. Scan for matches in memory usage and virus size. It may be a latent virus. Cross monitor. Logical contact with the chief's e-brain denied. Just go ahead and reformat! Rebooting of level 2 security system complete. Create a detour, divert the infiltrator. Rebuild the logic firewall. Load the antibodies. Scanning viruses. Response team, prepare decoys for ambush. Deploy all latent viruses along firewalls. Security wall 014 breached. Error type 280 in security wall 032. Rebuilding level 1 external security wall. Fluctuation in enemy's proactive firewall pattern detected. Transmitting virus."</p>
+<p>"Pull out, Togusa. You're in danger. They're onto you. They'll fry your brains!"</p>
+<p>"Not yet, a little further."</p>
+<p>"You idiot! Don't be crazy."</p>
+<p>(Kim is really fried now ... Some Japanese text appears over and over. On 10/16/2006, '<a rel="nofollow" href="http://aikan.zuavra.net/">Probably Me</a>' added: &ldquo;It&rsquo;s <a rel="nofollow" href="http://www.britannica.com/ebi/article-9341066">the poem &ldquo;The Puppet&rdquo; by Motokiyo Zeami</a>. It&rsquo;s Kim&rsquo;s real will and testament, unlike the fake ones before.&rdquo;)</p>
+<p>"Illegal access at Hadaly gynoid final production area. Suspect an unconfirmed latent virus attack. Release all vaccines to thwart. Too late, all systems activated. Cannot establish logical contact. Currently loading combat robotics control software."</p>
+<p>"Warning. Abnormality on the THO7 Line. Security team, arm and head for the line, I repeat."</p>
+<p>(They are taken out. Batou defends himself as necessary.)</p>
+<p>(He's eventually surrounded, with two coming up behind him. The first he takes out, but the second grabs a gun and starts attacking the other gynoids.)</p>
+<p>(After clearing the others they turn towards each other.)</p>
+<p>Batou: "'Veni sancto spiritus.' Been a while, Major. How shall I address you now?"</p>
+<p>"To be precise, it's just a fragment of me downloaded via satellite. This gynoid's e-brain lacks capacity. It can only handle the combat robotics control system. This is the best I can do for facial and vocal expression.</p>
+<p>"There should be an emergency access terminal 50 meters down this passage. If we can infiltrate that, we'll take over the whole system."</p>
+<p>(Batou gives her his jacket.)</p>
+<p>"You haven't changed."</p>
+<p>"Move out. You're on point. I'll cover the rear. Just like the old days."</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="17">
+			<Name>Control System</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>"'Who can gaze into the mirror without becoming evil? A mirror does not reflect evil, but creates it.'"</p>
+<p>"Poetics, now? We're running low on ammo."</p>
+<p>"'Thus, a mirror bears a glimpse, but not scrutiny.'"</p>
+<p>===</p>
+<p>(Once again, the Major loses some body parts trying to save her life.)</p>
+<p>"Hey, isn't that risky?"</p>
+<p>"It's just until I shut down the operating system. Plug into the auxiliary inputs in the floor. I have to gain system control or this gynoid's nonfunctional. I'm counting on your 30-caliber arm."</p>
+<p>"My brain can control firing, but I've only got one clip left. And I have my doubts about going hand-to-hand with them."</p>
+<p>"Here goes!"</p>
+<p>===</p>
+<p>"Illegal onboard breach of main system. Onboard? Isolate access point, erect proactive firewall. Multiple camouflage signals identified. No fluctuation in any terminal. It may be an outside access. Terminate all external network links. Physically disengage external inputs. Emergency control system not responding. Diffused viruses coalescing. Breach in system area firewalls. Prepare for system reset. Isolate level 1 data. Multiple illegal access in core system. Our countermeasures can't keep up."</p>
+<p>===</p>
+<p>(On clip left, Batou starts firing single shots.)</p>
+<p>===</p>
+<p>"We're in control. All external links severed. The ship is totally isolated now."</p>
+<p>"We're moving?"</p>
+<p>"We're heading south, leaving international waters for sovereign territory. This entire ship will be the material evidence that proves Locus Solus' crime."</p>
+<p>"They'll come after us."</p>
+<p>"Before they do, we'll have an escort vessel. There. It's already done. And we have the time to examine the Locus Solus technique that infused dolls with souls."</p>
+<p>"Haven't you cracked it?"</p>
+<p>"You've got a hunch, too. Right?"</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="18">
+			<Name>Laboratory Development</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>"It's absolutely silent. They must have sealed it off."</p>
+<p>"Ghost dubbing. In past animal experiments, scientists mass replicated inferior copies, but had to abandon the practice as it destroyed the original being."</p>
+<p>"But Locus Solus brainwashed girls supplied by the Kojinkai mob, dubbing their ghosts into gynoids. It was the ghost that made Locus Solus gynoids so desirable."</p>
+<p>"Help me ..."</p>
+<p>(Batou readies his gun.)</p>
+<p>"Help me ..."</p>
+<p>(One of the girls is still alive and conscious. It's the same girl from the photo in the inspector's house.)</p>
+<p>"You came to help me. Mr. Volkerson promised ... The police would come and rescue me. I was stage four, but my friend Soana, is already stage five. She can't hear anything and never answers anymore."</p>
+<p>"Volkerson, the murdered consignment inspector revised their ethics code. Exposed, the yakuza served him up to avenge the crime boss. But Volkerson was right."</p>
+<p>"If the robots made trouble, someone would notice. Someone would come to save us."</p>
+<p>"Didn't he consider the victims? Not the humans. What about the dolls endowed with souls?"</p>
+<p>"But ... but ... I didn't want to become a doll!"</p>
+<p>"'We weep for the bird's cry, but not for the blood of a fish. Blessed are those who have voice.' If the dolls could speak, no doubt they'd scream, 'I didn't want to become human.'"</p>
+<p>"Let me ask you this, do you consider yourself happy?"</p>
+<p>"A nostalgic value, I suppose. At least I am free of qualms. 'Let one walk alone, committing no sin, with few wishes.'"</p>
+<p>"'Like an elephant in the forest.'"</p>
+<p>"Always remember, Batou ... Whenever you enter the Net, I'll be by your side.</p>
+<p>"I'm going."</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="19">
+			<Name>Togusa's House</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Batou's dog comes out, and runs towards Batou. He stoops and picks him up.)</p>
+<p>Togusa: "She showed up on that boat, didn't she? Your guardian angel. Clamming up again, eh? Why? You think I'd report you?"</p>
+<p>"I'll pick you up at 8:00. I owe you for looking after him."</p>
+<p>"Why don't you come in?"</p>
+<p>"Hanging out with someone else's family just isn't my thing."</p>
+<p>"Papa! My present, my present!"</p>
+<p>"I remembered, see?"</p>
+<p>(It's a doll.)</p>
+<p>===</p>
+			]]></Content>
+		</Chapter>
+		<Chapter Id="20">
+			<Name>End Credits</Name>
+			<Notes/>
+			<Content><![CDATA[
+<p>(Credits begin rolling, and "Follow Me" begins playing, through to the end of the movie. The song is extremely well sung. This is all there is to the credits, so if you don't care to sit through them, you'll lose nothing by stopping here.)</p>
+			]]></Content>
+		</Chapter>
+	</Chapters>
+</Transcript>

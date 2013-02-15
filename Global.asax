@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="JamesRSkemp.Media.Web.Global" Language="C#" %>

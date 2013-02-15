@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Licensed under the Creative Commons License Attribution-Noncommercial-Share Alike 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/). Contact information for attribution at http://jamesrskemp.com/ -->
+<!-- Character data and Kurando Fusions based on content written 12/24/2005-1/1/2006. -->
+<details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2010/09/06/ShadowHeartsCovenant.xsd">
+	<characters>
+		<character name="Karin">
+			<level id="1" hp="25" mp="15" sp="4"/>
+			<level id="2" hp="35" mp="26" sp="4"/>
+			<level id="3" hp="46" mp="37" sp="4"/>
+			<level id="4" hp="56" mp="48" sp="5"/>
+			<level id="5" hp="66" mp="59" sp="5"/>
+			<level id="6" hp="76" mp="69" sp="5"/>
+			<level id="7" hp="87" mp="80" sp="5"/>
+			<level id="8" hp="97" mp="97" sp="6"/>
+			<level id="9" hp="107" mp="102" sp="6"/>
+			<level id="10" hp="117" mp="113" sp="6"/>
+			<level id="11" hp="128" mp="124" sp="6"/>
+			<level id="12" hp="138" mp="135" sp="6"/>
+			<level id="13" hp="148" mp="146" sp="7"/>
+			<level id="14" hp="158" mp="157" sp="7"/>
+			<level id="15" hp="169" mp="168" sp="7"/>
+			<level id="16" hp="179" mp="178" sp="7"/>
+			<level id="17" hp="189" mp="189" sp="7"/>
+			<level id="18" hp="199" mp="200" sp="8"/>
+			<level id="19" hp="210" mp="211" sp="8"/>
+			<level id="20" hp="220" mp="222" sp="8"/>
+			<level id="21" hp="233" mp="233" sp="8"/>
+			<level id="22" hp="247" mp="243" sp="9"/>
+			<level id="23" hp="260" mp="254" sp="9"/>
+			<level id="24" hp="273" mp="265" sp="9"/>
+			<level id="25" hp="287" mp="276" sp="9"/>
+			<level id="26" hp="300" mp="286" sp="9"/>
+			<level id="27" hp="314" mp="297" sp="10"/>
+			<level id="28" hp="327" mp="308" sp="10"/>
+			<level id="29" hp="340" mp="318" sp="10"/>
+			<level id="30" hp="354" mp="329" sp="10"/>
+			<level id="31" hp="367" mp="340" sp="11"/>
+			<level id="32" hp="380" mp="350" sp="11"/>
+			<level id="33" hp="394" mp="367" sp="11"/>
+			<level id="34" hp="407" mp="372" sp="11"/>
+			<level id="35" hp="421" mp="383" sp="11"/>
+			<level id="36" hp="434" mp="393" sp="12"/>
+			<level id="37" hp="447" mp="404" sp="12"/>
+			<level id="38" hp="467" mp="415" sp="12"/>
+			<level id="39" hp="474" mp="425" sp="12"/>
+			<level id="40" hp="487" mp="436" sp="12"/>
+			<level id="41" hp="501" mp="447" sp="13"/>
+			<level id="42" hp="514" mp="457" sp="13"/>
+			<level id="43" hp="527" mp="468" sp="13"/>
+			<level id="44" hp="541" mp="479" sp="13"/>
+			<level id="45" hp="554" mp="490" sp="14"/>
+			<level id="46" hp="568" mp="500" sp="14"/>
+			<level id="47" hp="581" mp="511" sp="14"/>
+			<level id="48" hp="594" mp="522" sp="14"/>
+			<level id="49" hp="608" mp="532" sp="14"/>
+			<level id="50" hp="621" mp="543" sp="15"/>
+			<level id="51" hp="631" mp="554" sp="15"/>
+			<level id="52" hp="641" mp="564" sp="15"/>
+			<level id="53" hp="651" mp="575" sp="15"/>
+			<level id="54" hp="661" mp="586" sp="16"/>
+			<level id="55" hp="671" mp="597" sp="16"/>
+			<level id="56" hp="681" mp="607" sp="16"/>
+			<level id="57" hp="691" mp="618" sp="16"/>
+			<level id="58" hp="701" mp="629" sp="16"/>
+			<level id="59" hp="711" mp="639" sp="17"/>
+			<level id="60" hp="722" mp="650" sp="17"/>
+			<level id="61" hp="732" mp="661" sp="17"/>
+			<level id="62" hp="742" mp="671" sp="17"/>
+			<level id="63" hp="752" mp="682" sp="17"/>
+			<level id="64" hp="762" mp="693" sp="18"/>
+		</character>
+		<character name="Yuri">
+			<level id="4" hp="58" mp="36" sp="23"/>
+			<level id="5" hp="69" mp="44" sp="24"/>
+			<level id="6" hp="80" mp="53" sp="25"/>
+			<level id="7" hp="97" mp="67" sp="26"/>
+			<level id="8" hp="102" mp="70" sp="27"/>
+			<level id="9" hp="112" mp="78" sp="28"/>
+			<level id="10" hp="123" mp="87" sp="29"/>
+			<level id="11" hp="134" mp="95" sp="30"/>
+			<level id="12" hp="145" mp="104" sp="31"/>
+			<level id="13" hp="155" mp="112" sp="32"/>
+			<level id="14" hp="166" mp="121" sp="33"/>
+			<level id="15" hp="177" mp="129" sp="34"/>
+			<level id="16" hp="188" mp="138" sp="35"/>
+			<level id="17" hp="199" mp="146" sp="36"/>
+			<level id="18" hp="209" mp="155" sp="37"/>
+			<level id="19" hp="220" mp="163" sp="37"/>
+			<level id="20" hp="231" mp="172" sp="38"/>
+			<level id="21" hp="245" mp="181" sp="39"/>
+			<level id="22" hp="259" mp="190" sp="40"/>
+			<level id="23" hp="273" mp="199" sp="41"/>
+			<level id="24" hp="287" mp="208" sp="42"/>
+			<level id="25" hp="301" mp="217" sp="43"/>
+			<level id="26" hp="315" mp="226" sp="44"/>
+			<level id="27" hp="329" mp="236" sp="45"/>
+			<level id="28" hp="343" mp="245" sp="46"/>
+			<level id="29" hp="357" mp="254" sp="47"/>
+			<level id="30" hp="371" mp="263" sp="48"/>
+			<level id="31" hp="385" mp="272" sp="49"/>
+			<level id="32" hp="399" mp="281" sp="50"/>
+			<level id="33" hp="413" mp="290" sp="51"/>
+			<level id="34" hp="427" mp="299" sp="52"/>
+			<level id="35" hp="441" mp="308" sp="53"/>
+			<level id="36" hp="454" mp="317" sp="54"/>
+			<level id="37" hp="468" mp="326" sp="55"/>
+			<level id="38" hp="482" mp="335" sp="56"/>
+			<level id="39" hp="496" mp="345" sp="57"/>
+			<level id="40" hp="510" mp="354" sp="58"/>
+			<level id="41" hp="524" mp="363" sp="59"/>
+			<level id="42" hp="538" mp="372" sp="60"/>
+			<level id="43" hp="552" mp="381" sp="61"/>
+			<level id="44" hp="566" mp="390" sp="62"/>
+			<level id="45" hp="580" mp="399" sp="63"/>
+			<level id="46" hp="594" mp="408" sp="64"/>
+			<level id="47" hp="608" mp="417" sp="65"/>
+			<level id="48" hp="622" mp="426" sp="66"/>
+			<level id="49" hp="636" mp="435" sp="67"/>
+			<level id="50" hp="650" mp="444" sp="68"/>
+			<level id="51" hp="661" mp="453" sp="69"/>
+			<level id="52" hp="671" mp="463" sp="70"/>
+			<level id="53" hp="682" mp="472" sp="70"/>
+			<level id="54" hp="692" mp="481" sp="71"/>
+			<level id="55" hp="703" mp="490" sp="72"/>
+			<level id="56" hp="713" mp="499" sp="73"/>
+			<level id="57" hp="724" mp="508" sp="74"/>
+			<level id="58" hp="734" mp="517" sp="75"/>
+			<level id="59" hp="745" mp="526" sp="76"/>
+			<level id="60" hp="755" mp="535" sp="77"/>
+			<level id="61" hp="766" mp="544" sp="78"/>
+			<level id="62" hp="776" mp="553" sp="79"/>
+			<level id="63" hp="787" mp="562" sp="80"/>
+			<level id="64" hp="797" mp="572" sp="81"/>
+		</character>
+		<character name="Gepetto">
+			<level id="3" hp="38" mp="45" sp="8"/>
+			<level id="4" hp="47" mp="58" sp="9"/>
+			<level id="5" hp="56" mp="71" sp="9"/>
+			<level id="6" hp="65" mp="83" sp="9"/>
+			<level id="7" hp="74" mp="96" sp="9"/>
+			<level id="8" hp="83" mp="108" sp="10"/>
+			<level id="9" hp="92" mp="121" sp="10"/>
+			<level id="10" hp="101" mp="134" sp="10"/>
+			<level id="11" hp="109" mp="146" sp="10"/>
+			<level id="12" hp="118" mp="159" sp="10"/>
+			<level id="13" hp="127" mp="172" sp="11"/>
+			<level id="14" hp="136" mp="184" sp="11"/>
+			<level id="15" hp="145" mp="197" sp="11"/>
+			<level id="16" hp="154" mp="209" sp="11"/>
+			<level id="17" hp="163" mp="222" sp="11"/>
+			<level id="18" hp="172" mp="235" sp="12"/>
+			<level id="19" hp="181" mp="247" sp="12"/>
+			<level id="20" hp="190" mp="260" sp="12"/>
+			<level id="21" hp="202" mp="272" sp="12"/>
+			<level id="22" hp="213" mp="285" sp="13"/>
+			<level id="23" hp="225" mp="297" sp="13"/>
+			<level id="24" hp="236" mp="310" sp="13"/>
+			<level id="25" hp="248" mp="322" sp="13"/>
+			<level id="26" hp="260" mp="335" sp="13"/>
+			<level id="27" hp="271" mp="347" sp="14"/>
+			<level id="28" hp="283" mp="360" sp="14"/>
+			<level id="29" hp="294" mp="372" sp="14"/>
+			<level id="30" hp="306" mp="385" sp="14"/>
+			<level id="31" hp="318" mp="397" sp="15"/>
+			<level id="32" hp="329" mp="410" sp="15"/>
+			<level id="33" hp="341" mp="422" sp="15"/>
+			<level id="34" hp="352" mp="435" sp="15"/>
+			<level id="35" hp="364" mp="447" sp="15"/>
+			<level id="36" hp="376" mp="460" sp="16"/>
+			<level id="37" hp="387" mp="472" sp="16"/>
+			<level id="38" hp="399" mp="485" sp="16"/>
+			<level id="39" hp="410" mp="497" sp="16"/>
+			<level id="40" hp="422" mp="510" sp="16"/>
+			<level id="41" hp="434" mp="522" sp="17"/>
+			<level id="42" hp="445" mp="535" sp="17"/>
+			<level id="43" hp="457" mp="547" sp="17"/>
+			<level id="44" hp="468" mp="560" sp="17"/>
+			<level id="45" hp="480" mp="572" sp="18"/>
+			<level id="46" hp="492" mp="584" sp="18"/>
+			<level id="47" hp="503" mp="597" sp="18"/>
+			<level id="48" hp="515" mp="609" sp="18"/>
+			<level id="49" hp="526" mp="622" sp="18"/>
+			<level id="50" hp="538" mp="634" sp="19"/>
+			<level id="51" hp="547" mp="647" sp="19"/>
+			<level id="52" hp="555" mp="659" sp="19"/>
+			<level id="53" hp="564" mp="672" sp="19"/>
+			<level id="54" hp="572" mp="684" sp="20"/>
+		</character>
+		<character name="Blanca">
+			<level id="3" hp="44" mp="35" sp="7"/>
+			<level id="4" hp="54" mp="45" sp="8"/>
+			<level id="5" hp="65" mp="55" sp="8"/>
+			<level id="6" hp="75" mp="66" sp="8"/>
+			<level id="7" hp="85" mp="76" sp="8"/>
+			<level id="8" hp="95" mp="87" sp="9"/>
+			<level id="9" hp="105" mp="97" sp="9"/>
+			<level id="10" hp="115" mp="107" sp="9"/>
+			<level id="11" hp="126" mp="118" sp="9"/>
+			<level id="12" hp="136" mp="128" sp="9"/>
+			<level id="13" hp="146" mp="138" sp="10"/>
+			<level id="14" hp="156" mp="149" sp="10"/>
+			<level id="15" hp="166" mp="159" sp="10"/>
+			<level id="16" hp="176" mp="170" sp="10"/>
+			<level id="17" hp="187" mp="180" sp="10"/>
+			<level id="18" hp="197" mp="190" sp="11"/>
+			<level id="19" hp="207" mp="201" sp="11"/>
+			<level id="20" hp="217" mp="211" sp="11"/>
+			<level id="21" hp="230" mp="221" sp="11"/>
+			<level id="22" hp="243" mp="231" sp="12"/>
+			<level id="23" hp="257" mp="241" sp="12"/>
+			<level id="24" hp="270" mp="252" sp="12"/>
+			<level id="25" hp="283" mp="262" sp="12"/>
+			<level id="26" hp="296" mp="272" sp="12"/>
+			<level id="27" hp="309" mp="282" sp="13"/>
+			<level id="28" hp="323" mp="292" sp="13"/>
+			<level id="29" hp="336" mp="302" sp="13"/>
+			<level id="30" hp="349" mp="313" sp="13"/>
+			<level id="31" hp="362" mp="323" sp="14"/>
+			<level id="32" hp="375" mp="333" sp="14"/>
+			<level id="33" hp="389" mp="343" sp="14"/>
+			<level id="34" hp="402" mp="353" sp="14"/>
+			<level id="35" hp="415" mp="363" sp="14"/>
+			<level id="36" hp="428" mp="374" sp="15"/>
+			<level id="37" hp="441" mp="384" sp="15"/>
+			<level id="38" hp="455" mp="394" sp="15"/>
+			<level id="39" hp="468" mp="404" sp="15"/>
+			<level id="40" hp="481" mp="414" sp="15"/>
+			<level id="41" hp="494" mp="424" sp="16"/>
+			<level id="42" hp="507" mp="435" sp="16"/>
+			<level id="43" hp="521" mp="445" sp="16"/>
+			<level id="44" hp="534" mp="455" sp="16"/>
+			<level id="45" hp="547" mp="465" sp="17"/>
+			<level id="46" hp="560" mp="475" sp="17"/>
+			<level id="47" hp="573" mp="485" sp="17"/>
+			<level id="48" hp="587" mp="495" sp="17"/>
+			<level id="49" hp="600" mp="506" sp="17"/>
+			<level id="50" hp="613" mp="555" sp="18"/>
+			<level id="51" hp="623" mp="526" sp="18"/>
+			<level id="52" hp="633" mp="536" sp="18"/>
+			<level id="53" hp="643" mp="546" sp="18"/>
+			<level id="54" hp="652" mp="556" sp="19"/>
+			<level id="55" hp="662" mp="567" sp="19"/>
+			<level id="56" hp="672" mp="577" sp="19"/>
+			<level id="57" hp="682" mp="587" sp="19"/>
+			<level id="58" hp="692" mp="597" sp="19"/>
+			<level id="59" hp="702" mp="607" sp="20"/>
+			<level id="60" hp="712" mp="617" sp="20"/>
+			<level id="61" hp="721" mp="628" sp="20"/>
+			<level id="62" hp="731" mp="638" sp="20"/>
+			<level id="63" hp="741" mp="648" sp="20"/>
+			<level id="64" hp="751" mp="658" sp="21"/>
+			<level id="65" hp="761" mp="668" sp="21"/>
+			<level id="66" hp="771" mp="678" sp="21"/>
+		</character>
+		<character name="Joachim">
+			<level id="9" hp="117" mp="82" sp="40"/>
+			<level id="10" hp="128" mp="91" sp="40"/>
+			<level id="11" hp="139" mp="99" sp="40"/>
+			<level id="12" hp="150" mp="108" sp="40"/>
+			<level id="13" hp="162" mp="117" sp="40"/>
+			<level id="14" hp="173" mp="126" sp="40"/>
+			<level id="15" hp="184" mp="135" sp="40"/>
+			<level id="16" hp="195" mp="144" sp="40"/>
+			<level id="17" hp="206" mp="152" sp="40"/>
+			<level id="18" hp="218" mp="155" sp="40"/>
+			<level id="19" hp="229" mp="170" sp="40"/>
+			<level id="20" hp="240" mp="179" sp="40"/>
+			<level id="21" hp="255" mp="188" sp="40"/>
+			<level id="22" hp="269" mp="198" sp="40"/>
+			<level id="23" hp="284" mp="207" sp="40"/>
+			<level id="24" hp="298" mp="216" sp="40"/>
+			<level id="25" hp="313" mp="226" sp="40"/>
+			<level id="26" hp="327" mp="235" sp="40"/>
+			<level id="27" hp="342" mp="245" sp="40"/>
+			<level id="28" hp="356" mp="254" sp="40"/>
+			<level id="29" hp="371" mp="263" sp="40"/>
+			<level id="30" hp="385" mp="273" sp="40"/>
+			<level id="31" hp="400" mp="282" sp="40"/>
+			<level id="32" hp="414" mp="291" sp="40"/>
+			<level id="33" hp="429" mp="301" sp="40"/>
+			<level id="34" hp="443" mp="310" sp="40"/>
+			<level id="35" hp="458" mp="319" sp="40"/>
+			<level id="36" hp="472" mp="329" sp="40"/>
+			<level id="37" hp="487" mp="338" sp="40"/>
+			<level id="38" hp="501" mp="347" sp="40"/>
+			<level id="39" hp="516" mp="357" sp="40"/>
+			<level id="40" hp="530" mp="366" sp="40"/>
+			<level id="41" hp="545" mp="376" sp="40"/>
+			<level id="42" hp="559" mp="385" sp="40"/>
+			<level id="43" hp="574" mp="394" sp="40"/>
+			<level id="44" hp="588" mp="404" sp="40"/>
+			<level id="45" hp="603" mp="413" sp="40"/>
+			<level id="46" hp="617" mp="422" sp="40"/>
+			<level id="47" hp="632" mp="432" sp="40"/>
+			<level id="48" hp="646" mp="441" sp="40"/>
+			<level id="49" hp="661" mp="450" sp="40"/>
+			<level id="50" hp="675" mp="460" sp="40"/>
+			<level id="51" hp="686" mp="469" sp="40"/>
+			<level id="52" hp="697" mp="479" sp="40"/>
+			<level id="53" hp="708" mp="488" sp="40"/>
+			<level id="54" hp="719" mp="497" sp="40"/>
+			<level id="55" hp="730" mp="507" sp="40"/>
+			<level id="56" hp="741" mp="516" sp="40"/>
+		</character>
+		<character name="Lucia">
+			<level id="14" hp="139" mp="176" sp="9"/>
+			<level id="15" hp="148" mp="188" sp="9"/>
+			<level id="16" hp="157" mp="201" sp="9"/>
+			<level id="17" hp="166" mp="213" sp="9"/>
+			<level id="18" hp="175" mp="225" sp="10"/>
+			<level id="19" hp="184" mp="237" sp="10"/>
+			<level id="20" hp="193" mp="249" sp="10"/>
+			<level id="21" hp="205" mp="267" sp="10"/>
+			<level id="22" hp="216" mp="273" sp="11"/>
+			<level id="23" hp="228" mp="285" sp="11"/>
+			<level id="24" hp="240" mp="297" sp="11"/>
+			<level id="25" hp="252" mp="309" sp="11"/>
+			<level id="26" hp="263" mp="321" sp="11"/>
+			<level id="27" hp="275" mp="333" sp="12"/>
+			<level id="28" hp="287" mp="345" sp="12"/>
+			<level id="29" hp="298" mp="357" sp="12"/>
+			<level id="30" hp="310" mp="369" sp="12"/>
+			<level id="31" hp="322" mp="381" sp="13"/>
+			<level id="32" hp="333" mp="393" sp="13"/>
+			<level id="33" hp="345" mp="404" sp="13"/>
+			<level id="34" hp="357" mp="416" sp="13"/>
+			<level id="35" hp="369" mp="428" sp="13"/>
+			<level id="36" hp="380" mp="440" sp="14"/>
+			<level id="37" hp="392" mp="452" sp="14"/>
+			<level id="38" hp="404" mp="464" sp="14"/>
+			<level id="39" hp="415" mp="476" sp="14"/>
+			<level id="40" hp="427" mp="488" sp="14"/>
+			<level id="41" hp="439" mp="500" sp="15"/>
+			<level id="42" hp="450" mp="512" sp="15"/>
+			<level id="43" hp="462" mp="524" sp="15"/>
+			<level id="44" hp="474" mp="536" sp="15"/>
+			<level id="45" hp="486" mp="548" sp="16"/>
+			<level id="46" hp="497" mp="560" sp="16"/>
+			<level id="47" hp="509" mp="572" sp="16"/>
+			<level id="48" hp="521" mp="584" sp="16"/>
+			<level id="49" hp="532" mp="596" sp="16"/>
+			<level id="50" hp="544" mp="608" sp="17"/>
+			<level id="51" hp="553" mp="620" sp="17"/>
+			<level id="52" hp="561" mp="632" sp="17"/>
+			<level id="53" hp="570" mp="644" sp="17"/>
+			<level id="54" hp="579" mp="656" sp="18"/>
+			<level id="55" hp="587" mp="668" sp="18"/>
+		</character>
+		<character name="Anastasia">
+			<level id="20" hp="197" mp="241" sp="7"/>
+			<level id="21" hp="209" mp="252" sp="7"/>
+			<level id="22" hp="221" mp="264" sp="8"/>
+			<level id="23" hp="233" mp="271" sp="8"/>
+			<level id="24" hp="246" mp="287" sp="8"/>
+			<level id="25" hp="257" mp="298" sp="8"/>
+			<level id="26" hp="269" mp="310" sp="8"/>
+			<level id="27" hp="281" mp="321" sp="9"/>
+			<level id="28" hp="293" mp="333" sp="9"/>
+			<level id="29" hp="305" mp="344" sp="9"/>
+			<level id="30" hp="317" mp="355" sp="9"/>
+			<level id="31" hp="329" mp="367" sp="10"/>
+			<level id="32" hp="341" mp="378" sp="10"/>
+			<level id="33" hp="353" mp="390" sp="10"/>
+			<level id="34" hp="365" mp="401" sp="10"/>
+			<level id="35" hp="377" mp="413" sp="10"/>
+			<level id="36" hp="388" mp="424" sp="11"/>
+			<level id="37" hp="400" mp="435" sp="11"/>
+			<level id="38" hp="412" mp="447" sp="11"/>
+			<level id="39" hp="424" mp="458" sp="11"/>
+			<level id="40" hp="436" mp="470" sp="11"/>
+			<level id="41" hp="448" mp="481" sp="12"/>
+			<level id="42" hp="460" mp="493" sp="12"/>
+			<level id="43" hp="472" mp="504" sp="12"/>
+			<level id="44" hp="484" mp="516" sp="12"/>
+			<level id="45" hp="496" mp="527" sp="13"/>
+			<level id="46" hp="508" mp="538" sp="13"/>
+			<level id="47" hp="520" mp="550" sp="13"/>
+			<level id="48" hp="532" mp="561" sp="13"/>
+			<level id="49" hp="544" mp="573" sp="13"/>
+			<level id="50" hp="556" mp="584" sp="14"/>
+			<level id="51" hp="565" mp="596" sp="14"/>
+			<level id="52" hp="574" mp="607" sp="14"/>
+			<level id="53" hp="583" mp="619" sp="14"/>
+			<level id="54" hp="591" mp="630" sp="15"/>
+			<level id="55" hp="600" mp="641" sp="15"/>
+			<level id="56" hp="609" mp="653" sp="15"/>
+			<level id="57" hp="618" mp="664" sp="15"/>
+			<level id="58" hp="627" mp="676" sp="15"/>
+			<level id="59" hp="636" mp="687" sp="16"/>
+			<level id="60" hp="645" mp="699" sp="16"/>
+			<level id="61" hp="653" mp="710" sp="16"/>
+			<level id="62" hp="662" mp="721" sp="16"/>
+			<level id="63" hp="671" mp="733" sp="16"/>
+			<level id="64" hp="680" mp="744" sp="17"/>
+			<level id="65" hp="689" mp="756" sp="17"/>
+		</character>
+		<character name="Kurando">
+			<level id="33" hp="355" mp="0" sp="12"/>
+			<level id="34" hp="367" mp="1" sp="12"/>
+			<level id="34" hp="385" mp="296" sp="41"/>
+			<level id="35" hp="398" mp="305" sp="42"/>
+			<level id="36" hp="411" mp="314" sp="43"/>
+			<level id="37" hp="423" mp="323" sp="44"/>
+			<level id="38" hp="436" mp="332" sp="44"/>
+			<level id="39" hp="449" mp="341" sp="45"/>
+			<level id="40" hp="467" mp="350" sp="46"/>
+			<level id="41" hp="474" mp="360" sp="47"/>
+			<level id="42" hp="487" mp="369" sp="48"/>
+			<level id="43" hp="499" mp="378" sp="48"/>
+			<level id="44" hp="512" mp="387" sp="49"/>
+			<level id="45" hp="525" mp="396" sp="50"/>
+			<level id="46" hp="537" mp="405" sp="51"/>
+			<level id="47" hp="550" mp="414" sp="52"/>
+			<level id="48" hp="563" mp="423" sp="52"/>
+			<level id="49" hp="575" mp="432" sp="53"/>
+			<level id="50" hp="588" mp="442" sp="54"/>
+			<level id="51" hp="597" mp="451" sp="55"/>
+			<level id="52" hp="607" mp="460" sp="56"/>
+			<level id="53" hp="616" mp="469" sp="56"/>
+			<level id="54" hp="626" mp="478" sp="57"/>
+			<level id="55" hp="635" mp="487" sp="58"/>
+			<level id="56" hp="645" mp="496" sp="59"/>
+			<level id="57" hp="654" mp="505" sp="60"/>
+			<level id="58" hp="664" mp="515" sp="60"/>
+			<level id="59" hp="673" mp="524" sp="61"/>
+		</character>
+		<character name="Nicolai">
+			<level id="2" hp="38" mp="33" sp="8"/>
+			<level id="3" hp="49" mp="45" sp="8"/>
+			<level id="4" hp="67" mp="58" sp="9"/>
+			<level id="5" hp="72" mp="71" sp="9"/>
+		</character>
+		<character name="Ouka">
+			<level id="50" hp="650" mp="608" sp="0"/>
+		</character>
+		<character name="Hien">
+			<level id="50" hp="621" mp="634" sp="0"/>
+		</character>
+		<character name="Raiden">
+			<level id="50" hp="675" mp="584" sp="0"/>
+		</character>
+	</characters>
+	<!-- Kurando Fusions
+		Kurando	50	63	63	64	56	55	55	
+		Tsukiyomi	50-1	74	73	74	61	58	64	Hell's Light – 64
+		Tsukiyomi	50-2	75	74	75	61	58	65	
+		Tsukiyomi	50-3	76	74	75	62	59	65	
+		Tsukiyomi	50-4	77	75	76	62	59	66	Star's Shadow – 48
+		Tsukiyomi	50-5	77	76	77	62	60	66	
+		Tsukiyomi	50-6	78	77	78	63	60	67	
+		Tsukiyomi	50-7	79	77	78	64	61	67	Moon's Rainbow – 88
+		Tsukiyomi	50-8	80	78	79	64	61	68	
+		Tsukiyomi	50-9	80	79	80	65	61	68	
+		Tsukiyomi	50-10	81	79	81	65	62	69	
+		
+		Kurando	54	68	67	69	61	60	60	
+		Tsukiyomi	54-1	79	77	79	66	63	69	Hell's Light – 64
+		Tsukiyomi	54-2	80	78	80	66	63	70	
+		Tsukiyomi	54-3	81	78	80	67	64	70	
+		Tsukiyomi	54-4	82	79	81	67	64	71	Star's Shadow – 48
+		Tsukiyomi	54-5	82	80	82	67	65	71	
+		Tsukiyomi	54-6	83	81	83	68	65	72	
+		Tsukiyomi	54-7	84	81	83	69	66	72	Moon's Rainbow – 88
+		Tsukiyomi	54-8	85	82	84	69	66	73	
+		Tsukiyomi	54-9	85	83	85	70	66	73	
+		Tsukiyomi	54-10	86	83	86	70	67	74	
+		Jutendouji	54-1	89	83	86	69	66	70	Ascetic's Fire – 88
+		Jutendouji	54-2	90	84	87	70	67	71	
+		Jutendouji	54-3	91	85	88	71	68	72	
+		Jutendouji	54-4	92	86	89	72	69	73	Seven Bonds – 32
+		Jutendouji	54-5	93	87	90	73	70	74	
+		Jutendouji	54-6	94	88	91	74	71	75	
+		Jutendouji	54-7	95	89	92	75	72	76	Heavenquake! - 160
+		Jutendouji	54-8	96	90	93	76	73	77	
+		Jutendouji	54-9	97	91	94	77	74	78	
+		Jutendouji	54-10	98	92	95	78	75	79	
+		
+		Kurando	55	69	68	70	62	61	61	
+		Tsukiyomi	55-1	80	78	80	67	64	70	
+		Jutendouji	55-1	90	84	87	70	67	71	
+		
+		Kurando	58	72	72	73	65	64	64	
+		Tsukiyomi	58-1	83	82	83	70	67	73	
+		Jutendouji	58-1	93	88	90	73	70	74	
+		
+		Kurando	59	74	73	74	66	65	65	
+	-->
+</details>

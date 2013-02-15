@@ -1,0 +1,163 @@
+<?php
+/**
+ * Music track object.
+ *
+ * @author James Skemp - http://jamesrskemp.com
+ * @license http://creativecommons.org/licenses/by/3.0/us/
+ * @version 1.0
+ */
+class Track {
+	/**
+	 * How long the track is.
+	 * @var string
+	 */
+	var $Time;
+	/**
+	 * Name or title of the track.
+	 * @var string
+	 */
+	var $Name;
+	/**
+	 * Name of the artist.
+	 * @var string
+	 */
+	var $Artist;
+	/**
+	 * Rating assigned to the track by the playlist's owner.
+	 * @var int
+	 */
+	var $Rating;
+	/**
+	 * Number of times the track has been played.
+	 * @var int
+	 */
+	var $PlayCount;
+	/**
+	 * Date and time the track was last played (and finished).
+	 */
+	var $LastPlayed;
+	/**
+	 * Name of the album the track is from.
+	 * @var string
+	 */
+	var $Album;
+	/**
+	 * True if the album the track is on is a compilation, false otherwise.
+	 * @var bool
+	 */
+	var $Compilation;
+	/**
+	 * Order this track is on the album.
+	 * @var int
+	 */
+	var $TrackNumber;
+	/**
+	 * Total number of tracks on the album.
+	 * @var int
+	 */
+	var $TrackCount;
+	/**
+	 * The album disc the track is on.
+	 * @var int
+	 */
+	var $DiscNumber;
+	/**
+	 * Total number of discs in the album.
+	 * @var int
+	 */
+	var $DiscCount;
+	/**
+	 * Year the track/album was released/published.
+	 * @var int
+	 */
+	var $Year;
+	/**
+	 * Genre of music the track falls into.
+	 * @var string
+	 */
+	var $Genre;
+	/**
+	 * Date and time the track was added.
+	 */
+	var $DateAdded;
+
+	public function  __get($name) {
+		return $this->$name;
+	}
+
+	public function  __set($name, $value) {
+		$this->$name = $value;
+	}
+
+	/**
+	 * Constructs a Track object from an iTunes Playlists to Xml XML output file.
+	 *
+	 * @param object $xml
+	 */
+	function __construct($xml) {
+		$this->Name = (string)$xml->name;
+		$this->Album = (string)$xml->album;
+		$this->Artist = (string)$xml->artist;
+		$this->Time = (string)$xml['time'];
+		$this->Rating = (int)$xml->rating;
+		$this->PlayCount = (int)$xml->playCount;
+		$this->LastPlayed = (string)$xml->lastPlayed;
+		$this->Compilation = (bool)$xml->compilation;
+		$this->TrackNumber = (int)$xml->trackNumber;
+		$this->TrackCount = (int)$xml->trackCount;
+		$this->DiscNumber = (int)$xml->discNumber;
+		$this->DiscCount = (int)$xml->discCount;
+		$this->Year = (int)$xml->year;
+		$this->Genre = (string)$xml->genre;
+		$this->DateAdded = (string)$xml->dateAdded;
+	}
+
+	/**
+	 * Function for sorting Track objects by PlayCount, ascending. Uses LastPlayed for ties.
+	 *
+	 * @access public
+	 * @param Track $x First object to compare.
+	 * @param Track $y Second object to compare.
+	 * @return integer Standard sorting returns.
+	 */
+	public function SortPlayCountAsc($x, $y) {
+		if ($x->PlayCount == $y->PlayCount) {
+			if ($x->LastPlayed == $y->LastPlayed) {
+				return 0;
+			} else if ($x->LastPlayed < $y->LastPlayed) {
+				return -1;
+			} else {
+				return 1;
+			}
+		} else if ($x->PlayCount < $y->PlayCount) {
+			return -1;
+		} else {
+			return 1;
+		}
+	}
+
+	/**
+	 * Function for sorting Track objects by PlayCount, descending. Uses LastPlayed for ties.
+	 *
+	 * @access public
+	 * @param Track $x First object to compare.
+	 * @param Track $y Second object to compare.
+	 * @return integer Standard sorting returns.
+	 */
+	public function SortPlayCountDesc($x, $y) {
+		if ($x->PlayCount == $y->PlayCount) {
+			if ($x->LastPlayed == $y->LastPlayed) {
+				return 0;
+			} else if ($x->LastPlayed > $y->LastPlayed) {
+				return -1;
+			} else {
+				return 1;
+			}
+		} else if ($x->PlayCount < $y->PlayCount) {
+			return 1;
+		} else {
+			return -1;
+		}
+	}
+}
+?>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/BlueDragonSkills.xsl"?>
+<skills xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/BlueDragonSkills.xsd">
+	<skill class="Sword Master" rank="2" level="true">Magic Sword LV 1</skill>
+	<skill class="Sword Master" rank="5" level="true">Mow Down 1</skill>
+	<skill class="Sword Master" rank="8" level="true">Magic Sword LV 2</skill>
+	<skill class="Sword Master" rank="11">Absorb HP</skill>
+	<skill class="Sword Master" rank="14" level="true">Magic Sword LV 3</skill>
+	<skill class="Sword Master" rank="17">Mow Down 2</skill>
+	<skill class="Sword Master" rank="20" level="true">Magic Sword LV 4</skill>
+	<skill class="Sword Master" rank="23">Boost Critical Damage</skill>
+	<skill class="Sword Master" rank="26" level="true">Magic Sword LV 5</skill>
+	<skill class="Sword Master" rank="29">Absorb MP</skill>
+	<skill class="Sword Master" rank="32" base="true">Magic Sword LV 6</skill>
+	<skill class="Guardian" rank="3" base="true">Guard</skill>
+	<skill class="Guardian" rank="6">Magic Defense Up</skill>
+	<skill class="Guardian" rank="9" level="true">Boost Max HP +25%</skill>
+	<skill class="Guardian" rank="12">Sentinel Shield</skill>
+	<skill class="Guardian" rank="15">Caution</skill>
+	<skill class="Guardian" rank="18">Charged Defense</skill>
+	<skill class="Guardian" rank="21">Vigilance</skill>
+	<skill class="Guardian" rank="24">Endure</skill>
+	<skill class="Guardian" rank="27">Boost Max HP +50%</skill>
+	<skill class="Guardian" rank="30">Total Guard</skill>
+	<skill class="Guardian" rank="33">Berserker</skill>
+	<skill class="Monk" rank="4">Attract Aura</skill>
+	<skill class="Monk" rank="7" level="true">Counterattack Boost</skill>
+	<skill class="Monk" rank="10">Meditation</skill>
+	<skill class="Monk" rank="13" base="true">Charged Attack</skill>
+	<skill class="Monk" rank="16">Critical Hit Lift</skill>
+	<skill class="Monk" rank="19">Battle Essence</skill>
+	<skill class="Monk" rank="22">Repel Aura</skill>
+	<skill class="Monk" rank="25">Attack Amp</skill>
+	<skill class="Monk" rank="28">Less Is More</skill>
+	<skill class="Monk" rank="31">Absolute Counterattack</skill>
+	<skill class="Assassin" rank="2">Steal</skill>
+	<skill class="Assassin" rank="5" base="true">Security</skill>
+	<skill class="Assassin" rank="8">Stun Bomb</skill>
+	<skill class="Assassin" rank="11">Negotiate</skill>
+	<skill class="Assassin" rank="14">Ninja Swiftness</skill>
+	<skill class="Assassin" rank="17">Stealth</skill>
+	<skill class="Assassin" rank="20">Surprise</skill>
+	<skill class="Assassin" rank="23">Loot</skill>
+	<skill class="Assassin" rank="26">Long-Range Attack</skill>
+	<skill class="Assassin" rank="29">Control</skill>
+	<skill class="Assassin" rank="32">Treasure Hunt</skill>
+	<skill class="Assassin" rank="35">Double Strike</skill>
+	<skill class="Black Magic" rank="4" level="true">Black Magic LV 1</skill>
+	<skill class="Black Magic" rank="8">Regenerate MP</skill>
+	<skill class="Black Magic" rank="12" level="true">Black Magic LV 2</skill>
+	<skill class="Black Magic" rank="16" level="true">Black Magic LV 3</skill>
+	<skill class="Black Magic" rank="20" level="true">Boost MP +25%</skill>
+	<skill class="Black Magic" rank="24" level="true">Black Magic LV 4</skill>
+	<skill class="Black Magic" rank="28" level="true">Black Magic LV 5</skill>
+	<skill class="Black Magic" rank="32">Boost MP +50%</skill>
+	<skill class="Black Magic" rank="36" base="true">Black Magic LV 6</skill>
+	<skill class="White Magic" rank="3" level="true">White Magic LV 1</skill>
+	<skill class="White Magic" rank="6">Enhance Item Effect</skill>
+	<skill class="White Magic" rank="9" level="true">White Magic LV 2</skill>
+	<skill class="White Magic" rank="12">Double Item</skill>
+	<skill class="White Magic" rank="15" level="true">White Magic LV 3</skill>
+	<skill class="White Magic" rank="18">Regenerate HP</skill>
+	<skill class="White Magic" rank="21" level="true">White Magic LV 4</skill>
+	<skill class="White Magic" rank="24" level="true">White Magic LV 5</skill>
+	<skill class="White Magic" rank="27" base="true">White Magic LV 6</skill>
+	<skill class="White Magic" rank="30">Quick Magic Change</skill>
+	<skill class="White Magic" rank="33">Resurrection</skill>
+	<skill class="Barrier Magic" rank="3" level="true">Barrier Magic LV 1</skill>
+	<skill class="Barrier Magic" rank="6" level="true">Field Barrier 1</skill>
+	<skill class="Barrier Magic" rank="9" level="true">Barrier Magic LV 2</skill>
+	<skill class="Barrier Magic" rank="12">Magic Fence</skill>
+	<skill class="Barrier Magic" rank="15" level="true">Barrier Magic LV 3</skill>
+	<skill class="Barrier Magic" rank="18" level="true">Barrier Magic LV 4</skill>
+	<skill class="Barrier Magic" rank="21" level="true">Field Barrier 2</skill>
+	<skill class="Barrier Magic" rank="24">Distress Barrier</skill>
+	<skill class="Barrier Magic" rank="27" level="true">Barrier Magic LV 5</skill>
+	<skill class="Barrier Magic" rank="30" base="true">Barrier Magic LV 6</skill>
+	<skill class="Barrier Magic" rank="50">Field Barrier 3</skill>
+	<skill class="Support Magic" rank="3" level="true">Support Magic LV 1</skill>
+	<skill class="Support Magic" rank="7" level="true">Support Magic LV 2</skill>
+	<skill class="Support Magic" rank="11" level="true">Support Magic LV 3</skill>
+	<skill class="Support Magic" rank="15">Spell Duaration +50%</skill>
+	<skill class="Support Magic" rank="19" level="true">Support Magic LV 4</skill>
+	<skill class="Support Magic" rank="23" level="true">Support Magic LV 5</skill>
+	<skill class="Support Magic" rank="27">Magic Essence</skill>
+	<skill class="Support Magic" rank="31" base="true">Support Magic LV 6</skill>
+	<skill class="Support Magic" rank="35">Double Cast</skill>
+	<skill class="Generalist" rank="4" level="true">Accessory +1</skill>
+	<skill class="Generalist" rank="8" level="true">Skill +2</skill>
+	<skill class="Generalist" rank="11" level="true">Skill +3</skill>
+	<skill class="Generalist" rank="15" level="true">Skill +4</skill>
+	<skill class="Generalist" rank="18" level="true">Accessory +2</skill>
+	<skill class="Generalist" rank="22" level="true">Skill +5</skill>
+	<skill class="Generalist" rank="25" level="true">Skill +6</skill>
+	<skill class="Generalist" rank="29" level="true">Skill +7</skill>
+	<skill class="Generalist" rank="32" base="true">Accessory +3</skill>
+	<skill class="Generalist" rank="36">Skill +8</skill>
+</skills>

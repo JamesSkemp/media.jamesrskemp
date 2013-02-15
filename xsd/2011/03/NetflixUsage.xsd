@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:cdt="http://media.jamesrskemp.com/ns/CustomDateType">
+	<xs:import namespace="http://media.jamesrskemp.com/ns/CustomDateType"
+		schemaLocation="http://media.jamesrskemp.com/xsd/2010/09/04/CustomDateType.xsd"/>
+	<xs:element name="NetflixUsage">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="Use">
+					<xs:complexType>
+						<xs:attribute name="Date" use="required" type="xs:date">
+							<xs:annotation>
+								<xs:documentation>Date of usage.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="Medium" use="required">
+							<xs:annotation>
+								<xs:documentation>physical or electronic</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="ActivityType" use="optional">
+							<xs:annotation>
+								<xs:documentation>If physical, received or mailed. If eletronic, streamed.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="NetflixActivity" type="xs:boolean">
+							<xs:annotation>
+								<xs:documentation>Is Netflix the one performing the activity?</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="MailerAddress"/>
+						<xs:attribute name="Note"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+vehicles, vehicle, fillups, fillup {
+	display:block;
+}
+vehicle, fillups, fillup {
+	margin-left:1em;
+}
+vehicle {
+	margin-bottom:2em;
+}
+make, model, year {
+	font-weight:bold;
+}
+date, milesCar, milesDriven, gallons, costGallon, costTotal {
+	display:table-cell;
+	text-align:right;
+}
+date, milesCar, milesDriven, gallons, costGallon, costTotal {
+	width:75px;	
+}
+notes {
+	display:table-cell;
+	font-style:italic;
+	padding-left:1em;
+	text-align:left;
+}
+costTotal:before {
+	content: "$";
+}

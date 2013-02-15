@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NierWeapons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2011/10/NierWeapons.xsd">
+	<Weapon Id="1">
+		<Name>Nameless Blade</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Titanium Alloy" Quantity="3"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Titanium Alloy" Quantity="2"/>
+			<Item Name="Stripped Bolt" Quantity="10"/>
+			<Item Name="Broken Arm" Quantity="3"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Titanium Alloy" Quantity="2"/>
+			<Item Name="Dented Metal Bat"/>
+			<Item Name="Simple Machine"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="2">
+		<Name>Lily-Leaf Sword</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Titanium Alloy" Quantity="3"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Titanium Alloy" Quantity="2"/>
+			<Item Name="Broken Antenna" Quantity="7"/>
+			<Item Name="Large Gear"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Titanium Alloy" Quantity="2"/>
+			<Item Name="Forlorn Necklace" Quantity="2"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="3">
+		<Name>Nirvana Dagger</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Rusty Kitchen Knife" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Broken Arm" Quantity="3"/>
+			<Item Name="Gold Ore" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Mysterious Switch" Quantity="3"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="4">
+		<Name>Moonrise</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Broken Saw"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Broken Saw"/>
+			<Item Name="Broken Lens"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Titanium Alloy"/>
+			<Item Name="Rusty Kitchen Knife" Quantity="2"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="5">
+		<Name>Rebirth</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="4"/>
+			<Item Name="Twisted Ring"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="10"/>
+			<Item Name="Large Gear"/>
+			<Item Name="Broken Battery"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="20"/>
+			<Item Name="Broken Wristwatch" Quantity="3"/>
+			<Item Name="Amber"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="6">
+		<Name>Earth Wyrm's Claw</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="8"/>
+			<Item Name="Scorpion Claw" Quantity="10"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="8"/>
+			<Item Name="Clay" Quantity="3"/>
+			<Item Name="Broken Pottery" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="10"/>
+			<Item Name="Clay" Quantity="15"/>
+			<Item Name="Amber"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="7">
+		<Name>Blade of Treachery</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Copper Ore" Quantity="10"/>
+			<Item Name="Simple Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Copper Ore" Quantity="15"/>
+			<Item Name="Machine Oil" Quantity="2"/>
+			<Item Name="Rusted Clump"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Copper Ore" Quantity="20"/>
+			<Item Name="Pyrite"/>
+			<Item Name="Rusted Clump"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="8">
+		<Name>Beastbain</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="12"/>
+			<Item Name="Complex Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="20"/>
+			<Item Name="Complex Machine"/>
+			<Item Name="Machine Oil"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="15"/>
+			<Item Name="Pyrite" Quantity="2"/>
+			<Item Name="Crystal"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="9">
+		<Name>Faith</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="3"/>
+			<Item Name="Broken Antenna" Quantity="30"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="5"/>
+			<Item Name="Elaborate Machine"/>
+			<Item Name="Natural Rubber"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Moldavite"/>
+			<Item Name="Titanium Alloy" Quantity="4"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="10">
+		<Name>Ancient Overlord</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Broken Motor" Quantity="10"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="6"/>
+			<Item Name="Broken Wristwatch" Quantity="3"/>
+			<Item Name="Crystal" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="5"/>
+			<Item Name="Moldavite"/>
+			<Item Name="Memory Alloy" Quantity="2"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="11">
+		<Name>Phoenix Dagger</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="6"/>
+			<Item Name="Giant Egg" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="6"/>
+			<Item Name="Eagle Egg"/>
+			<Item Name="Broken Egg" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="6"/>
+			<Item Name="Black Pearl" Quantity="5"/>
+			<Item Name="Amber" Quantity="2"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="12">
+		<Name>Labyrinth's Whisper</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Flourite"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Flourite" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Flourite" Quantity="3"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="13">
+		<Name>Iron Pipe</Name>
+		<Type>One-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Dented Metal Bat" Quantity="5"/>
+			<Item Name="Broken Arm" Quantity="8"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Dented Metal Bat" Quantity="8"/>
+			<Item Name="Broken Arm" Quantity="15"/>
+			<Item Name="Rusty Bucket" Quantity="10"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Dented Metal Bat" Quantity="6"/>
+			<Item Name="Broken Arm" Quantity="20"/>
+			<Item Name="Rusted Clump" Quantity="5"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="14">
+		<Name>Kusanagi</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="10"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="18"/>
+			<Item Name="Broken Battery" Quantity="4"/>
+			<Item Name="Forlorn Necklace"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="20"/>
+			<Item Name="Broken Earring"/>
+			<Item Name="Moldavite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="15">
+		<Name>Axe of Beheading</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Copper Ore" Quantity="10"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Copper Ore" Quantity="15"/>
+			<Item Name="Rusty Kitchen Knife" Quantity="3"/>
+			<Item Name="Subdued Bracelet"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Copper Ore" Quantity="18"/>
+			<Item Name="Stopped Clock" Quantity="2"/>
+			<Item Name="Meteorite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="16">
+		<Name>Fang of the Twins</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="3"/>
+			<Item Name="Elaborate Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="5"/>
+			<Item Name="Broken Wristwatch" Quantity="2"/>
+			<Item Name="Stopped Clock"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="10"/>
+			<Item Name="Mysterious Switch" Quantity="3"/>
+			<Item Name="Meteorite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="17">
+		<Name>Vile Axe</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Simple Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="8"/>
+			<Item Name="Broken Lens" Quantity="2"/>
+			<Item Name="Twisted Ring"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="12"/>
+			<Item Name="Broken Saw" Quantity="2"/>
+			<Item Name="Amber"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="18">
+		<Name>Beastlord</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Gold Ore"/>
+			<Item Name="Complex Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Gold Ore"/>
+			<Item Name="Complex Machine"/>
+			<Item Name="Machine Oil"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Gold Ore" Quantity="3"/>
+			<Item Name="Amber"/>
+			<Item Name="Simple Machine" Quantity="2"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="19">
+		<Name>Iron Will</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Memory Alloy"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Memory Alloy" Quantity="2"/>
+			<Item Name="Rusted Clump" Quantity="2"/>
+			<Item Name="Dented Metal Bat"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Memory Alloy" Quantity="3"/>
+			<Item Name="Pyrite"/>
+			<Item Name="Elaborate Machine" Quantity="2"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="20">
+		<Name>Phoenix Sword</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Gold Ore" Quantity="2"/>
+			<Item Name="Giant Egg" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Gold Ore" Quantity="3"/>
+			<Item Name="Eagle Egg" Quantity="2"/>
+			<Item Name="Complex Machine"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Gold Ore" Quantity="4"/>
+			<Item Name="Black Pearl" Quantity="5"/>
+			<Item Name="Moldavite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="21">
+		<Name>Labyrinth's Song</Name>
+		<Type>Two-Handed Sword</Type>
+		<Upgrade Level="2">
+			<Item Name="Flourite"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Flourite" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Flourite" Quantity="3"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="22">
+		<Name>Transience</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="2"/>
+			<Item Name="Twisted Ring" Quantity="3"/>
+			<Item Name="Metal Piercing"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="4"/>
+			<Item Name="Crystal" Quantity="2"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="23">
+		<Name>Spear of the Usurper</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="2"/>
+			<Item Name="Large Gear" Quantity="2"/>
+			<Item Name="Subdued Bracelet"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="5"/>
+			<Item Name="Broken Lens" Quantity="2"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="24">
+		<Name>The Devil Queen</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Iron Ore" Quantity="5"/>
+			<Item Name="Crystal" Quantity="3"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Iron Ore" Quantity="10"/>
+			<Item Name="Metal Piercing" Quantity="2"/>
+			<Item Name="Broken Motor"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Iron Ore" Quantity="13"/>
+			<Item Name="Metal Piercing"/>
+			<Item Name="Moldavite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="25">
+		<Name>Sunrise</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore"/>
+			<Item Name="Large Gear" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="2"/>
+			<Item Name="Rusty Kitchen Knife" Quantity="2"/>
+			<Item Name="Forlorn Necklace"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="3"/>
+			<Item Name="Subdued Bracelet"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="26">
+		<Name>Beastcurse</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore"/>
+			<Item Name="Complex Machine"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="2"/>
+			<Item Name="Complex Machine"/>
+			<Item Name="Machine Oil"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="3"/>
+			<Item Name="Moldavite"/>
+			<Item Name="Elaborate Machine"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="27">
+		<Name>Captain's Holy Spear</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="2"/>
+			<Item Name="Broken Wristwatch" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Mysterious Switch" Quantity="3"/>
+			<Item Name="Broken Earring"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Moldavite"/>
+			<Item Name="Complex Machine"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="28">
+		<Name>Dragoon Lance</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Silver Ore" Quantity="3"/>
+			<Item Name="Pyrite"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Silver Ore" Quantity="4"/>
+			<Item Name="Pyrite" Quantity="3"/>
+			<Item Name="Pearl"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Silver Ore" Quantity="5"/>
+			<Item Name="Meteorite" Quantity="3"/>
+			<Item Name="Simple Machine"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="29">
+		<Name>Phoenix Spear</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Gold Ore"/>
+			<Item Name="Giant Egg" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Gold Ore" Quantity="2"/>
+			<Item Name="Eagle Egg"/>
+			<Item Name="Broken Wristwatch"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Gold Ore" Quantity="3"/>
+			<Item Name="Black Pearl" Quantity="5"/>
+			<Item Name="Moldavite"/>
+		</Upgrade>
+	</Weapon>
+	<Weapon Id="30">
+		<Name>Labyrinth's Shout</Name>
+		<Type>Spear</Type>
+		<Upgrade Level="2">
+			<Item Name="Flourite"/>
+		</Upgrade>
+		<Upgrade Level="3">
+			<Item Name="Flourite" Quantity="2"/>
+		</Upgrade>
+		<Upgrade Level="4">
+			<Item Name="Flourite" Quantity="3"/>
+		</Upgrade>
+	</Weapon>
+</NierWeapons>

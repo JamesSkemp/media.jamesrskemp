@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+	<xs:element name="NierWeapons">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="Weapon">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Name"/>
+							<xs:element name="Type"/>
+							<xs:element maxOccurs="3" name="Upgrade" minOccurs="2">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="3" name="Item">
+											<xs:complexType>
+												<xs:attribute name="Name" use="required"/>
+												<xs:attribute name="Quantity" default="1"
+												type="xs:positiveInteger"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="Level" use="required"
+										type="xs:positiveInteger">
+										<xs:annotation>
+											<xs:documentation>Level to upgrade the weapon to.</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="Id" type="xs:positiveInteger" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

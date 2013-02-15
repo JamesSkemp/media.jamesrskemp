@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/folklore_levels.xsl"?>
+<ranks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/folklore_levels.xsd">
+	<rank id="1">
+		<hp>170</hp>
+		<next>400</next>
+	</rank>
+	<rank id="2">
+		<hp>190</hp>
+		<next>1000</next>
+	</rank>
+	<rank id="3">
+		<hp>210</hp>
+		<next>1800</next>
+	</rank>
+	<rank id="4">
+		<hp>230</hp>
+		<next>3000</next>
+	</rank>
+	<rank id="5">
+		<hp>240</hp>
+		<next>4700</next>
+	</rank>
+	<rank id="6">
+		<hp>250</hp>
+		<next>7000</next>
+	</rank>
+	<rank id="7">
+		<hp>260</hp>
+		<next>10000</next>
+	</rank>
+	<rank id="8">
+		<hp>270</hp>
+		<next>13800</next>
+	</rank>
+	<rank id="9">
+		<hp>280</hp>
+		<next>18500</next>
+	</rank>
+	<rank id="10">
+		<hp>290</hp>
+		<next>24200</next>
+	</rank>
+	<rank id="11">
+		<hp>300</hp>
+		<next>31000</next>
+	</rank>
+	<rank id="12">
+		<hp>310</hp>
+		<next>39000</next>
+	</rank>
+	<rank id="13">
+		<hp>320</hp>
+		<next>48300</next>
+	</rank>
+	<rank id="14">
+		<hp>330</hp>
+		<next>59000</next>
+	</rank>
+	<rank id="15">
+		<hp>340</hp>
+		<next>65000</next>
+	</rank>
+	<rank id="16">
+		<hp>350</hp>
+		<next>65000</next>
+	</rank>
+</ranks>

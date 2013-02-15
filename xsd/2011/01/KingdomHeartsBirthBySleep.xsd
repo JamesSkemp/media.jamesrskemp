@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="KingdomHeartsBirthBySleep">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Abilities">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" name="Ability">
+								<xs:complexType>
+									<xs:attribute name="Name" use="required"/>
+									<xs:attribute name="Type" use="required"/>
+									<xs:attribute name="Maximum" type="xs:positiveInteger"
+										use="required"/>
+									<xs:attribute name="Description" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Characters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="3" name="Character">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Commands">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" name="Command">
+												<xs:complexType>
+												<xs:attribute name="Id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="Name" use="required"/>
+												<xs:attribute name="Type" use="required"/>
+												<xs:attribute name="Subtype"/>
+												<xs:attribute name="Slots"
+												type="xs:positiveInteger"/>
+												<xs:attribute name="MaximumLevel"
+												type="xs:positiveInteger"/>
+												<xs:attribute name="Cost"
+												type="xs:positiveInteger"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="Name" type="xs:string" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Melding">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" name="Meld">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="2" minOccurs="2" name="Ingredient"/>
+										<xs:element name="Crystals" minOccurs="0">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="7" name="Crystal">
+												<xs:complexType>
+												<xs:attribute name="Name" use="required"/>
+												<xs:attribute name="Ability" use="required"/>
+												</xs:complexType>
+												</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element minOccurs="0" name="Characters">
+											<xs:complexType>
+												<xs:attribute name="Terra" type="xs:boolean"/>
+												<xs:attribute name="Ven" type="xs:boolean"/>
+												<xs:attribute name="Aqua" type="xs:boolean"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element minOccurs="0" name="Notes"/>
+									</xs:sequence>
+									<xs:attribute name="Id" type="xs:positiveInteger" use="required"/>
+									<xs:attribute name="Command" use="required"/>
+									<xs:attribute name="Type" use="required"/>
+									<xs:attribute name="Rare" type="xs:boolean"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

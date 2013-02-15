@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF951891-1F7D-4BC4-A05D-B0045D8BA6B0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JamesRSkemp.Media.Web</RootNamespace>
+    <AssemblyName>JamesRSkemp.Media.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.ServiceModel.Activation" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\playlistXml.xml" />
+    <Content Include="articles\IIS6FTPSample.log.txt" />
+    <Content Include="articles\JamesRSkemp.Formulas.Amortization.cs.txt" />
+    <Content Include="articles\JamesRSkemp.WebServices.Lastfm.cs.txt" />
+    <Content Include="articles\JamesRSkemp.WebServices.YahooMusic.cs.txt" />
+    <Content Include="articles\ServiceExamples\FormulasService_Loan.css" />
+    <Content Include="articles\ServiceExamples\FormulasService_Loan.htm" />
+    <Content Include="articles\ServiceExamples\FormulasService_Loan.js" />
+    <Content Include="articles\Track.php.txt" />
+    <Content Include="clientaccesspolicy.xml" />
+    <Content Include="crossdomain.xml" />
+    <Content Include="css\vehicle_gas.css" />
+    <Content Include="Default.htm" />
+    <Content Include="downloads\CrossSumsHelper_2.0.exe" />
+    <Content Include="downloads\CrossSumsHelper_2.1.exe" />
+    <Content Include="downloads\iPod_Top100_20090227.xml" />
+    <Content Include="downloads\iTunesPlaylists2Xml.xslt" />
+    <Content Include="downloads\iTunesPlaylistsToXml.css" />
+    <Content Include="downloads\iTunesPlaylistsToXml.htm" />
+    <Content Include="favicon.ico" />
+    <Content Include="gallery\P001.jpg" />
+    <Content Include="gallery\P001_0810.jpg" />
+    <Content Include="gallery\P002.jpg" />
+    <Content Include="gallery\P002_0810.jpg" />
+    <Content Include="gallery\P003.jpg" />
+    <Content Include="gallery\P003_0810.jpg" />
+    <Content Include="gallery\P004.jpg" />
+    <Content Include="gallery\P004_0810.jpg" />
+    <Content Include="gallery\P005.jpg" />
+    <Content Include="gallery\P005_0810.jpg" />
+    <Content Include="gallery\P006.jpg" />
+    <Content Include="gallery\P006_0810.jpg" />
+    <Content Include="gallery\P007.jpg" />
+    <Content Include="gallery\P007_0810.jpg" />
+    <Content Include="gallery\P008.jpg" />
+    <Content Include="gallery\P008_0810.jpg" />
+    <Content Include="gallery\P009.jpg" />
+    <Content Include="gallery\P009_0810.jpg" />
+    <Content Include="gallery\P010.jpg" />
+    <Content Include="gallery\P010_0810.jpg" />
+    <Content Include="gallery\P011.jpg" />
+    <Content Include="gallery\P011_0810.jpg" />
+    <Content Include="gallery\P012.jpg" />
+    <Content Include="gallery\P012_0810.jpg" />
+    <Content Include="gallery\P013.jpg" />
+    <Content Include="gallery\P013_0810.jpg" />
+    <Content Include="gallery\P014.jpg" />
+    <Content Include="gallery\P014_0810.jpg" />
+    <Content Include="gallery\P015.jpg" />
+    <Content Include="gallery\P015_0810.jpg" />
+    <Content Include="gallery\P016.jpg" />
+    <Content Include="gallery\P016_0810.jpg" />
+    <Content Include="gallery\P017.jpg" />
+    <Content Include="gallery\P017_0810.jpg" />
+    <Content Include="gallery\P018.jpg" />
+    <Content Include="gallery\P018_0810.jpg" />
+    <Content Include="gallery\P019.jpg" />
+    <Content Include="gallery\P019_0810.jpg" />
+    <Content Include="gallery\P020.jpg" />
+    <Content Include="gallery\P020_0810.jpg" />
+    <Content Include="Global.asax" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_01.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_02.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_03.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_04.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_05.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_06.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_07.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_08.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_09.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_10.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_11.jpg" />
+    <Content Include="graphics\apache_http\apache_2.2.9_install_12.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm-Spik1_FanHornCluster_SpiralWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_FanHorn.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_FanHornCluster_SpiralWorm-Spik1.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_FanHornCluster_SpiralWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_FanHorn_TorusSpline.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Fan_SpiralWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\CurlWorm_Wheel.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\DoubleSpiral_Wheel.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\FormWorm_Wheel.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Fan_CurlWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Fan_TwoDWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Horn_CurlWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Horn_DoubleSpiral.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\SpiralWorm_Wheel.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Anemone_CurlWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\TorusSpline_Wheel.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Anemone.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Cluster.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Fan.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Horn.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Hull.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Trilobyt.jpg" />
+    <Content Include="graphics\bioform\basicworms\TwoDWorm_Wheel.jpg" />
+    <Content Include="graphics\bioform\bio_camera.jpg" />
+    <Content Include="graphics\bioform\bio_includes.jpg" />
+    <Content Include="graphics\bioform\bio_options.jpg" />
+    <Content Include="graphics\bioform\bio_options_small.jpg" />
+    <Content Include="graphics\bioform\bio_renderwin.jpg" />
+    <Content Include="graphics\bioform\bio_splash.jpg" />
+    <Content Include="graphics\bioform\bio_startup.jpg" />
+    <Content Include="graphics\bioform\bio_startup_small.jpg" />
+    <Content Include="graphics\bioform\bio_toolbar1.jpg" />
+    <Content Include="graphics\bioform\bio_toolbar2.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_01.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_02.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_03.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_04.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_05.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_06.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_07.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_08.jpg" />
+    <Content Include="graphics\collabnet_subversion\collabnetsubversion_1.6.3_install_09.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_01.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_02.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_03.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_04.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_05.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_06.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_07.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_08.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_09.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_10.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_11.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_12.jpg" />
+    <Content Include="graphics\collabnet_subversion\repotest_13.jpg" />
+    <Content Include="graphics\iTunesPlaylistsToXml\Example.png" />
+    <Content Include="graphics\misc\EntertainmentSetup20091024.jpg" />
+    <Content Include="graphics\misc\height.jpg" />
+    <Content Include="graphics\misc\inboxdollars5.gif" />
+    <Content Include="graphics\misc\length.jpg" />
+    <Content Include="graphics\misc\NetflixPlaystation3Disc.jpg" />
+    <Content Include="graphics\misc\NetflixPlaystation3Interface.jpg" />
+    <Content Include="graphics\misc\stars.png" />
+    <Content Include="graphics\misc\StrivingLifeGmail.png" />
+    <Content Include="graphics\misc\width.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_1.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_10.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_11.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_12.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_13.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_14.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_2.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_3.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_4.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_5.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_6.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_7.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_8.jpg" />
+    <Content Include="graphics\oXygenXmlEditor\oXygen_XmlSchemaDefinition_9.jpg" />
+    <Content Include="graphics\repotest\repotest_01.jpg" />
+    <Content Include="graphics\repotest\repotest_02.jpg" />
+    <Content Include="graphics\repotest\repotest_03.jpg" />
+    <Content Include="graphics\repotest\repotest_04.jpg" />
+    <Content Include="graphics\repotest\repotest_05.jpg" />
+    <Content Include="graphics\repotest\repotest_06.jpg" />
+    <Content Include="graphics\repotest\repotest_07.jpg" />
+    <Content Include="graphics\repotest\repotest_08.jpg" />
+    <Content Include="graphics\repotest\repotest_09.jpg" />
+    <Content Include="graphics\repotest\repotest_10.jpg" />
+    <Content Include="graphics\repotest\repotest_11.jpg" />
+    <Content Include="graphics\repotest\repotest_12.jpg" />
+    <Content Include="graphics\repotest\repotest_13.jpg" />
+    <Content Include="graphics\repotest\repotest_14.jpg" />
+    <Content Include="graphics\repotest\repotest_15.jpg" />
+    <Content Include="graphics\repotest\repotest_16.jpg" />
+    <Content Include="graphics\repotest\repotest_17.jpg" />
+    <Content Include="graphics\repotest\repotest_18.jpg" />
+    <Content Include="graphics\repotest\repotest_19.jpg" />
+    <Content Include="graphics\repotest\repotest_20.jpg" />
+    <Content Include="graphics\repotest\repotest_21.jpg" />
+    <Content Include="graphics\repotest\repotest_22.jpg" />
+    <Content Include="graphics\repotest\repotest_23.jpg" />
+    <Content Include="graphics\repotest\repotest_24.jpg" />
+    <Content Include="graphics\repotest\repotest_25.jpg" />
+    <Content Include="graphics\repotest\repotest_26.jpg" />
+    <Content Include="graphics\repotest\repotest_27.jpg" />
+    <Content Include="graphics\repotest\repotest_28.jpg" />
+    <Content Include="graphics\repotest\repotest_29.jpg" />
+    <Content Include="graphics\repotest\repotest_30.jpg" />
+    <Content Include="graphics\repotest\repotest_31.jpg" />
+    <Content Include="graphics\repotest\repotest_32.jpg" />
+    <Content Include="graphics\repotest\repotest_33.jpg" />
+    <Content Include="graphics\repotest\repotest_34.jpg" />
+    <Content Include="graphics\repotest\repotest_35.jpg" />
+    <Content Include="graphics\repotest\repotest_36.jpg" />
+    <Content Include="graphics\repotest\repotest_37.jpg" />
+    <Content Include="graphics\repotest\repotest_38.jpg" />
+    <Content Include="graphics\repotest\repotest_39.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\AdapterForegrip.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\AdapterHandguard.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\BarrelAdapter.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\CombatSight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\CompactScopeAlpha.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\CompactScopeBeta.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\DotSight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\DoubleSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpandableHandguard.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderGrip_1.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderGrip_2.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderPlusSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderSuperBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderTSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ExpanderTwinS-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\FlashSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Foregrip.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Handguard.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGDrumMagazine.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGExpanderBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGExpanderBarrelPro.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGHighBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGL-RailBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGLongBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMagazine2.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMagazine3.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMagazine4.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMagazine5.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMagazine6.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGMulti-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGRookieBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGRookieMagazine.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\HGS-RailBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\High-MountElite.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\High-MountPro.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\High-MountSight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\L-Grip.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LBarrelAdapter.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LensAdapter.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongExpanderBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongLens.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongScope.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongScopeElite.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongScopeMount.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\LongScopePro.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGDoubleBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGDrumMagazine.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGExpanderBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGHighBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGL-RailBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGLongBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine12.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine3.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine5.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine6.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine8.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMagazine9.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGMulti-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGRookieBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGRookieMagazine.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MGS-RailBarrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Mini-Lens.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\MultiSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\PrototypeMount.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\RailSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\RookieGrip.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\RookieSight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ScattershotSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ScopeMount.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\ShortSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\SpecialScope.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Sub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Sub-Sight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\TelephotoLens.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\TerminalSub-Barrel.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\Top-RailScope.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Parts\TopSight.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_1191.45-Auto.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_1191.45Golden.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_B-N84.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_B-N84Golden.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_LP-09.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_MI50A.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_NP.05C.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_NP.05Golden.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_PDW-XN.V2.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_PDW-XN.V3.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_SG-B226.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_SG-B226Golden.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_SMG-05.jpg" />
+    <Content Include="graphics\ResonanceOfFate\Weapon_Z-40.jpg" />
+    <Content Include="graphics\samurize\Config-Windows7Laptop.png" />
+    <Content Include="graphics\samurize\Config-Windows7Pc.png" />
+    <Content Include="graphics\samurize\Config-WindowsXpPc.png" />
+    <Content Include="graphics\samurize\Config-WindowsXpPc_Work.png" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall01.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall02.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall03.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall04.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall05.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall06.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall07.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall08.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall09.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall10.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall11.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall12.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall13.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall14.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall15.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall16.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall17.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall18.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall19.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall20.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall21.jpg" />
+    <Content Include="graphics\sqlServerExpress\SQLServer2008ExpressInstall22.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_01.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_02.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_03.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_04.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_05.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_06.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_07.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_08.jpg" />
+    <Content Include="graphics\subversion\subversion_1.4.6_install_09.jpg" />
+    <Content Include="graphics\svn_web\RepoCheckout_DNDMU.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_01.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_02.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_03.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_04.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_05.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.4.8_install_06.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_01.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_02.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_03.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_04.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_05.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_06.jpg" />
+    <Content Include="graphics\tortoisesvn\tortoisesvn_1.6.3_install_07.jpg" />
+    <Content Include="graphics\w3c_newspaper.png" />
+    <Content Include="graphics\wakingLife\WakingLife_01_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_01_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_02_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_02_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_02_linklater_head.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_02_linklater_head_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_03_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_03_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_03_2.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_03_2_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_04_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_04_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_05_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_05_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_05_2.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_05_2_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_06_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_06_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_07_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_07_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_08_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_08_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_09_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_09_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_10_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_10_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_11_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_11_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_12_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_12_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_13_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_13_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_14_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_14_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_15_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_15_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_16_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_16_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_17_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_17_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_18_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_18_1_t.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_19_1.jpg" />
+    <Content Include="graphics\wakingLife\WakingLife_19_1_t.jpg" />
+    <Content Include="graphics\windowsServer2003\server2003Roles_01.jpg" />
+    <Content Include="graphics\windowsServer2003\server2003Roles_02.jpg" />
+    <Content Include="graphics\windowsServer2003\server2003Roles_03.jpg" />
+    <Content Include="graphics\windowsServer2003\server2003Roles_04.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_01.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_02.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_03.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_04.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_05.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_06.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_07.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_08.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_09.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_10.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_11.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_12.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_12b.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_13.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_14.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_15.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_16.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_17.jpg" />
+    <Content Include="graphics\windowsServer2003\webPlatformInstaller_WordPress_18.jpg" />
+    <Content Include="js\BrowserCheck.js" />
+    <Content Include="js\common.js" />
+    <Content Include="js\common.min.js" />
+    <Content Include="js\JamesRSkemp.min.js" />
+    <Content Include="js\JamesRSkemp.js" />
+    <Content Include="js\jquery-1.5.2.min.js" />
+    <Content Include="js\jquery.xml2json-1.0.min.js" />
+    <Content Include="js\jquery-1.3.2.js" />
+    <Content Include="js\jquery-1.3.2.min.js" />
+    <Content Include="js\jquery-1.4.2.js" />
+    <Content Include="js\jquery-1.4.2.min.js" />
+    <Content Include="js\jquery-1.5.1.min.js" />
+    <Content Include="js\jquery-vsdoc.js" />
+    <Content Include="js\jquery.beautyOfCode-0.1.js" />
+    <Content Include="js\jquery.beautyOfCode-0.1.min.js" />
+    <Content Include="js\jquery.xml2json-1.0.js" />
+    <Content Include="js\ResonanceOfFate.js" />
+    <Content Include="js\shBrushLogParser.js" />
+    <Content Include="js\userscripts\GameTrailers.user.js" />
+    <Content Include="js\_README.txt" />
+    <Content Include="AppManager.html" />
+    <Content Include="robots.txt" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="xmlHtml\ResonanceOfFate.html" />
+    <Content Include="xmlHtml\vehicle_gas.html" />
+    <Content Include="xmlHtml\video_games.html" />
+    <Content Include="xml\BlueDragonSkills.xml" />
+    <Content Include="xml\CrisisCoreFinalFantasy7.xml" />
+    <Content Include="xml\CrossEdgeSkills.xml" />
+    <Content Include="xml\DisgaeaHourOfDarkness.xml" />
+    <Content Include="xml\domain_names.xml" />
+    <Content Include="xml\dq8_levels.xml" />
+    <Content Include="xml\folklore_levels.xml" />
+    <Content Include="xml\KingdomHeartsBirthBySleep.xml" />
+    <Content Include="xml\MuramasaBlades.xml" />
+    <Content Include="xml\music.xml" />
+    <Content Include="xml\MyBooks.xml" />
+    <Content Include="xml\MyCDs.xml" />
+    <Content Include="xml\OdinSphere.xml" />
+    <Content Include="xml\OnimushaDawnOfDreams.xml" />
+    <Content Include="xml\Photos.xml" />
+    <Content Include="xml\ResonanceOfFate.xml" />
+    <Content Include="xml\samples\iTunesPlaylistsToXml_Example_1.xml" />
+    <Content Include="xml\samples\iTunesPlaylistsToXml_Example_2.xml" />
+    <Content Include="xml\samples\iTunesPlaylistsToXml_Example_3.xml" />
+    <Content Include="xml\ShadowHeartsCovenant.xml" />
+    <Content Include="xml\ShadowHeartsFromTheNewWorld.xml" />
+    <Content Include="xml\vehicle_gas.xml" />
+    <Content Include="xml\VideoGames.xml" />
+    <Content Include="xml\video_games.xml" />
+    <Content Include="xslt\AlbumName.xslt" />
+    <Content Include="xslt\Artist-Album-Genre.xslt" />
+    <Content Include="xslt\BlueDragonSkills.xsl" />
+    <Content Include="xslt\DisgaeaHourOfDarkness.xsl" />
+    <Content Include="xslt\dq8_levels.xsl" />
+    <Content Include="xslt\folklore_levels.xsl" />
+    <Content Include="xslt\iTunesPlaylists2Xml.xslt" />
+    <Content Include="xslt\MuramasaBlades.xsl" />
+    <Content Include="xslt\MyBooks.xslt" />
+    <Content Include="xslt\MyCDs.xslt" />
+    <Content Include="xslt\NameArtistAlbumPlay.xslt" />
+    <Content Include="xslt\ResonanceOfFate.xsl" />
+    <Content Include="xslt\SimpleJournal.xsl" />
+    <Content Include="xslt\vehicle_gas.xslt" />
+    <Content Include="xslt\video_games.xslt" />
+    <Content Include="xslt\XmlPhotoGallery.xsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Handlers\VehicleGasChart.ashx.cs">
+      <DependentUpon>VehicleGasChart.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="FormulasService.cs" />
+    <Compile Include="MusicService.cs" />
+    <Compile Include="Service1.cs" />
+    <Compile Include="SampleItem.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="js\syntaxhighlighter_2.0.320\scripts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="downloads\Cassini-v4r4.zip" />
+    <Content Include="downloads\Cassini_3.5.0.2.zip" />
+    <Content Include="downloads\IISLogsToSQLite_0.1.zip" />
+    <Content Include="downloads\iTunesApplication.zip" />
+    <Content Include="downloads\iTunesMusicToSQLite_0.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_0.2b.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_0.3b.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_0.4b.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_0.5b.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_0.6b.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.0.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.1.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.2.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.3.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.4.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.4.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.5.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.5.2.1.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.5.2.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.5.3.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.5.zip" />
+    <Content Include="downloads\iTunesPlaylistsToXml_1.6.zip" />
+    <Content Include="downloads\LogParserPlus_0.2.1.zip" />
+    <Content Include="downloads\LogParserPlus_0.3.1.zip" />
+    <Content Include="downloads\LogParserPlus_0.3.zip" />
+    <Content Include="downloads\MusicRecommendationsPlease_0.4.5.zip" />
+    <Content Include="downloads\MusicRecommendationsPlease_0.5.zip" />
+    <Content Include="downloads\NorthwindExamplesDump_rev25.zip" />
+    <Content Include="downloads\NorthwindExamplesExport_rev25.zip" />
+    <Content Include="downloads\SimpleJournal_1.0.zip" />
+    <None Include="downloads\TestBlogEngine.7z" />
+    <None Include="dtd\domain_names.dtd" />
+    <None Include="dtd\vehicle_gas.dtd" />
+    <None Include="dtd\video_games.dtd" />
+    <Content Include="Handlers\VehicleGasChart.ashx" />
+    <Content Include="manifest\generic.manifest" />
+    <Content Include="manifest\web.config" />
+    <Content Include="manifest\vehicle_gas.manifest" />
+    <None Include="manifest\media.manifest" />
+    <None Include="xml\books I still own.linq" />
+    <None Include="xml\CrisisCoreFinalFantasy7.linq" />
+    <None Include="xml\KingdomHeartsBirthBySleep counts.linq" />
+    <None Include="xml\KingdomHeartsBirthBySleep queries.linq" />
+    <None Include="xml\vehicle parsing.linq" />
+    <None Include="xml\video games - simple list.linq" />
+    <None Include="xsd\2010\09\03\OnimushaDawnOfDreams.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\09\04\CustomDateType.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\09\04\VideoGames.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\09\06\ShadowHeartsCovenant.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\10\ShadowHeartsFromTheNewWorld.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\11\16\CrisisCoreFinalFantasy7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2010\12\12\VideoGames.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\2011\01\KingdomHeartsBirthBySleep.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\BlueDragonSkills.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\dq8_levels.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\folklore_levels.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\iTunesPlaylistsToXml.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\JournalSimple.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\MyBooks.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\MyCDs.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\OdinSphere.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\ResonanceOfFate.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\ShadowHeartsFromTheNewWorld1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\vehicle_gas.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsd\XmlPhotoGallery.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JamesRSkemp.Formulas\JamesRSkemp.Formulas.csproj">
+      <Project>{3C5C809D-43AA-4188-A58A-9E8F420A9271}</Project>
+      <Name>JamesRSkemp.Formulas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JamesRSkemp.Music\JamesRSkemp.Music.csproj">
+      <Project>{F5660A07-192A-4F5C-8A64-7D301BAA7C1A}</Project>
+      <Name>JamesRSkemp.Music</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49227</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49227/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

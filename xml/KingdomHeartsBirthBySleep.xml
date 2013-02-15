@@ -1,0 +1,3637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KingdomHeartsBirthBySleep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2011/01/KingdomHeartsBirthBySleep.xsd">
+	<Abilities>
+		<Ability Name="Treasure Magnet" Type="Prizes" Maximum="5" Description="Automatically scoops up nearby prizes for you. Multi-install the ability to increase range."/>
+		<Ability Name="HP Prize Plus" Type="Prizes" Maximum="3" Description="Increases the number of HP prizes enemies drop. Multi-install the ability for even more prizes."/>
+		<Ability Name="Link Prize Plus" Type="Prizes" Maximum="3" Description="Increases the number of D-Link prizes enemies drop. Multi-install the ability for even more prizes."/>
+		<Ability Name="Lucky Strike" Type="Prizes" Maximum="5" Description="Increases the number of prize boxes enemies drop. Multi-install the ability for even more prizes."/>
+		<Ability Name="HP Boost" Type="Stats" Maximum="3" Description="Increases your HP. Multi-install the ability to bump it up even further. (Adds 10%, rounded down.)"/>
+		<Ability Name="Fire Boost" Type="Stats" Maximum="3" Description="Increases the damage dealt by your Fire commands. Multi-install the ability to deal even more damage."/>
+		<Ability Name="Blizzard Boost" Type="Stats" Maximum="3" Description="Increases the damage dealt by your Blizzard commands. Multi-install the ability to deal even more damage."/>
+		<Ability Name="Thunder Boost" Type="Stats" Maximum="3" Description="Increases the damage dealt by your Thunder commands. Multi-install the ability to deal even more damage."/>
+		<Ability Name="Cure Boost" Type="Stats" Maximum="3" Description="Increases the amount of HP you recover with Cure commands. Multi-install the ability to recover even more."/>
+		<Ability Name="Item Boost" Type="Stats" Maximum="3" Description="Increases the effectiveness of recovery item commands. Multi-install the ability for an even larger improvement."/>
+		<Ability Name="Attack Haste" Type="Stats" Maximum="5" Description="Shortens the reload time for all attack commands installed in your deck. Multi-install the ability for even quicker reloading."/>
+		<Ability Name="Magic Haste" Type="Stats" Maximum="5" Description="Shortens the reload time for all magic commands installed in your deck. Multi-install the ability for even quicker reloading."/>
+		<Ability Name="Combo Finish Boost" Type="Stats" Maximum="2" Description="Increases the damage dealt by the last blow of your combos. Multi-install the ability to deal even more damage."/>
+		<Ability Name="Finish Boost" Type="Stats" Maximum="2" Description="Increases the damage dealt by your Finish command. Multi-install the ability to deal even more damage."/>
+		<Ability Name="Fire Screen" Type="Stats" Maximum="2" Description="Increases your resistance to Fire attacks. Multi-install the ability to bump it up even further. +20% per level."/>
+		<Ability Name="Blizzard Screen" Type="Stats" Maximum="2" Description="Increases your resistance to Blizzard attacks (20%). Multi-install the ability to bump it up even further. +20% per level."/>
+		<Ability Name="Thunder Screen" Type="Stats" Maximum="2" Description="Increases your resistance to Thunder attacks (20%). Multi-install the ability to bump it up even further. +20% per level."/>
+		<Ability Name="Dark Screen" Type="Stats" Maximum="2" Description="Increases your resistance to darkness-based attacks (20%). Multi-install the ability to bump it up even further. +20% per level."/>
+		<Ability Name="Reload Boost" Type="Stats" Maximum="1" Description="Shortens the reload time for all commands installed in your deck whenever your HP falls below 25%."/>
+		<Ability Name="Defender" Type="Stats" Maximum="1" Description="Increases your Defense whenever your HP falls below 25%."/>
+		<Ability Name="Combo Plus" Type="Support" Maximum="3" Description="Adds one stroke to your ground combos. Multi-install the ability for even longer combos."/>
+		<Ability Name="Air Combo Plus" Type="Support" Maximum="3" Description="Adds one stroke to your aerial combos. Multi-install the ability for even longer combos."/>
+		<Ability Name="Exp Chance" Type="Support" Maximum="1" Description="Doubles the EXP you receive whenever your HP falls below 25%."/>
+		<Ability Name="Exp Walker" Type="Support" Maximum="1" Description="Awards you 1 EXP for every step you take."/>
+		<Ability Name="Damage Syphon" Type="Support" Maximum="1" Description="Restores some of the Focus Gauge when you take damage."/>
+		<Ability Name="Second Chance" Type="Support" Maximum="1" Description="Ensures you always retain 1 HP after an attack that would otherwise finish you off, unless you are already down to 1 HP."/>
+		<Ability Name="Once More" Type="Support" Maximum="1" Description="Ensures you always retain 1 HP throughout a combo that would otherwise finish you off, unless you are already at 1 HP when the first attack hits."/>
+		<Ability Name="Scan" Type="Support" Maximum="1" Description="Displays the HP of the targeted enemy."/>
+		<Ability Name="Leaf Bracer" Type="Support" Maximum="1" Description="Prevents you from taking damage while using Cure commands."/>
+	</Abilities>
+	<!-- Reports > Command Collection -->
+	<Characters>
+		<Character Name="Terra">
+			<Commands>
+				<!-- Terra : 128/195 -->
+				<Command Id="1" Name="Quick Blitz" Type="Combat" Subtype="Attacks" Cost="100"/>
+				<Command Id="2" Name="Blitz" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1200"/>
+				<Command Id="3" Name="Meteor Crash" Type="Combat" Subtype="Attacks" MaximumLevel="5" Slots="2"/>
+				<Command Id="4" Name="Sliding Dash" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="100"/>
+				<Command Id="5" Name="Fire Dash" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="150"/>
+				<Command Id="6" Name="Dark Haze" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1100"/>
+				<Command Id="7" Name="Sonic Blade" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="2000"/>
+				<!-- 1-8 -->
+				<Command Id="9" Name="Zantetsuken" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="1700"/>
+				<Command Id="10" Name="Strike Raid" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="100"/>
+				<Command Id="11" Name="Freeze Raid" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="200"/>
+				<Command Id="12" Name="Fire Surge" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="650"/>
+				<Command Id="13" Name="Thunder Surge" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="700"/>
+				<Command Id="14" Name="Aerial Slam" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1500"/>
+				<Command Id="15" Name="Ars Solum" Type="Combat" Subtype="Attacks" MaximumLevel="6"/>
+				<Command Id="16" Name="Poison Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="150"/>
+				<Command Id="17" Name="Blizzard Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="200"/>
+				<Command Id="18" Name="Stun Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="150"/>
+				<Command Id="19" Name="Slot Edge" Type="Combat" Subtype="Attacks" Cost="700"/>
+				<Command Id="20" Name="Fire Strike" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="450"/>
+				<Command Id="21" Name="Confusion Strike" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="450"/>
+				<Command Id="22" Name="Binding Strike" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="400"/>
+				<Command Id="23" Name="Brutal Blast" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1800"/>
+				<Command Id="24" Name="Magnet Spiral" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="2300"/>
+				<Command Id="25" Name="Windcutter" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="1500"/>
+				<Command Id="26" Name="Limit Storm" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="1500"/>
+				<Command Id="27" Name="Collision Magnet" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1300"/>
+				<Command Id="28" Name="Geo Impact" Type="Combat" Subtype="Attacks" MaximumLevel="5" Slots="2" Cost="2100"/>
+				<Command Id="29" Name="Sacrifice" Type="Combat" Subtype="Attacks" MaximumLevel="5" Cost="1500"/>
+				<Command Id="30" Name="Break Time" Type="Combat" Subtype="Attacks" MaximumLevel="4"/>
+				
+				<Command Id="31" Name="Fire" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="100"/>
+				<Command Id="32" Name="Fira" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="500"/>
+				<Command Id="33" Name="Firaga" Type="Combat" Subtype="Magic" Cost="1200"/>
+				<Command Id="34" Name="Dark Firaga" Type="Combat" Subtype="Magic" MaximumLevel="5" Cost="2000"/>
+				<Command Id="35" Name="Fission Firaga" Type="Combat" Subtype="Magic" Cost="1500"/>
+				<Command Id="36" Name="Crawling Fire" Type="Combat" Subtype="Magic" Cost="1800"/>
+				<Command Id="37" Name="Blizzard" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="100"/>
+				<Command Id="38" Name="Blizzara" Type="Combat" Subtype="Magic" Cost="500"/>
+				<Command Id="39" Name="Blizzaga" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1200"/>
+				<Command Id="40" Name="Thunder" Type="Combat" Subtype="Magic" Cost="150"/>
+				<Command Id="41" Name="Thundara" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="42" Name="Thundaga" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1300"/>
+				<Command Id="43" Name="Cure" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="150"/>
+				<Command Id="44" Name="Cura" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="45" Name="Curaga" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1300"/>
+				<Command Id="46" Name="Esuna" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="47" Name="Mine Shield" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="48" Name="Mine Square" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1000"/>
+				<Command Id="49" Name="Zero Gravity" Type="Combat" Subtype="Magic" Cost="150"/>
+				<Command Id="50" Name="Zero Gravira" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="51" Name="Zero Graviga" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1300"/>
+				<Command Id="52" Name="Magnet" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="120"/>
+				<Command Id="53" Name="Magnera" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="550"/>
+				<Command Id="54" Name="Magnega" Type="Combat" Subtype="Magic" MaximumLevel="1250"/>
+				<Command Id="55" Name="Aero" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="150"/>
+				<Command Id="56" Name="Aerora" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="57" Name="Aeroga" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="1300"/>
+				<Command Id="58" Name="Warp" Type="Combat" Subtype="Magic" Cost="1500"/>
+				<!-- 8-2 -->
+				<Command Id="60" Name="Mega Flare" Type="Combat" Subtype="Magic" MaximumLevel="6" Cost=""/>
+				<Command Id="61" Name="Quake" Type="Combat" Subtype="Magic" Slots="2" MaximumLevel="5" Cost="2500"/>
+				<Command Id="62" Name="Meteor" Type="Combat" Subtype="Magic" Slots="2"/>
+				<Command Id="63" Name="Transcendence" Type="Combat" Subtype="Magic" Slots="2" MaximumLevel="6"/>
+				<!-- 8-7 -->
+				<Command Id="65" Name="Blackout" Type="Combat" Subtype="Magic" Cost="600"/>
+				<Command Id="66" Name="Ignite" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="600"/>
+				<Command Id="67" Name="Confuse" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="100"/>
+				<Command Id="68" Name="Bind" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="150"/>
+				<Command Id="69" Name="Poison" Type="Combat" Subtype="Magic" MaximumLevel="4" Cost="100"/>
+				<Command Id="70" Name="Slow" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="150"/>
+				<Command Id="71" Name="Stop" Type="Combat" Subtype="Magic" Cost="100"/>
+				<Command Id="72" Name="Stopra" Type="Combat" Subtype="Magic" Cost="500"/>
+				<Command Id="73" Name="Stopga" Type="Combat" Subtype="Magic" Cost="1200"/>
+				<Command Id="74" Name="Sleep" Type="Combat" Subtype="Magic" MaximumLevel="3" Cost="100"/>
+				
+				<Command Id="75" Name="Potion" Type="Combat" Subtype="Items" Cost="30"/>
+				<Command Id="76" Name="Hi-Potion" Type="Combat" Subtype="Items" Cost="80"/>
+				<Command Id="77" Name="Mega-Potion" Type="Combat" Subtype="Items" Cost="150"/>
+				<Command Id="78" Name="Ether" Type="Combat" Subtype="Items" Cost="50"/>
+				<Command Id="79" Name="Mega-Ether" Type="Combat" Subtype="Items" Cost="160"/>
+				<Command Id="80" Name="Panacea" Type="Combat" Subtype="Items" Cost="50"/>
+				<Command Id="81" Name="Elixir" Type="Combat" Subtype="Items" Cost="250"/>
+				<Command Id="82" Name="Megalixir" Type="Combat" Subtype="Items" Cost="350"/>
+				<Command Id="83" Name="Balloon Letter" Type="Combat" Subtype="Items" Cost="120"/>
+				
+				<!-- 12-5 --><Command Id="" Name="Confetti" Type="Combat" Subtype="Friendship"/>
+				<Command Id="" Name="Fireworks" Type="Combat" Subtype="Friendship"/>
+				
+				<!-- 14-Complete --><Command Id="" Name="Jump" Type="Action" Subtype="Movement"/>
+				<Command Id="" Name="High Jump" Type="Action" Subtype="Movement" MaximumLevel="4" Cost="500"/>
+				<Command Id="" Name="Air Slide" Type="Action" Subtype="Movement" MaximumLevel="4" Cost="800"/>
+				<Command Id="" Name="Ice Slide" Type="Action" Subtype="Movement" MaximumLevel="4"/>
+				<Command Id="" Name="Sonic Impact" Type="Action" Subtype="Movement" MaximumLevel="4"/>
+				<Command Id="" Name="Slide" Type="Action" Subtype="Movement" MaximumLevel="4" Cost="200"/>
+				
+				<!-- 15-1 --><Command Id="" Name="Block" Type="Action" Subtype="Defense" MaximumLevel="3" Cost="200"/>
+				<Command Id="" Name="Renewal Block" Type="Action" Subtype="Defense" MaximumLevel="3"/>
+				<Command Id="" Name="Stun Block" Type="Action" Subtype="Defense" MaximumLevel="3" Cost="600"/>
+				<Command Id="" Name="Poison Block" Type="Action" Subtype="Defense" MaximumLevel="3"/>
+				
+				<!-- 16-Complete --><Command Id="" Name="Counter Hammer" Type="Action" Subtype="Reprisals" MaximumLevel="4" Cost="1200"/>
+				<Command Id="" Name="Payback Fang" Type="Action" Subtype="Reprisals" MaximumLevel="4" Cost="1400"/>
+				
+				<!-- 17-2 --><Command Id="" Name="Flame Salvo" Type="Shotlock" MaximumLevel="4"/>
+				<Command Id="" Name="Dark Volley" Type="Shotlock" MaximumLevel="5"/>
+				<Command Id="" Name="Ragnarok" Type="Shotlock" MaximumLevel="4"/>
+				<Command Id="" Name="Thunderstorm" Type="Shotlock" MaximumLevel="4"/>
+				<Command Id="" Name="Absolute Zero" Type="Shotlock" MaximumLevel="4"/>
+				
+				<!-- 18-1 --><Command Id="" Name="Lightning Ray" Type="Shotlock" MaximumLevel="4"/>
+				<Command Id="" Name="Sonic Shadow" Type="Shotlock" MaximumLevel="5"/>
+				
+				<!-- 19-1 --><Command Id="" Name="Finish (Ven)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Finish (Aqua)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Dream Sparkle" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Thunderchaser" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Hero's Entrance" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Random Beam" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Swordbill" Type="Miscellaneous" Subtype="Dimension Links"/>
+				
+				<!-- 21-1 --><Command Id="" Name="Finish" Type="Miscellaneous" Subtype="Finish" MaximumLevel="1"/>
+				<Command Id="" Name="Rising Rock 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="2"/>
+				<Command Id="" Name="Gold Rush" Type="Miscellaneous" Subtype="Finish" MaximumLevel="2"/>
+				<Command Id="" Name="Rising Rock 2" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				<Command Id="" Name="Twisted Hours" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				<Command Id="" Name="Surprise! 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				<Command Id="" Name="Dark Star 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="4"/>
+				
+				<!-- 22-2 --><Command Id="" Name="Random End" Type="Miscellaneous" Subtype="Finish" MaximumLevel="4"/>
+				<Command Id="" Name="Surprise! 2" Type="Miscellaneous" Subtype="Finish" MaximumLevel="4"/>
+				<Command Id="" Name="Dark Star 2" Type="Miscellaneous" Subtype="Finish" MaximumLevel="5"/>
+				<Command Id="" Name="Explosion" Type="Miscellaneous" Subtype="Finish" MaximumLevel="5"/>
+				<Command Id="" Name="Demolition" Type="Miscellaneous" Subtype="Finish" MaximumLevel="6"/>
+				<Command Id="" Name="Critical Impact" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Firestorm" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Diamond Dust" Type="Miscellaneous" Subtype="Finish"/>
+				
+				<!-- 23-1 --><Command Id="" Name="Thunderbolt" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Bladecharge" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Rockbreaker" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Dark Impulse" Type="Miscellaneous" Subtype="Finish"/>
+			</Commands>
+		</Character>
+		<Character Name="Ven">
+			<Commands>
+				<!-- Ven 130/201 -->
+				<!-- 1-1 --><Command Id="1" Name="Quick Blitz" Type="Combat" Subtype="Attacks"/>
+				<Command Id="2" Name="Blitz" Type="Combat" Subtype="Attacks"/>
+				<Command Id="3" Name="Sliding Dash" Type="Combat" Subtype="Attacks"/>
+				
+				
+				<Command Id="6" Name="Strike Raid" Type="Combat" Subtype="Attacks"/>
+				<Command Id="7" Name="Freeze Raid" Type="Combat" Subtype="Attacks"/>
+				<Command Id="8" Name="Treasure Raid" Type="Combat" Subtype="Attacks"/>
+				<Command Id="9" Name="Spark Raid" Type="Combat" Subtype="Attacks"/>
+				
+				<!-- 2-1 --><Command Id="10" Name="Wind Raid" Type="Combat" Subtype="Attacks"/>
+				<Command Id="11" Name="Fire Surge" Type="Combat" Subtype="Attacks"/>
+				<Command Id="12" Name="Thunder Surge" Type="Combat" Subtype="Attacks"/>
+				<Command Id="13" Name="Aerial Slam" Type="Combat" Subtype="Attacks"/>
+				<Command Id="16" Name="Poison Edge" Type="Combat" Subtype="Attacks"/>
+				<Command Id="17" Name="Blizzard Edge" Type="Combat" Subtype="Attacks"/>
+				<Command Id="18" Name="Stun Edge" Type="Combat" Subtype="Attacks"/>
+				
+				<!-- 3-1 --><Command Id="19" Name="Slot Edge" Type="Combat" Subtype="Attacks"/>
+				<Command Id="20" Name="Fire Strike" Type="Combat" Subtype="Attacks"/>
+				<Command Id="21" Name="Confusion Strike" Type="Combat" Subtype="Attacks"/>
+				<Command Id="22" Name="Binding Strike" Type="Combat" Subtype="Attacks"/>
+				<Command Id="23" Name="Tornado Strike" Type="Combat" Subtype="Attacks"/>
+				
+				<Command Id="25" Name="Salvation" Type="Combat" Subtype="Attacks" MaximumLevel="6" Slots="2"/>
+				<Command Id="26" Name="Collision Magnet" Type="Combat" Subtype="Attacks"/>
+				<Command Id="27" Name="Break Time" Type="Combat" Subtype="Attacks" MaximumLevel="4"/>
+				<Command Id="28" Name="Fire" Type="Combat" Subtype="Magic"/>
+				<Command Id="29" Name="Fira" Type="Combat" Subtype="Magic"/>
+				<Command Id="30" Name="Firaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="31" Name="Fission Firaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="32" Name="Crawling Fire" Type="Combat" Subtype="Magic"/>
+				<Command Id="33" Name="Blizzard" Type="Combat" Subtype="Magic"/>
+				<Command Id="34" Name="Blizzara" Type="Combat" Subtype="Magic"/>
+				<Command Id="35" Name="Blizzaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="36" Name="Thunder" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 5-1 --><Command Id="37" Name="Thundara" Type="Combat" Subtype="Magic"/>
+				<Command Id="38" Name="Thundaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="39" Name="Cure" Type="Combat" Subtype="Magic"/>
+				<Command Id="40" Name="Cura" Type="Combat" Subtype="Magic"/>
+				<Command Id="41" Name="Curaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="42" Name="Esuna" Type="Combat" Subtype="Magic"/>
+				<Command Id="43" Name="Mine Shield" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				
+				<Command Id="45" Name="Zero Gravity" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 6-Complete --><Command Id="46" Name="Zero Gravira" Type="Combat" Subtype="Magic"/>
+				<Command Id="47" Name="Zero Graviga" Type="Combat" Subtype="Magic"/>
+				<Command Id="48" Name="Magnet" Type="Combat" Subtype="Magic"/>
+				<Command Id="49" Name="Magnera" Type="Combat" Subtype="Magic"/>
+				<Command Id="50" Name="Magnega" Type="Combat" Subtype="Magic"/>
+				<Command Id="51" Name="Aero" Type="Combat" Subtype="Magic"/>
+				<Command Id="52" Name="Aerora" Type="Combat" Subtype="Magic"/>
+				<Command Id="53" Name="Aeroga" Type="Combat" Subtype="Magic"/>
+				<Command Id="54" Name="Faith" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 7-2 --><Command Id="56" Name="Mega Flare" Type="Combat" Subtype="Magic"/>
+				
+				
+				<Command Id="59" Name="Mini" Type="Combat" Subtype="Magic"/>
+				<Command Id="60" Name="Blackout" Type="Combat" Subtype="Magic"/>
+				<Command Id="61" Name="Ignite" Type="Combat" Subtype="Magic"/>
+				
+				<Command Id="63" Name="Bind" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 8-1 --><Command Id="64" Name="Poison" Type="Combat" Subtype="Magic"/>
+				<Command Id="65" Name="Slow" Type="Combat" Subtype="Magic"/>
+				<Command Id="66" Name="Stop" Type="Combat" Subtype="Magic"/>
+				<Command Id="67" Name="Stopra" Type="Combat" Subtype="Magic"/>
+				<Command Id="69" Name="Sleep" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 9-Complete --><Command Id="70" Name="Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="71" Name="Hi-Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="72" Name="Mega-Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="73" Name="Ether" Type="Combat" Subtype="Items"/>
+				<Command Id="74" Name="Mega-Ether" Type="Combat" Subtype="Items"/>
+				<Command Id="75" Name="Panacea" Type="Combat" Subtype="Items"/>
+				<Command Id="76" Name="Elixir" Type="Combat" Subtype="Items"/>
+				<Command Id="77" Name="Megalixir" Type="Combat" Subtype="Items"/>
+				<Command Id="78" Name="Balloon Letter" Type="Combat" Subtype="Items"/>
+				
+				<!-- 11-5 --><Command Id="90" Name="Confetti" Type="Combat" Subtype="Friendship"/>
+				<Command Id="91" Name="Fireworks" Type="Combat" Subtype="Friendship"/>
+				
+				<!-- 13-1 --><Command Id="98" Name="Jump" Type="Action" Subtype="Movement"/>
+				<Command Id="99" Name="High Jump" Type="Action" Subtype="Movement"/>
+				<Command Id="100" Name="Dodge Roll" Type="Action" Subtype="Movement"/>
+				
+				<Command Id="102" Name="Air Slide" Type="Action" Subtype="Movement"/>
+				
+				<Command Id="104" Name="Reversal" Type="Action" Subtype="Movement"/>
+				<Command Id="105" Name="Glide" Type="Action" Subtype="Movement"/>
+				<Command Id="106" Name="Superglide" Type="Action" Subtype="Movement"/>
+				
+				<Command Id="107" Name="Fire Glide" Type="Action" Subtype="Movement"/>
+				
+				<!-- 15-1 --><Command Id="109" Name="Block" Type="Action" Subtype="Defense"/>
+				<Command Id="110" Name="Renewal Block" Type="Action" Subtype="Defense"/>
+				
+				<Command Id="112" Name="Stun Block" Type="Action" Subtype="Defense"/>
+				
+				<!-- 16-Complete --><Command Id="114" Name="Counter Rush" Type="Action" Subtype="Reprisals"/>
+				<Command Id="115" Name="Reversal Slash" Type="Action" Subtype="Reprisals"/>
+				<Command Id="116" Name="Payback Raid" Type="Action" Subtype="Reprisals"/>
+				
+				<!-- 17-2 --><Command Id="118" Name="Flame Salvo" Type="Shotlock"/>
+				<Command Id="121" Name="Thunderstorm" Type="Shotlock"/>
+				<Command Id="123" Name="Pulse Bomb" Type="Shotlock"/>
+				<Command Id="125" Name="Absolute Zero" Type="Shotlock"/>
+				
+				<!-- 19-Complete --><Command Id="128" Name="Finish (Aqua)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="129" Name="Finish (Terra)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="130" Name="Lightcharge" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="131" Name="Donald Flare" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="132" Name="Goofy Spin" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="133" Name="Sweet Memory" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="134" Name="Dream Sparkle" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="135" Name="Hero's Entrance" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="136" Name="Random Beam" Type="Miscellaneous" Subtype="Dimension Links"/>
+				
+				<!-- 20-1 --><Command Id="137" Name="Swordbill" Type="Miscellaneous" Subtype="Dimension Links"/>
+				
+				<!-- 22-1 --><Command Id="" Name="Finish" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Air Flare 1" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Gold Rush" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Twisted Hours" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Surprise 1" Type="Miscellaneous" Subtype="Finish"/>
+				
+				<!-- 23-2 --><Command Id="" Name="Surprise 2" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Fever Pitch" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Firestorm" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Diamond Dust" Type="Miscellaneous" Subtype="Finish"/>
+				
+				<!-- 24-1 --><Command Id="" Name="Thunderbolt" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Cyclone" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Wingblade" Type="Miscellaneous" Subtype="Finish"/>
+			</Commands>
+		</Character>
+		<Character Name="Aqua">
+			<Commands>
+				<!-- Aqua 116/206 -->
+				<!-- 1-1 --><Command Id="1" Name="Quick Blitz" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="100"/>
+				<Command Id="2" Name="Blitz" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="1200"/>
+				<Command Id="4" Name="Sliding Dash" Type="Combat" Subtype="Attacks" Cost="100"/>
+				<Command Id="5" Name="Fire Dash" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="150"/>
+				<Command Id="7" Name="Strike Raid" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="100"/>
+				<Command Id="8" Name="Freeze Raid" Type="Combat" Subtype="Attacks" MaximumLevel="4" Cost="200"/>
+				<Command Id="9" Name="Fire Surge" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				
+				<!-- 2-1 --><Command Id="10" Name="Barrier Surge" Type="Combat" Subtype="Attacks" MaximumLevel="3" Cost="500"/>
+				
+				<Command Id="12" Name="Aerial Slam" Type="Combat" Subtype="Attacks" MaximumLevel="4"/>
+				<Command Id="13" Name="Time Splicer" Type="Combat" Subtype="Attacks" MaximumLevel="" Slots="2"/>
+				<Command Id="14" Name="Poison Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				<Command Id="16" Name="Blizzard Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				<Command Id="17" Name="Stun Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				<Command Id="18" Name="Slot Edge" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				
+				<!-- 3-1 --><Command Id="19" Name="Fire Strike" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				<Command Id="20" Name="Confusion Strike" Type="Combat" Subtype="Attacks" MaximumLevel="3"/>
+				<Command Id="21" Name="Binding Strike" Type="Combat" Subtype="Attacks"/>
+				<Command Id="24" Name="Break Time" Type="Combat" Subtype="Attacks" MaximumLevel="4"/>
+				<Command Id="25" Name="Fire" Type="Combat" Subtype="Magic"/>
+				<Command Id="26" Name="Fira" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="27" Name="Firaga" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="28" Name="Fission Firaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="29" Name="Triple Firaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="30" Name="Crawling Fire" Type="Combat" Subtype="Magic"/>
+				<Command Id="31" Name="Blizzard" Type="Combat" Subtype="Magic"/>
+				<Command Id="32" Name="Blizzara" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="33" Name="Blizzaga" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="34" Name="Triple Blizzaga" Type="Combat" Subtype="Magic"/>
+				<Command Id="35" Name="Thunder" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="36" Name="Thundara" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="37" Name="Thundaga" Type="" MaximumLevel="4"/>
+				
+				<Command Id="39" Name="Cure" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="40" Name="Cura" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="41" Name="Curaga" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="42" Name="Esuna" Type="Combat" Subtype="Magic"/>
+				
+				<!-- 6-1 --><Command Id="43" Name="Mine Sheild" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="44" Name="Mine Square" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="46" Name="Zero Gravity" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="47" Name="Zero Gravira" Type="Combat" Subtype="Magic"/>
+				<Command Id="48" Name="Zero Graviga" Type="Combat" Subtype="Magic"/>
+				<Command Id="49" Name="Magnet" Type="Combat" Subtype="Magic"/>
+				<Command Id="50" Name="Magnera" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="51" Name="Magnega" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				
+				<!-- 7-4 --><Command Id="55" Name="Aero" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="56" Name="Aerora" Type="Combat" Subtype="Magic"/>
+				<Command Id="57" Name="Aeroga" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="58" Name="Deep Freeze" Type="Combat" Subtype="Magic" MaximumLevel="5"/>
+				<Command Id="59" Name="Glacier" Type="Combat" Subtype="Magic" MaximumLevel="" Slots="2"/>
+				<Command Id="60" Name="Ice Barrage" Type="Combat" Subtype="Magic" Slots="2"/>
+				
+				<!-- 8-1 --><Command Id="61" Name="Firaga Burst" Type="Combat" Subtype="Magic"/>
+				<!-- 8-6 --><Command Id="66" Name="Blackout" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="67" Name="Ignite" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="68" Name="Confuse" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="69" Name="Bind" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="70" Name="Poison" Type="Combat" Subtype="Magic" MaximumLevel="4"/>
+				<Command Id="71" Name="Slow" Type="Combat" Subtype="Magic"/>
+				<Command Id="72" Name="Stop" Type="Combat" Subtype="Magic"/>
+				<Command Id="73" Name="Stopra" Type="Combat" Subtype="Magic"/>
+				<Command Id="74" Name="Stopga" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				<Command Id="75" Name="Sleep" Type="Combat" Subtype="Magic" MaximumLevel="3"/>
+				
+				<!-- 10-Complete --><Command Id="" Name="Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Hi-Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Mega-Potion" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Ether" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Mega-Ether" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Panacea" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Elixir" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Megalixir" Type="Combat" Subtype="Items"/>
+				<Command Id="" Name="Balloon Letter" Type="Combat" Subtype="Items"/>
+				
+				<!-- 12-5 --><Command Id="" Name="Confetti" Type="Combat" Subtype="Friendship"/>
+				
+				<!-- 14-1 --><Command Id="" Name="Jump" Type="Action" Subtype="Movement"/>
+				<Command Id="" Name="High Jump" Type="Action" Subtype="Movement" MaximumLevel="4" Cost="500"/>
+				<Command Id="" Name="Cartwheel" Type="Action" Subtype="Movement" MaximumLevel="4" Cost="200"/>
+				<Command Id="" Name="Firewheel" Type="Action" Subtype="Movement" MaximumLevel="" Cost="2000"/>
+				<Command Id="" Name="Air Slide" Type="Action" Subtype="Movement" Cost="800"/>
+				<Command Id="" Name="Teleport" Type="Action" Subtype="Movement"/>
+				<Command Id="" Name="Doubleflight" Type="Action" Subtype="Movement"/>
+				
+				<!-- 15-1 --><Command Id="" Name="Barrier" Type="Action" Subtype="Defense" MaximumLevel="3" Cost="200"/>
+				<Command Id="" Name="Confuse Barrier" Type="Action" Subtype="Defense" MaximumLevel="3"/>
+				<Command Id="" Name="Stop Barrier" Type="Action" Subtype="Defense"/>
+				
+				<!-- 16-Complete --><Command Id="" Name="Counter Blast" Type="Action" Subtype="Reprisals"/>
+				<Command Id="" Name="Payback Surge" Type="Action" Subtype="Reprisals"/>
+				
+				<!-- 17-4 --><Command Id="" Name="Bubble Blaster" Type="Shotlock" MaximumLevel="5"/>
+				<Command Id="" Name="Thunderstorm" Type="Shotlock" MaximumLevel="4"/>
+				<Command Id="" Name="Prism Rain" Type="Shotlock"/>
+				
+				<!-- 18-1 --><Command Id="" Name="Absolute Zero" Type="Shotlock" MaximumLevel="4"/>
+				
+				<!-- 19-Complete --><Command Id="" Name="Finish (Ven)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Finish (Terra)" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Lightcharge" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Donald Flare" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Goofy Spin" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Sweet Memory" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Dream Sparkle" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Hero's Entrance" Type="Miscellaneous" Subtype="Dimension Links"/>
+				<Command Id="" Name="Random Beam" Type="Miscellaneous" Subtype="Dimension Links"/>
+				
+				<!-- 20-1 --><Command Id="" Name="Swordbill" Type="Miscellaneous" Subtype="Dimension Links"/>
+				
+				<!-- 22-1 --><Command Id="" Name="Finish" Type="Miscellaneous" Subtype="Finish" MaximumLevel="1"/>
+				<Command Id="" Name="Magic Pulse 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="2"/>
+				<Command Id="" Name="Heat Slash 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="2"/>
+				<Command Id="" Name="Gold Rush" Type="Miscellaneous" Subtype="Finish" MaximumLevel="2"/>
+				<Command Id="" Name="Magic Pulse 2" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				
+				<Command Id="" Name="Twisted Hours" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				<Command Id="" Name="Surprise! 1" Type="Miscellaneous" Subtype="Finish" MaximumLevel="3"/>
+				
+				<!-- 23-8 --><Command Id="" Name="Surprise! 2" Type="Miscellaneous" Subtype="Finish" MaximumLevel="4"/>
+				
+				<Command Id="" Name="Spellweaver" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Firestorm" Type="Miscellaneous" Subtype="Finish"/>
+				
+				<!-- 24-1 --><Command Id="" Name="Diamond Dust" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Thunderbolt" Type="Miscellaneous" Subtype="Finish"/>
+				<Command Id="" Name="Bladecharge" Type="Miscellaneous" Subtype="Finish"/>
+				
+				<Command Id="" Name="Ghost Drive" Type="Miscellaneous" Subtype="Finish"/>
+			</Commands>
+		</Character>
+	</Characters>
+	<Melding>
+		<Meld Id="1" Command="Aerial Slam" Type="Attack">
+			<Ingredient>Fire Surge</Ingredient>
+			<Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Notes/>
+		</Meld>
+		<Meld Id="2" Command="Aerial Slam" Type="Attack">
+			<Ingredient>Fire Strike</Ingredient>
+			<Ingredient>Aerora</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="3" Command="Ars Arcanum" Type="Attack">
+			<Ingredient>Blitz</Ingredient>
+			<Ingredient>Aerial Slam</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="4" Command="Barrier Surge" Type="Attack">
+			<Ingredient>Fire Dash</Ingredient>
+			<Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="5" Command="Barrier Surge" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient>
+			<Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="6" Command="Binding Strike" Type="Attack">
+			<Ingredient>Bind</Ingredient>
+			<Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="7" Command="Binding Strike" Type="Attack">
+			<Ingredient>Bind</Ingredient>
+			<Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="8" Command="Binding Strike" Type="Attack">
+			<Ingredient>Zero Gravity</Ingredient>
+			<Ingredient>Stun Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="9" Command="Blitz" Type="Attack">
+			<Ingredient>Slot Edge</Ingredient>
+			<Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="10" Command="Blitz" Type="Attack">
+			<Ingredient>Wishing Edge</Ingredient>
+			<Ingredient>Barrier Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="11" Command="Blitz" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient>
+			<Ingredient>Slot Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="12" Command="Blizzard Edge" Type="Attack">
+			<Ingredient>Quick Blitz</Ingredient>
+			<Ingredient>Blizzard</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="13" Command="Blizzard Edge" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient>
+			<Ingredient>Blizzard</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="14" Command="Blizzard Edge" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient>
+			<Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="15" Command="Blizzard Edge" Type="4">
+			<Ingredient>Quick Blitz</Ingredient>
+			<Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="16" Command="Brutal Blast" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient>
+			<Ingredient>Mine Shield</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="17" Command="Brutal Blast" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient>
+			<Ingredient>Mine Square</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="18" Command="Chaos Blade" Type="Attack">
+			<Ingredient>Dark Haze</Ingredient>
+			<Ingredient>Sonic Blade</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="19" Command="Collision Magnet" Type="Attack">
+			<Ingredient>Magnet</Ingredient>
+			<Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="20" Command="Collision Magnet" Type="Attack">
+			<Ingredient>Magnera</Ingredient>
+			<Ingredient>Stun Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="21" Command="Collision Magnet" Type="Attack">
+			<Ingredient>Magnera</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="22" Command="Confusion Strike" Type="Attack">
+			<Ingredient>Confuse</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="23" Command="Confusion Strike" Type="Attack">
+			<Ingredient>Confuse</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="24" Command="Confusion Strike" Type="Attack">
+			<Ingredient>Zero Gravity</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="25" Command="Dark Haze" Type="Attack">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Fire Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="26" Command="Dark Haze" Type="Attack">
+			<Ingredient>Blackout</Ingredient><Ingredient>Fire Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="27" Command="Fire Dash" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="28" Command="Fire Dash" Type="Attack">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="29" Command="Fire Strike" Type="Attack">
+			<Ingredient>Poison Edge</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="30" Command="Fire Strike" Type="Attack">
+			<Ingredient>Wishing Edge</Ingredient><Ingredient>Ignite</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="31" Command="Fire Strike" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="32" Command="Fire Surge" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="33" Command="Fire Surge" Type="Attack">
+			<Ingredient>Fire Dash</Ingredient><Ingredient>Ignite</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="34" Command="Freeze Raid" Type="Attack">
+			<Ingredient>Strike Raid</Ingredient><Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="35" Command="Geo Impact" Type="Attack">
+			<Ingredient>Brutal Blast</Ingredient><Ingredient>Brutal Blast</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="36" Command="Limit Storm" Type="Attack">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Brutal Blast</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="37" Command="Limit Storm" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Brutal Blast</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="38" Command="Magic Hour" Type="Attack">
+			<Ingredient>Barrier Surge</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="39" Command="Magic Hour" Type="Attack">
+			<Ingredient>Blitz</Ingredient><Ingredient>Zero Graviga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="40" Command="Magnet Spiral" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="41" Command="Magnet Spiral" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Collision Magnet</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="42" Command="Meteor Crash" Type="Attack">
+			<Ingredient>Blitz</Ingredient><Ingredient>Quake</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="43" Command="Meteor Crash" Type="Attack">
+			<Ingredient>Fire Strike</Ingredient><Ingredient>Brutal Blast</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="44" Command="Meteor Crash" Type="Attack">
+			<Ingredient>Barrier Surge</Ingredient><Ingredient>Wishing Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="45" Command="Poison Edge" Type="Attack">
+			<Ingredient>Quick Blitz</Ingredient><Ingredient>Poison</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="46" Command="Poison Edge" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Poison</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="47" Command="Poison Edge" Type="Attack">
+			<Ingredient>Quick Blitz</Ingredient><Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="48" Command="Raging Storm" Type="Attack">
+			<Ingredient>Fission Firaga</Ingredient><Ingredient>Firaga Burst</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="49" Command="Sacrifice" Type="Attack">
+			<Ingredient>Dark Haze</Ingredient><Ingredient>Warp</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="50" Command="Sacrifice" Type="Attack">
+			<Ingredient>Poison Edge</Ingredient><Ingredient>Warp</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="51" Command="Salvation" Type="Attack">
+			<Ingredient>Wind Raid</Ingredient><Ingredient>Curaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="52" Command="Slot Edge" Type="Attack">
+			<Ingredient>Blizzard Edge</Ingredient><Ingredient>Cura</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="53" Command="Slot Edge" Type="Attack">
+			<Ingredient>Poison Edge</Ingredient><Ingredient>Cura</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="54" Command="Slot Edge" Type="Attack">
+			<Ingredient>Renewal Block</Ingredient><Ingredient>Curaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="55" Command="Slot Edge" Type="Attack">
+			<Ingredient>Wishing Edge</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="56" Command="Slot Edge" Type="Attack">
+			<Ingredient>Renewal Block</Ingredient><Ingredient>Curaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="57" Command="Slot Edge" Type="Attack">
+			<Ingredient>Focus Barrer</Ingredient><Ingredient>Curaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="58" Command="Sonic Blade" Type="Attack">
+			<Ingredient>Blitz</Ingredient><Ingredient>Dark Haze</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="59" Command="Sonic Blade" Type="Attack">
+			<Ingredient>Blitz</Ingredient><Ingredient>Air Slide</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="60" Command="Sonic Blade" Type="Attack">
+			<Ingredient>Fire Dash</Ingredient><Ingredient>Thunder Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="61" Command="Spark Raid" Type="Attack">
+			<Ingredient>Treasure Raid</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="62" Command="Spark Raid" Type="Attack">
+			<Ingredient>Freeze Raid</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="63" Command="Strike Raid" Type="Attack">
+			<Ingredient>Quick Blitz</Ingredient><Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="64" Command="Stun Edge" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="65" Command="Stun Edge" Type="Attack">
+			<Ingredient>Strike Raid</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="66" Command="Stun Edge" Type="Attack">
+			<Ingredient>Strike Raid</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="67" Command="Stun Edge" Type="Attack">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="68" Command="Time Splicer" Type="Attack">
+			<Ingredient>Aerial Slam</Ingredient><Ingredient>Stopga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false"/>
+		</Meld>
+		<Meld Id="69" Command="Thunder Surge" Type="Attack">
+			<Ingredient>Freeze Raid</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus OR Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="70" Command="Thunder Surge" Type="Attack">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="71" Command="Tornado Strike" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="72" Command="Tornado Strike" Type="Attack">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="73" Command="Treasure Raid" Type="Attack">
+			<Ingredient>Slot Edge</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="74" Command="Treasure Raid" Type="Attack">
+			<Ingredient>Slot Edge</Ingredient><Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="75" Command="Windcutter" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="76" Command="Windcutter" Type="Attack">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="77" Command="Wind Raid" Type="Attack">
+			<Ingredient>Aeroga</Ingredient><Ingredient>Freeze Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance / Finish Boost"/><!-- Latter w/ Ven. -->
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="78" Command="Wind Raid" Type="Attack">
+			<Ingredient>Aeroga</Ingredient><Ingredient>Treasure Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="79" Command="Wishing Edge" Type="Attack">
+			<Ingredient>Strike Raid</Ingredient><Ingredient>Barrier Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="80" Command="Wishing Edge" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Barrier Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="81" Command="Wishing Edge" Type="Attack">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Binding Strike</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="82" Command="Zantetsuken" Type="Attack">
+			<Ingredient>Stopga</Ingredient><Ingredient>Dark Haze</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="83" Command="Zantetsuken" Type="Attack">
+			<Ingredient>Stopga</Ingredient><Ingredient>Sonic Blade</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="84" Command="Ars Arcanum" Type="Attack" Rare="true">
+			<Ingredient>Fire Strike</Ingredient><Ingredient>Aerora</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="85" Command="Ars Arcanum" Type="Attack" Rare="true">
+			<Ingredient>Slot Edge</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="86" Command="Ars Arcanum" Type="Attack" Rare="true">
+			<Ingredient>Blizzard Edge</Ingredient><Ingredient>Cura</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="87" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Dark Haze</Ingredient><Ingredient>Sonic Blade</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="88" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="89" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Strike Raid</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="90" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="91" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="92" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Stopga</Ingredient><Ingredient>Dark Haze</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="93" Command="Ars Solum" Type="Attack" Rare="true">
+			<Ingredient>Stopga</Ingredient><Ingredient>Sonic Blade</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="94" Command="Break Time" Type="Attack" Rare="true">
+			<Ingredient>Renewal Block</Ingredient><Ingredient>Curaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="95" Command="Time Splicer" Type="Attack" Rare="true">
+			<Ingredient>Wishing Edge</Ingredient><Ingredient>Barrier Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="96" Command="Time Splicer" Type="Attack" Rare="true">
+			<Ingredient>Slot Edge</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="97" Command="Time Splicer" Type="Attack" Rare="true">
+			<Ingredient>Slot Edge</Ingredient><Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="98" Command="Fira" Type="Magic">
+			<Ingredient>Fire</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="99" Command="Fira" Type="Magic">
+			<Ingredient>Fire Strike</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="100" Command="Fira" Type="Magic">
+			<Ingredient>Fire Dash</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="101" Command="Fira" Type="Magic">
+			<Ingredient>Ignite</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="102" Command="Firaga" Type="Magic">
+			<Ingredient>Fire</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="103" Command="Firaga" Type="Magic">
+			<Ingredient>Fira</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost "/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="104" Command="Firaga" Type="Magic">
+			<Ingredient>Fire Dash</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="105" Command="Dark Firaga" Type="Magic">
+			<Ingredient>Dark Haze</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="106" Command="Dark Firaga" Type="Magic">
+			<Ingredient>Blackout</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="107" Command="Triple Firaga" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="108" Command="Triple Firaga" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="109" Command="Fission Firaga" Type="Magic">
+			<Ingredient>Fira</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="110" Command="Fission Firaga" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="111" Command="Fission Firaga" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Aerora</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="112" Command="Crawling Fire" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Stopra</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="113" Command="Crawling Fire" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Slow</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="114" Command="Crawling Fire" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Stopga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="115" Command="Mega Flare" Type="Magic">
+			<Ingredient>Fission Firaga</Ingredient><Ingredient>Crawling Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="116" Command="Ignite" Type="Magic">
+			<Ingredient>Bind</Ingredient><Ingredient>Fire</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="117" Command="Ignite" Type="Magic">
+			<Ingredient>Bind</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="118" Command="Firaga Burst" Type="Magic" Rare="true">
+			<Ingredient>Fira</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="119" Command="Firaga Burst" Type="Magic" Rare="true">
+			<Ingredient>Firaga</Ingredient><Ingredient>Aeroga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="120" Command="Firaga Burst" Type="Magic" Rare="true">
+			<Ingredient>Firaga</Ingredient><Ingredient>Aerora</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="121" Command="Blizzara" Type="Magic">
+			<Ingredient>Blizzard</Ingredient><Ingredient>Blizzard Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="122" Command="Blizzara" Type="Magic">
+			<Ingredient>Blizzard</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="123" Command="Blizzara" Type="Magic">
+			<Ingredient>Blizzard</Ingredient><Ingredient>Blizzard</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="124" Command="Blizzara" Type="Magic">
+			<Ingredient>Blizzard</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="125" Command="Blizzaga" Type="Magic">
+			<Ingredient>Blizzara</Ingredient><Ingredient>Blizzard Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="126" Command="Blizzaga" Type="Magic">
+			<Ingredient>Blizzara</Ingredient><Ingredient>Blizzard</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="127" Command="Blizzaga" Type="Magic">
+			<Ingredient>Blizzara</Ingredient><Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="128" Command="Triple Blizzaga" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Blizzara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="129" Command="Triple Blizzaga" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="130" Command="Triple Blizzaga" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Blizzaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="131" Command="Ice Barrage" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Mine Square</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="132" Command="Ice Barrage" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Mine Shield</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="133" Command="Deep Freeze" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Binding Strike</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="134" Command="Deep Freeze" Type="Magic">
+			<Ingredient>Blizzaga</Ingredient><Ingredient>Freeze Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen "/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="135" Command="Glacier" Type="Magic">
+			<Ingredient>Deep Freeze</Ingredient><Ingredient>Triple Blizzaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="136" Command="Glacier" Type="Magic">
+			<Ingredient>Deep Freeze</Ingredient><Ingredient>Blizzaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="137" Command="Thundara" Type="Magic">
+			<Ingredient>Thunder</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="138" Command="Thundaga" Type="Magic">
+			<Ingredient>Thundara</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="139" Command="Thundaga" Type="Magic">
+			<Ingredient>Thundara</Ingredient><Ingredient>Binding Strike</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="140" Command="Thundaga" Type="Magic">
+			<Ingredient>Thundara</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="141" Command="Thundaga Shot" Type="Magic">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost OR Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="142" Command="Thundaga Shot" Type="Magic">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="143" Command="Thundaga Shot" Type="Magic">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Freeze Raid</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="144" Command="Thundaga Shot" Type="Magic">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Thundaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="145" Command="Cura" Type="Magic">
+			<Ingredient>Cure</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="146" Command="Cura" Type="Magic">
+			<Ingredient>Thunder</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="147" Command="Cura" Type="Magic">
+			<Ingredient>Aero</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="148" Command="Curaga" Type="Magic">
+			<Ingredient>Cura</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="149" Command="Curaga" Type="Magic">
+			<Ingredient>Cura</Ingredient><Ingredient>Cura</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="150" Command="Mine Shield" Type="Magic">
+			<Ingredient>Stop</Ingredient><Ingredient>Ignite</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="151" Command="Mine Shield" Type="Magic">
+			<Ingredient>Fira</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf veil"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="152" Command="Mine Shield" Type="Magic">
+			<Ingredient>Fira</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="153" Command="Mine Shield" Type="Magic">
+			<Ingredient>Stopra</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="154" Command="Mine Square" Type="Magic">
+			<Ingredient>Fira</Ingredient><Ingredient>Stop</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="155" Command="Mine Square" Type="Magic">
+			<Ingredient>Aerora</Ingredient><Ingredient>Ignite</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="156" Command="Mine Square" Type="Magic">
+			<Ingredient>Barrier</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="157" Command="Mine Square" Type="Magic">
+			<Ingredient>Barrier</Ingredient><Ingredient>Stopra</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="158" Command="Seeker Mine" Type="Magic">
+			<Ingredient>Mine Square</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="159" Command="Seeker Mine" Type="Magic">
+			<Ingredient>Mine Shield</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="160" Command="Seeker Mine" Type="Magic">
+			<Ingredient>Mine Shield</Ingredient><Ingredient>Mine Square</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="161" Command="Zero Gravira" Type="Magic">
+			<Ingredient>Zero Gravity</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="162" Command="Zero Gravira" Type="Magic">
+			<Ingredient>Zero Gravity</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="163" Command="Zero Gravira" Type="Magic">
+			<Ingredient>Magnet</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="164" Command="Zero Graviga" Type="Magic">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="165" Command="Zero Graviga" Type="Magic">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="166" Command="Zero Graviga" Type="Magic">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="167" Command="Magnera" Type="Magic">
+			<Ingredient>Magnet</Ingredient><Ingredient>Magnet</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="168" Command="Magnera" Type="Magic">
+			<Ingredient>Thunder</Ingredient><Ingredient>Magnet</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="169" Command="Magnera" Type="Magic">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Magnet</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="170" Command="Magnega" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="171" Command="Energy Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Cure</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="172" Command="Energy Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Cura</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="173" Command="Munny Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Wishing Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="174" Command="Munny Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Thundara</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="175" Command="D-Link Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Stopra</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="176" Command="D-Link Magnet" Type="Magic">
+			<Ingredient>Magnera</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="177" Command="Magnet Spiral" Type="Magic" Rare="true">
+			<Ingredient>Magnet</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="178" Command="Magnet Spiral" Type="Magic" Rare="true">
+			<Ingredient>Magnera</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="179" Command="Aerora" Type="Magic">
+			<Ingredient>Aero</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet / HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="180" Command="Aerora" Type="Magic">
+			<Ingredient>Aero</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="181" Command="Aerora" Type="Magic">
+			<Ingredient>Aero</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="182" Command="Aeroga" Type="Magic">
+			<Ingredient>Aerora</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="183" Command="Aeroga" Type="Magic">
+			<Ingredient>Aerora</Ingredient><Ingredient>Aerora</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="184" Command="Aeroga" Type="Magic">
+			<Ingredient>Aerora</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="185" Command="Tornado" Type="Magic">
+			<Ingredient>Aeroga</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="186" Command="Tornado" Type="Magic" Rare="true">
+			<Ingredient>Aero</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet / HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="187" Command="Tornado" Type="Magic" Rare="true">
+			<Ingredient>Aero</Ingredient><Ingredient>Quick Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="188" Command="Tornado" Type="Magic" Rare="true">
+			<Ingredient>Aero</Ingredient><Ingredient>Thunder</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="189" Command="Tornado" Type="Magic" Rare="true">
+			<Ingredient>Aerora</Ingredient><Ingredient>Aero</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="190" Command="Quake" Type="Magic">
+			<Ingredient>Brutal Blast</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="191" Command="Quake" Type="Magic">
+			<Ingredient>Brutal Blast</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="192" Command="Quake" Type="Magic" Rare="true">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Mine Shield</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="193" Command="Quake" Type="Magic" Rare="true">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Mine Square</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="194" Command="Quake" Type="Magic" Rare="true">
+			<Ingredient>Brutal Blast</Ingredient><Ingredient>Brutal Blast</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="195" Command="Meteor" Type="Magic">
+			<Ingredient>Geo Impact</Ingredient><Ingredient>Quake</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability=" Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="196" Command="Meteor" Type="Magic" Rare="true">
+			<Ingredient>Brutal Blast</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="197" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Fire</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="198" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Fira</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost "/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="199" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Firaga</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="200" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Firaga</Ingredient><Ingredient>Fira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="201" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Cartwheel</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost OR Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus OR EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="202" Command="Raging Storm" Type="Magic" Rare="true">
+			<Ingredient>Cartwheel</Ingredient><Ingredient>Fission Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost OR Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus OR EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="203" Command="Mini" Type="Magic">
+			<Ingredient>Bind</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="204" Command="Mini" Type="Magic">
+			<Ingredient>Magnega</Ingredient><Ingredient>Magnega</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="205" Command="Blackout" Type="Magic">
+			<Ingredient>Confuse</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="206" Command="Blackout" Type="Magic">
+			<Ingredient>Poison</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="207" Command="Blackout" Type="Magic">
+			<Ingredient>Confuse</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="208" Command="Stopra" Type="Magic">
+			<Ingredient>Slow</Ingredient><Ingredient>Slow</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="209" Command="Stopra" Type="Magic">
+			<Ingredient>Stop</Ingredient><Ingredient>Slow</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste / Attack Haste"/><!-- Latter with Aqua. -->
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="210" Command="Stopra" Type="Magic">
+			<Ingredient>Stop</Ingredient><Ingredient>Stop</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="211" Command="Stopga" Type="Magic">
+			<Ingredient>Stopra</Ingredient><Ingredient>Stop</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="212" Command="Stopga" Type="Magic">
+			<Ingredient>Stopra</Ingredient><Ingredient>Stopra</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="213" Command="Warp" Type="Magic">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="214" Command="Warp" Type="Magic" Rare="true">
+			<Ingredient>Zero Gravity</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="215" Command="Warp" Type="Magic" Rare="true">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Zero Gravity</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="216" Command="Warp" Type="Magic" Rare="true">
+			<Ingredient>Zero Gravira</Ingredient><Ingredient>Zero Gravira</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="217" Command="Transcendence" Type="Magic">
+			<Ingredient>Magnet Spiral</Ingredient><Ingredient>Zero Graviga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="218" Command="Faith" Type="Magic">
+			<Ingredient>Wind Raid</Ingredient><Ingredient>Break Time</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+			<Notes>Requires 2 slots.</Notes>
+		</Meld>
+		<Meld Id="219" Command="Homing Slide" Type="Slide">
+			<Ingredient>Air Slide</Ingredient><Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen / Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false"/>
+		</Meld>
+		<Meld Id="220" Command="Homing Slide" Type="Slide">
+			<Ingredient>Sliding Dash</Ingredient><Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false"/>
+		</Meld>
+		<Meld Id="221" Command="Fire Glide" Type="Slide">
+			<Ingredient>Glide</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="222" Command="Fire Glide" Type="Slide">
+			<Ingredient>Glide</Ingredient><Ingredient>Fire Surge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="223" Command="Firewheel" Type="Slide">
+			<Ingredient>Cartwheel</Ingredient><Ingredient>Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost OR Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus OR EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="224" Command="Firewheel" Type="Slide">
+			<Ingredient>Cartwheel</Ingredient><Ingredient>Fission Firaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost OR Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Command Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus OR EXP Chance"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="225" Command="Ice Slide" Type="Slide">
+			<Ingredient>Air Slide</Ingredient><Ingredient>Blizzard Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Damage Syphon"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="226" Command="Ice Slide" Type="Slide">
+			<Ingredient>Air Slide</Ingredient><Ingredient>Blizzaga</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+		</Meld>
+		<Meld Id="227" Command="Thunder Roll" Type="Slide">
+			<Ingredient>Thunder Surge</Ingredient><Ingredient>Dodge Roll</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="228" Command="Thunder Roll" Type="Slide">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Dodge Roll</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="229" Command="Confuse Barrier" Type="Block">
+			<Ingredient>Confusion Strike</Ingredient><Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="230" Command="Confuse Barrier" Type="Block">
+			<Ingredient>Confuse</Ingredient><Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="231" Command="Poison Block" Type="Block">
+			<Ingredient>Poison</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="232" Command="Poison Block" Type="Block">
+			<Ingredient>Poison Edge</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Blizzard Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="233" Command="Renewal Block" Type="Block">
+			<Ingredient>Curaga</Ingredient><Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="234" Command="Renewal Block" Type="Block">
+			<Ingredient>Esuna</Ingredient><Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Cure Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Second Chance"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="235" Command="Renewal Block" Type="Block">
+			<Ingredient>Esuna</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="236" Command="Renewal Block" Type="Block">
+			<Ingredient>Curaga</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="237" Command="Stop Barrier" Type="Block">
+			<Ingredient>Stopga</Ingredient><Ingredient>Barrier</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="238" Command="Stun Block" Type="Block">
+			<Ingredient>Stun Edge</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="239" Command="Stun Block" Type="Block">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Block</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/>
+				<Crystal Name="Fleeting" Ability="Reload Boost"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Once More"/>
+				<Crystal Name="Soothing" Ability="Defender"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Boost"/>
+			</Crystals>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="240" Command="Payback Fang" Type="Revenge">
+			<Ingredient>Revenge Thunder</Ingredient>
+			<Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="241" Command="Payback Raid" Type="Revenge">
+			<Ingredient>Strike Raid</Ingredient>
+			<Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Dark Screen"/>
+				<Crystal Name="Fleeting" Ability="Magic Haste"/>
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/>
+				<Crystal Name="Soothing" Ability="Item Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Walker"/>
+			</Crystals>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="242" Command="Payback Surge" Type="Revenge">
+			<Ingredient>Fire Surge</Ingredient>
+			<Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="243" Command="Payback Surge" Type="Revenge">
+			<Ingredient>Thunder Surge</Ingredient>
+			<Ingredient>Sliding Dash</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Lucky Strike"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="244" Command="Bio Barrage" Type="Shotlock" Rare="true">
+			<Ingredient>Quick Blitz</Ingredient><Ingredient>Poison</Ingredient>
+		</Meld>
+		<Meld Id="245" Command="Bio Barrage" Type="Shotlock" Rare="true">
+			<Ingredient>Poison</Ingredient><Ingredient>Block</Ingredient>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="246" Command="Bio Barrage" Type="Shotlock" Rare="true">
+			<Ingredient>Poison Edge</Ingredient><Ingredient>Block</Ingredient>
+			<Characters Aqua="false"/>
+		</Meld>
+		<Meld Id="247" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Blitz</Ingredient><Ingredient>Dark Haze</Ingredient>
+			<Characters Ven="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="248" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Blitz</Ingredient><Ingredient>Aerial Slam</Ingredient>
+			<Characters Terra="false" Aqua="false"/>
+		</Meld>
+		<Meld Id="249" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Thundara</Ingredient><Ingredient>Binding Strike</Ingredient>
+		</Meld>
+		<Meld Id="250" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Fire Dash</Ingredient><Ingredient>Thunder Surge</Ingredient>
+		</Meld>
+		<Meld Id="251" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Thunder</Ingredient><Ingredient>Thunder</Ingredient>
+		</Meld>
+		<Meld Id="252" Command="Lightning Ray" Type="Shotlock" Rare="true">
+			<Ingredient>Thundara</Ingredient><Ingredient>Thunder</Ingredient>
+		</Meld>
+		<Meld Id="253" Command="Meteor Shower" Type="Shotlock" Rare="true">
+			<Ingredient>Blitz</Ingredient><Ingredient>Zero Graviga</Ingredient>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="254" Command="Meteor Shower" Type="Shotlock" Rare="true">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Strike Raid</Ingredient>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="255" Command="Meteor Shower" Type="Shotlock" Rare="true">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Freeze Raid</Ingredient>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="256" Command="Meteor Shower" Type="Shotlock" Rare="true">
+			<Ingredient>Thundaga</Ingredient><Ingredient>Firaga</Ingredient>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="257" Command="Freeze Raid" Type="Attack">
+			<Ingredient>Binding Strike</Ingredient><Ingredient>Blizzard Edge</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Screen"/>
+				<Crystal Name="Fleeting" Ability="Attack Haste"/>
+				<Crystal Name="Pulsing" Ability="Finish Boost"/>
+				<Crystal Name="Wellspring" Ability="Combo Plus"/>
+				<Crystal Name="Soothing" Ability="HP Boost"/>
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals><!-- verified with Ven -->
+		</Meld>
+		<Meld Id="258" Command="Triple Firaga" Type="Magic">
+			<Ingredient>Firaga</Ingredient><Ingredient>Blitz</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Fire Boost"/><!-- needs verification -->
+				<Crystal Name="Fleeting" Ability="Magic Haste"/><!-- needs verification -->
+				<Crystal Name="Pulsing" Ability="Leaf Bracer"/><!-- needs verification -->
+				<Crystal Name="Wellspring" Ability="Air Combo Plus"/><!-- needs verification -->
+				<Crystal Name="Soothing" Ability="HP Boost"/><!-- needs verification -->
+				<Crystal Name="Hungry" Ability="HP Prize Plus"/><!-- needs verification -->
+				<Crystal Name="Abounding" Ability="Link Prize Plus"/>
+			</Crystals>
+			<Characters Terra="false" Ven="false"/>
+		</Meld>
+		<Meld Id="259" Command="Magnega" Type="Magic">
+			<Ingredient>Magnet</Ingredient>
+			<Ingredient>Magnera</Ingredient>
+			<Crystals>
+				<Crystal Name="Shimmering" Ability="Thunder Boost"/><!-- needs verification -->
+				<Crystal Name="Fleeting" Ability="Reload Boost"/><!-- needs verification -->
+				<Crystal Name="Pulsing" Ability="Combo Finish Boost"/><!-- needs verification -->
+				<Crystal Name="Wellspring" Ability="Once More"/><!-- needs verification -->
+				<Crystal Name="Soothing" Ability="Defender"/><!-- needs verification -->
+				<Crystal Name="Hungry" Ability="Treasure Magnet"/>
+				<Crystal Name="Abounding" Ability="EXP Chance"/><!-- needs verification -->
+			</Crystals>
+		</Meld>
+	</Melding>
+</KingdomHeartsBirthBySleep>

@@ -1,0 +1,30 @@
+<!ELEMENT domains (domain*)>
+
+<!ELEMENT domain (name, created, expires, registrar, servers*, subdomains*)>
+<!ATTLIST domain id CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT created EMPTY>
+<!ATTLIST created year CDATA #REQUIRED>
+<!ATTLIST created month CDATA #REQUIRED>
+<!ATTLIST created day CDATA #REQUIRED>
+<!ELEMENT expires EMPTY>
+<!ATTLIST expires year CDATA #REQUIRED>
+<!ATTLIST expires month CDATA #REQUIRED>
+<!ATTLIST expires day CDATA #REQUIRED>
+<!ELEMENT registrar (#PCDATA)>
+
+<!ELEMENT servers (server*)>
+
+<!ELEMENT server (ip, path)>
+<!ATTLIST server id CDATA #REQUIRED>
+
+<!ELEMENT ip (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+
+<!ELEMENT subdomains (subdomain*)>
+
+<!ELEMENT subdomain (path)>
+<!ATTLIST subdomain id CDATA #REQUIRED>
+<!ATTLIST subdomain name CDATA #REQUIRED>
+<!ATTLIST subdomain server CDATA #REQUIRED>

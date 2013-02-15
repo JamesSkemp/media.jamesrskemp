@@ -1,0 +1,44 @@
+label 
+{
+	width:150px;
+	display:block;
+	padding-right:1em;
+	float:left;
+	clear:left;
+}
+input 
+{
+	float:left;
+}
+button 
+{
+	display:block;
+	float:right;
+	clear:both;
+	margin:.5em 0 .25em;
+}
+#Loan1, #Loan2
+{
+	float:left;
+	margin-right:1em;
+}
+#LoanResults 
+{
+	clear:both;
+}
+#Loan1Data, #Loan2Data 
+{
+	float:left;
+	width:45%;
+}
+.error 
+{
+	color:red;
+}
+		
+/* Remove */
+#pulledData 
+{
+	float:left;
+	clear:left;
+}

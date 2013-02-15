@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:cdt="http://media.jamesrskemp.com/ns/CustomDateType">
+	<xs:import namespace="http://media.jamesrskemp.com/ns/CustomDateType"
+		schemaLocation="http://media.jamesrskemp.com/xsd/2010/09/04/CustomDateType.xsd"/>
+	<xs:element name="games">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="game">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="title"/>
+							<xs:element name="system">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="console"/>
+										<xs:element name="version"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="purchase">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="date" nillable="true"
+											type="cdt:customDateType"/>
+										<xs:element name="price"/>
+										<xs:element name="place"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="sell" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="date" nillable="true"
+											type="cdt:customDateType"/>
+										<xs:element name="price"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="own"/>
+							<xs:element name="notes"/>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+						<xs:attribute name="addOn" type="xs:boolean" use="optional"/>
+						<xs:attribute name="electronic" type="xs:boolean" use="optional">
+							<xs:annotation>
+								<xs:documentation>Game is electronic, as opposed to a physical copy.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="beat" type="xs:boolean">
+							<xs:annotation>
+								<xs:documentation>Game was beat, which may not be considered as finished.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

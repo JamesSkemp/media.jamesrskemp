@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://media.jamesrskemp.com/ns/CustomDateType" version="1">
+	<xs:simpleType name="customDateType">
+		<xs:restriction base="xs:string">
+			<xs:annotation>
+				<xs:documentation><![CDATA[Allows for a year, a year and a month, or a year, month, and day, to be defined.]]></xs:documentation>
+			</xs:annotation>
+			<xs:pattern value="\d{4}(-\d{2}){0,2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

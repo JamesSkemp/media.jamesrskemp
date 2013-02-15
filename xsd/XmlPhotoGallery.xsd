@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="photos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="photo" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="baseFileName" type="xs:string"/>
+							<xs:element name="baseFilePath" type="xs:string"/>
+							<xs:element name="baseDetails" type="xs:string"/>
+							<xs:element name="cameraUsed" type="xs:string"/>
+							<xs:element name="cameraFileName" type="xs:string"/>
+							<xs:element name="datePhotoTaken" type="xs:date"/>
+							<xs:element name="products">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="product">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="code" type="xs:string"/>
+													<xs:element name="type" type="xs:string"/>
+													<xs:element name="pricePerUnit" type="xs:decimal"/>
+													<xs:element name="quantityPerUnit" type="xs:positiveInteger" default="1"/>
+													<xs:element name="stockUnits" type="xs:integer" default="0"/>
+													<xs:element name="unitsSold" type="xs:integer" default="0"/>
+													<xs:element name="fileNameExtension" type="xs:string"/>
+													<xs:element name="filePathExtension" type="xs:string"/>
+													<xs:element name="dateAdded" type="xs:date"/>
+													<xs:element name="details" type="xs:string"/>
+												</xs:sequence>
+												<xs:attribute name="id" type="xs:positiveInteger"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,3 @@
+﻿# http://www.scoutjet.com/
+User-agent: ScoutJet
+Disallow: /

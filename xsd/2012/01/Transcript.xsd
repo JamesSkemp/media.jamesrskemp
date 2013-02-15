@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+	<xs:element name="Transcript">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Name"/>
+				<xs:element name="Notes">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" minOccurs="0" name="Note"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Purchase">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" minOccurs="0" name="Link">
+								<xs:complexType>
+									<xs:attribute name="Id" type="xs:positiveInteger" use="required"/>
+									<xs:attribute name="Name" use="required"/>
+									<xs:attribute name="Url" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Chapters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" minOccurs="1" name="Chapter">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Name"/>
+										<xs:element minOccurs="1" name="Notes">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element maxOccurs="unbounded" minOccurs="0"
+												name="Note"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Content"/>
+									</xs:sequence>
+									<xs:attribute form="unqualified" name="Id"
+										type="xs:positiveInteger" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

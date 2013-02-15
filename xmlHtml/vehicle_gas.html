@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html manifest="/manifest/media.manifest">
+<head>
+    <title>James Skemp's 2007 VW Rabbit gas mileage - JamesRSkemp.com</title>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-541034-10']);
+		_gaq.push(['_setDomainName', 'media.jamesrskemp.com']);
+		_gaq.push(['_trackPageview']);
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<style type="text/css">
+		#vgData td
+		{
+			padding:0 3px;
+			text-align:right;
+			vertical-align:top;
+		}
+		#vgData .vgNotes
+		{
+			font-size:80%;
+			text-align:left;
+		}
+	</style>
+</head>
+<body>
+	<h1></h1>
+	<p>The following page displays gas mileage for <a href="http://jamesrskemp.com" rel="external">James Skemp</a>'s current vehicle. Data is pulled from an <a href="http://media.jamesrskemp.com/xml/vehicle_gas.xml">XML source file</a>.</p>
+
+	<div id="MainData">This page requires JavaScript to be enabled.</div>
+	<div id="OfflineInformation" style="border-top:1px solid dashed;font-size:90%;padding:.25em;"></div>
+
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript">window.jQuery || document.write('<script src="/js/jquery-1.5.2.min.js">\x3C/script>')</script>
+
+	<script type="text/javascript" src="/js/JamesRSkemp.min.js"></script>
+	<script type="text/javascript">
+		var vehicleGasXml = "";
+
+		function pullData() {
+			if (vehicleGasXml == "") {
+				JamesRSkemp.recordConsoleMessage("vehicleGasXml is empty");
+				$(document).ready(function () {
+					$.ajax({
+						url: "/xml/vehicle_gas.xml",
+						dataType: 'text', // We'll grab it as text, so we can save it into localStorage
+						success: function (data) {
+							JamesRSkemp.recordConsoleMessage("XML file successfully grabbed.");
+							vehicleGasXml = data;
+							if (JamesRSkemp.LocalStorage.isSupported()) {
+								JamesRSkemp.recordConsoleMessage("Local storage supported, and XML data saved.");
+								localStorage['VehicleGasXml'] = vehicleGasXml;
+							}
+							addDataToPage();
+						}
+					});
+				});
+			} else {
+				JamesRSkemp.recordConsoleMessage("vehicleGasXml is not empty");
+				addDataToPage();
+			}
+		}
+
+		function refreshData() {
+			vehicleGasXml = "";
+			if (JamesRSkemp.LocalStorage.isSupported()) {
+				localStorage["VehicleGasXml"] = "";
+			}
+			pullData();
+		}
+
+		function createDataTable(startDate, endDate) {
+			// todo - allow for start and end dates
+
+			var htmlOutput = "<table border='1' id='vgData' summary=''>";
+			htmlOutput += "<thead>";
+			htmlOutput += "<tr><th>Date</th><th>Miles on vehicle</th><th>Miles driven</th><th>Gallons added</th><th>Cost per gallon</th><th>Total cost</th><th>Miles/gallon</th><th>Notes</th></tr>";
+			htmlOutput += "</thead>";
+			htmlOutput += "<tbody>";
+			$($.parseXML(vehicleGasXml)).find("vehicle").each(function () {
+				if ($(this).attr('id') == "2") {
+					$(this).find('fillup').each(function () {
+						var milesPerGallon = $(this).find("milesDriven").text() / $(this).find("gallons").text();
+						htmlOutput += "<tr>";
+						htmlOutput += "<td>" + $(this).find('date').text() + "</td>";
+						htmlOutput += "<td>" + $(this).find("milesCar").text() + "</td>";
+						htmlOutput += "<td>" + $(this).find("milesDriven").text() + "</td>";
+						htmlOutput += "<td>" + $(this).find("gallons").text() + "</td>";
+						htmlOutput += "<td>$" + $(this).find("costGallon").text() + "</td>";
+						htmlOutput += "<td>$" + $(this).find("costTotal").text() + "</td>";
+						htmlOutput += "<td>" + (Math.round(milesPerGallon*1000)/1000) + "</td>";
+						htmlOutput += "<td class='vgNotes'>" + $(this).find("notes").text() + "</td>";
+						htmlOutput += "</tr>";
+					});
+				}
+			});
+			htmlOutput += "</tbody>";
+			htmlOutput += "</table>";
+
+			return htmlOutput;
+		}
+
+		function addDataToPage() {
+			$('#MainData').hide();
+			JamesRSkemp.recordConsoleMessage("vehicleGasXml will be looped through and output");
+
+			/* */
+			var htmlOutput = "";
+			htmlOutput = createDataTable(null, null);
+			$('#MainData').html(htmlOutput);
+			/* */
+
+
+
+
+			/*var htmlOutput = "<ol>";
+			try {
+				$($.parseXML(videoGameXml)).find("game").each(function () {
+					if ($(this).attr('addOn') != "true" && $(this).find('own').text() == "yes") {
+						var gameTitle = $(this).find('title').text();
+						htmlOutput += "<li><strong>" + gameTitle + "</strong> for the " + $(this).find("console").text() + " " + $(this).find("version").text() + "</li>";
+					}
+				});
+			} catch (e) {
+				JamesRSkemp.dumpObject(e);
+			}
+			htmlOutput += "</ol>";
+			$('#MainData').html(htmlOutput);*/
+
+			$('#MainData').show();
+		}
+
+
+
+		if (typeof ($) != undefined) {
+			$(document).ready(function () {
+				if (JamesRSkemp.LocalStorage.isSupported()) {
+					JamesRSkemp.recordConsoleMessage("Supports local storage");
+					if ("VehicleGasXml" in localStorage && localStorage["VehicleGasXml"] != "") {
+						JamesRSkemp.recordConsoleMessage("VehicleGasXml local storage is populated");
+						vehicleGasXml = localStorage["VehicleGasXml"];
+					} else {
+						JamesRSkemp.recordConsoleMessage("VehicleGasXml local storage is not defined or is empty");
+					}
+				}
+
+				pullData();
+
+				$('#OfflineInformation').html('Offline support: ' + JamesRSkemp.supportsOffline() + '<br />Browser online: ' + !JamesRSkemp.browserOffline());
+				if (!JamesRSkemp.browserOffline()) {
+					$('#OfflineInformation').append('<br /><a href="#" onclick="refreshData();return false;">Refresh data</a>');
+				}
+			});
+		}
+	</script>
+</body>
+</html>

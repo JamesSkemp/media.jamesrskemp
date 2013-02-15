@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="albums">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="album" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="title"/>
+							<xs:element name="artist"/>
+							<xs:element name="purchase" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="date" minOccurs="0" type="xs:date"/>
+										<xs:element name="place" minOccurs="0"/>
+										<xs:element name="price" minOccurs="0"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="notes" minOccurs="0" type="xs:string"/>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

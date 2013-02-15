@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="queries">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="query" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name"/>
+							<xs:element name="description"/>
+							<xs:element name="keywords">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="keyword"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="statement">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="parameters"/>
+										<xs:element name="select"/>
+										<xs:element name="using"/>
+										<xs:element name="into">
+											<xs:complexType mixed="true">
+												<xs:attribute name="custom" type="xs:boolean"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="from">
+											<xs:complexType mixed="true">
+												<xs:attribute name="custom" type="xs:boolean"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="where"/>
+										<xs:element name="groupBy"/>
+										<xs:element name="having"/>
+										<xs:element name="orderBy"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="notes"/>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

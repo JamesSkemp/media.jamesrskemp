@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="details">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="characters">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="notes" minOccurs="0" type="xs:string"/>
+							<xs:element name="character" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="level" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="id" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="hp" type="xs:positiveInteger"
+												use="required"/>
+												<xs:attribute name="mp" type="xs:nonNegativeInteger"
+												use="required"/>
+												<xs:attribute name="sp" type="xs:nonNegativeInteger"
+												use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="name" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

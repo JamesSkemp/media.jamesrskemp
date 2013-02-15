@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="playlist">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="information">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name" type="xs:string"/>
+							<xs:element name="updated" type="xs:dateTime"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="track" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:all minOccurs="0">
+							<xs:element name="name" minOccurs="0" type="xs:string"/>
+							<xs:element name="artist" minOccurs="0" type="xs:string"/>
+							<xs:element name="rating" minOccurs="0" type="xs:nonNegativeInteger"/>
+							<xs:element name="playCount" minOccurs="0" type="xs:nonNegativeInteger"/>
+							<xs:element name="lastPlayed" minOccurs="0" type="xs:dateTime"/>
+							<xs:element name="album" minOccurs="0" type="xs:string"/>
+							<xs:element name="compilation" minOccurs="0" type="xs:boolean"/>
+							<xs:element name="trackNumber" minOccurs="0"/>
+							<xs:element name="trackCount" minOccurs="0"/>
+							<xs:element name="discNumber" minOccurs="0"/>
+							<xs:element name="discCount" minOccurs="0"/>
+							<xs:element name="year" minOccurs="0"/>
+							<xs:element name="genre" minOccurs="0" type="xs:string"/>
+							<xs:element name="dateAdded" minOccurs="0" type="xs:dateTime"/>
+						</xs:all>
+						<xs:attribute name="time"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="name" type="xs:string"/>
+			<xs:attribute name="time"/>
+			<xs:attribute name="tracks" type="xs:nonNegativeInteger"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

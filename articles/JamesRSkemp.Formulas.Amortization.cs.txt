@@ -1,0 +1,132 @@
+/*
+Created by James Skemp - http://jamesrskemp.com/
+Version 1.0
+More information at http://strivinglife.com/words/post/Tutorial-ASPNET-C-sharp-WCF-WebHttp-service-with-jQuery-Part-1-Loan-object.aspx
+Shared under a Creative Commons Attribution 3.0 United States License - http://creativecommons.org/licenses/by/3.0/us/
+*/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+
+namespace JamesRSkemp.Formulas {
+	public class Amortization {
+
+		/// <summary>
+		/// Loan, with a total amount due, payment amount, number of payments per year, and interest rate per year.
+		/// </summary>
+		public class Loan {
+			/// <summary>
+			/// Name of the loan.
+			/// </summary>
+			public String Name { get; set; }
+			/// <summary>
+			/// Total amount due on the loan.
+			/// </summary>
+			public Double Total { get; set; }
+			/// <summary>
+			/// The amount paid per payment.
+			/// </summary>
+			public Double PaymentAmount { get; set; }
+			/// <summary>
+			/// The number of payments made per year. Usually 12.
+			/// </summary>
+			public int PaymentsPerYear { get; set; }
+			/// <summary>
+			/// Percent of interest, per year.
+			/// </summary>
+			public Double InterestPerYear { get; set; }
+			/// <summary>
+			/// List of individual payments. Only populated/updated by UpdatePayments method.
+			/// </summary>
+			public List<Payment> Payments { get; set; }
+
+			/// <summary>
+			/// Creates a new instance of a loan. By default sets the number of payments per year to 12.
+			/// </summary>
+			public Loan() {
+				this.PaymentsPerYear = 12;
+			}
+
+			/// <summary>
+			/// Updates payments on a loan.
+			/// </summary>
+			/// <returns>If payments cannot be updated, returns false.</returns>
+			public Boolean UpdatePayments() {
+				Boolean paymentsUpdated = false;
+
+				if (this.Payments == null) {
+					this.Payments = new List<Payment>();
+				} else {
+					this.Payments.Clear();
+				}
+
+				// Determine how much interest should be applied per payment.
+				Double interestPerPayment = (this.InterestPerYear / 100) / this.PaymentsPerYear;
+
+				// Store how much we need to pay. In this case, what the first payment will be.
+				Double periodPaymentAmount = interestPerPayment * this.Total;
+
+				if (periodPaymentAmount >= this.PaymentAmount) {
+					throw new Exception("The amount of interest on the first payment is greater than the amount that will be paid.");
+				} else {
+					Double totalRemaining = this.Total;
+
+					while (totalRemaining > 0) {
+						// todo - handle payment > amount due
+						Payment currentPayment = new Payment();
+						currentPayment.Total = this.PaymentAmount;
+						currentPayment.Interest = Math.Round(totalRemaining * interestPerPayment, 2);
+						currentPayment.Principal = Math.Round(currentPayment.Total - currentPayment.Interest, 2);
+						currentPayment.LoanRemaining = Math.Round(totalRemaining - currentPayment.Principal, 2);
+
+						// If we now have a remaining amount on the loan less than 0, we've paid too much.
+						if (currentPayment.LoanRemaining < 0) {
+							currentPayment.Total += currentPayment.LoanRemaining;
+							currentPayment.Principal += currentPayment.LoanRemaining;
+							currentPayment.LoanRemaining = 0;
+						}
+
+						this.Payments.Add(currentPayment);
+
+						totalRemaining = currentPayment.LoanRemaining;
+						currentPayment = null;
+					}
+					paymentsUpdated = true;
+				}
+
+				return paymentsUpdated;
+			}
+
+			/// <summary>
+			/// Loan payment.
+			/// </summary>
+			public class Payment {
+				/// <summary>
+				/// Total payment amount.
+				/// </summary>
+				public Double Total { get; set; }
+				/// <summary>
+				/// Amount of payment applied to interest.
+				/// </summary>
+				public Double Interest { get; set; }
+				/// <summary>
+				/// Amount of payment applied to the principal.
+				/// </summary>
+				public Double Principal { get; set; }
+				/// <summary>
+				/// Amount of the loan remaining after this payment is made.
+				/// </summary>
+				public Double LoanRemaining { get; set; }
+
+				/// <summary>
+				/// New loan payment.
+				/// </summary>
+				public Payment() {
+				}
+			}
+
+		}
+	}
+}

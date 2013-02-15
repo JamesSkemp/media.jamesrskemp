@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Movies">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="Movie">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Title"/>
+							<xs:element name="Year" type="xs:positiveInteger"/>
+							<xs:element name="Rating" type="xs:positiveInteger"/>
+							<xs:element name="WatchedTimes">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Time" type="xs:date"
+										/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Notes">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element maxOccurs="unbounded" name="Note"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

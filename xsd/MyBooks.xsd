@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="customDateType">
+		<xs:restriction base="xs:string">
+			<xs:annotation>
+				<xs:documentation><![CDATA[Allows for a year, a year and a month, or a year, month, and day, to be defined.]]></xs:documentation>
+			</xs:annotation>
+			<xs:pattern value="\d{4}(-\d{2}){0,2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="customIsbn10Type">
+		<xs:restriction base="xs:string">
+			<xs:annotation>
+				<xs:documentation><![CDATA[Allows for ISBN-10 formatted string.]]></xs:documentation>
+			</xs:annotation>
+			<xs:pattern value="\d-\d{2,7}-\d{1,6}-\d"/>
+			<xs:minLength value="13"/>
+			<xs:maxLength value="13"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="customIsbn13Type">
+		<xs:restriction base="xs:string">
+			<xs:annotation>
+				<xs:documentation><![CDATA[Allows for ISBN-13 formatted string.]]></xs:documentation>
+			</xs:annotation>
+			<xs:pattern value="\d{3}-\d-\d{2,6}-\d{2,6}-\d"/>
+			<xs:minLength value="17"/>
+			<xs:maxLength value="17"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="books">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="information" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="book" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="title">
+								<xs:complexType>
+									<xs:simpleContent>
+										<xs:extension base="xs:string">
+											<xs:attribute name="pages" type="xs:positiveInteger"/>
+											<xs:attribute name="isbn10" type="customIsbn10Type"/>
+											<xs:attribute name="isbn13" type="customIsbn13Type"/>
+										</xs:extension>	
+									</xs:simpleContent>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="authors" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="author" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="editors" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="editor" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="buy" minOccurs="0">
+								<xs:complexType>
+									<xs:attribute name="date" type="customDateType"/>
+									<xs:attribute name="place" type="xs:string"/>
+									<xs:attribute name="price" type="xs:decimal"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="sell" minOccurs="0">
+								<xs:complexType>
+									<xs:attribute name="sold" type="xs:boolean"/>
+									<xs:attribute name="date" type="customDateType"/>
+									<xs:attribute name="place" type="xs:string"/>
+									<xs:attribute name="price" type="xs:decimal"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="readings" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="read" minOccurs="0" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation><![CDATA[Lists each instance where the book has been read/started, whether finished or not.]]></xs:documentation>
+											</xs:annotation>
+											<xs:complexType>
+												<xs:attribute name="time" type="xs:positiveInteger" use="required">
+													<xs:annotation>
+														<xs:documentation><![CDATA[Incremented for each <i>read</i> element.]]></xs:documentation>
+													</xs:annotation>
+												</xs:attribute>
+												<xs:attribute name="start" type="customDateType"/>
+												<xs:attribute name="finish" type="customDateType"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="finished" type="xs:boolean"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="notes" minOccurs="0"/>
+							<xs:element name="keywords" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="keyword" minOccurs="0" maxOccurs="unbounded" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

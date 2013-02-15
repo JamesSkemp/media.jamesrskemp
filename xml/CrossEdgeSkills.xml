@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crossEdge>
+	<notes><![CDATA[Based on http://spreadsheets.google.com/pub?key=roAm_bOGyKQJmVR5EdAUwFQ&output=html]]></notes>
+	<notes><![CDATA[Based on guides from Gray Fox and Kietsu.]]></notes>
+	<todo>Add EX skills? Grab from FAQ.</todo>
+	<!--
+		<requirements>
+		<skill id="" level=""/>
+		</requirements>
+	-->
+	<skills>
+		<skill id="1">
+			<name>Sweep</name>
+			<character>Miko</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="2">
+			<name>Triple Thrust</name>
+			<character>Miko</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="3">
+			<name>Raging Waters</name>
+			<character>Miko</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="4">
+			<name>Yodo Chin-Ki</name>
+			<character>Miko</character>
+			<slotType>Normal</slotType>
+			<requirements>
+				<skill id="3" level="3"/>
+			</requirements>
+		</skill>
+		<skill id="5">
+			<name>Spring Thrust</name>
+			<character>Miko</character>
+			<slotType>Normal</slotType>
+			<requirements>
+				<skill id="1" level="4"/>
+				<skill id="2" level="4"/>
+			</requirements>
+		</skill>
+		<skill id="6">
+			<name>Renki Ressho</name>
+			<character>Miko</character>
+			<slotType>Down</slotType>
+			<requirements>
+				<skill id="1" level="5"/>
+				<skill id="3" level="4"/>
+			</requirements>
+		</skill>
+		<skill id="7">
+			<name>Moonlight Edge</name>
+			<character>Miko</character>
+			<slotType>Normal</slotType>
+			<requirements>
+				<skill id="1" level="5"/>
+				<skill id="5" level="5"/>
+				<skill id="3" level="5"/>
+			</requirements>
+		</skill>
+		<skill id="8">
+			<name>Lunar Blossom</name>
+			<character>Miko</character>
+			<slotType>Burst</slotType>
+			<requirements>
+				<skill id="2" level="6"/>
+				<skill id="5" level="6"/>
+				<skill id="6" level="5"/>
+				<skill id="7" level="5"/>
+			</requirements>
+		</skill>
+		<skill id="9">
+			<name>Sonic Wave</name>
+			<character>Anesha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="10">
+			<name>Mystic Body</name>
+			<character>Anesha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="11">
+			<name>Spark Shot</name>
+			<character>Anesha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="12">
+			<name>Brandish</name>
+			<character>Anesha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="13">
+			<name>Solid Caliber</name>
+			<character>Anesha</character>
+			<slotType>Burst</slotType>
+			<requirements>
+				<skill id="9" level="5"/>
+				<skill id="10" level="5"/>
+			</requirements>
+		</skill>
+		<skill id="14">
+			<name>Lightning</name>
+			<character>Anesha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="15">
+			<name>Shadow Sting</name>
+			<character>Anesha</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="16">
+			<name>Death Dance</name>
+			<character>Anesha</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="17">
+			<name>Cross Slash</name>
+			<character>Troy</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="18">
+			<name>Contra Cross Slash</name>
+			<character>Troy</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="19">
+			<name>Hyphen</name>
+			<character>Troy</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="20">
+			<name>Earthrender</name>
+			<character>Troy</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="21">
+			<name>Blade Illusion</name>
+			<character>Troy</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="22">
+			<name>All-World</name>
+			<character>Troy</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="23">
+			<name>Ethereal</name>
+			<character>Troy</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="24">
+			<name>Returning Day-dream</name>
+			<character>Troy</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="25">
+			<name>Rapid Move</name>
+			<character>Cece</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="26">
+			<name>Air Burst</name>
+			<character>Cece</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="27">
+			<name>Purify</name>
+			<character>Cece</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="28">
+			<name>Registration</name>
+			<character>Cece</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="29">
+			<name>Rapid Stream</name>
+			<character>Cece</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="30">
+			<name>Blizzard</name>
+			<character>Cece</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="31">
+			<name>Four Fears</name>
+			<character>Cece</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="32">
+			<name>Holy Ray</name>
+			<character>Cece</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="33">
+			<name>Mighty Blow</name>
+			<character>Vivi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="34">
+			<name>Shine</name>
+			<character>Vivi</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="35">
+			<name>Extension</name>
+			<character>Vivi</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="36">
+			<name>Sanctuary</name>
+			<character>Vivi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="37">
+			<name>Temper</name>
+			<character>Vivi</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="38">
+			<name>Almighty Blow</name>
+			<character>Vivi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="39">
+			<name>Atomic Hole</name>
+			<character>Vivi</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="40">
+			<name>Resurrection</name>
+			<character>Vivi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="41">
+			<name>Storm Surge</name>
+			<character>Mimi</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="42">
+			<name>Dark Flame</name>
+			<character>Mimi</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="43">
+			<name>Utter Strike</name>
+			<character>Mimi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="44">
+			<name>Energy Drain</name>
+			<character>Mimi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="45">
+			<name>Divine Heal</name>
+			<character>Mimi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="46">
+			<name>Desperate Blow</name>
+			<character>Mimi</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="47">
+			<name>Tornado</name>
+			<character>Mimi</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="48">
+			<name>Dark Ray</name>
+			<character>Mimi</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="49">
+			<name>Quick Shot</name>
+			<character>York</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="50">
+			<name>Snipe</name>
+			<character>York</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="51">
+			<name>Massacre Shot</name>
+			<character>York</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="52">
+			<name>Point Blank</name>
+			<character>York</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="53">
+			<name>Shimmering Flame</name>
+			<character>York</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="54">
+			<name>Foxfire</name>
+			<character>York</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="55">
+			<name>Cloud Form</name>
+			<character>York</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="56">
+			<name>Null Form</name>
+			<character>York</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="57">
+			<name>Killing Blow</name>
+			<character>Raizen</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="58">
+			<name>Thunder</name>
+			<character>Raizen</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="59">
+			<name>Final Severing</name>
+			<character>Raizen</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="60">
+			<name>Thunderquake</name>
+			<character>Raizen</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="61">
+			<name>Infinite Division</name>
+			<character>Raizen</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="62">
+			<name>Earth Shatterer</name>
+			<character>Raizen</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="63">
+			<name>Wind Razor</name>
+			<character>Raizen</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="64">
+			<name>Dissection</name>
+			<character>Raizen</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="65">
+			<name>Dust Chute</name>
+			<character>Lazarus</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="66">
+			<name>Air Slash</name>
+			<character>Lazarus</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="67">
+			<name>Stunsmash</name>
+			<character>Lazarus</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="68">
+			<name>Bold Burst</name>
+			<character>Lazarus</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="69">
+			<name>Dazzling Crash</name>
+			<character>Lazarus</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="70">
+			<name>Aerial Crash</name>
+			<character>Lazarus</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="71">
+			<name>Critical Combo</name>
+			<character>Lazarus</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="72">
+			<name>Acceleration</name>
+			<character>Lazarus</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="73">
+			<name>Trick Shot</name>
+			<character>Augustine</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="74">
+			<name>Shadow Stab</name>
+			<character>Augustine</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="75">
+			<name>Deadly Cross</name>
+			<character>Augustine</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="76">
+			<name>Hell on Earth</name>
+			<character>Augustine</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="77">
+			<name>Deadly Blow</name>
+			<character>Augustine</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="78">
+			<name>Grand Slam</name>
+			<character>Augustine</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="79">
+			<name>Hanging Tree</name>
+			<character>Augustine</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="80">
+			<name>Burnout</name>
+			<character>Augustine</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="81">
+			<name>Slash</name>
+			<character>Judas</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="82">
+			<name>Triple Slash</name>
+			<character>Judas</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="83">
+			<name>Dark Blade</name>
+			<character>Judas</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="84">
+			<name>Baleful Impact</name>
+			<character>Judas</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="85">
+			<name>Raging Sword</name>
+			<character>Judas</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="86">
+			<name>Black Burn</name>
+			<character>Judas</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="87">
+			<name>Force Break</name>
+			<character>Judas</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="88">
+			<name>Impact Crash</name>
+			<character>Judas</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="89">
+			<name>Dual Fang</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="90">
+			<name>Wicked Gale</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="91">
+			<name>Spark</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="92">
+			<name>Rebel Spark</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="93">
+			<name>Godspeed</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="94">
+			<name>Shatter Strike</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="95">
+			<name>Whirling Blade</name>
+			<character>Ayatane</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="96">
+			<name>Twin Slash</name>
+			<character>Ayatane</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="97">
+			<name>Flambe</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="98">
+			<name>Warming Life</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="99">
+			<name>Sylphan Dance</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="100">
+			<name>Dragonferno</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="101">
+			<name>Sword Slash</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="102">
+			<name>Seraph Flyer</name>
+			<character>Aurica</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="103">
+			<name>My Hero</name>
+			<character>Aurica</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="104">
+			<name>Boe</name>
+			<character>Aurica</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="105">
+			<name>Primal Word</name>
+			<character>Shurelia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="106">
+			<name>A.B.R.</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="107">
+			<name>Apostle of Mir</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="108">
+			<name>ELMA-DS</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="109">
+			<name>Blast Fill</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="110">
+			<name>Energy Fail</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="111">
+			<name>Shadow</name>
+			<character>Shurelia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="112">
+			<name>Silver Horn</name>
+			<character>Shurelia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="113">
+			<name>Energy Ball</name>
+			<character>Misha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="114">
+			<name>Flower</name>
+			<character>Misha</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="115">
+			<name>Gaia Bombard</name>
+			<character>Misha</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="116">
+			<name>Glacial Ball</name>
+			<character>Misha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="117">
+			<name>Stubborn Father</name>
+			<character>Misha</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="118">
+			<name>Arcadia Cinna</name>
+			<character>Misha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="119">
+			<name>Void Slasher</name>
+			<character>Misha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="120">
+			<name>Thunderclap</name>
+			<character>Misha</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="121">
+			<name>Cross Flash</name>
+			<character>Lyner</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="122">
+			<name>Lightning Blade</name>
+			<character>Lyner</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="123">
+			<name>Dive Slash</name>
+			<character>Lyner</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="124">
+			<name>Spark Rush</name>
+			<character>Lyner</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="125">
+			<name>Full Stomp</name>
+			<character>Lyner</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="126">
+			<name>Funburn Crush</name>
+			<character>Lyner</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="127">
+			<name>Photon Smash</name>
+			<character>Lyner</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="128">
+			<name>Photon Storm</name>
+			<character>Lyner</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="129">
+			<name>Stampede</name>
+			<character>Bourd</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="130">
+			<name>Cracking Earth</name>
+			<character>Bourd</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="131">
+			<name>Bolt Hammer</name>
+			<character>Bourd</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="132">
+			<name>Neo Stampede</name>
+			<character>Bourd</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="133">
+			<name>Meteor Crush</name>
+			<character>Bourd</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="134">
+			<name>Thunder Burst</name>
+			<character>Bourd</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="135">
+			<name>Graviton Break</name>
+			<character>Bourd</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="136">
+			<name>New Cracking Earth</name>
+			<character>Bourd</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="137">
+			<name>Devil Strike</name>
+			<character>Demitri</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="138">
+			<name>Bloody Arrow</name>
+			<character>Demitri</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="139">
+			<name>Noble Triumph</name>
+			<character>Demitri</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="140">
+			<name>Marquee Emblem</name>
+			<character>Demitri</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="141">
+			<name>Chaos Flare</name>
+			<character>Demitri</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="142">
+			<name>Darkside Master</name>
+			<character>Demitri</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="143">
+			<name>Bat Spin</name>
+			<character>Demitri</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="144">
+			<name>Demon Cradle</name>
+			<character>Demitri</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="145">
+			<name>Rolling Buckler</name>
+			<character>Felicia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="146">
+			<name>Delta Kick</name>
+			<character>Felicia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="147">
+			<name>Cat Spike</name>
+			<character>Felicia</character>
+			<slotType>Normal</slotType>
+			<requirements>
+				<skill id="146" level="2"/>
+			</requirements>
+		</skill>
+		<skill id="148">
+			<name>Romping Kitty</name>
+			<character>Felicia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="149">
+			<name>Nailsplitter</name>
+			<character>Felicia</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="150">
+			<name>Bed of Nails</name>
+			<character>Felicia</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="151">
+			<name>Nail Panic</name>
+			<character>Felicia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="152">
+			<name>Hell Cat</name>
+			<character>Felicia</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="153">
+			<name>Libido Touch</name>
+			<character>Morrigan</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="154">
+			<name>Deep Crescendo</name>
+			<character>Morrigan</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="155">
+			<name>Shell Kick</name>
+			<character>Morrigan</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="156">
+			<name>Criminal Ecstasy</name>
+			<character>Morrigan</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="157">
+			<name>Soul Fist</name>
+			<character>Morrigan</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="158">
+			<name>Necro Desire</name>
+			<character>Morrigan</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="159">
+			<name>Shadow Blade</name>
+			<character>Morrigan</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="160">
+			<name>Bulk Revenge</name>
+			<character>Morrigan</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="161">
+			<name>D-Oval</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="162">
+			<name>Lyrical Tear</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="163">
+			<name>Heart Piercer</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="164">
+			<name>Merry Turn</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="165">
+			<name>Soul Flash</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="166">
+			<name>Libido Touch</name>
+			<character>Lilith</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="167">
+			<name>R-Opening</name>
+			<character>Lilith</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="168">
+			<name>Shining Blade</name>
+			<character>Lilith</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="169">
+			<name>D-Lementare</name>
+			<character>Jedah</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="170">
+			<name>Valso Fatale</name>
+			<character>Jedah</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="171">
+			<name>Colpo Buio</name>
+			<character>Jedah</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="172">
+			<name>Braccio Pieta</name>
+			<character>Jedah</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="173">
+			<name>Falce Morte</name>
+			<character>Jedah</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="174">
+			<name>Dio Sega</name>
+			<character>Jedah</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="175">
+			<name>Ira Piano</name>
+			<character>Jedah</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="176">
+			<name>Sfregio</name>
+			<character>Jedah</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="177">
+			<name>Lightning Rod</name>
+			<character>Etna</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="178">
+			<name>Twisting Lunge</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="179">
+			<name>Falling Star</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="180">
+			<name>Mega Star</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="181">
+			<name>Turbulence</name>
+			<character>Etna</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="182">
+			<name>Divine Descent</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="183">
+			<name>Giga Star</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="184">
+			<name>Demoncannon Star</name>
+			<character>Etna</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="185">
+			<name>Prinny Dance</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="186">
+			<name>Sweeping Slash</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="187">
+			<name>Three Comets</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="188">
+			<name>Zero-G Buster</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="189">
+			<name>YTMNDood!</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="190">
+			<name>Dual Heaven Slash</name>
+			<character>Prinny</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="191">
+			<name>Dark Blade X-Slash</name>
+			<character>Prinny</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="192">
+			<name>Prinny Rocket</name>
+			<character>Prinny</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="193">
+			<name>Ice Charge</name>
+			<character>Lily</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="194">
+			<name>Cold Sweets</name>
+			<character>Lily</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="195">
+			<name>Raining Spear</name>
+			<character>Lily</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="196">
+			<name>Icicle Cannon</name>
+			<character>Lily</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="197">
+			<name>Blizzard Charge</name>
+			<character>Lily</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="198">
+			<name>Raining Mega Spear</name>
+			<character>Lily</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="199">
+			<name>Frozen Cannon</name>
+			<character>Lily</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="200">
+			<name>Water Treat</name>
+			<character>Lily</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="201">
+			<name>Critical Edge</name>
+			<character>Raze</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="202">
+			<name>Flash Edge</name>
+			<character>Raze</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="203">
+			<name>Double Edge</name>
+			<character>Raze</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="204">
+			<name>Golden Edge</name>
+			<character>Raze</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="205">
+			<name>Falling Leaf</name>
+			<character>Raze</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="206">
+			<name>Shadow of Light</name>
+			<character>Raze</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="207">
+			<name>Twin Caliburn</name>
+			<character>Raze</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="208">
+			<name>Drive Caliber</name>
+			<character>Raze</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="209">
+			<name>Lasersword</name>
+			<character>Reicher</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="210">
+			<name>Neverending Dance</name>
+			<character>Reicher</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="211">
+			<name>Illusory Wave</name>
+			<character>Reicher</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="212">
+			<name>Remote Blade</name>
+			<character>Reicher</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="213">
+			<name>Mind Lock</name>
+			<character>Reicher</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="214">
+			<name>Flash Sword</name>
+			<character>Reicher</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="215">
+			<name>Emanation</name>
+			<character>Reicher</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="216">
+			<name>Blade Light</name>
+			<character>Reicher</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="217">
+			<name>Uni</name>
+			<character>Marie</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="218">
+			<name>Flambeaux</name>
+			<character>Marie</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="219">
+			<name>Toadstool Powder</name>
+			<character>Marie</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="220">
+			<name>Athena's Balm</name>
+			<character>Marie</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="221">
+			<name>Super Flambeaux</name>
+			<character>Marie</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="222">
+			<name>Uni Storm</name>
+			<character>Marie</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="223">
+			<name>Ultimate Uni</name>
+			<character>Marie</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="224">
+			<name>Mega Flambeaux</name>
+			<character>Marie</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="225">
+			<name>Rush</name>
+			<character>Zelos</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="226">
+			<name>Power Attack</name>
+			<character>Zelos</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="227">
+			<name>Blast</name>
+			<character>Zelos</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="228">
+			<name>Power Burst</name>
+			<character>Zelos</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="229">
+			<name>Rush Beat</name>
+			<character>Zelos</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="230">
+			<name>Charge Blast</name>
+			<character>Zelos</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="231">
+			<name>F-Elemental</name>
+			<character>Zelos</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="232">
+			<name>Meteor Impact</name>
+			<character>Zelos</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="233">
+			<name>Double Attack</name>
+			<character>Meu</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="234">
+			<name>Sonic Edge</name>
+			<character>Meu</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="235">
+			<name>Burst Crush</name>
+			<character>Meu</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="236">
+			<name>X-Edge</name>
+			<character>Meu</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="237">
+			<name>Luminous Glow</name>
+			<character>Meu</character>
+			<slotType>Normal</slotType>
+		</skill>
+		<skill id="238">
+			<name>Vorpal Buster</name>
+			<character>Meu</character>
+			<slotType>Burst</slotType>
+		</skill>
+		<skill id="239">
+			<name>Rip &amp; Tear</name>
+			<character>Meu</character>
+			<slotType>Down</slotType>
+		</skill>
+		<skill id="240">
+			<name>Square Cross</name>
+			<character>Meu</character>
+			<slotType>Normal</slotType>
+		</skill>
+	</skills>
+</crossEdge>

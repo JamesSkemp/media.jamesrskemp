@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2010/10/ShadowHeartsFromTheNewWorld.xsd">
+	<experience>
+		<notes><![CDATA[toNext is the total experience required for the next level.]]></notes>
+		<level number="4" toNext="200"/>
+		<level number="5" toNext="300"/>
+		<level number="6" toNext="500"/>
+		<level number="7" toNext="820"/>
+		<level number="8" toNext="1280"/>
+		<level number="9" toNext="1910"/>
+		<level number="10" toNext="2740"/>
+		<level number="11" toNext="3800"/>
+		<level number="12" toNext="5130"/>
+		<level number="13" toNext="6770"/>
+		<level number="14" toNext="8770"/>
+		<level number="15" toNext="11190"/>
+		<level number="16" toNext="14100"/>
+		<level number="17" toNext="17580"/>
+		<level number="18" toNext="21660"/>
+		<level number="19" toNext="26400"/>
+		<level number="20" toNext="31860"/>
+		<level number="21" toNext="38100"/>
+		<level number="22" toNext="45180"/>
+		<level number="23" toNext="53160"/>
+		<level number="24" toNext="62110"/>
+		<level number="25" toNext="72100"/>
+		<level number="26" toNext="83200"/>
+		<level number="27" toNext="95480"/>
+		<level number="28" toNext="109010"/>
+		<level number="29" toNext="123860"/>
+		<level number="30" toNext="140100"/>
+		<level number="31" toNext="157800"/>
+		<level number="32" toNext="177030"/>
+		<level number="33" toNext="197860"/>
+		<level number="34" toNext="220360"/>
+		<level number="35" toNext="244600"/>
+		<level number="36" toNext="270750"/>
+		<level number="37" toNext="298880"/>
+		<level number="38" toNext="329060"/>
+		<level number="39" toNext="361360"/>
+		<level number="40" toNext="395850"/>
+		<level number="41" toNext="432600"/>
+		<level number="42" toNext="471680"/>
+		<level number="43" toNext="513160"/>
+		<level number="44" toNext="557110"/>
+		<level number="45" toNext="603600"/>
+		<level number="46" toNext="652700"/>
+		<level number="47" toNext="704480"/>
+		<level number="48" toNext="759010"/>
+		<level number="49" toNext="816360"/>
+		<level number="50" toNext="876580"/>
+		<level number="51" toNext="939670"/>
+		<level number="52" toNext="1005630"/>
+		<level number="53" toNext="1074460"/>
+		<level number="54" toNext="1146160"/>
+		<level number="55" toNext="1220730"/>
+		<level number="56" toNext="1298170"/>
+		<level number="57" toNext="1378480"/>
+		<level number="58" toNext="1461660"/>
+		<level number="59" toNext="1547710"/>
+	</experience>
+	<characters>
+		<character name="Johnny">
+			<level number="4" hp="49" mp="53" sp="5"/>
+			<level number="5" hp="58" mp="63" sp="5"/>
+			<level number="6" hp="67" mp="73" sp="5"/>
+			<level number="7" hp="76" mp="83" sp="5"/>
+			<level number="8" hp="85" mp="93" sp="6"/>
+			<level number="9" hp="94" mp="102" sp="6"/>
+			<level number="10" hp="103" mp="112" sp="6"/>
+			<level number="11" hp="112" mp="122" sp="6"/>
+			<level number="12" hp="121" mp="132" sp="6"/>
+			<level number="13" hp="130" mp="141" sp="7"/>
+			<level number="14" hp="139" mp="151" sp="7"/>
+			<level number="15" hp="148" mp="161" sp="7"/>
+			<level number="16" hp="157" mp="171" sp="7"/>
+			<level number="17" hp="166" mp="181" sp="7"/>
+			<level number="18" hp="175" mp="190" sp="8"/>
+			<level number="19" hp="184" mp="200" sp="8"/>
+			<level number="20" hp="193" mp="210" sp="8"/>
+			<level number="21" hp="205" mp="221" sp="8"/>
+			<level number="22" hp="216" mp="233" sp="9"/>
+			<level number="23" hp="228" mp="244" sp="9"/>
+			<level number="24" hp="240" mp="256" sp="9"/>
+			<level number="25" hp="252" mp="267" sp="9"/>
+			<level number="26" hp="263" mp="279" sp="9"/>
+			<level number="27" hp="275" mp="290" sp="10"/>
+			<level number="28" hp="287" mp="302" sp="10"/>
+			<level number="29" hp="298" mp="313" sp="10"/>
+			<level number="30" hp="310" mp="325" sp="10"/>
+			<level number="31" hp="322" mp="376" sp="11"/>
+			<level number="32" hp="333" mp="348" sp="11"/>
+			<level number="33" hp="345" mp="359" sp="11"/>
+			<level number="34" hp="357" mp="371" sp="11"/>
+			<level number="35" hp="369" mp="382" sp="11"/>
+			<level number="36" hp="380" mp="394" sp="12"/>
+			<level number="37" hp="392" mp="406" sp="12"/>
+			<level number="38" hp="404" mp="417" sp="12"/>
+			<level number="39" hp="415" mp="428" sp="12"/>
+			<level number="40" hp="427" mp="440" sp="12"/>
+			<level number="41" hp="439" mp="451" sp="13"/>
+			<level number="42" hp="450" mp="463" sp="13"/>
+			<level number="43" hp="462" mp="474" sp="13"/>
+			<level number="44" hp="474" mp="486" sp="13"/>
+			<level number="45" hp="486" mp="497" sp="14"/>
+			<level number="46" hp="497" mp="508" sp="14"/>
+			<level number="47" hp="509" mp="520" sp="14"/>
+			<level number="48" hp="521" mp="531" sp="14"/>
+			<level number="49" hp="532" mp="543" sp="14"/>
+			<level number="50" hp="544" mp="591" sp="15"/>
+			<level number="51" hp="553" mp="601" sp="15"/>
+			<level number="52" hp="562" mp="610" sp="15"/>
+			<level number="53" hp="571" mp="620" sp="15"/>
+			<level number="54" hp="579" mp="630" sp="16"/>
+			<level number="55" hp="588" mp="639" sp="16"/>
+			<level number="56" hp="597" mp="649" sp="16"/>
+			<level number="57" hp="606" mp="656" sp="16"/>
+			<level number="58" hp="615" mp="668" sp="16"/>
+			<level number="59" hp="624" mp="678" sp="17"/>
+		</character>
+		<character name="Shania">
+			<level number="5" hp="64" mp="62" sp="24"/>
+			<level number="6" hp="74" mp="72" sp="25"/>
+			<level number="7" hp="84" mp="81" sp="26"/>
+			<level number="8" hp="94" mp="91" sp="27"/>
+			<level number="9" hp="104" mp="101" sp="28"/>
+			<level number="10" hp="114" mp="111" sp="29"/>
+			<level number="11" hp="125" mp="120" sp="30"/>
+			<level number="12" hp="135" mp="130" sp="31"/>
+			<level number="13" hp="145" mp="140" sp="32"/>
+			<level number="14" hp="155" mp="150" sp="33"/>
+			<level number="15" hp="165" mp="159" sp="34"/>
+			<level number="16" hp="175" mp="169" sp="35"/>
+			<level number="17" hp="185" mp="179" sp="36"/>
+			<level number="18" hp="195" mp="183" sp="37"/>
+			<level number="19" hp="205" mp="198" sp="37"/>
+			<level number="20" hp="215" mp="208" sp="38"/>
+			<level number="21" hp="228" mp="219" sp="39"/>
+			<level number="22" hp="241" mp="231" sp="40"/>
+			<level number="23" hp="254" mp="242" sp="41"/>
+			<level number="24" hp="267" mp="254" sp="42"/>
+			<level number="25" hp="280" mp="265" sp="43"/>
+			<level number="26" hp="293" mp="276" sp="44"/>
+			<level number="27" hp="306" mp="288" sp="45"/>
+			<level number="28" hp="318" mp="299" sp="46"/>
+			<level number="29" hp="331" mp="310" sp="47"/>
+			<level number="30" hp="344" mp="322" sp="48"/>
+			<level number="31" hp="357" mp="333" sp="49"/>
+			<level number="32" hp="370" mp="345" sp="50"/>
+			<level number="33" hp="383" mp="356" sp="51"/>
+			<level number="34" hp="396" mp="367" sp="52"/>
+			<level number="35" hp="409" mp="379" sp="53"/>
+			<level number="36" hp="422" mp="390" sp="54"/>
+			<level number="37" hp="435" mp="401" sp="55"/>
+			<level number="38" hp="448" mp="413" sp="56"/>
+			<level number="39" hp="461" mp="424" sp="57"/>
+			<level number="40" hp="474" mp="436" sp="58"/>
+			<level number="41" hp="487" mp="447" sp="59"/>
+			<level number="42" hp="500" mp="458" sp="60"/>
+			<level number="43" hp="512" mp="470" sp="61"/>
+			<level number="44" hp="524" mp="481" sp="62"/>
+			<level number="45" hp="538" mp="493" sp="63"/>
+			<level number="46" hp="551" mp="504" sp="64"/>
+			<level number="47" hp="564" mp="515" sp="65"/>
+			<level number="48" hp="577" mp="527" sp="66"/>
+			<level number="49" hp="590" mp="538" sp="67"/>
+			<level number="50" hp="603" mp="586" sp="68"/>
+			<level number="51" hp="613" mp="596" sp="69"/>
+			<level number="52" hp="623" mp="605" sp="70"/>
+			<level number="53" hp="633" mp="615" sp="70"/>
+			<level number="54" hp="642" mp="624" sp="71"/>
+			<level number="55" hp="652" mp="634" sp="72"/>
+			<level number="56" hp="662" mp="643" sp="73"/>
+			<level number="57" hp="672" mp="653" sp="74"/>
+			<level number="58" hp="682" mp="662" sp="75"/>
+			<level number="59" hp="692" mp="672" sp="76"/>
+		</character>
+		<character name="Natan">
+			<level number="5" hp="65" mp="57" sp="8"/>
+			<level number="6" hp="75" mp="65" sp="8"/>
+			<level number="7" hp="85" mp="74" sp="8"/>
+			<level number="8" hp="95" mp="83" sp="9"/>
+			<level number="9" hp="105" mp="91" sp="9"/>
+			<level number="10" hp="115" mp="110" sp="9"/>
+			<level number="11" hp="126" mp="109" sp="9"/>
+			<level number="12" hp="136" mp="118" sp="9"/>
+			<level number="13" hp="146" mp="126" sp="10"/>
+			<level number="14" hp="156" mp="135" sp="10"/>
+			<level number="15" hp="166" mp="144" sp="10"/>
+			<level number="16" hp="176" mp="152" sp="10"/>
+			<level number="17" hp="187" mp="161" sp="10"/>
+			<level number="18" hp="197" mp="170" sp="11"/>
+			<level number="19" hp="207" mp="178" sp="11"/>
+			<level number="20" hp="217" mp="187" sp="11"/>
+			<level number="21" hp="230" mp="197" sp="11"/>
+			<level number="22" hp="243" mp="207" sp="12"/>
+			<level number="23" hp="256" mp="218" sp="12"/>
+			<level number="24" hp="269" mp="228" sp="12"/>
+			<level number="25" hp="282" mp="238" sp="12"/>
+			<level number="26" hp="295" mp="248" sp="12"/>
+			<level number="27" hp="308" mp="258" sp="13"/>
+			<level number="28" hp="322" mp="269" sp="13"/>
+			<level number="29" hp="335" mp="279" sp="13"/>
+			<level number="30" hp="348" mp="289" sp="13"/>
+			<level number="31" hp="361" mp="299" sp="14"/>
+			<level number="32" hp="374" mp="309" sp="14"/>
+			<level number="33" hp="387" mp="320" sp="14"/>
+			<level number="34" hp="400" mp="330" sp="14"/>
+			<level number="35" hp="413" mp="340" sp="14"/>
+			<level number="36" hp="426" mp="350" sp="15"/>
+			<level number="37" hp="439" mp="360" sp="15"/>
+			<level number="38" hp="452" mp="371" sp="15"/>
+			<level number="39" hp="465" mp="381" sp="15"/>
+			<level number="40" hp="478" mp="391" sp="15"/>
+			<level number="41" hp="491" mp="401" sp="16"/>
+			<level number="42" hp="504" mp="411" sp="16"/>
+			<level number="43" hp="518" mp="422" sp="16"/>
+			<level number="44" hp="531" mp="432" sp="16"/>
+			<level number="45" hp="544" mp="442" sp="17"/>
+			<level number="46" hp="557" mp="452" sp="17"/>
+			<level number="47" hp="570" mp="462" sp="17"/>
+			<level number="48" hp="583" mp="473" sp="17"/>
+			<level number="49" hp="596" mp="483" sp="17"/>
+			<level number="50" hp="609" mp="526" sp="18"/>
+			<level number="51" hp="619" mp="535" sp="18"/>
+			<level number="52" hp="629" mp="543" sp="18"/>
+			<level number="53" hp="639" mp="552" sp="18"/>
+			<level number="54" hp="649" mp="560" sp="19"/>
+			<level number="55" hp="659" mp="569" sp="19"/>
+		</character>
+		<character name="Frank">
+			<level number="6" hp="83" mp="65" sp="7"/>
+			<level number="7" hp="94" mp="74" sp="7"/>
+			<level number="8" hp="105" mp="83" sp="8"/>
+			<level number="9" hp="117" mp="91" sp="8"/>
+			<level number="10" hp="128" mp="100" sp="8"/>
+			<level number="11" hp="139" mp="109" sp="8"/>
+			<level number="12" hp="150" mp="118" sp="8"/>
+			<level number="13" hp="162" mp="126" sp="9"/>
+			<level number="14" hp="173" mp="135" sp="9"/>
+			<level number="15" hp="184" mp="144" sp="9"/>
+			<level number="16" hp="195" mp="153" sp="9"/>
+			<level number="17" hp="206" mp="162" sp="9"/>
+			<level number="18" hp="218" mp="170" sp="10"/>
+			<level number="19" hp="229" mp="179" sp="10"/>
+			<level number="20" hp="240" mp="188" sp="10"/>
+			<level number="21" hp="255" mp="198" sp="10"/>
+			<level number="22" hp="269" mp="208" sp="11"/>
+			<level number="23" hp="284" mp="219" sp="11"/>
+			<level number="24" hp="298" mp="229" sp="11"/>
+			<level number="25" hp="313" mp="239" sp="11"/>
+			<level number="26" hp="327" mp="249" sp="11"/>
+			<level number="27" hp="342" mp="260" sp="12"/>
+			<level number="28" hp="356" mp="270" sp="12"/>
+			<level number="29" hp="371" mp="280" sp="12"/>
+			<level number="30" hp="385" mp="290" sp="12"/>
+			<level number="31" hp="400" mp="301" sp="13"/>
+			<level number="32" hp="414" mp="311" sp="13"/>
+			<level number="33" hp="429" mp="321" sp="13"/>
+			<level number="34" hp="443" mp="331" sp="13"/>
+			<level number="35" hp="458" mp="342" sp="13"/>
+			<level number="36" hp="472" mp="352" sp="14"/>
+			<level number="37" hp="487" mp="362" sp="14"/>
+			<level number="38" hp="501" mp="372" sp="14"/>
+			<level number="39" hp="516" mp="383" sp="14"/>
+			<level number="40" hp="530" mp="393" sp="14"/>
+			<level number="41" hp="545" mp="403" sp="15"/>
+			<level number="42" hp="559" mp="413" sp="15"/>
+			<level number="43" hp="574" mp="424" sp="15"/>
+			<level number="44" hp="588" mp="434" sp="15"/>
+			<level number="45" hp="603" mp="444" sp="16"/>
+			<level number="46" hp="617" mp="454" sp="16"/>
+			<level number="47" hp="632" mp="464" sp="16"/>
+			<level number="48" hp="646" mp="475" sp="16"/>
+			<level number="49" hp="661" mp="485" sp="16"/>
+			<level number="50" hp="675" mp="528" sp="17"/>
+			<level number="51" hp="686" mp="537" sp="17"/>
+			<level number="52" hp="697" mp="545" sp="17"/>
+			<level number="53" hp="708" mp="554" sp="17"/>
+		</character>
+		<character name="Mao">
+			<level number="9" hp="102" mp="97" sp="10"/>
+			<level number="10" hp="112" mp="106" sp="10"/>
+			<level number="11" hp="121" mp="116" sp="10"/>
+			<level number="12" hp="131" mp="125" sp="10"/>
+			<level number="13" hp="141" mp="134" sp="11"/>
+			<level number="14" hp="151" mp="144" sp="11"/>
+			<level number="15" hp="160" mp="153" sp="11"/>
+			<level number="16" hp="170" mp="163" sp="11"/>
+			<level number="17" hp="180" mp="172" sp="11"/>
+			<level number="18" hp="190" mp="181" sp="12"/>
+			<level number="19" hp="199" mp="191" sp="12"/>
+			<level number="20" hp="209" mp="200" sp="12"/>
+			<level number="21" hp="222" mp="211" sp="12"/>
+			<level number="22" hp="234" mp="222" sp="13"/>
+			<level number="23" hp="247" mp="233" sp="13"/>
+			<level number="24" hp="259" mp="244" sp="13"/>
+			<level number="25" hp="272" mp="255" sp="13"/>
+			<level number="26" hp="284" mp="265" sp="13"/>
+			<level number="27" hp="297" mp="276" sp="14"/>
+			<level number="28" hp="310" mp="287" sp="14"/>
+			<level number="29" hp="322" mp="298" sp="14"/>
+			<level number="30" hp="335" mp="309" sp="14"/>
+			<level number="31" hp="347" mp="320" sp="15"/>
+			<level number="32" hp="360" mp="331" sp="15"/>
+			<level number="33" hp="372" mp="342" sp="15"/>
+			<level number="34" hp="385" mp="353" sp="15"/>
+			<level number="35" hp="398" mp="364" sp="15"/>
+			<level number="36" hp="410" mp="374" sp="16"/>
+			<level number="37" hp="423" mp="385" sp="16"/>
+			<level number="38" hp="435" mp="396" sp="16"/>
+			<level number="39" hp="448" mp="407" sp="16"/>
+			<level number="40" hp="460" mp="418" sp="16"/>
+			<level number="41" hp="473" mp="429" sp="17"/>
+			<level number="42" hp="485" mp="440" sp="17"/>
+			<level number="43" hp="498" mp="451" sp="17"/>
+			<level number="44" hp="511" mp="462" sp="17"/>
+			<level number="45" hp="523" mp="473" sp="18"/>
+			<level number="46" hp="536" mp="483" sp="18"/>
+			<level number="47" hp="548" mp="494" sp="18"/>
+			<level number="48" hp="561" mp="505" sp="18"/>
+			<level number="49" hp="573" mp="516" sp="18"/>
+			<level number="50" hp="586" mp="562" sp="19"/>
+			<level number="51" hp="596" mp="571" sp="19"/>
+		</character>
+		<character name="Curvy Hilda">
+			<level number="11" hp="136" mp="106" sp="40"/>
+			<level number="12" hp="147" mp="115" sp="40"/>
+			<level number="35" hp="448" mp="333" sp="40"/>
+			<level number="36" hp="462" mp="343" sp="40"/>
+			<level number="37" hp="476" mp="353" sp="40"/>
+			<level number="38" hp="490" mp="363" sp="40"/>
+			<level number="39" hp="504" mp="373" sp="40"/>
+			<level number="40" hp="518" mp="383" sp="40"/>
+			<level number="41" hp="533" mp="393" sp="40"/>
+			<level number="42" hp="547" mp="403" sp="40"/>
+			<level number="43" hp="561" mp="413" sp="40"/>
+			<level number="44" hp="575" mp="423" sp="40"/>
+			<level number="45" hp="589" mp="434" sp="40"/>
+			<level number="46" hp="603" mp="444" sp="40"/>
+			<level number="47" hp="618" mp="454" sp="40"/>
+			<level number="48" hp="632" mp="464" sp="40"/>
+			<level number="49" hp="646" mp="474" sp="40"/>
+		</character>
+		<character name="Slim Hilda">
+			<level number="13" hp="123" mp="162" sp="40"/>
+			<level number="14" hp="132" mp="173" sp="40"/>
+			<level number="15" hp="140" mp="184" sp="40"/>
+			<level number="16" hp="149" mp="195" sp="40"/>
+			<level number="19" hp="174" mp="229" sp="40"/>
+			<level number="17" hp="157" mp="206" sp="40"/>
+			<level number="18" hp="166" mp="218" sp="40"/>
+			<level number="20" hp="183" mp="240" sp="40"/>
+			<level number="21" hp="194" mp="253" sp="40"/>
+			<level number="22" hp="205" mp="266" sp="40"/>
+			<level number="23" hp="216" mp="279" sp="40"/>
+			<level number="24" hp="227" mp="292" sp="40"/>
+			<level number="25" hp="238" mp="306" sp="40"/>
+			<level number="26" hp="249" mp="319" sp="40"/>
+			<level number="27" hp="260" mp="332" sp="40"/>
+			<level number="28" hp="271" mp="345" sp="40"/>
+			<level number="29" hp="282" mp="358" sp="40"/>
+			<level number="30" hp="293" mp="371" sp="40"/>
+			<level number="31" hp="304" mp="384" sp="40"/>
+			<level number="32" hp="315" mp="397" sp="40"/>
+			<level number="33" hp="326" mp="410" sp="40"/>
+			<level number="34" hp="337" mp="423" sp="40"/>
+			<level number="35" hp="349" mp="437" sp="40"/>
+		</character>
+		<character name="Pink Bat">
+			<level number="15" hp="81" mp="81" sp="40"/>
+			<level number="19" hp="100" mp="101" sp="40"/>
+		</character>
+		<character name="Ricardo">
+			<level number="15" hp="154" mp="165" sp="8"/>
+			<level number="16" hp="164" mp="175" sp="8"/>
+			<level number="17" hp="173" mp="185" sp="8"/>
+			<level number="18" hp="182" mp="195" sp="9"/>
+			<level number="19" hp="192" mp="205" sp="9"/>
+			<level number="20" hp="201" mp="215" sp="9"/>
+			<level number="21" hp="213" mp="227" sp="9"/>
+			<level number="22" hp="225" mp="238" sp="10"/>
+			<level number="23" hp="237" mp="250" sp="10"/>
+			<level number="24" hp="250" mp="262" sp="10"/>
+			<level number="25" hp="262" mp="274" sp="10"/>
+			<level number="26" hp="274" mp="285" sp="10"/>
+			<level number="27" hp="286" mp="297" sp="11"/>
+			<level number="28" hp="298" mp="309" sp="11"/>
+			<level number="29" hp="310" mp="320" sp="11"/>
+			<level number="30" hp="322" mp="332" sp="11"/>
+			<level number="31" hp="334" mp="344" sp="12"/>
+			<level number="32" hp="347" mp="356" sp="12"/>
+			<level number="33" hp="359" mp="367" sp="12"/>
+			<level number="34" hp="371" mp="379" sp="12"/>
+			<level number="35" hp="383" mp="391" sp="12"/>
+			<level number="36" hp="395" mp="403" sp="13"/>
+			<level number="37" hp="407" mp="414" sp="13"/>
+			<level number="38" hp="419" mp="426" sp="13"/>
+			<level number="39" hp="432" mp="438" sp="13"/>
+			<level number="40" hp="444" mp="449" sp="13"/>
+			<level number="41" hp="456" mp="461" sp="14"/>
+			<level number="42" hp="468" mp="473" sp="14"/>
+			<level number="43" hp="480" mp="485" sp="14"/>
+			<level number="44" hp="492" mp="496" sp="14"/>
+			<level number="45" hp="504" mp="508" sp="15"/>
+			<level number="46" hp="516" mp="520" sp="15"/>
+			<level number="47" hp="529" mp="531" sp="15"/>
+			<level number="48" hp="541" mp="543" sp="15"/>
+			<level number="49" hp="553" mp="555" sp="15"/>
+			<level number="50" hp="565" mp="604" sp="16"/>
+			<level number="51" hp="574" mp="614" sp="16"/>
+			<level number="52" hp="583" mp="624" sp="16"/>
+			<level number="53" hp="593" mp="634" sp="16"/>
+			<level number="54" hp="602" mp="643" sp="17"/>
+			<level number="55" hp="611" mp="653" sp="17"/>
+			<level number="56" hp="620" mp="663" sp="17"/>
+			<level number="57" hp="629" mp="673" sp="17"/>
+			<level number="58" hp="639" mp="683" sp="17"/>
+			<level number="59" hp="648" mp="693" sp="18"/>
+		</character>
+	</characters>
+	<statues>
+		<notes><![CDATA[toNext is the total experience required for the next level.]]></notes>
+		<statue name="Hawk, Bear, Whale, H'uararu">
+			<level number="1" toNext="25" />
+			<level number="2" toNext="100" />
+			<level number="3" toNext="225" />
+			<level number="4" toNext="400" />
+		</statue>
+		<statue name="Eagle, Wolf, Orca, Hotoru">
+			<level number="1" toNext="30" />
+			<level number="2" toNext="120" />
+			<level number="3" toNext="270" />
+			<level number="4" toNext="480" />
+		</statue>
+		<statue name="Owl, Bison, SHark, Shakuru">
+			<level number="1" toNext="20" />
+			<level number="2" toNext="80" />
+			<level number="3" toNext="180" />
+			<level number="4" toNext="320" />
+		</statue>
+		<statue name="Swan, Horse, Dolphin, Chahuru">
+			<level number="1" toNext="15" />
+			<level number="2" toNext="60" />
+			<level number="3" toNext="135" />
+			<level number="4" toNext="240" />
+		</statue>
+	</statues>
+</details>

@@ -1,0 +1,2735 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE vehicles SYSTEM "http://media.jamesrskemp.com/dtd/vehicle_gas.dtd">
+<!--<?xml-stylesheet type="text/css" href="http://media.jamesrskemp.com/xslt/vehicle_gas.css"?>-->
+<?xml-stylesheet type="text/xsl" href="../xslt/vehicle_gas.xslt"?>
+<!--<vehicles xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.net/xsd/vehicle_gas.xsd">-->
+<vehicles>
+	<personNameFirst>James</personNameFirst>
+	<personNameLast>Skemp</personNameLast>
+	<vehicle id="1">
+		<make>VW</make>
+		<model>Golf</model>
+		<year>1987</year>
+		<fillups>
+			<fillup id="1">
+				<date>2005-06-27</date>
+				<milesCar>149210</milesCar>
+				<milesDriven>0</milesDriven>
+				<gallons>7.701</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>17.40</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="2">
+				<date>2005-07-05</date>
+				<milesCar>149391</milesCar>
+				<milesDriven>180.9</milesDriven>
+				<gallons>6.026</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>13.61</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="3">
+				<date>2005-07-12</date>
+				<milesCar>149555</milesCar>
+				<milesDriven>164.6</milesDriven>
+				<gallons>5.110</gallons>
+				<costGallon>2.379</costGallon>
+				<costTotal>12.16</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="4">
+				<date>2005-07-20</date>
+				<milesCar>149782</milesCar>
+				<milesDriven>227.1</milesDriven>
+				<gallons>4.294</gallons>
+				<costGallon>2.329</costGallon>
+				<costTotal>10.00</costTotal>
+				<notes>Didn't fill tank</notes>
+			</fillup>
+			<fillup id="5">
+				<date>2005-07-25</date>
+				<milesCar>149894</milesCar>
+				<milesDriven>111.3</milesDriven>
+				<gallons>6.091</gallons>
+				<costGallon>2.339</costGallon>
+				<costTotal>14.25</costTotal>
+				<notes>Finished off tank</notes>
+			</fillup>
+			<fillup id="6">
+				<date>2005-07-29</date>
+				<milesCar>150087</milesCar>
+				<milesDriven>193.2</milesDriven>
+				<gallons>6.010</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>13.82</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="7">
+				<date>2005-08-02</date>
+				<milesCar>150209</milesCar>
+				<milesDriven>121.4</milesDriven>
+				<gallons>4.028</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>9.26</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="8">
+				<date>2005-08-09</date>
+				<milesCar>150412</milesCar>
+				<milesDriven>202.5</milesDriven>
+				<gallons>6.335</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>15.20</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="9">
+				<date>2005-08-17</date>
+				<milesCar>150580</milesCar>
+				<milesDriven>167.9</milesDriven>
+				<gallons>5.389</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>14.01</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="10">
+				<date>2005-08-27</date>
+				<milesCar>150789</milesCar>
+				<milesDriven>209.3</milesDriven>
+				<gallons>6.320</gallons>
+				<costGallon>2.669</costGallon>
+				<costTotal>16.87</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="11">
+				<date>2005-09-02</date>
+				<milesCar>150906</milesCar>
+				<milesDriven>117.0</milesDriven>
+				<gallons>3.704</gallons>
+				<costGallon>3.199</costGallon>
+				<costTotal>11.85</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="12">
+				<date>2005-09-09</date>
+				<milesCar>151050</milesCar>
+				<milesDriven>143.9</milesDriven>
+				<gallons>4.538</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>13.61</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="13">
+				<date>2005-09-15</date>
+				<milesCar>151198</milesCar>
+				<milesDriven>148.1</milesDriven>
+				<gallons>4.447</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>12.45</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="14">
+				<date>2005-09-17</date>
+				<milesCar>151247</milesCar>
+				<milesDriven>48.7</milesDriven>
+				<gallons>1.723</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>4.75</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="15">
+				<date>2005-09-23</date>
+				<milesCar>151423</milesCar>
+				<milesDriven>175.8</milesDriven>
+				<gallons>5.241</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>14.46</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="16">
+				<date>2005-10-02</date>
+				<milesCar>151603</milesCar>
+				<milesDriven>180.1</milesDriven>
+				<gallons>5.639</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>16.91</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="17">
+				<date>2005-10-02</date>
+				<milesCar>151701</milesCar>
+				<milesDriven>97.5</milesDriven>
+				<gallons>2.739</gallons>
+				<costGallon>2.929</costGallon>
+				<costTotal>8.02</costTotal>
+				<notes>Changed spark plugs, fluids, etcetera.</notes>
+			</fillup>
+			<fillup id="18">
+				<date>2005-10-05</date>
+				<milesCar>151845</milesCar>
+				<milesDriven>144.4</milesDriven>
+				<gallons>4.700</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>14.10</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="19">
+				<date>2005-10-14</date>
+				<milesCar>152018</milesCar>
+				<milesDriven>173.4</milesDriven>
+				<gallons>5.666</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>15.07</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="20">
+				<date>2005-10-24</date>
+				<milesCar>152217</milesCar>
+				<milesDriven>198.8</milesDriven>
+				<gallons>7.187</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>18.39</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="21">
+				<date>2005-11-01</date>
+				<milesCar>152369</milesCar>
+				<milesDriven>151.9</milesDriven>
+				<gallons>5.165</gallons>
+				<costGallon>2.449</costGallon>
+				<costTotal>12.65</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="22">
+				<date>2005-11-10</date>
+				<milesCar>152556</milesCar>
+				<milesDriven>187.0</milesDriven>
+				<gallons>6.330</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>14.30</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="23">
+				<date>2005-11-19</date>
+				<milesCar>152762</milesCar>
+				<milesDriven>206.0</milesDriven>
+				<gallons>7.763</gallons>
+				<costGallon>2.229</costGallon>
+				<costTotal>17.30</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="24">
+				<date>2005-11-28</date>
+				<milesCar>152959</milesCar>
+				<milesDriven>196.8</milesDriven>
+				<gallons>6.628</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>14.57</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="25">
+				<date>2005-12-05</date>
+				<milesCar>153109</milesCar>
+				<milesDriven>210.4</milesDriven>
+				<gallons>8.160</gallons>
+				<costGallon>2.179</costGallon>
+				<costTotal>17.78</costTotal>
+				<notes>Car is sitting and warming up a lot more now.</notes>
+			</fillup>
+			<fillup id="26">
+				<date>2005-12-13</date>
+				<milesCar>153342</milesCar>
+				<milesDriven>172.3</milesDriven>
+				<gallons>6.911</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>15.20</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="27">
+				<date>2005-12-21</date>
+				<milesCar>153488</milesCar>
+				<milesDriven>146.0</milesDriven>
+				<gallons>6.000</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>13.55</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="28">
+				<date>2005-12-29</date>
+				<milesCar>153653</milesCar>
+				<milesDriven>165.6</milesDriven>
+				<gallons>5.580</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>12.61</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="29">
+				<date>2006-01-06</date>
+				<milesCar>153818</milesCar>
+				<milesDriven>161.1</milesDriven>
+				<gallons>5.930</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>14.22</costTotal>
+				<notes>-3.3 from mileage. This is f!ked up - gallons may be off.</notes>
+			</fillup>
+			<fillup id="30">
+				<date>2006-01-12</date>
+				<milesCar>153973</milesCar>
+				<milesDriven>155.6</milesDriven>
+				<gallons>5.433</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>13.03</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="31">
+				<date>2006-01-17</date>
+				<milesCar>154121</milesCar>
+				<milesDriven>148.2</milesDriven>
+				<gallons>5.168</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>12.19</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="32">
+				<date>2006-01-25</date>
+				<milesCar>154287</milesCar>
+				<milesDriven>165.7</milesDriven>
+				<gallons>6.201</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>14.63</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="33">
+				<date>2006-01-31</date>
+				<milesCar>154483</milesCar>
+				<milesDriven>196.4</milesDriven>
+				<gallons>6.583</gallons>
+				<costGallon>2.339</costGallon>
+				<costTotal>15.40</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="34">
+				<date>2006-02-07</date>
+				<milesCar>154633</milesCar>
+				<milesDriven>149.9</milesDriven>
+				<gallons>5.661</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>13.58</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="35">
+				<date>2006-02-14</date>
+				<milesCar>154778</milesCar>
+				<milesDriven>144.2</milesDriven>
+				<gallons>5.342</gallons>
+				<costGallon>2.329</costGallon>
+				<costTotal>12.44</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="36">
+				<date>2006-02-22</date>
+				<milesCar>154921</milesCar>
+				<milesDriven>143.6</milesDriven>
+				<gallons>5.551</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>12.76</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="37">
+				<date>2006-03-03</date>
+				<milesCar>155105</milesCar>
+				<milesDriven>183.3</milesDriven>
+				<gallons>6.887</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>16.52</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="38">
+				<date>2006-03-13</date>
+				<milesCar>155270</milesCar>
+				<milesDriven>165.0</milesDriven>
+				<gallons>5.931</gallons>
+				<costGallon>2.459</costGallon>
+				<costTotal>14.58</costTotal>
+				<notes>Got an oil change on the 9th.</notes>
+			</fillup>
+			<fillup id="39">
+				<date>2006-03-20</date>
+				<milesCar>155423</milesCar>
+				<milesDriven>153.5</milesDriven>
+				<gallons>5.640</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>14.66</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="40">
+				<date>2006-03-27</date>
+				<milesCar>155592</milesCar>
+				<milesDriven>168.8</milesDriven>
+				<gallons>5.528</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>14.37</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="41">
+				<date>2006-04-06</date>
+				<milesCar>155780</milesCar>
+				<milesDriven>188.2</milesDriven>
+				<gallons>7.001</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>18.62</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="42">
+				<date>2006-04-12</date>
+				<milesCar>155873</milesCar>
+				<milesDriven>93.2</milesDriven>
+				<gallons>3.745</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>10.33</costTotal>
+				<notes>Did a lot of idling.</notes>
+			</fillup>
+			<fillup id="43">
+				<date>2006-04-17</date>
+				<milesCar>156049</milesCar>
+				<milesDriven>175.4</milesDriven>
+				<gallons>5.644</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>15.80</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="44">
+				<date>2006-04-27</date>
+				<milesCar>156244</milesCar>
+				<milesDriven>195.6</milesDriven>
+				<gallons>6.714</gallons>
+				<costGallon>2.919</costGallon>
+				<costTotal>19.60</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="45">
+				<date>2006-05-08</date>
+				<milesCar>156480</milesCar>
+				<milesDriven>235.8</milesDriven>
+				<gallons>7.881</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>22.85</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="46">
+				<date>2006-05-19</date>
+				<milesCar>156692</milesCar>
+				<milesDriven>211.5</milesDriven>
+				<gallons>7.266</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>21.06</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="47">
+				<date>2006-05-25</date>
+				<milesCar>156824</milesCar>
+				<milesDriven>132.4</milesDriven>
+				<gallons>3.988</gallons>
+				<costGallon>2.859</costGallon>
+				<costTotal>11.40</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="48">
+				<date>2006-06-05</date>
+				<milesCar>157050</milesCar>
+				<milesDriven>226.1</milesDriven>
+				<gallons>6.865</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>19.90</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="49">
+				<date>2006-06-14</date>
+				<milesCar>157256</milesCar>
+				<milesDriven>205.6</milesDriven>
+				<gallons>6.545</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>18.97</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="50">
+				<date>2006-06-23</date>
+				<milesCar>157421</milesCar>
+				<milesDriven>164.8</milesDriven>
+				<gallons>5.206</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>15.09</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="51">
+				<date>2006-07-03</date>
+				<milesCar>157610</milesCar>
+				<milesDriven>189.0</milesDriven>
+				<gallons>5.732</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>17.08</costTotal>
+				<notes>4.6 add to next mileage</notes>
+			</fillup>
+			<fillup id="52">
+				<date>2006-07-11</date>
+				<milesCar>157759</milesCar>
+				<milesDriven>169.0</milesDriven>
+				<gallons>5.281</gallons>
+				<costGallon>3.049</costGallon>
+				<costTotal>16.10</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="53">
+				<date>2006-07-19</date>
+				<milesCar>157964</milesCar>
+				<milesDriven>185.1</milesDriven>
+				<gallons>5.596</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>17.34</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="54">
+				<date>2006-07-26</date>
+				<milesCar>158099</milesCar>
+				<milesDriven>135.3</milesDriven>
+				<gallons>4.242</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>13.15</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="55">
+				<date>2006-08-15</date>
+				<milesCar>158260</milesCar>
+				<milesDriven>160.4</milesDriven>
+				<gallons>5.163</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>16.00</costTotal>
+				<notes>Was using the Alero (which I put over $41 of gas in).</notes>
+			</fillup>
+			<fillup id="56">
+				<date>2006-08-23</date>
+				<milesCar>158424</milesCar>
+				<milesDriven>164.0</milesDriven>
+				<gallons>4.937</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>14.81</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="57">
+				<date>2006-08-31</date>
+				<milesCar>158517</milesCar>
+				<milesDriven>93.3</milesDriven>
+				<gallons>3.211</gallons>
+				<costGallon>2.849</costGallon>
+				<costTotal>9.15</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="58">
+				<date>2006-09-08</date>
+				<milesCar>158704</milesCar>
+				<milesDriven>187.3</milesDriven>
+				<gallons>5.655</gallons>
+				<costGallon>2.679</costGallon>
+				<costTotal>15.15</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="59">
+				<date>2006-09-20</date>
+				<milesCar>158896</milesCar>
+				<milesDriven>192.2</milesDriven>
+				<gallons>6.346</gallons>
+				<costGallon>2.469</costGallon>
+				<costTotal>15.67</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="60">
+				<date>2006-10-02</date>
+				<milesCar>159097</milesCar>
+				<milesDriven>200.8</milesDriven>
+				<gallons>6.708</gallons>
+				<costGallon>2.229</costGallon>
+				<costTotal>14.95</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="61">
+				<date>2006-10-14</date>
+				<milesCar>159310</milesCar>
+				<milesDriven>213.1</milesDriven>
+				<gallons>7.164</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>15.75</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="62">
+				<date>2006-10-25</date>
+				<milesCar>159534</milesCar>
+				<milesDriven>224.2</milesDriven>
+				<gallons>7.420</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>16.76</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="63">
+				<date>2006-11-02</date>
+				<milesCar>159729</milesCar>
+				<milesDriven>194.2</milesDriven>
+				<gallons>6.644</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>15.01</costTotal>
+				<notes>Oil change on 10/27.</notes>
+			</fillup>
+			<fillup id="64">
+				<date>2006-11-09</date>
+				<milesCar>159921</milesCar>
+				<milesDriven>192.2</milesDriven>
+				<gallons>5.957</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>13.70</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="65">
+				<date>2006-11-20</date>
+				<milesCar>160148</milesCar>
+				<milesDriven>227.1</milesDriven>
+				<gallons>8.031</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>18.14</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="66">
+				<date>2006-11-30</date>
+				<milesCar>160342</milesCar>
+				<milesDriven>194.1</milesDriven>
+				<gallons>6.173</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>13.94</costTotal>
+				<notes/>
+			</fillup>
+		</fillups>
+	</vehicle>
+	<vehicle id="2">
+		<make>VW</make>
+		<model>Rabbit</model>
+		<year>2007</year>
+		<!-- 14.5 gallons total -->
+		<fillups>
+			<fillup id="1">
+				<date>2006-12-08</date>
+				<milesCar>262</milesCar>
+				<milesDriven>262.1</milesDriven>
+				<gallons>10.639</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>25.10</costTotal>
+				<notes>First fill-up, and therefore may be off.</notes>
+			</fillup>
+			<fillup id="2">
+				<date>2006-12-11</date>
+				<milesCar>511</milesCar>
+				<milesDriven>249.1</milesDriven>
+				<gallons>9.876</gallons>
+				<costGallon>2.319</costGallon>
+				<costTotal>22.90</costTotal>
+				<notes>Trip to Milwaukee. Hit ~80 mph for a good portion of the trip, but a deal of
+					stop and go as well.</notes>
+			</fillup>
+			<fillup id="3">
+				<date>2006-12-24</date>
+				<milesCar>808</milesCar>
+				<milesDriven>296.9</milesDriven>
+				<gallons>11.705</gallons>
+				<costGallon>2.349</costGallon>
+				<costTotal>27.50</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="4">
+				<date>2007-01-04</date>
+				<milesCar>1104</milesCar>
+				<milesDriven>296.1</milesDriven>
+				<gallons>11.495</gallons>
+				<costGallon>2.319</costGallon>
+				<costTotal>26.66</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="5">
+				<date>2007-01-11</date>
+				<milesCar>1357</milesCar>
+				<milesDriven>253.2</milesDriven>
+				<gallons>9.758</gallons>
+				<costGallon>2.239</costGallon>
+				<costTotal>21.85</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="6">
+				<date>2007-01-18</date>
+				<milesCar>1536</milesCar>
+				<milesDriven>178.8</milesDriven>
+				<gallons>7.553</gallons>
+				<costGallon>2.089</costGallon>
+				<costTotal>15.78</costTotal>
+				<notes>Half a tank, approximately.</notes>
+			</fillup>
+			<fillup id="7">
+				<date>2007-01-30</date>
+				<milesCar>1784</milesCar>
+				<milesDriven>248.1</milesDriven>
+				<gallons>10.632</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>23.38</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="8">
+				<date>2007-02-12</date>
+				<milesCar>2017</milesCar>
+				<milesDriven>232.9</milesDriven>
+				<gallons>10.510</gallons>
+				<costGallon>2.249</costGallon>
+				<costTotal>23.64</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="9">
+				<date>2007-02-21</date>
+				<milesCar>2235</milesCar>
+				<milesDriven>217.7</milesDriven>
+				<gallons>8.854</gallons>
+				<costGallon>2.349</costGallon>
+				<costTotal>20.80</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="10">
+				<date>2007-03-06</date>
+				<milesCar>2528</milesCar>
+				<milesDriven>293.3</milesDriven>
+				<gallons>11.827</gallons>
+				<costGallon>2.549</costGallon>
+				<costTotal>30.15</costTotal>
+				<notes>Almost an empty tank (less than a quarter left).</notes>
+			</fillup>
+			<fillup id="11">
+				<date>2007-03-18</date>
+				<milesCar>2780</milesCar>
+				<milesDriven>251.4</milesDriven>
+				<gallons>9.909</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>24.76</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="12">
+				<date>2007-03-27</date>
+				<milesCar>3077</milesCar>
+				<milesDriven>297.4</milesDriven>
+				<gallons>11.097</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>28.84</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="13">
+				<date>2007-04-02</date>
+				<milesCar>3215</milesCar>
+				<milesDriven>138.4</milesDriven>
+				<gallons>5.501</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>14.85</costTotal>
+				<notes>Quarter of a tank.</notes>
+			</fillup>
+			<fillup id="14">
+				<date>2007-04-11</date>
+				<milesCar>3510</milesCar>
+				<milesDriven>294.1</milesDriven>
+				<gallons>10.807</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>30.25</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="15">
+				<date>2007-04-22</date>
+				<milesCar>3748</milesCar>
+				<milesDriven>238.7</milesDriven>
+				<gallons>9.466</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>26.50</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="16">
+				<date>2007-05-01</date>
+				<milesCar>4020</milesCar>
+				<milesDriven>272.0</milesDriven>
+				<gallons>10.148</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>30.03</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="17">
+				<date>2007-05-14</date>
+				<milesCar>4326</milesCar>
+				<milesDriven>305.9</milesDriven>
+				<gallons>11.878</gallons>
+				<costGallon>3.199</costGallon>
+				<costTotal>38.00</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="18">
+				<date>2007-05-23</date>
+				<milesCar>4586</milesCar>
+				<milesDriven>259.8</milesDriven>
+				<gallons>9.947</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>33.81</costTotal>
+				<notes>Had an oil change.</notes>
+			</fillup>
+			<fillup id="19">
+				<date>2007-06-07</date>
+				<milesCar>4926</milesCar>
+				<milesDriven>339.4</milesDriven>
+				<gallons>12.230</gallons>
+				<costGallon>3.299</costGallon>
+				<costTotal>40.35</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="20">
+				<date>2007-06-19</date>
+				<milesCar>5243</milesCar>
+				<milesDriven>316.9</milesDriven>
+				<gallons>11.853</gallons>
+				<costGallon>3.079</costGallon>
+				<costTotal>36.50</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="21">
+				<date>2007-06-30</date>
+				<milesCar>5561</milesCar>
+				<milesDriven>317.8</milesDriven>
+				<gallons>11.929</gallons>
+				<costGallon>3.039</costGallon>
+				<costTotal>36.25</costTotal>
+				<notes/>
+			</fillup>
+
+			<fillup id="22">
+				<date>2007-07-06</date>
+				<milesCar>5838</milesCar>
+				<milesDriven>277.4</milesDriven>
+				<gallons>10.376</gallons>
+				<costGallon>3.039</costGallon>
+				<costTotal>31.53</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="23">
+				<date>2007-07-16</date>
+				<milesCar>6129</milesCar>
+				<milesDriven>291.0</milesDriven>
+				<gallons>11.142</gallons>
+				<costGallon>3.159</costGallon>
+				<costTotal>35.20</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="24">
+				<date>2007-07-23</date>
+				<milesCar>6446</milesCar>
+				<milesDriven>317.2</milesDriven>
+				<gallons>11.769</gallons>
+				<costGallon>3.059</costGallon>
+				<costTotal>36.00</costTotal>
+				<notes>Went to Milwaukee the past weekend.</notes>
+			</fillup>
+			<fillup id="25">
+				<date>2007-08-06</date>
+				<milesCar>6724</milesCar>
+				<milesDriven>277.5</milesDriven>
+				<gallons>10.261</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>29.75</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="26">
+				<date>2007-08-17</date>
+				<milesCar>7022</milesCar>
+				<milesDriven>297.9</milesDriven>
+				<gallons>11.524</gallons>
+				<costGallon>2.859</costGallon>
+				<costTotal>32.95</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="27">
+				<date>2007-08-30</date>
+				<milesCar>7281</milesCar>
+				<milesDriven>259.4</milesDriven>
+				<gallons>10.884</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>31.55</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="28">
+				<date>2007-09-11</date>
+				<milesCar>7542</milesCar>
+				<milesDriven>260.5</milesDriven>
+				<gallons>10.087</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>30.25</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="29">
+				<date>2007-09-16</date>
+				<milesCar>7727</milesCar>
+				<milesDriven>185.7</milesDriven>
+				<gallons>6.629</gallons>
+				<costGallon>3.029</costGallon>
+				<costTotal>20.08</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="30">
+				<date>2007-09-24</date>
+				<milesCar>7978</milesCar>
+				<milesDriven>250.6</milesDriven>
+				<gallons>9.677</gallons>
+				<costGallon>2.919</costGallon>
+				<costTotal>28.25</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="31">
+				<date>2007-10-01</date>
+				<milesCar>8242</milesCar>
+				<milesDriven>264.0</milesDriven>
+				<gallons>10.006</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>29.01</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="32">
+				<date>2007-10-10</date>
+				<milesCar>8439</milesCar>
+				<milesDriven>196.7</milesDriven>
+				<gallons>7.977</gallons>
+				<costGallon>2.859</costGallon>
+				<costTotal>22.81</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="33">
+				<date>2007-10-19</date>
+				<milesCar>8727</milesCar>
+				<milesDriven>288.1</milesDriven>
+				<gallons>10.788</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>30.20</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="34">
+				<date>2007-10-29</date>
+				<milesCar>8945</milesCar>
+				<milesDriven>217.6</milesDriven>
+				<gallons>8.594</gallons>
+				<costGallon>2.839</costGallon>
+				<costTotal>24.40</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="35">
+				<date>2007-11-06</date>
+				<milesCar>9215</milesCar>
+				<milesDriven>270.4</milesDriven>
+				<gallons>10.957</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>33.96</costTotal>
+				<notes>Oil change at 8985 miles.</notes>
+			</fillup>
+			<fillup id="36">
+				<date>2007-11-13</date>
+				<milesCar>9378</milesCar>
+				<milesDriven>162.8</milesDriven>
+				<gallons>6.458</gallons>
+				<costGallon>3.159</costGallon>
+				<costTotal>20.04</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="37">
+				<date>2007-11-21</date>
+				<milesCar>9548</milesCar>
+				<milesDriven>170.0</milesDriven>
+				<gallons>6.693</gallons>
+				<costGallon>3.159</costGallon>
+				<costTotal>21.14</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="38">
+				<date>2007-11-28</date>
+				<milesCar>9718</milesCar>
+				<milesDriven>169.6</milesDriven>
+				<gallons>6.702</gallons>
+				<costGallon>3.119</costGallon>
+				<costTotal>20.90</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="39">
+				<date>2007-12-05</date>
+				<milesCar>9838</milesCar>
+				<milesDriven>119.8</milesDriven>
+				<gallons>5.954</gallons>
+				<costGallon>3.019</costGallon>
+				<costTotal>18.15</costTotal>
+				<notes>Car sitting more, due to cold weather.</notes>
+			</fillup>
+			<fillup id="40">
+				<date>2007-12-13</date>
+				<milesCar>10046</milesCar>
+				<milesDriven>208.3</milesDriven>
+				<gallons>8.796</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>26.20</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="41">
+				<date>2007-12-20</date>
+				<milesCar>10242</milesCar>
+				<milesDriven>196.5</milesDriven>
+				<gallons>8.393</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>25.00</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="42">
+				<date>2007-12-27</date>
+				<milesCar>10394</milesCar>
+				<milesDriven>152.0</milesDriven>
+				<gallons>6.394</gallons>
+				<costGallon>3.059</costGallon>
+				<costTotal>19.56</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="43">
+				<date>2008-01-03</date>
+				<milesCar>10498</milesCar>
+				<milesDriven>103.7</milesDriven>
+				<gallons>4.793</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>14.85</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="44">
+				<date>2008-01-11</date>
+				<milesCar>10699</milesCar>
+				<milesDriven>200.6</milesDriven>
+				<gallons>8.179</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>25.85</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="45">
+				<date>2008-01-17</date>
+				<milesCar>10862</milesCar>
+				<milesDriven>163.2</milesDriven>
+				<gallons>6.883</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>20.64</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="46">
+				<date>2008-01-25</date>
+				<milesCar>11014</milesCar>
+				<milesDriven>151.9</milesDriven>
+				<gallons>7.094</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>21.27</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="47">
+				<date>2008-01-30</date>
+				<milesCar>11206</milesCar>
+				<milesDriven>191.9</milesDriven>
+				<gallons>8.336</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>24.83</costTotal>
+				<notes></notes>
+			</fillup>	
+			<fillup id="48">
+				<date>2008-02-07</date>
+				<milesCar>11371</milesCar>
+				<milesDriven>165.1</milesDriven>
+				<gallons>6.942</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>20.68</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="49">
+				<date>2008-02-13</date>
+				<milesCar>11526</milesCar>
+				<milesDriven>155.1</milesDriven>
+				<gallons>6.974</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>20.64</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="50">
+				<date>2008-02-22</date>
+				<milesCar>11731</milesCar>
+				<milesDriven>205.1</milesDriven>
+				<gallons>9.093</gallons>
+				<costGallon>3.079</costGallon>
+				<costTotal>28.00</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="51">
+				<date>2008-02-28</date>
+				<milesCar>11893</milesCar>
+				<milesDriven>161.7</milesDriven>
+				<gallons>7.029</gallons>
+				<costGallon>3.079</costGallon>
+				<costTotal>21.64</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="52">
+				<date>2008-03-04</date>
+				<milesCar>12040</milesCar>
+				<milesDriven>146.8</milesDriven>
+				<gallons>6.471</gallons>
+				<costGallon>3.079</costGallon>
+				<costTotal>19.92</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="53">
+				<date>2008-03-13</date>
+				<milesCar>12192</milesCar>
+				<milesDriven>152.4</milesDriven>
+				<gallons>6.677</gallons>
+				<costGallon>3.299</costGallon>
+				<costTotal>22.03</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="54">
+				<date>2008-03-20</date>
+				<milesCar>12376</milesCar>
+				<milesDriven>183.6</milesDriven>
+				<gallons>7.332</gallons>
+				<costGallon>3.299</costGallon>
+				<costTotal>24.19</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="55">
+				<date>2008-03-26</date>
+				<milesCar>12533</milesCar>
+				<milesDriven>157.1</milesDriven>
+				<gallons>6.541</gallons>
+				<costGallon>3.259</costGallon>
+				<costTotal>21.32</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="56">
+				<date>2008-04-03</date>
+				<milesCar>12728</milesCar>
+				<milesDriven>194.6</milesDriven>
+				<gallons>7.865</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>26.42</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="57">
+				<date>2008-04-10</date>
+				<milesCar>12980</milesCar>
+				<milesDriven>252.7</milesDriven>
+				<gallons>10.050</gallons>
+				<costGallon>3.379</costGallon>
+				<costTotal>33.96</costTotal>
+				<notes>Drove to Milwaukee and got my oil changed on this same day.</notes>
+			</fillup>
+			<fillup id="58">
+				<date>2008-04-15</date>
+				<milesCar>13152</milesCar>
+				<milesDriven>171.4</milesDriven>
+				<gallons>6.948</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>23.62</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="59">
+				<date>2008-04-22</date>
+				<milesCar>13315</milesCar>
+				<milesDriven>162.7</milesDriven>
+				<gallons>6.525</gallons>
+				<costGallon>3.539</costGallon>
+				<costTotal>23.09</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="60">
+				<date>2008-05-01</date>
+				<milesCar>13499</milesCar>
+				<milesDriven>184.3</milesDriven>
+				<gallons>7.659</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>27.41</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="61">
+				<date>2008-05-05</date>
+				<milesCar>13754</milesCar>
+				<milesDriven>255.4</milesDriven>
+				<gallons>9.428</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>33.74</costTotal>
+				<notes>Drove up north this weekend.</notes>
+			</fillup>
+			<fillup id="62">
+				<date>2008-05-11</date>
+				<milesCar>14073</milesCar>
+				<milesDriven>318.7</milesDriven>
+				<gallons>12.141</gallons>
+				<costGallon>3.749</costGallon>
+				<costTotal>45.52</costTotal>
+				<notes>Approximately 1/8 of a tank remaining. Drove up north Sunday.</notes>
+			</fillup>
+			<fillup id="63">
+				<date>2008-05-19</date>
+				<milesCar>14276</milesCar>
+				<milesDriven>203.0</milesDriven>
+				<gallons>7.766</gallons>
+				<costGallon>3.779</costGallon>
+				<costTotal>29.35</costTotal>
+				<notes>At least I'm using my Chase card now ...</notes>
+			</fillup>
+			<fillup id="64">
+				<date>2008-05-27</date>
+				<milesCar>14463</milesCar>
+				<milesDriven>187.1</milesDriven>
+				<gallons>7.116</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>28.46</costTotal>
+				<notes>A good deal of this was driving from the South side of Madison to Inacom.</notes>
+			</fillup>
+			<fillup id="65">
+				<date>2008-06-02</date>
+				<milesCar>14562</milesCar>
+				<milesDriven>99.1</milesDriven>
+				<gallons>3.713</gallons>
+				<costGallon>3.899</costGallon>
+				<costTotal>14.48</costTotal>
+				<notes>More time using Stoughton Rd. to the Interstate, instead of using the Beltline (at least in the morning).</notes>
+			</fillup>
+			<fillup id="66">
+				<date>2008-06-06</date>
+				<milesCar>14670</milesCar>
+				<milesDriven>107.4</milesDriven>
+				<gallons>3.908</gallons>
+				<costGallon>3.899</costGallon>
+				<costTotal>15.24</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="67">
+				<date>2008-06-16</date>
+				<milesCar>14838</milesCar>
+				<milesDriven>168.3</milesDriven>
+				<gallons>7.022</gallons>
+				<costGallon>3.969</costGallon>
+				<costTotal>27.87</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="68">
+				<date>2008-06-23</date>
+				<milesCar>15020</milesCar>
+				<milesDriven>182.0</milesDriven>
+				<gallons>6.656</gallons>
+				<costGallon>3.969</costGallon>
+				<costTotal>26.42</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="69">
+				<date>2008-07-01</date>
+				<milesCar>15216</milesCar>
+				<milesDriven>196.0</milesDriven>
+				<gallons>7.363</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>29.44</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="70">
+				<date>2008-07-06</date>
+				<milesCar>15431</milesCar>
+				<milesDriven>214.1</milesDriven>
+				<gallons>7.963</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>31.84</costTotal>
+				<notes>Drove up north this weekend. 72 one way, and 72-74 back.</notes>
+			</fillup>
+			<fillup id="71">
+				<date>2008-07-15</date>
+				<milesCar>15580</milesCar>
+				<milesDriven>149.1</milesDriven>
+				<gallons>5.808</gallons>
+				<costGallon>4.079</costGallon>
+				<costTotal>23.69</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="72">
+				<date>2008-07-21</date>
+				<milesCar>15716</milesCar>
+				<milesDriven>136.2</milesDriven>
+				<gallons>5.297</gallons>
+				<costGallon>3.949</costGallon>
+				<costTotal>20.92</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="73">
+				<date>2008-07-28</date>
+				<milesCar>15995</milesCar>
+				<milesDriven>279.1</milesDriven>
+				<gallons>10.584</gallons>
+				<costGallon>3.799</costGallon>
+				<costTotal>40.21</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="74">
+				<date>2008-07-31</date>
+				<milesCar>16070</milesCar>
+				<milesDriven>74.8</milesDriven>
+				<gallons>2.841</gallons>
+				<costGallon>3.799</costGallon>
+				<costTotal>10.79</costTotal>
+				<notes>Had to clean my windows, so I filled up.</notes>
+			</fillup>
+			<fillup id="75">
+				<date>2008-08-03</date>
+				<milesCar>16276</milesCar>
+				<milesDriven>205.7</milesDriven>
+				<gallons>7.890</gallons>
+				<costGallon>3.799</costGallon>
+				<costTotal>29.97</costTotal>
+				<notes>Drove up north.</notes>
+			</fillup>
+			<fillup id="76">
+				<date>2008-08-12</date>
+				<milesCar>16413</milesCar>
+				<milesDriven>137.3</milesDriven>
+				<gallons>5.323</gallons>
+				<costGallon>3.719</costGallon>
+				<costTotal>19.80</costTotal>
+				<notes>Was out of action from 8/8 to the afternoon of 8/11 (wisdom teeth removal).</notes>
+			</fillup>
+			<fillup id="77">
+				<date>2008-08-18</date>
+				<milesCar>16664</milesCar>
+				<milesDriven>251.0</milesDriven>
+				<gallons>9.293</gallons>
+				<costGallon>3.699</costGallon>
+				<costTotal>34.37</costTotal>
+				<notes>Drove to Milwaukee this weekend, doing mostly 74, and doing a lot of walking (when we got there).</notes>
+			</fillup>
+			<fillup id="78">
+				<date>2008-08-22</date>
+				<milesCar>16746</milesCar>
+				<milesDriven>81.4</milesDriven>
+				<gallons>3.359</gallons>
+				<costGallon>3.699</costGallon>
+				<costTotal>12.42</costTotal>
+				<notes>So that's four trips from home to work, plus one day I stopped for groceries, at ~10 miles per way (work to home)</notes>
+			</fillup>
+			<fillup id="79">
+				<date>2008-08-29</date>
+				<milesCar>16895</milesCar>
+				<milesDriven>149.3</milesDriven>
+				<gallons>6.007</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>21.98</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="80">
+				<date>2008-09-06</date>
+				<milesCar>17009</milesCar>
+				<milesDriven>114.0</milesDriven>
+				<gallons>4.637</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>16.97</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="81">
+				<date>2008-09-07</date>
+				<milesCar>17165</milesCar>
+				<milesDriven>155.6</milesDriven>
+				<gallons>5.494</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>20.10</costTotal>
+				<notes>This is gas station to up north and back to the gas station, at almost 74 the entire way.</notes>
+			</fillup>
+			<fillup id="82">
+				<date>2008-09-15</date>
+				<milesCar>17340</milesCar>
+				<milesDriven>175.1</milesDriven>
+				<gallons>6.772</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>27.08</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="83">
+				<date>2008-09-24</date>
+				<milesCar>17534</milesCar>
+				<milesDriven>194.7</milesDriven>
+				<gallons>7.566</gallons>
+				<costGallon>3.699</costGallon>
+				<costTotal>27.99</costTotal>
+				<notes>Oil change at 17430 miles (Sept. 19).</notes>
+			</fillup>
+			<fillup id="84">
+				<date>2008-10-03</date>
+				<milesCar>17683</milesCar>
+				<milesDriven>148.1</milesDriven>
+				<gallons>5.800</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>20.76</costTotal>
+				<notes>Filled up after work.</notes>
+			</fillup>
+			<fillup id="85">
+				<date>2008-10-04</date>
+				<milesCar>17874</milesCar>
+				<milesDriven>191.7</milesDriven>
+				<gallons>6.870</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>24.59</costTotal>
+				<notes>To FDL, back home, then to the gas station (on the way back to FDL).</notes>
+			</fillup>
+			<fillup id="86">
+				<date>2008-10-06</date>
+				<milesCar>18081</milesCar>
+				<milesDriven>206.8</milesDriven>
+				<gallons>7.582</gallons>
+				<costGallon>3.539</costGallon>
+				<costTotal>26.83</costTotal>
+				<notes>To FDL and back home, then from home to work.</notes>
+			</fillup>
+			<fillup id="87">
+				<date>2008-10-13</date>
+				<milesCar>18252</milesCar>
+				<milesDriven>170.8</milesDriven>
+				<gallons>6.668</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>20.00</costTotal>
+				<notes>20 even by accident, but less than $3 gas!?!</notes>
+			</fillup>
+			<fillup id="88">
+				<date>2008-10-22</date>
+				<milesCar>18428</milesCar>
+				<milesDriven>175.5</milesDriven>
+				<gallons>6.848</gallons>
+				<costGallon>2.839</costGallon>
+				<costTotal>19.44</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="89">
+				<date>2008-10-30</date>
+				<milesCar>18559</milesCar>
+				<milesDriven>131.8</milesDriven>
+				<gallons>4.878</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>12.19</costTotal>
+				<notes>I've been trying to move to neutral, when I can coast, or if I'm sitting at a light.</notes>
+			</fillup>
+			<fillup id="90">
+				<date>2008-11-10</date>
+				<milesCar>18749</milesCar>
+				<milesDriven>190.0</milesDriven>
+				<gallons>7.811</gallons>
+				<costGallon>2.179</costGallon>
+				<costTotal>17.02</costTotal>
+				<notes>See previous note.</notes>
+			</fillup>
+			<fillup id="91">
+				<date>2008-11-18</date>
+				<milesCar>18919</milesCar>
+				<milesDriven>169.4</milesDriven>
+				<gallons>6.553</gallons>
+				<costGallon>1.989</costGallon>
+				<costTotal>13.03</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="92">
+				<date>2008-11-27</date>
+				<milesCar>19072</milesCar>
+				<milesDriven>153.2</milesDriven>
+				<gallons>6.734</gallons>
+				<costGallon>1.799</costGallon>
+				<costTotal>12.11</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="93">
+				<date>2008-11-28</date>
+				<milesCar>19225</milesCar>
+				<milesDriven>153.0</milesDriven>
+				<gallons>5.574</gallons>
+				<costGallon>1.799</costGallon>
+				<costTotal>10.03</costTotal>
+				<notes>From Madison to Fond du Lac and back. 74 almost the entire way.</notes>
+			</fillup>
+			<fillup id="94">
+				<date>2008-12-08</date>
+				<milesCar>19415</milesCar>
+				<milesDriven>189.7</milesDriven>
+				<gallons>8.277</gallons>
+				<costGallon>1.749</costGallon>
+				<costTotal>14.48</costTotal>
+				<notes>Much colder outside, and quite a bit of snow. Hence, more sitting.</notes>
+			</fillup>
+			<fillup id="95">
+				<date>2008-12-14</date>
+				<milesCar>19644</milesCar>
+				<milesDriven>229.1</milesDriven>
+				<gallons>8.727</gallons>
+				<costGallon>1.659</costGallon>
+				<costTotal>14.48</costTotal>
+				<notes>Drove to Milwaukee and back. 72 most of the way. About 43 outside.</notes>
+			</fillup>
+			<fillup id="96">
+				<date>2008-12-23</date>
+				<milesCar>19787</milesCar>
+				<milesDriven>142.5</milesDriven>
+				<gallons>6.839</gallons>
+				<costGallon>1.699</costGallon>
+				<costTotal>11.62</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="97">
+				<date>2008-12-25</date>
+				<milesCar>19978</milesCar>
+				<milesDriven>191.8</milesDriven>
+				<gallons>7.603</gallons>
+				<costGallon>1.699</costGallon>
+				<costTotal>12.92</costTotal>
+				<notes>Drove up north and back.</notes>
+			</fillup>
+			<fillup id="98">
+				<date>2009-01-07</date>
+				<milesCar>20150</milesCar>
+				<milesDriven>171.9</milesDriven>
+				<gallons>7.610</gallons>
+				<costGallon>1.869</costGallon>
+				<costTotal>14.22</costTotal>
+				<notes>Just had my 20k, which included an oil change.</notes>
+			</fillup>
+			<fillup id="99">
+				<date>2009-01-12</date>
+				<milesCar>20235</milesCar>
+				<milesDriven>84.3</milesDriven>
+				<gallons>3.856</gallons>
+				<costGallon>1.869</costGallon>
+				<costTotal>7.21</costTotal>
+				<notes>Added Heet, as it is supposed to get cold this week.</notes>
+			</fillup>
+			<fillup id="100">
+				<date>2009-01-22</date>
+				<milesCar>20415</milesCar>
+				<milesDriven>180.3</milesDriven>
+				<gallons>7.850</gallons>
+				<costGallon>1.929</costGallon>
+				<costTotal>15.14</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="101">
+				<date>2009-01-30</date>
+				<milesCar>20587</milesCar>
+				<milesDriven>171.5</milesDriven>
+				<gallons>7.731</gallons>
+				<costGallon>1.899</costGallon>
+				<costTotal>14.68</costTotal>
+				<notes>Took courses at Inacom this entire week.</notes>
+			</fillup>
+			<fillup id="102">
+				<date>2009-02-01</date>
+				<milesCar>20737</milesCar>
+				<milesDriven>150.2</milesDriven>
+				<gallons>5.954</gallons>
+				<costGallon>1.949</costGallon>
+				<costTotal>11.60</costTotal>
+				<notes>From Madison to FDL and back to Madison.</notes>
+			</fillup>
+			<fillup id="103">
+				<date>2009-02-06</date>
+				<milesCar>20861</milesCar>
+				<milesDriven>124.3</milesDriven>
+				<gallons>5.297</gallons>
+				<costGallon>1.949</costGallon>
+				<costTotal>10.32</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="104">
+				<date>2009-02-17</date>
+				<milesCar>20992</milesCar>
+				<milesDriven>130.9</milesDriven>
+				<gallons>5.505</gallons>
+				<costGallon>1.959</costGallon>
+				<costTotal>10.78</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="105">
+				<date>2009-02-26</date>
+				<milesCar>21157</milesCar>
+				<milesDriven>164.7</milesDriven>
+				<gallons>6.973</gallons>
+				<costGallon>1.799</costGallon>
+				<costTotal>12.54</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="106">
+				<date>2009-03-09</date>
+				<milesCar>21341</milesCar>
+				<milesDriven>183.8</milesDriven>
+				<gallons>7.972</gallons>
+				<costGallon>1.899</costGallon>
+				<costTotal>15.14</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="107">
+				<date>2009-03-16</date>
+				<milesCar>21481</milesCar>
+				<milesDriven>139.8</milesDriven>
+				<gallons>5.633</gallons>
+				<costGallon>1.849</costGallon>
+				<costTotal>10.42</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="108">
+				<date>2009-03-26</date>
+				<milesCar>21682</milesCar>
+				<milesDriven>201.9</milesDriven>
+				<gallons>7.953</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>16.69</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="109">
+				<date>2009-04-04</date>
+				<milesCar>21862</milesCar>
+				<milesDriven>179.4</milesDriven>
+				<gallons>7.320</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>15.36</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="110">
+				<date>2009-04-04</date>
+				<milesCar>22012</milesCar>
+				<milesDriven>150.0</milesDriven>
+				<gallons>5.119</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>10.74</costTotal>
+				<notes>Drove up north and back.</notes>
+			</fillup>
+			<fillup id="111">
+				<date>2009-04-14</date>
+				<milesCar>22168</milesCar>
+				<milesDriven>155.9</milesDriven>
+				<gallons>6.422</gallons>
+				<costGallon>1.999</costGallon>
+				<costTotal>12.84</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="112">
+				<date>2009-04-23</date>
+				<milesCar>22368</milesCar>
+				<milesDriven>199.6</milesDriven>
+				<gallons>7.544</gallons>
+				<costGallon>2.079</costGallon>
+				<costTotal>15.68</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="113">
+				<date>2009-05-06</date>
+				<milesCar>22592</milesCar>
+				<milesDriven>224.3</milesDriven>
+				<gallons>8.699</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>18.26</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="114">
+				<date>2009-05-16</date>
+				<milesCar>22742</milesCar>
+				<milesDriven>150.3</milesDriven>
+				<gallons>5.776</gallons>
+				<costGallon>2.349</costGallon>
+				<costTotal>13.57</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="115">
+				<date>2009-05-17</date>
+				<milesCar>22893</milesCar>
+				<milesDriven>151.0</milesDriven>
+				<gallons>5.321</gallons>
+				<costGallon>2.349</costGallon>
+				<costTotal>12.50</costTotal>
+				<notes>Drove up north and back.</notes>
+			</fillup>
+			<fillup id="116">
+				<date>2009-05-26</date>
+				<milesCar>23043</milesCar>
+				<milesDriven>149.4</milesDriven>
+				<gallons>5.839</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>15.18</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="117">
+				<date>2009-05-29</date>
+				<milesCar>23314</milesCar>
+				<milesDriven>271.3</milesDriven>
+				<gallons>9.067</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>24.47</costTotal>
+				<notes>Drove to Chicago and back. This was just under half a tank left.</notes>
+			</fillup>
+			<fillup id="118">
+				<date>2009-06-09</date>
+				<milesCar>23555</milesCar>
+				<milesDriven>240.5</milesDriven>
+				<gallons>8.576</gallons>
+				<costGallon>2.789</costGallon>
+				<costTotal>23.92</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="119">
+				<date>2009-06-19</date>
+				<milesCar>23743</milesCar>
+				<milesDriven>188.3</milesDriven>
+				<gallons>7.425</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>20.04</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="120">
+				<date>2009-06-26</date>
+				<milesCar>23916</milesCar>
+				<milesDriven>172.8</milesDriven>
+				<gallons>6.450</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>16.12</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="121">
+				<date>2009-07-04</date>
+				<milesCar>24164</milesCar>
+				<milesDriven>248.1</milesDriven>
+				<gallons>9.244</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>22.18</costTotal>
+				<notes>Paid $2.399 per gallon, from Roundy's Rewards, but noting $2.499 for historical pricing information.</notes>
+			</fillup>
+			<fillup id="122">
+				<date>2009-07-12</date>
+				<milesCar>24450</milesCar>
+				<milesDriven>286.2</milesDriven>
+				<gallons>10.376</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>24.89</costTotal>
+				<notes>Normal work driving, plus FDL and back on this particular day.</notes>
+			</fillup>
+			<fillup id="123">
+				<date>2009-07-24</date>
+				<milesCar>24686</milesCar>
+				<milesDriven>235.8</milesDriven>
+				<gallons>9.209</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>21.72</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="124">
+				<date>2009-07-28</date>
+				<milesCar>24974</milesCar>
+				<milesDriven>287.4</milesDriven>
+				<gallons>10.025</gallons>
+				<costGallon>2.479</costGallon>
+				<costTotal>24.85</costTotal>
+				<notes>Drove up to FdL, then over to Sheboygan Falls and Sheboygan, back to FdL, then back to Madison.</notes>
+			</fillup>
+			<fillup id="125">
+				<date>2009-08-11</date>
+				<milesCar>25185</milesCar>
+				<milesDriven>211.4</milesDriven>
+				<gallons>7.996</gallons>
+				<costGallon>2.639</costGallon>
+				<costTotal>21.10</costTotal>
+				<notes>Oil change at 25046 miles.</notes>
+			</fillup>
+			<fillup id="126">
+				<date>2009-08-19</date>
+				<milesCar>25445</milesCar>
+				<milesDriven>259.8</milesDriven>
+				<gallons>9.074</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>23.58</costTotal>
+				<notes>Drove up to FDL the previous weekend.</notes>
+			</fillup>
+			<fillup id="127">
+				<date>2009-08-29</date>
+				<milesCar>25616</milesCar>
+				<milesDriven>171.0</milesDriven>
+				<gallons>6.573</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>16.82</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="128">
+				<date>2009-09-03</date>
+				<milesCar>25859</milesCar>
+				<milesDriven>242.8</milesDriven>
+				<gallons>8.163</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>20.89</costTotal>
+				<notes>Drove up to and back from FDL the previous weekend.</notes>
+			</fillup>
+			<fillup id="129">
+				<date>2009-09-21</date>
+				<milesCar>26124</milesCar>
+				<milesDriven>265.4</milesDriven>
+				<gallons>10.101</gallons>
+				<costGallon>2.459</costGallon>
+				<costTotal>24.84</costTotal>
+				<notes>Almost down to 1/4 of a tank.</notes>
+			</fillup>
+			<fillup id="130">
+				<date>2009-09-26</date>
+				<milesCar>26453</milesCar>
+				<milesDriven>328.6</milesDriven>
+				<gallons>11.689</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>28.04</costTotal>
+				<notes>Down to one notch below 1/4 of a tank. Drove to FDL, Appleton, FDL, then back to Madison.</notes>
+			</fillup>
+			<fillup id="131">
+				<date>2009-10-08</date>
+				<milesCar>26739</milesCar>
+				<milesDriven>285.5</milesDriven>
+				<gallons>11.250</gallons>
+				<costGallon>2.439</costGallon>
+				<costTotal>26.31</costTotal>
+				<notes>Paid $2.339 per gallon, from Roundy's Rewards, but noting $2.439 for historical pricing information.</notes>
+			</fillup>
+			<fillup id="132">
+				<date>2009-10-26</date>
+				<milesCar>26960</milesCar>
+				<milesDriven>221.6</milesDriven>
+				<gallons>9.057</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>24.44</costTotal>
+				<notes>No idea how I went so long without needing gas.</notes>
+			</fillup>
+			<fillup id="133">
+				<date>2009-11-09</date>
+				<milesCar>27190</milesCar>
+				<milesDriven>229.5</milesDriven>
+				<gallons>9.076</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>23.59</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="134">
+				<date>2009-11-23</date>
+				<milesCar>27428</milesCar>
+				<milesDriven>238.0</milesDriven>
+				<gallons>10.045</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>26.11</costTotal>
+				<notes>Had training at Inacom, which meant stop and go traffic both ways, all five days.</notes>
+			</fillup>
+			<fillup id="135">
+				<date>2009-11-27</date>
+				<milesCar>27640</milesCar>
+				<milesDriven>211.9</milesDriven>
+				<gallons>8.339</gallons>
+				<costGallon>2.629</costGallon>
+				<costTotal>21.92</costTotal>
+				<notes>Madison to FDL to Columbus, for the holiday.</notes>
+			</fillup>
+			<fillup id="136">
+				<date>2009-12-08</date>
+				<milesCar>27851</milesCar>
+				<milesDriven>210.9</milesDriven>
+				<gallons>8.314</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>21.28</costTotal>
+				<notes>Starting to get colder, so car will be sitting and running from now on.</notes>
+			</fillup>
+			<fillup id="137">
+				<date>2009-12-17</date>
+				<milesCar>27975</milesCar>
+				<milesDriven>124.8</milesDriven>
+				<gallons>6.009</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>15.02</costTotal>
+				<notes>Warm evening, but car has been sitting a bit to warm up.</notes>
+			</fillup>
+			<fillup id="138">
+				<date>2009-12-24</date>
+				<milesCar>28112</milesCar>
+				<milesDriven>136.8</milesDriven>
+				<gallons>5.749</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>14.71</costTotal>
+				<notes>Warm afternoon, with car not sitting as much. Still cold.</notes>
+			</fillup>
+			<fillup id="139">
+				<date>2009-12-28</date>
+				<milesCar>28352</milesCar>
+				<milesDriven>239.4</milesDriven>
+				<gallons>9.562</gallons>
+				<costGallon>2.649</costGallon>
+				<costTotal>25.33</costTotal>
+				<notes>Cold cold, so car sits.</notes>
+			</fillup>
+			<fillup id="140">
+				<date>2010-01-06</date>
+				<milesCar>28544</milesCar>
+				<milesDriven>192.6</milesDriven>
+				<gallons>8.394</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>23.16</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="141">
+				<date>2010-01-22</date>
+				<milesCar>28731</milesCar>
+				<milesDriven>186.5</milesDriven>
+				<gallons>7.724</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>19.30</costTotal>
+				<notes>Paid $2.499 per gallon because of rewards, but noting actual price for future reference. Was sick a couple of times over the last few weeks (hence no travelling).</notes>
+			</fillup>
+			<fillup id="142">
+				<date>2010-01-30</date>
+				<milesCar>28897</milesCar>
+				<milesDriven>165.5</milesDriven>
+				<gallons>7.328</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>19.05</costTotal>
+				<notes>Half a tank, for some reason.</notes>
+			</fillup>
+			<fillup id="143">
+				<date>2010-02-05</date>
+				<milesCar>29144</milesCar>
+				<milesDriven>247.5</milesDriven>
+				<gallons>9.929</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>25.41</costTotal>
+				<notes>To and from FDL, off Monday and Tuesday.</notes>
+			</fillup>
+			<fillup id="144">
+				<date>2010-02-16</date>
+				<milesCar>29411</milesCar>
+				<milesDriven>267.0</milesDriven>
+				<gallons>10.800</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>26.99</costTotal>
+				<notes>Added Heet to car (first time this winter) before filling up.</notes>
+			</fillup>
+			<fillup id="145">
+				<date>2010-02-23</date>
+				<milesCar>29624</milesCar>
+				<milesDriven>213.3</milesDriven>
+				<gallons>8.586</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>22.83</costTotal>
+				<notes>While filling up, strongly remembered when gas was $1 or less a gallon, as well as when it was hitting $4 ...</notes>
+			</fillup>
+			<fillup id="146">
+				<date>2010-03-03</date>
+				<milesCar>29761</milesCar>
+				<milesDriven>136.3</milesDriven>
+				<gallons>5.363</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>14.26</costTotal>
+				<notes>Didn't need to fill up, but 30k (includes oil change) on 2/26 at 29703 miles.</notes>
+			</fillup>
+			<fillup id="147">
+				<date>2010-03-15</date>
+				<milesCar>29956</milesCar>
+				<milesDriven>195.0</milesDriven>
+				<gallons>7.776</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>21.45</costTotal>
+				<notes>Starting to warm up (50s/60s).</notes>
+			</fillup>
+			<fillup id="148">
+				<date>2010-03-26</date>
+				<milesCar>30145</milesCar>
+				<milesDriven>189.0</milesDriven>
+				<gallons>7.086</gallons>
+				<costGallon>2.839</costGallon>
+				<costTotal>20.12</costTotal>
+				<notes>Starting to get cold again.</notes>
+			</fillup>
+			<fillup id="149">
+				<date>2010-03-27</date>
+				<milesCar>30313</milesCar>
+				<milesDriven>168.0</milesDriven>
+				<gallons>6.037</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>16.66</costTotal>
+				<notes>Drove home then up to FDL and back to Madison. That's all three x.0 in a row.</notes>
+			</fillup>
+			<fillup id="150">
+				<date>2010-04-12</date>
+				<milesCar>30616</milesCar>
+				<milesDriven>303.2</milesDriven>
+				<gallons>11.025</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>31.96</costTotal>
+				<notes>Less than a quarter of a tank (maybe a notch?).</notes>
+			</fillup>
+			<fillup id="151">
+				<date>2010-04-23</date>
+				<milesCar>30814</milesCar>
+				<milesDriven>197.6</milesDriven>
+				<gallons>7.205</gallons>
+				<costGallon>2.839</costGallon>
+				<costTotal>20.45</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="152">
+				<date>2010-05-05</date>
+				<milesCar>31026</milesCar>
+				<milesDriven>212.0</milesDriven>
+				<gallons>7.628</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>22.57</costTotal>
+				<notes>About half a tank per the needle. Stayed in a couple of days, and have been trying to coast as much as I can.</notes>
+			</fillup>
+			<fillup id="153">
+				<date>2010-05-14</date>
+				<milesCar>31184</milesCar>
+				<milesDriven>157.8</milesDriven>
+				<gallons>5.897</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>16.51</costTotal>
+				<notes>Tried to coast as much as I can, and speed up/brake as little as possible.</notes>
+			</fillup>
+			<fillup id="154">
+				<date>2010-05-20</date>
+				<milesCar>31400</milesCar>
+				<milesDriven>215.8</milesDriven>
+				<gallons>7.470</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>19.41</costTotal>
+				<notes>Paid 2.599 per gallon, but noting actual price for future reference. Drove to FDL and back, and had the malfunction indicator light turn on the previous night. Otherwise, trying to coast.</notes>
+			</fillup>
+			<fillup id="155">
+				<date>2010-06-02</date>
+				<milesCar>31627</milesCar>
+				<milesDriven>227.2</milesDriven>
+				<gallons>8.007</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>21.29</costTotal>
+				<notes>Oil still leaking into the Gulf of Mexico. Still trying to coast, and while I hit around 110 miles at less than a quarter of a tank (used), I've also been running the air conditioner.</notes>
+			</fillup>
+			<fillup id="156">
+				<date>2010-06-16</date>
+				<milesCar>31873</milesCar>
+				<milesDriven>246.5</milesDriven>
+				<gallons>8.930</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>23.74</costTotal>
+				<notes>Haven't been as good about coasting, and have had to turn on the air conditioner more than a couple times.</notes>
+			</fillup>
+			<fillup id="157">
+				<date>2010-07-05</date>
+				<milesCar>32124</milesCar>
+				<milesDriven>250.9</milesDriven>
+				<gallons>8.938</gallons>
+				<costGallon>2.659</costGallon>
+				<costTotal>23.77</costTotal>
+				<notes>Been better about coasting, but have had the need for speed a couple of times.</notes>
+			</fillup>
+			<fillup id="158">
+				<date>2010-07-19</date>
+				<milesCar>32372</milesCar>
+				<milesDriven>247.7</milesDriven>
+				<gallons>9.068</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>23.57</costTotal>
+				<notes>Paid 2.599 per gallon, but noting actual price for future reference.</notes>
+			</fillup>
+			<fillup id="159">
+				<date>2010-07-30</date>
+				<milesCar>32567</milesCar>
+				<milesDriven>194.7</milesDriven>
+				<gallons>7.117</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>19.21</costTotal>
+				<notes>I thought it was a BP, but bought at a PDQ.</notes>
+			</fillup>
+			<fillup id="160">
+				<date>2010-08-01</date>
+				<milesCar>32866</milesCar>
+				<milesDriven>298.8</milesDriven>
+				<gallons>10.319</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>30.95</costTotal>
+				<notes><![CDATA[Purchased in Janesville, on my way back from Chicago. Should have held off and picked up gas in Madison instead, but ...]]></notes>
+			</fillup>
+			<fillup id="161">
+				<date>2010-08-16</date>
+				<milesCar>33132</milesCar>
+				<milesDriven>266.6</milesDriven>
+				<gallons>9.592</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>25.89</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="162">
+				<date>2010-09-01</date>
+				<milesCar>33408</milesCar>
+				<milesDriven>276.1</milesDriven>
+				<gallons>9.526</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>25.71</costTotal>
+				<notes>Took a couple days off, and have been trying to stay in on the weekend.</notes>
+			</fillup>
+			<fillup id="163">
+				<date>2010-09-15</date>
+				<milesCar>33643</milesCar>
+				<milesDriven>235.1</milesDriven>
+				<gallons>8.896</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>25.79</costTotal>
+				<notes><![CDATA[I don't think I've been so good about keeping the revs down while driving.]]></notes>
+			</fillup>
+			<fillup id="164">
+				<date>2010-10-01</date>
+				<milesCar>33844</milesCar>
+				<milesDriven>200.8</milesDriven>
+				<gallons>7.537</gallons>
+				<costGallon>2.679</costGallon>
+				<costTotal>20.19</costTotal>
+				<notes><![CDATA[Turned on the heat a couple of times, but not much in the way of air.]]></notes>
+			</fillup>
+			<fillup id="165">
+				<date>2010-10-09</date>
+				<milesCar>34017</milesCar>
+				<milesDriven>173.0</milesDriven>
+				<gallons>6.323</gallons>
+				<costGallon>2.849</costGallon>
+				<costTotal>18.01</costTotal>
+				<notes><![CDATA[Just had an oil change approximately 18 miles ago, and my rear breaks and all tires need to be replaced.]]></notes>
+			</fillup>
+			<fillup id="166">
+				<date>2010-10-13</date>
+				<milesCar>34302</milesCar>
+				<milesDriven>284.7</milesDriven>
+				<gallons>10.002</gallons>
+				<costGallon>2.849</costGallon>
+				<costTotal>27.50</costTotal>
+				<notes><![CDATA[Paid $2.749 a gallon, but noting actual price for future reference. This is from Madison to Fond du Lac to Appleton to Fond du Lac to Madison, to work.]]></notes>
+			</fillup>
+			<fillup id="167">
+				<date>2010-10-22</date>
+				<milesCar>34449</milesCar>
+				<milesDriven>146.8</milesDriven>
+				<gallons>5.851</gallons>
+				<costGallon>2.859</costGallon>
+				<costTotal>16.73</costTotal>
+				<notes><![CDATA[Had new rear brakes put on last Friday, and getting new tires and an alignment this afternoon.]]></notes>
+			</fillup>
+			<fillup id="168">
+				<date>2010-11-05</date>
+				<milesCar>34708</milesCar>
+				<milesDriven>258.7</milesDriven>
+				<gallons>10.257</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>29.74</costTotal>
+				<notes><![CDATA[Had a hole in my radiator, so it was in last Friday. Getting cold, and windows requiring scraping, so efficiency starts going down ...]]></notes>
+			</fillup>
+			<fillup id="169">
+				<date>2010-11-14</date>
+				<milesCar>34979</milesCar>
+				<milesDriven>270.7</milesDriven>
+				<gallons>10.943</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>32.60</costTotal>
+				<notes><![CDATA[Getting cold. Drove up to FDL yesterday and back today.]]></notes>
+			</fillup>
+			<fillup id="170">
+				<date>2010-11-26</date>
+				<milesCar>35265</milesCar>
+				<milesDriven>286.1</milesDriven>
+				<gallons>11.502</gallons>
+				<costGallon>2.739</costGallon>
+				<costTotal>30.35</costTotal>
+				<notes><![CDATA[Paid $2.639 per gallon, but marking actual price for statistics. Drove up north and back, for Thanksgiving.]]></notes>
+			</fillup>
+			<fillup id="171">
+				<date>2010-12-10</date>
+				<milesCar>35448</milesCar>
+				<milesDriven>183.1</milesDriven>
+				<gallons>7.798</gallons>
+				<costGallon>2.949</costGallon>
+				<costTotal>23.00</costTotal>
+				<notes><![CDATA[Added Heet to car for the first time this year. Has been rather cold, so I let my car sit as I scrap it off (I think two snow falls so far) and/or warm up.]]></notes>
+			</fillup>
+			<fillup id="172">
+				<date>2010-12-16</date>
+				<milesCar>35616</milesCar>
+				<milesDriven>168.3</milesDriven>
+				<gallons>7.337</gallons>
+				<costGallon>2.979</costGallon>
+				<costTotal>21.86</costTotal>
+				<notes><![CDATA[Getting cold, so I've let my car sit to warm.]]></notes>
+			</fillup>
+			<fillup id="173">
+				<date>2010-12-25</date>
+				<milesCar>35770</milesCar>
+				<milesDriven>154.1</milesDriven>
+				<gallons>6.768</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>20.97</costTotal>
+				<notes>Right before I head up north.</notes>
+			</fillup>
+			<fillup id="174">
+				<date>2011-01-04</date>
+				<milesCar>36020</milesCar>
+				<milesDriven>249.6</milesDriven>
+				<gallons>9.752</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>28.27</costTotal>
+				<notes><![CDATA[Paid $2.899 per gallon, but marking actual price for statistics. Drove up north for Christmas, otherwise tried to stay home.]]></notes>
+			</fillup>
+			<fillup id="175">
+				<date>2011-01-20</date>
+				<milesCar>36245</milesCar>
+				<milesDriven>225.0</milesDriven>
+				<gallons>9.798</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>29.87</costTotal>
+				<notes><![CDATA[Paid $3.049 per gallon, but marking actual price for statistics. Put bottle of Heet in my car.]]></notes>
+			</fillup>
+			<fillup id="176">
+				<date>2011-01-28</date>
+				<milesCar>36391</milesCar>
+				<milesDriven>145.8</milesDriven>
+				<gallons>5.776</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>17.90</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="177">
+				<date>2011-02-11</date>
+				<milesCar>36619</milesCar>
+				<milesDriven>228.4</milesDriven>
+				<gallons>10.251</gallons>
+				<costGallon>3.159</costGallon>
+				<costTotal>32.38</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="178">
+				<date>2011-02-12</date>
+				<milesCar>36885</milesCar>
+				<milesDriven>265.1</milesDriven>
+				<gallons>10.568</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>32.75</costTotal>
+				<notes>Drove up north, then to Appleton, then back, then back home.</notes>
+			</fillup>
+			<fillup id="179">
+				<date>2011-02-25</date>
+				<milesCar>37075</milesCar>
+				<milesDriven>190.2</milesDriven>
+				<gallons>7.707</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>25.50</costTotal>
+				<notes><![CDATA[Paid $3.309 per gallon, but marking actual price for statistics.]]></notes>
+			</fillup>
+			<fillup id="180">
+				<date>2011-03-08</date>
+				<milesCar>37302</milesCar>
+				<milesDriven>226.6</milesDriven>
+				<gallons>8.946</gallons>
+				<costGallon>3.499</costGallon>
+				<costTotal>31.30</costTotal>
+				<notes>Seemingly there's a crisis, resulting in $4 gas around the country. ...</notes>
+			</fillup>
+			<fillup id="181">
+				<date>2011-03-18</date>
+				<milesCar>37481</milesCar>
+				<milesDriven>179.8</milesDriven>
+				<gallons>7.473</gallons>
+				<costGallon>3.499</costGallon>
+				<costTotal>26.15</costTotal>
+				<notes>Added gas before driving up north.</notes>
+			</fillup>
+			<fillup id="182">
+				<date>2011-03-28</date>
+				<milesCar>37746</milesCar>
+				<milesDriven>264.8</milesDriven>
+				<gallons>10.110</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>36.39</costTotal>
+				<notes>Kept pretty much at home 3/23 to 3/27 (vacation).</notes>
+			</fillup>
+			<fillup id="183">
+				<date>2011-04-13</date>
+				<milesCar>37977</milesCar>
+				<milesDriven>230.7</milesDriven>
+				<gallons>8.892</gallons>
+				<costGallon>3.859</costGallon>
+				<costTotal>34.31</costTotal>
+				<notes>And they're talking about gas at $4 already.</notes>
+			</fillup>
+			<fillup id="184">
+				<date>2011-04-26</date>
+				<milesCar>38187</milesCar>
+				<milesDriven>209.5</milesDriven>
+				<gallons>8.475</gallons>
+				<costGallon>3.899</costGallon>
+				<costTotal>33.04</costTotal>
+				<notes>Went to Inacom for training last week, in Madison.</notes>
+			</fillup>
+			<fillup id="185">
+				<date>2011-05-11</date>
+				<milesCar>38403</milesCar>
+				<milesDriven>216.0</milesDriven>
+				<gallons>8.326</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>33.30</costTotal>
+				<notes>Price was above $4 a few days ago.</notes>
+			</fillup>
+			<fillup id="186">
+				<date>2011-05-15</date>
+				<milesCar>38607</milesCar>
+				<milesDriven>203.9</milesDriven>
+				<gallons>7.572</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>29.14</costTotal>
+				<notes><![CDATA[Paid $3.849 per gallon, but marking actual price for statistics. Drove up north and back.]]></notes>
+			</fillup>
+			<fillup id="187">
+				<date>2011-05-24</date>
+				<milesCar>38753</milesCar>
+				<milesDriven>146.9</milesDriven>
+				<gallons>5.375</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>19.67</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="188">
+				<date>2011-06-01</date>
+				<milesCar>38982</milesCar>
+				<milesDriven>228.3</milesDriven>
+				<gallons>8.543</gallons>
+				<costGallon>3.899</costGallon>
+				<costTotal>33.31</costTotal>
+				<notes>Started using my air conditioner this week.</notes>
+			</fillup>
+			<fillup id="189">
+				<date>2011-06-06</date>
+				<milesCar>39195</milesCar>
+				<milesDriven>213.0</milesDriven>
+				<gallons>7.973</gallons>
+				<costGallon>3.799</costGallon>
+				<costTotal>30.29</costTotal>
+				<notes>Just recently had 40k maintenance, and drove over to the Milwaukee Zoo this weekend.</notes>
+			</fillup>
+			<fillup id="190">
+				<date>2011-06-13</date>
+				<milesCar>39339</milesCar>
+				<milesDriven>143.7</milesDriven>
+				<gallons>5.480</gallons>
+				<costGallon>3.999</costGallon>
+				<costTotal>21.91</costTotal>
+				<notes>Stopped in Janesville on my way to Chicago, hence the higher price. Hit $4.199 in Illinois, so could have been worse.</notes>
+			</fillup>
+			<fillup id="191">
+				<date>2011-06-16</date>
+				<milesCar>39605</milesCar>
+				<milesDriven>266.1</milesDriven>
+				<gallons>8.721</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>31.04</costTotal>
+				<notes><![CDATA[Paid $3.559 per gallon, but marking actual price for statistics. Finished my drive to Chicago and back, as well as a trip to work.]]></notes>
+			</fillup>
+			<fillup id="192">
+				<date>2011-06-28</date>
+				<milesCar>39796</milesCar>
+				<milesDriven>191.6</milesDriven>
+				<gallons>7.677</gallons>
+				<costGallon>3.439</costGallon>
+				<costTotal>26.40</costTotal>
+				<notes>Gas prices keep dropping, which is rather nice.</notes>
+			</fillup>
+			<fillup id="193">
+				<date>2011-07-03</date>
+				<milesCar>40074</milesCar>
+				<milesDriven>277.8</milesDriven>
+				<gallons>9.685</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>34.86</costTotal>
+				<notes>Drove up to FDL and back.</notes>
+			</fillup>
+			<fillup id="194">
+				<date>2011-07-20</date>
+				<milesCar>40320</milesCar>
+				<milesDriven>245.5</milesDriven>
+				<gallons>9.832</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>35.48</costTotal>
+				<notes>Paid $3.609 per gallon, but marking actual price for statistics. Almost down to a quarter of a tank. Extremely hot the last two days.</notes>
+			</fillup>
+			<fillup id="195">
+				<date>2011-07-26</date>
+				<milesCar>40585</milesCar>
+				<milesDriven>265.1</milesDriven>
+				<gallons>10.049</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>36.77</costTotal>
+				<notes>Drove up to FDL on Friday, and back Saturday.</notes>
+			</fillup>
+			<fillup id="196">
+				<date>2011-08-09</date>
+				<milesCar>40861</milesCar>
+				<milesDriven>276.3</milesDriven>
+				<gallons>10.444</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>37.07</costTotal>
+				<notes>Paid $3.549 per gallon, but marking actual price for statistics. Am almost positive I was on the pedal and brake quite a bit more than usual the last couple days.</notes>
+			</fillup>
+			<fillup id="197">
+				<date>2011-08-18</date>
+				<milesCar>40984</milesCar>
+				<milesDriven>123.1</milesDriven>
+				<gallons>5.013</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>17.94</costTotal>
+				<notes>A little over a quarter of a tank used. I think I'm going to fill up, for a couple weeks, around Wednesday every week.</notes>
+			</fillup>
+			<fillup id="198">
+				<date>2011-08-24</date>
+				<milesCar>41141</milesCar>
+				<milesDriven>156.8</milesDriven>
+				<gallons>5.699</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>20.40</costTotal>
+				<notes>Drove over to Johnson Creek this past weekend.</notes>
+			</fillup>
+			<fillup id="199">
+				<date>2011-08-31</date>
+				<milesCar>41403</milesCar>
+				<milesDriven>261.5</milesDriven>
+				<gallons>9.262</gallons>
+				<costGallon>3.679</costGallon>
+				<costTotal>33.61</costTotal>
+				<notes>Drove up to Fond du Lac and back that weekend. Actually paid $3.629 per gallon, but marking actual price for statistics.</notes>
+			</fillup>
+			<fillup id="200">
+				<date>2011-09-14</date>
+				<milesCar>41640</milesCar>
+				<milesDriven>237.3</milesDriven>
+				<gallons>9.227</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>33.76</costTotal>
+				<notes>Still a Wednesday, but missed my fillup last week. Starting to get cold so the air hasn't been on that much.</notes>
+			</fillup>
+			<fillup id="201">
+				<date>2011-09-21</date>
+				<milesCar>41764</milesCar>
+				<milesDriven>123.5</milesDriven>
+				<gallons>5.009</gallons>
+				<costGallon>3.519</costGallon>
+				<costTotal>17.63</costTotal>
+				<notes>Another Wednesday. About a quarter of a tank. Prices dropped just recently (possibly today).</notes>
+			</fillup>
+			<fillup id="202">
+				<date>2011-09-28</date>
+				<milesCar>41859</milesCar>
+				<milesDriven>95.6</milesDriven>
+				<gallons>4.085</gallons>
+				<costGallon>3.419</costGallon>
+				<costTotal>13.97</costTotal>
+				<notes>Another Wednesday. Almost a quarter of a tank. Stopped around 3.8 gallons and I turned it back on again to get this horrible MPG.</notes>
+			</fillup>
+			<fillup id="203">
+				<date>2011-10-05</date>
+				<milesCar>41951</milesCar>
+				<milesDriven>91.7</milesDriven>
+				<gallons>3.140</gallons>
+				<costGallon>3.349</costGallon>
+				<costTotal>10.52</costTotal>
+				<notes>Was expecting 4 gallons.</notes>
+			</fillup>
+			<fillup id="204">
+				<date>2011-10-12</date>
+				<milesCar>42023</milesCar>
+				<milesDriven>72.0</milesDriven>
+				<gallons>2.908</gallons>
+				<costGallon>3.319</costGallon>
+				<costTotal>9.65</costTotal>
+				<notes>Wasn't expecting it to get that close to 3 gallons. Temps have been pretty nice.</notes>
+			</fillup>
+			<fillup id="205">
+				<date>2011-10-19</date>
+				<milesCar>42128</milesCar>
+				<milesDriven>104.4</milesDriven>
+				<gallons>4.224</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>14.36</costTotal>
+				<notes>Again, wasn't expecting it to get about 4 gallons. Turned on the heat in my car the last two days.</notes>
+			</fillup>
+			<fillup id="206">
+				<date>2011-10-26</date>
+				<milesCar>42238</milesCar>
+				<milesDriven>110.3</milesDriven>
+				<gallons>4.336</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>14.56</costTotal>
+				<notes>Was under a quarter of a tank, so I'm not sure how I had to put this many gallons in. One more fillup next week and then I'm on to every other week.</notes>
+			</fillup>
+			<fillup id="207">
+				<date>2011-11-02</date>
+				<milesCar>42431</milesCar>
+				<milesDriven>192.9</milesDriven>
+				<gallons>7.150</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>23.30</costTotal>
+				<notes>Drove to Fort Atkinson and back last weekend. Paid $3.259 per gallon due to Rewards card. Cold and dreary. This also marks the last time I automatically put gas in my car because it's a Wednesday.</notes>
+			</fillup>
+			<fillup id="208">
+				<date>2011-11-16</date>
+				<milesCar>42582</milesCar>
+				<milesDriven>151.4</milesDriven>
+				<gallons>6.171</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>20.73</costTotal>
+				<notes>Cold and cold. Just one day of light snow, however.</notes>
+			</fillup>
+			<fillup id="209">
+				<date>2011-11-23</date>
+				<milesCar>42695</milesCar>
+				<milesDriven>112.8</milesDriven>
+				<gallons>4.578</gallons>
+				<costGallon>3.239</costGallon>
+				<costTotal>14.83</costTotal>
+				<notes>Thanksgiving is tomorrow, hence the stop. Surprised the price didn't jump over the course of the last few days, though.</notes>
+			</fillup>
+			<fillup id="210">
+				<date>2011-11-25</date>
+				<milesCar>42866</milesCar>
+				<milesDriven>170.5</milesDriven>
+				<gallons>6.296</gallons>
+				<costGallon>3.219</costGallon>
+				<costTotal>20.27</costTotal>
+				<notes>Went to Fond du Lac and back. Surprised the price actually went down, seeing as how today is Black Friday.</notes>
+			</fillup>
+			<fillup id="211">
+				<date>2011-11-27</date>
+				<milesCar>42959</milesCar>
+				<milesDriven>92.7</milesDriven>
+				<gallons>3.386</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>11.51</costTotal>
+				<notes>Added gas in Beloit before I crossed over to Illinois when I dropped my sister off today.</notes>
+			</fillup>
+			<fillup id="212">
+				<date>2011-11-30</date>
+				<milesCar>43239</milesCar>
+				<milesDriven>280.0</milesDriven>
+				<gallons>10.643</gallons>
+				<costGallon>3.219</costGallon>
+				<costTotal>33.20</costTotal>
+				<notes>Actually paid $3.119/gallon due to rewards card, but marking actual price for historical purposes.</notes>
+			</fillup>
+			<fillup id="213">
+				<date>2011-12-15</date>
+				<milesCar>43442</milesCar>
+				<milesDriven>203.4</milesDriven>
+				<gallons>8.679</gallons>
+				<costGallon>3.169</costGallon>
+				<costTotal>27.50</costTotal>
+				<notes>Not sure why there was a drop in price. We've only had two snows this season, one of which didn't really count since it melted very fast.</notes>
+			</fillup>
+			<fillup id="214">
+				<date>2011-12-28</date>
+				<milesCar>43603</milesCar>
+				<milesDriven>161.3</milesDriven>
+				<gallons>6.752</gallons>
+				<costGallon>3.259</costGallon>
+				<costTotal>22.00</costTotal>
+				<notes>Added Heet to the vehicle before adding gas. 22 even was rather odd, and unexpected. Have had to scrap off my car most days.</notes>
+			</fillup>
+			<fillup id="215">
+				<date>2012-01-05</date>
+				<milesCar>43737</milesCar>
+				<milesDriven>133.7</milesDriven>
+				<gallons>5.321</gallons>
+				<costGallon>3.299</costGallon>
+				<costTotal>17.55</costTotal>
+				<notes>Fairly warm, and not much ice on the windows.</notes>
+			</fillup>
+			<fillup id="216">
+				<date>2012-01-20</date>
+				<milesCar>43959</milesCar>
+				<milesDriven>221.4</milesDriven>
+				<gallons>9.539</gallons>
+				<costGallon>3.359</costGallon>
+				<costTotal>29.66</costTotal>
+				<notes>Actually paid $3.109/gallon due to rewards card, but marking actual price for historical purposes. Has been really cold, and this time I was almost at 1/4 of a tank of gas (I got really sick).</notes>
+			</fillup>
+			<fillup id="217">
+				<date>2012-01-26</date>
+				<milesCar>44068</milesCar>
+				<milesDriven>109.1</milesDriven>
+				<gallons>4.481</gallons>
+				<costGallon>3.299</costGallon>
+				<costTotal>14.78</costTotal>
+				<notes>It's actually been pretty nice out. Now past the point when I should get an oil change, but things have been a bit busy.</notes>
+			</fillup>
+			<fillup id="218">
+				<date>2012-02-04</date>
+				<milesCar>44229</milesCar>
+				<milesDriven>160.9</milesDriven>
+				<gallons>6.766</gallons>
+				<costGallon>3.339</costGallon>
+				<costTotal>22.59</costTotal>
+				<notes>Had oil change at 44207 miles, which was a little later than I should have, but that's okay.</notes>
+			</fillup>
+			<fillup id="219">
+				<date>2012-02-05</date>
+				<milesCar>44486</milesCar>
+				<milesDriven>257.6</milesDriven>
+				<gallons>9.631</gallons>
+				<costGallon>3.339</costGallon>
+				<costTotal>31.68</costTotal>
+				<notes>Actually paid $3.289/gallon due to rewards card, but marking actual price for historical purposes. Drove up to Fond du Lac, Appleton, a bit around Oshkosh, and back home.</notes>
+			</fillup>
+			<fillup id="220">
+				<date>2012-02-16</date>
+				<milesCar>44703</milesCar>
+				<milesDriven>216.5</milesDriven>
+				<gallons>8.998</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>30.13</costTotal>
+				<notes>Actually paid $3.349/gallon due to rewards card, but marking actual price for historical purposes. A couple really cold days.</notes>
+			</fillup>
+			<fillup id="221">
+				<date>2012-02-19</date>
+				<milesCar>45028</milesCar>
+				<milesDriven>325.0</milesDriven>
+				<gallons>12.152</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>41.30</costTotal>
+				<notes>This may be almost the most I've had to put in. Down to about 1/8th of a tank. Filled up in Janesville on my way back from Chicago.</notes>
+			</fillup>
+			<fillup id="222">
+				<date>2012-03-24</date>
+				<milesCar>45292</milesCar>
+				<milesDriven>264.4</milesDriven>
+				<gallons>11.043</gallons>
+				<costGallon>3.959</costGallon>
+				<costTotal>43.72</costTotal>
+				<notes>BP is no longer a partner with Roundys for the lower gas prices, so I might be switching from BP after this. This is just mileage since the last fillup, before I drove up north.</notes>
+			</fillup>
+			<fillup id="223">
+				<date>2012-04-03</date>
+				<milesCar>45618</milesCar>
+				<milesDriven>325.2</milesDriven>
+				<gallons>11.576</gallons>
+				<costGallon>3.979</costGallon>
+				<costTotal>44.32</costTotal>
+				<notes>Paid $3.829 per gallon with rewards card, but marking actual price for historical purposes. Filled up at BP on S Gammon.</notes>
+			</fillup>
+			<fillup id="224">
+				<date>2012-05-05</date>
+				<milesCar>45814</milesCar>
+				<milesDriven>196.3</milesDriven>
+				<gallons>7.726</gallons>
+				<costGallon>3.699</costGallon>
+				<costTotal>28.58</costTotal>
+				<notes>Before heading up north.</notes>
+			</fillup>
+			<fillup id="225">
+				<date>2012-05-19</date>
+				<milesCar>46102</milesCar>
+				<milesDriven>288.1</milesDriven>
+				<gallons>10.008</gallons>
+				<costGallon>3.659</costGallon>
+				<costTotal>36.62</costTotal>
+				<notes>Filled up in Edgerton, on my way to Whitewater.</notes>
+			</fillup>
+			<fillup id="226">
+				<date>2012-06-02</date>
+				<milesCar>46401</milesCar>
+				<milesDriven>298.5</milesDriven>
+				<gallons>11.380</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>40.96</costTotal>
+				<notes>Filled up before I headed up to Apocalypse Paintball today. Includes a trip to Fond du Lac a weekend ago.</notes>
+			</fillup>
+			<fillup id="227">
+				<date>2012-06-30</date>
+				<milesCar>46754</milesCar>
+				<milesDriven>353.8</milesDriven>
+				<gallons>12.814</gallons>
+				<costGallon>3.319</costGallon>
+				<costTotal>42.53</costTotal>
+				<notes>Empty light turned on. Stopped after dropping off things in storage after a drive up to and back from FDL.</notes>
+			</fillup>
+			<fillup id="228">
+				<date>2012-07-15</date>
+				<milesCar>47059</milesCar>
+				<milesDriven>304.0</milesDriven>
+				<gallons>11.308</gallons>
+				<costGallon>3.339</costGallon>
+				<costTotal>34.93</costTotal>
+				<notes>Saved $0.25/gallon with Roundy's card (so $3.089), but marking normal price for historical purposes. Began moving Friday night, and this is about 6 trips?.</notes>
+			</fillup>
+			<fillup id="229">
+				<date>2012-07-22</date>
+				<milesCar>47262</milesCar>
+				<milesDriven>203.3</milesDriven>
+				<gallons>7.124</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>24.21</costTotal>
+				<notes>Moving, and before heading to Chicago.</notes>
+			</fillup>
+			<fillup id="230">
+				<date>2012-07-23</date>
+				<milesCar>47629</milesCar>
+				<milesDriven>367.2</milesDriven>
+				<gallons>12.900</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>43.85</costTotal>
+				<notes>Chicago and back, and final two trips to old place.</notes>
+			</fillup>
+			<fillup id="231">
+				<date>2012-09-14</date>
+				<milesCar>47973</milesCar>
+				<milesDriven>343.6</milesDriven>
+				<gallons>12.804</gallons>
+				<costGallon>3.859</costGallon>
+				<costTotal>46.85</costTotal>
+				<notes>Paid only $3.659, thanks to Roundy's Rewards. Got the light to turn on again.</notes>
+			</fillup>
+			<fillup id="232">
+				<date>2012-09-29</date>
+				<milesCar>48174</milesCar>
+				<milesDriven>201.5</milesDriven>
+				<gallons>7.734</gallons>
+				<costGallon>3.799</costGallon>
+				<costTotal>29.38</costTotal>
+				<notes>Helped mom move second-to-last batch of stuff from FDL.</notes>
+			</fillup>
+			<fillup id="233">
+				<date>2012-10-06</date>
+				<milesCar>48396</milesCar>
+				<milesDriven>222.1</milesDriven>
+				<gallons>7.705</gallons>
+				<costGallon>3.759</costGallon>
+				<costTotal>28.58</costTotal>
+				<notes>Paid only $3.709 thanks to Roundy's Rewards. Before driving over towards Milwaukee for clothing and electronics shopping.</notes>
+			</fillup>
+			<fillup id="234">
+				<date>2012-11-02</date>
+				<milesCar>48668</milesCar>
+				<milesDriven>271.4</milesDriven>
+				<gallons>10.531</gallons>
+				<costGallon>3.339</costGallon>
+				<costTotal>34.11</costTotal>
+				<notes>Paid only $3.239 per gallon, thanks to Roundy's card.</notes>
+			</fillup>
+			<fillup id="235">
+				<date>2012-12-16</date>
+				<milesCar>48834</milesCar>
+				<milesDriven>165.8</milesDriven>
+				<gallons>7.374</gallons>
+				<costGallon>3.169</costGallon>
+				<costTotal>23.37</costTotal>
+				<notes>Only half a tank, but prices are really low this time of year.</notes>
+			</fillup>
+		</fillups>
+	</vehicle>
+</vehicles>

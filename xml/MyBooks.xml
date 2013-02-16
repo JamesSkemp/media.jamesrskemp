@@ -10544,4 +10544,12 @@
 		<buy date="2012-12-05" price="9.99" place="O'Reilly.com"/>
 		<notes>Saved 50% ($10) as it's the deal of the day.</notes>
 	</book>
+	<book id="1018">
+		<title>The Shadow of the Wind</title>
+		<authors>
+			<author>Carlos Ruiz Zafon</author>
+		</authors>
+		<buy date="2013-02-04" price="12.99" place="Amazon.com"/>
+		<notes>Kindle Edition. Got for new book club.</notes>
+	</book>
 </books>

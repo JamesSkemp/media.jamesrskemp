@@ -10199,4 +10199,18 @@
 		<own>yes</own>
 		<notes>Received 2/13/2013. Picked up since it was a nice price. And trophies don't seem that hard-ish ...</notes>
 	</game>
+	<game id="703">
+		<title>Fire Emblem: Awakening</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2013-02-11</date>
+			<price>39.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 2/15/2013. Was out of stock when I ordered (wasn't available anywhere in Wisconsin).</notes>
+	</game>
 </games>

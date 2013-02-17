@@ -10213,4 +10213,18 @@
 		<own>yes</own>
 		<notes>Received 2/15/2013. Was out of stock when I ordered (wasn't available anywhere in Wisconsin).</notes>
 	</game>
+	<game id="704">
+		<title>Darksiders II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-02-16</date>
+			<price>14.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$35 off, and Amazon is selling for $35, so such a good deal, I bought both console versions. This one was available for pick up.</notes>
+	</game>
 </games>

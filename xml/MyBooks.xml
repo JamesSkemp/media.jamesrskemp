@@ -10552,4 +10552,19 @@
 		<buy date="2013-02-04" price="12.99" place="Amazon.com"/>
 		<notes>Kindle Edition. Got for new book club.</notes>
 	</book>
+	<book id="1019">
+		<title>Learning PHP Design Patterns</title>
+		<buy date="2013-02-21" price="11.99" place="O'Reilly.com" />
+		<notes>Electronic version. Saved 50% with coupon (PHP week).</notes>
+	</book>
+	<book id="1020">
+		<title>Programming PHP, 3rd Edition</title>
+		<buy date="2013-02-21" price="13.99" place="O'Reilly.com" />
+		<notes>Electronic version. Saved 50% with coupon (PHP week).</notes>
+	</book>
+	<book id="1021">
+		<title>C# in Depth, Third Edition</title>
+		<buy date="2013-02-21" price="9.99" place="Manning.com" />
+		<notes>Electronic version. Saved $30 since I had purchased the previous copy.</notes>
+	</book>
 </books>

@@ -10241,4 +10241,18 @@
 		<own>yes</own>
 		<notes>$10 off this week, and since everyone says it's good, picking up while they still have copies.</notes>
 	</game>
+	<game id="706">
+		<title>Darksiders II</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-02-11</date>
+			<price>14.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$35 off, and Amazon is selling for $35, so such a good deal, I bought both console versions. This one had to be shipped to the store, and I finally was able to pick it up 2/21..</notes>
+	</game>
 </games>

@@ -10239,7 +10239,10 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes>$10 off this week, and since everyone says it's good, picking up while they still have copies.</notes>
+		<notes>
+			$10 off this week, and since everyone says it's good, picking up while they still have copies.
+			Bought game guide 2/21/2013 from Amazon.com, which I paid $23.99 for (although $10 of that was via a survey certificate).
+		</notes>
 	</game>
 	<game id="706">
 		<title>Darksiders II</title>

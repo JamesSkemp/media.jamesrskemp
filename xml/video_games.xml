@@ -10258,4 +10258,60 @@
 		<own>yes</own>
 		<notes>$35 off, and Amazon is selling for $35, so such a good deal, I bought both console versions. This one had to be shipped to the store, and I finally was able to pick it up 2/21..</notes>
 	</game>
+	<game id="707" electronic="true">
+		<title>Walking Dead - Season Pass (Episodes 1-5), The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-02-26</date>
+			<price>9.79</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, as it's a player's choice winner.</notes>
+	</game>
+	<game id="708" electronic="true">
+		<title>Journey</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-02-26</date>
+			<price>7.34</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, as it's a player's choice winner.</notes>
+	</game>
+	<game id="709">
+		<title>Persona 2: Eternal Punishment</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2013-02-26</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Just released today.</notes>
+	</game>
+	<game id="710">
+		<title>Dragon Age Origins: Ultimate Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-02-23</date>
+			<price>39.99</price>
+			<place>Amazon.com (Kevin's Video Games)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Paid $3.99 for shipping. Cheapest price, as it's getting hard to find. Decided to get the remaining achievements for this game, at some point.</notes>
+	</game>
 </games>

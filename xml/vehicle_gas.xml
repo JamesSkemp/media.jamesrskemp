@@ -2730,6 +2730,15 @@
 				<costTotal>23.37</costTotal>
 				<notes>Only half a tank, but prices are really low this time of year.</notes>
 			</fillup>
+			<fillup id="236">
+				<date>2013-02-28</date>
+				<milesCar>48999</milesCar>
+				<milesDriven>164.9</milesDriven>
+				<gallons>9.399</gallons>
+				<costGallon>3.699</costGallon>
+				<costTotal>31.95</costTotal>
+				<notes>Little under half a tank, since I don't drive much. Paid only $3.399 per gallon, thanks to Roundy's card.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

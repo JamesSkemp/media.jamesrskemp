@@ -53,7 +53,10 @@
 	<album id="9">
 		<title>Timepieces The Best of Eric Clapton</title>
 		<artist>Eric Clapton</artist>
-		<notes>Bought before 12/13/2000</notes>
+		<notes>
+			Bought before 12/13/2000.
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="10">
 		<title>No Ordinary World</title>
@@ -232,7 +235,10 @@
 	<album id="42">
 		<title>You're the One</title>
 		<artist>Paul Simon</artist>
-		<notes>Bought after 12/13/2000</notes>
+		<notes>
+			Bought after 12/13/2000.
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="43">
 		<title>Simon and Garfunkel's Greatest Hits</title>
@@ -315,7 +321,10 @@
 	<album id="56">
 		<title>Greatest Hits</title>
 		<artist>James Taylor</artist>
-		<notes>Bought before 12/13/2000</notes>
+		<notes>
+			Bought before 12/13/2000.
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="57">
 		<title>Best of Three Dog Night, The</title>
@@ -1020,7 +1029,10 @@
 			<date>2002-12-25</date>
 			<price>0.00</price>
 		</purchase>
-		<notes>Received from mom for Christmas</notes>
+		<notes>
+			Received from mom for Christmas.
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="144">
 		<title>Best of Led Zeppelin Volume One: Early Days, The</title>
@@ -1029,7 +1041,10 @@
 			<date>2002-12-25</date>
 			<price>0.00</price>
 		</purchase>
-		<notes>Received from mom for Christmas</notes>
+		<notes>
+			Received from mom for Christmas.
+			Sold physical copy for $2.50 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="145">
 		<title>Best of Led Zeppelin Volume Two: Latter Days, The</title>
@@ -1038,7 +1053,10 @@
 			<date>2002-12-25</date>
 			<price>0.00</price>
 		</purchase>
-		<notes>Received from mom for Christmas</notes>
+		<notes>
+			Received from mom for Christmas.
+			Sold physical copy for $2.50 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="146">
 		<title>Heaven and Hell</title>
@@ -1133,7 +1151,10 @@
 			<date>2003-01-14</date>
 			<price>11.99</price>
 		</purchase>
-		<notes>Bought at Best Buy, Green Bay</notes>
+		<notes>
+			Bought at Best Buy, Green Bay.
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="157">
 		<title>Built to Last</title>
@@ -1178,7 +1199,10 @@
 			<date>2003-02-01</date>
 			<price>6.29</price>
 		</purchase>
-		<notes>Barnes &amp; Noble (Green Bay)</notes>
+		<notes>
+			Barnes &amp; Noble (Green Bay).
+			Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</album>
 	<album id="162">
 		<title>Electric Light Orchestra Part 2</title>
@@ -1643,6 +1667,7 @@
 			<place>Target - East Madison</place>
 			<price>9.99</price>
 		</purchase>
+		<notes>Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</album>
 	<album id="214">
 		<title>Classic Sinatra: His Great Performances 1953 - 1960</title>
@@ -1661,6 +1686,7 @@
 			<place>Christmas gift from mom</place>
 			<price>0.00</price>
 		</purchase>
+		<notes>Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</album>
 	<album id="216">
 		<title>Wind on the Water</title>
@@ -1670,6 +1696,7 @@
 			<place>Christmas gift from mom</place>
 			<price>0.00</price>
 		</purchase>
+		<notes>Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</album>
 	<album id="217">
 		<title>Crosby Nash</title>
@@ -1892,6 +1919,7 @@
 			<place>Sam's Club - Madison</place>
 			<price>15.23</price>
 		</purchase>
+		<notes>Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</album>
 	<album id="241">
 		<title>Full Moon</title>
@@ -2441,6 +2469,7 @@
 			<place>Mega Media Xchange (Madison WI)</place>
 			<price>6.99</price>
 		</purchase>
+		<notes>Sold physical copy for $2 on 3/3/2013 at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689 (so the same place I bought it).</notes>
 	</album>
 	<album id="301">
 		<title>Terrapin Station</title>

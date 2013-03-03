@@ -10314,4 +10314,46 @@
 		<own>yes</own>
 		<notes>Paid $3.99 for shipping. Cheapest price, as it's getting hard to find. Decided to get the remaining achievements for this game, at some point.</notes>
 	</game>
+	<game id="711">
+		<title>Naughty Bear: Gold Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-03</date>
+			<price>16.19</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $1.80 with card.</notes>
+	</game>
+	<game id="712">
+		<title>Red Faction: Armageddon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-03</date>
+			<price>5.99</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No idea why the new copy was so cheap. Probably because it's THQ.</notes>
+	</game>
+	<game id="713">
+		<title>Dynasty Warriors 6</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-03</date>
+			<price>17.99</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $2.00 with card. This iteration seems to be pretty expensive, on both consoles (but especially 360).</notes>
+	</game>
 </games>

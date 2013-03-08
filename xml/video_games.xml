@@ -10356,4 +10356,18 @@
 		<own>yes</own>
 		<notes>Saved $2.00 with card. This iteration seems to be pretty expensive, on both consoles (but especially 360).</notes>
 	</game>
+	<game id="714" electronic="true">
+		<title>Spec Ops: The Line</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members this week, normally either $39.99 or $29.99, depending upon what page of the store you're on. Heard it's a squad-based shooter with a great story.</notes>
+	</game>
 </games>

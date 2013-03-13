@@ -10384,4 +10384,18 @@
 		<own>yes</own>
 		<notes>Came with book and some DLC.</notes>
 	</game>
+	<game id="716" addOn="true" electronic="true">
+		<title>Scott Pilgrim: Online Multiplayer + Wallace Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-12</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but $1 off for PlayStation Plus. Just came out yesterday, after a long wait.</notes>
+	</game>
 </games>

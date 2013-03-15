@@ -10398,4 +10398,18 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but $1 off for PlayStation Plus. Just came out yesterday, after a long wait.</notes>
 	</game>
+	<game id="717">
+		<title>Blue Dragon Plus</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2013-03-11</date>
+			<price>13.55</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/14/2013.</notes>
+	</game>
 </games>

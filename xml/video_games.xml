@@ -8858,7 +8858,10 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 10/26/2012 (at the office yesterday). Effectively free since I got $233 for selling my iPad on Amazon.com.</notes>
+		<notes>
+			Received 10/26/2012 (at the office yesterday). Effectively free since I got $233 for selling my iPad on Amazon.com.
+			Bought stragegy guide 3/16/2013 for $19.99 (worth it) from Pre-Played, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="608">
 		<title>The House of the Dead Overkill: Extended Cut</title>
@@ -10410,6 +10413,40 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2013.</notes>
+		<notes>
+			Received 3/14/2013.
+			Bought strategy guide 3/16/2013 from Pre-Played, 3868 East Washington Ave, Madison WI 53704 for $5.99.
+		</notes>
+	</game>
+	<game id="718">
+		<title>Zone of the Enders: The 2nd Runner</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-03-16</date>
+			<price>19.99</price>
+			<place>Pre-Played, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="719">
+		<title>Star Ocean: The Last Hope</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-16</date>
+			<price>13.99</price>
+			<place>Pre-Played, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Finally decided to pick this version up. More because I got the strategy guide, which was for the 360 version.
+			Bought strategy guide 3/16/2013 for $9.99 (absolute steal, since it's going for $60+ used) from Pre-Played, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 </games>

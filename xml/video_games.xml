@@ -10449,4 +10449,74 @@
 			Bought strategy guide 3/16/2013 for $9.99 (absolute steal, since it's going for $60+ used) from Pre-Played, 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
+	<game id="720" addOn="true" electronic="true">
+		<title>Deus Ex: Human Revolution The Missing Link</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-26</date>
+			<price>6.74</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week, with additional PlayStation Plus discount. Normally $14.99.</notes>
+	</game>
+	<game id="721" addOn="true" electronic="true">
+		<title>Sleeping Dogs Nightmare in North Point Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-26</date>
+			<price>3.14</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week, with additional PlayStation Plus discount. Normally $6.99.</notes>
+	</game>
+	<game id="722" electronic="true">
+		<title>Stacking</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-26</date>
+			<price>3.75</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week, with additional PlayStation Plus discount. Normally $14.99.</notes>
+	</game>
+	<game id="723" electronic="true">
+		<title>Disgaea 3: Absence of Detention</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-03-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus subscribers.</notes>
+	</game>
+	<game id="724">
+		<title>Persona 4 Golden</title>
+		<system>
+			<console>PlayStation Vita</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2013-03-24</date>
+			<price>29.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PSN has a sale on it, and others are following. Probably ended on Tuesday, so ... I bought my first PS Vita game! Received 3/27/2013.</notes>
+	</game>
 </games>

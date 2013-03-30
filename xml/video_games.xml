@@ -10519,4 +10519,46 @@
 		<own>yes</own>
 		<notes>PSN has a sale on it, and others are following. Probably ended on Tuesday, so ... I bought my first PS Vita game! Received 3/27/2013.</notes>
 	</game>
+	<game id="725">
+		<title>Elder Scrolls V: Skyrim, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-30</date>
+			<price>39.99</price>
+			<place>Best Buy #208, Madison WI 53713</place>
+		</purchase>
+		<own>yes</own>
+		<notes>DLC is 50% off until 4/1, so since they probably won't have an ultimate edition, might as well finally get the game.</notes>
+	</game>
+	<game id="726">
+		<title>Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs King Abaddon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-03-30</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Bought since it's the first time I've seen the game at a reasonable price, and I don't want to open my sealed copy.</notes>
+	</game>
+	<game id="727">
+		<title>Fist of the North Star: Ken's Rage (Japan)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-30</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese import version. Might as well get another 100% from the game ... :)</notes>
+	</game>
 </games>

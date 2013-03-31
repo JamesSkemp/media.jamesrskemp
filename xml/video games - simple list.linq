@@ -1,6 +1,6 @@
 <Query Kind="Statements" />
 
-XDocument xml = XDocument.Load(@"C:\Users\James\Projects\JamesRSkemp\JamesRSkemp.Media.Web\xml\video_games.xml");
+XDocument xml = XDocument.Load(@"C:\Users\James\Projects\GitHub\JamesRSkemp\JamesRSkemp.Media.Web\xml\video_games.xml");
 
 var datum = from x in xml.Descendants("game")
 	//where x.Element("own").Value == "yes" && x.Attribute("addOn") == null

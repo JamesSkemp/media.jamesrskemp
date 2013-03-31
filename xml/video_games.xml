@@ -10520,7 +10520,7 @@
 		<notes>PSN has a sale on it, and others are following. Probably ended on Tuesday, so ... I bought my first PS Vita game! Received 3/27/2013.</notes>
 	</game>
 	<game id="725">
-		<title>Elder Scrolls V: Skyrim, The</title>
+		<title>Elder Scrolls V, The: Skyrim</title>
 		<system>
 			<console>Xbox</console>
 			<version>360</version>
@@ -10560,5 +10560,131 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Japanese import version. Might as well get another 100% from the game ... :)</notes>
+	</game>
+	<game id="728" addOn="true" electronic="true">
+		<title>Elder Scrolls V, The: Skyrim: Dragonborn</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>10.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off until tomorrow.</notes>
+	</game>
+	<game id="729" addOn="true" electronic="true">
+		<title>Elder Scrolls V, The: Skyrim: Dawnguard</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>10.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off until tomorrow.</notes>
+	</game>
+	<game id="730" addOn="true" electronic="true">
+		<title>Elder Scrolls V, The: Skyrim: Heartfire</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>2.50</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off until tomorrow.</notes>
+	</game>
+	<game id="731" addOn="true" electronic="true" beat="true">
+		<title>Stacking The Lost Hobo King (Add-On Content)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought primarily for the trophies/to 100% the game.</notes>
+	</game>
+	<game id="732" addOn="true" electronic="true">
+		<title>L.A. Noire Rockstar Pass (Add-On Content)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes all four DLC that include trophies, and a couple other DLC items.</notes>
+	</game>
+	<game id="733" addOn="true" electronic="true">
+		<title>Sleeping Dogs: The Year of the Snake (Add-On Content)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>6.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>While other DLC is on sale this week, this one isn't. But I have the other DLC, and it sounds fun.</notes>
+	</game>
+	<game id="734" addOn="true" electronic="true">
+		<title>Gravity Rush Spy Costume Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was eventually going to purchase anyway, and this bumps me over $50 spent this month, so I should get $10 back.</notes>
+	</game>
+	<game id="735" addOn="true" electronic="true">
+		<title>Gravity Rush Maid Costume Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was eventually going to purchase anyway, and this bumps me over $50 spent this month, so I should get $10 back.</notes>
+	</game>
+	<game id="736" addOn="true" electronic="true">
+		<title>Gravity Rush Military Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-03-31</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was eventually going to purchase anyway, and this bumps me over $50 spent this month, so I should get $10 back.</notes>
 	</game>
 </games>

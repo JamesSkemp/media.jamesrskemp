@@ -10687,4 +10687,18 @@
 		<own>yes</own>
 		<notes>Was eventually going to purchase anyway, and this bumps me over $50 spent this month, so I should get $10 back.</notes>
 	</game>
+	<game id="737">
+		<title>Dishonored</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-03-29</date>
+			<price>29.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was on sale. Heard good things about it. Was delivered 4/2, but had to pick up from the post office on 4/3.</notes>
+	</game>
 </games>

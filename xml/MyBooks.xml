@@ -10567,4 +10567,9 @@
 		<buy date="2013-02-21" price="9.99" place="Manning.com" />
 		<notes>Electronic version. Saved $30 since I had purchased the previous copy.</notes>
 	</book>
+	<book id="1022">
+		<title>Thinking, Fast and Slow</title>
+		<buy date="2013-03-29" price="11.99" place="Amazon.com"/>
+		<notes>Kindle Edition. Got for second meeting of new book club.</notes>
+	</book>
 </books>

@@ -10701,4 +10701,18 @@
 		<own>yes</own>
 		<notes>Was on sale. Heard good things about it. Was delivered 4/2, but had to pick up from the post office on 4/3.</notes>
 	</game>
+	<game id="738">
+		<title>Record of Agaret War Zero: Limited Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-04-08</date>
+			<price>19.83</price>
+			<place>Amazon.com (Hubbagames)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Limited Edition was cheaper than the regular edition, and it keeps dropping down to this price. Time to just buy it.</notes>
+	</game>
 </games>

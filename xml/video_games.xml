@@ -10715,4 +10715,32 @@
 		<own>yes</own>
 		<notes>Limited Edition was cheaper than the regular edition, and it keeps dropping down to this price. Time to just buy it.</notes>
 	</game>
+	<game id="739">
+		<title>Velvet Assassin</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-04-14</date>
+			<price>4.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved 10% ($0.50) with PowerUp card.</notes>
+	</game>
+	<game id="740">
+		<title>Tropico 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-04-14</date>
+			<price>13.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved 10% ($1.50) with PowerUp card.</notes>
+	</game>
 </games>

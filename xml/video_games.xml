@@ -10743,4 +10743,18 @@
 		<own>yes</own>
 		<notes>Used. Saved 10% ($1.50) with PowerUp card.</notes>
 	</game>
+	<game id="741">
+		<title>Pandora's Tower</title>
+		<system>
+			<console>Wii</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-02-05</date>
+			<price>39.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Released 4/16/2013 and received 4/17/2013.</notes>
+	</game>
 </games>

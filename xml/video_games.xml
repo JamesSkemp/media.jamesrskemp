@@ -10771,4 +10771,18 @@
 		<own>yes</own>
 		<notes>2nd copy. Released 4/16/2013 and delivered 4/18/2013. Picked up from the office the next day.</notes>
 	</game>
+	<game id="743">
+		<title>Devil May Cry 4</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-04-28</date>
+			<price>6.29</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved 10% ($0.70) with PowerUp card.</notes>
+	</game>
 </games>

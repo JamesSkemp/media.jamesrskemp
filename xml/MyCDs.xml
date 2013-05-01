@@ -5799,4 +5799,24 @@
 		</purchase>
 		<notes>Can only purchase the CD otherwise. Supposedly it's just that good. And I kept digging and purchased tickets to her show in March. At $20, you can't go wrong.</notes>
 	</album>
+	<album id="649">
+		<title>The Haunted Man (Deluxe Version)</title>
+		<artist>Bat For Lashes</artist>
+		<purchase>
+			<date>2013-05-01</date>
+			<place>Amazon.com</place>
+			<price>11.49</price>
+		</purchase>
+		<notes>Otherwise $9.49 for 5 less songs.</notes>
+	</album>
+	<album id="650">
+		<title>Born To Die (Deluxe Version)</title>
+		<artist>Lana Del Rey</artist>
+		<purchase>
+			<date>2013-05-01</date>
+			<place>Amazon.com</place>
+			<price>9.86</price>
+		</purchase>
+		<notes>Cheaper to pay $5.99 for the regular album and each of the 3 missing songs at $1.29 each.</notes>
+	</album>
 </albums>

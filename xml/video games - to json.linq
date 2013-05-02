@@ -44,5 +44,6 @@ JavaScriptSerializer serializer = new JavaScriptSerializer();
 var output = serializer.Serialize(new { VideoGames = datum});
 
 File.WriteAllText(@"C:\Users\James\Projects\GitHub\JamesRSkemp\JamesRSkemp.Web\App_Data\Projects\VideoGameProfile\VideoGames.json", output);
+File.WriteAllText(@"C:\Users\James\Projects\GitHub\VideoGamesSpa\SimpleWebsite\Content\json\VideoGames.json", output);
 
 output.Dump();

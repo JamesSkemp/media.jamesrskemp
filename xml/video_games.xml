@@ -4625,7 +4625,12 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes><![CDATA[Received 9/14/2010. Paid $4.98 for shipping and handling, since I had purchased the day before on Amazon for ~$32. Bought guide 7/2/2011 for $13.49, thanks to $1.50 savings from PowerUp card.]]></notes>
+		<notes>
+			Received 9/14/2010.
+			Paid $4.98 for shipping and handling, since I had purchased the day before on Amazon for ~$32.
+			Bought guide 7/2/2011 for $13.49, thanks to $1.50 savings from PowerUp card.
+			Bought hardcover collector's edition guide 5/2/2013 for $19.99 (used, but still in wrap) from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="308">
 		<title>Tales of Vesperia</title>
@@ -10784,5 +10789,33 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($0.70) with PowerUp card.</notes>
+	</game>
+	<game id="744">
+		<title>Shining Tears</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-05-02</date>
+			<price>19.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704.</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used.</notes>
+	</game>
+	<game id="745">
+		<title>X-Men: Destiny</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-05-02</date>
+			<price>15.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704.</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Finally decided to pick it up. PS3 version is significantly more.</notes>
 	</game>
 </games>

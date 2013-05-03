@@ -10572,4 +10572,12 @@
 		<buy date="2013-03-29" price="11.99" place="Amazon.com"/>
 		<notes>Kindle Edition. Got for second meeting of new book club.</notes>
 	</book>
+	<book id="1023">
+		<title>Instant .NET 4.5 Extension Methods How-to</title>
+		<buy date="2013-04-30" price="0.00" place="PacktPub.com"/>
+		<readings finished="true">
+			<read time="1" start="2013-04-03" finish="2013-05-03"/>
+		</readings>
+		<notes>Free, electronic, review copy.</notes>
+	</book>
 </books>

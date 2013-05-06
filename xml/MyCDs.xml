@@ -5819,4 +5819,14 @@
 		</purchase>
 		<notes>Cheaper to pay $5.99 for the regular album and each of the 3 missing songs at $1.29 each.</notes>
 	</album>
+	<album id="651">
+		<title>5</title>
+		<artist>Alizée</artist>
+		<purchase>
+			<date>2013-05-06</date>
+			<place>Amazon.com</place>
+			<price>9.99</price>
+		</purchase>
+		<notes>Available on Amazon MP3! Don't have to pay import prices!</notes>
+	</album>
 </albums>

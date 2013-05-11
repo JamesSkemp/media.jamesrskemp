@@ -10818,4 +10818,18 @@
 		<own>yes</own>
 		<notes>Used. Finally decided to pick it up. PS3 version is significantly more.</notes>
 	</game>
+	<game id="746">
+		<title>Enchanted Arms</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-05-11</date>
+			<price>6.29</price>
+			<place>Game Stop, Baraboo WM, 912 US Hwy 12, Baraboo WI 53913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 10% ($0.70) with PowerUp card. Picked it up since it's cheap, and I've had my mind on picking up a PS3 copy for a while.</notes>
+	</game>
 </games>

@@ -10832,4 +10832,18 @@
 		<own>yes</own>
 		<notes>Saved 10% ($0.70) with PowerUp card. Picked it up since it's cheap, and I've had my mind on picking up a PS3 copy for a while.</notes>
 	</game>
+	<game id="747">
+		<title>NieR Replicant (Ultimate Hits)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-04-28</date>
+			<price>48.90</price>
+			<place>Play-Asia.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Shipped 5/12, delivered to office 5/14 and picked up 5/15. Paid $15 shipping.</notes>
+	</game>
 </games>

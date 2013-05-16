@@ -10846,4 +10846,18 @@
 		<own>yes</own>
 		<notes>Japanese version. Shipped 5/12, delivered to office 5/14 and picked up 5/15. Paid $15 shipping.</notes>
 	</game>
+	<game id="748" addOn="true" electronic="true">
+		<title>Enslaved: Odyssey to the West Pigsy's Perfect 10</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-05-15</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week, for 50% off. Normally $9.99.</notes>
+	</game>
 </games>

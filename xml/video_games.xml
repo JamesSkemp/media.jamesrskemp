@@ -3109,7 +3109,7 @@
 		<own>yes</own>
 		<notes>800 points. Purchased 2000 points at $25.00 for this and the other.</notes>
 	</game>
-	<game id="202" addOn="true" electronic="true" beat="true">
+	<game id="749" addOn="true" electronic="true" beat="true">
 		<title>Fallout 3: Broken Steel</title>
 		<system>
 			<console>Xbox</console>
@@ -5392,7 +5392,7 @@
 		<own>yes</own>
 		<notes>Bought used. Saved $1.80 by doing so, with Edge card.</notes>
 	</game>
-	<game id="361">
+	<game id="750" beat="true">
 		<title>Afro Samurai</title>
 		<system>
 			<console>Xbox</console>
@@ -5406,7 +5406,7 @@
 		<own>yes</own>
 		<notes>Bought used. Saved $1 by doing so, with Edge card.</notes>
 	</game>
-	<game id="362">
+	<game id="362" beat="true">
 		<title>White Knight Chronicles: International Edition</title>
 		<system>
 			<console>PlayStation</console>

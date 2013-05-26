@@ -10580,4 +10580,20 @@
 		</readings>
 		<notes>Free, electronic, review copy.</notes>
 	</book>
+	<book id="1024">
+		<title>H.P. Lovecraft: The Complete Fiction (Barnes &amp; Nobles Classic Editions)</title>
+		<authors>
+			<author>H.P. Lovecraft</author>
+		</authors>
+		<buy date="2013-05-26" price="20.00" place="Barnes &amp; Nobles Booksellers #2720, 7433 Mineral Point Road, Madison WI 53717" />
+		<notes>Corrected edition. Looks really snazzy, and since it seemingly has everything in one place ...</notes>
+	</book>
+	<book id="1025">
+		<title>Two Fundamental Problems of Ethics, The</title>
+		<authors>
+			<author>Arthur Schopenhauer</author>
+		</authors>
+		<buy date="2013-05-26" price="13.95" place="Barnes &amp; Nobles Booksellers #2720, 7433 Mineral Point Road, Madison WI 53717" />
+		<notes>Haven't seen it before, and figured I'd pick it up, since my copies are older, and by slightly different translators.</notes>
+	</book>
 </books>

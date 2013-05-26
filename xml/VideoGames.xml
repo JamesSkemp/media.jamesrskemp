@@ -607,5 +607,54 @@
 			<own>yes</own>
 			<notes>$30 off normal price ($169.99/199.99), and had $15 in reward zone certificates, some of which went towards Xbox Live subscription.</notes>
 		</item>
+		<item id="43">
+			<name>PlayStation Move Charging Station</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2013-05-26</date>
+				<price>19.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>
+				$5 cheaper someplace online, but I'm fine paying this price for it.
+				Starting to play more of my Move games, so it's easier to charge via this.
+			</notes>
+		</item>
+		<item id="44">
+			<name>PlayStation Move Shooting Attachment</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2013-05-26</date>
+				<price>4.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>
+				Box was banged up, and on clearance, so $5 off the normal price.
+			</notes>
+		</item>
+		<item id="45">
+			<name>PS3 Dual Triggers</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2013-05-26</date>
+				<price>6.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>
+				Figured I'd buy some more of these, while I was buying stuff. Comes with silicone caps.
+			</notes>
+		</item>
 	</hardware>
 </videoGames>

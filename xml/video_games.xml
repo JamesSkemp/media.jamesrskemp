@@ -2062,7 +2062,10 @@
 			<place>Best Buy #59, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $6 with 10% off coupon.</notes>
+		<notes>
+			Saved $6 with 10% off coupon.
+			Bought strategy guide 5/22/2013 from Jasonbookstore (Amazon.com) for $13.69, plus $3.99 shipping. Received 5/29/2013.
+		</notes>
 	</game>
 	<game id="131" addOn="true" electronic="true">
 		<title>Folklore Add-on Bundle 1 (Add-On Content)</title>
@@ -10874,5 +10877,19 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale this week, for 50% off. Normally $9.99.</notes>
+	</game>
+	<game id="749">
+		<title>NieR Gestalt (Platinum Collection)</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-05-16</date>
+			<price>39.90</price>
+			<place>Play-Asia.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version, so I can't play it. Shipped 5/16/2013 and received 5/28/2013. Paid nothing for shipping.</notes>
 	</game>
 </games>

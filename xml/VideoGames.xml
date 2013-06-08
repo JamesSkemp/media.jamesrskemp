@@ -656,5 +656,19 @@
 				Figured I'd buy some more of these, while I was buying stuff. Comes with silicone caps.
 			</notes>
 		</item>
+		<item id="46">
+			<name>PlayStation 2 MULTITAP (SCPH-10090)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2013-06-08</date>
+				<price>9.95</price>
+				<place>T N T Games, 845 S Perryville Rd, Rockford IL 61108</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Used. For fat PS2 only. Haven't seen it anywhere else, so I figured it was worth picking it up.</notes>
+		</item>
 	</hardware>
 </videoGames>

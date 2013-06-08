@@ -7036,7 +7036,10 @@
 			<place>GameStop, West Town Mall, 128 West Town Mall, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Preowned. Had a buy 2 get one free sale today. Saved $3.50 with PowerUp card. Started 1/22/2012 and beat on normal 1/28/2012.</notes>
+		<notes>
+			Preowned. Had a buy 2 get one free sale today. Saved $3.50 with PowerUp card. Started 1/22/2012 and beat on normal 1/28/2012.
+			Bought used strategy guide 6/8/2013 for $4.99 from Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108.
+		</notes>
 	</game>
 	<game id="477">
 		<title>Devil May Cry 4</title>
@@ -10891,5 +10894,89 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Japanese version, so I can't play it. Shipped 5/16/2013 and received 5/28/2013. Paid nothing for shipping.</notes>
+	</game>
+	<game id="750">
+		<title>Genji: Dawn of the Samurai</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>7.16</price>
+			<place>T N T Games, 845 S Perryville Rd, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Was $8.95 but saved 20% (sale?).</notes>
+	</game>
+	<game id="751">
+		<title>Dragon Warrior</title>
+		<system>
+			<console>NES</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>3.99</price>
+			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Second copy to replace the one that doesn't work.</notes>
+	</game>
+	<game id="752">
+		<title>Tetris</title>
+		<system>
+			<console>NES</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>3.99</price>
+			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Seemed like a good deal, so ...</notes>
+	</game>
+	<game id="753">
+		<title>Dark Void</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>3.59</price>
+			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved 10% ($0.40) with PowerUp card.</notes>
+	</game>
+	<game id="754">
+		<title>Transformers: Revenge of the Fallen</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>8.99</price>
+			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved 10% ($1.00) with PowerUp card. In the bargin rack, so it's worth giving it a try.</notes>
+	</game>
+	<game id="755">
+		<title>BioShock Infinite</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-06-08</date>
+			<price>39.99</price>
+			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>It's time to finally pick this game up.</notes>
 	</game>
 </games>

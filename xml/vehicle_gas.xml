@@ -2748,6 +2748,15 @@
 				<costTotal>35.99</costTotal>
 				<notes>Paid only $3.409 per gallon, thanks to Roundy's card.</notes>
 			</fillup>
+			<fillup id="238">
+				<date>2013-06-12</date>
+				<milesCar>49565</milesCar>
+				<milesDriven>304.2</milesDriven>
+				<gallons>11.961</gallons>
+				<costGallon>3.939</costGallon>
+				<costTotal>44.12</costTotal>
+				<notes>Paid only $3.689 per gallon, thanks to Roundy's card. Was down to ~1/8th of a tank.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

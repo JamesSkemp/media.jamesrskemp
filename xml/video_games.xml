@@ -2774,7 +2774,11 @@
 			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Purchased official guide, used, for $19.99 + $4.00 shipping from lites99 on eBay, on 2/23/2011, and recieved 2/28/2011. Bought game guide again 6/22/2012 for $9.99 at Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704, since it was in much better shape.</notes>
+		<notes>
+			Purchased official guide, used, for $19.99 + $4.00 shipping from lites99 on eBay, on 2/23/2011, and recieved 2/28/2011.
+			Bought game guide again 6/22/2012 for $9.99 at PrePlayed, 3868 East Washington Ave, Madison WI 53704, since it was in much better shape.
+			Bought game guide yet again 6/15/2013 for $9.99 from PrePlayed - 3868 E Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="180" electronic="true">
 		<title>Aegis Wing</title>
@@ -7053,7 +7057,10 @@
 			<place>GameStop, West Town Mall, 128 West Town Mall, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Preowned. Had a buy 2 get one free sale today. Saved $1.70 with PowerUp card.</notes>
+		<notes>
+			Preowned. Had a buy 2 get one free sale today. Saved $1.70 with PowerUp card.
+			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks fantastic inside.
+		</notes>
 	</game>
 	<game id="478" electronic="true">
 		<title>Bastion</title>
@@ -7263,7 +7270,10 @@
 			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Ikeep seeing this around, and really just needed to pick it up ...</notes>
+		<notes>
+			I keep seeing this around, and really just needed to pick it up ...
+			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="493">
 		<title>Marvel Ultimate Alliance</title>
@@ -7593,7 +7603,9 @@
 			<place>Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Pre-owned, and second copy. Seemingly in wonderful shape. Cheaper than anyone else, and new copies are very expensive.</notes>
+		<notes>
+			Pre-owned, and second copy. Seemingly in wonderful shape. Cheaper than anyone else, and new copies are very expensive.
+		</notes>
 	</game>
 	<game id="516">
 		<title>Lair</title>
@@ -10979,4 +10991,49 @@
 		<own>yes</own>
 		<notes>It's time to finally pick this game up.</notes>
 	</game>
+	<game id="756">
+		<title>Defender</title>
+		<system>
+			<console>Atari</console>
+			<version>2600</version>
+		</system>
+		<purchase>
+			<date>2013-06-15</date>
+			<price>1.90</price>
+			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap and I really liked the 'cover.' Game only.</notes>
+	</game>
+	<game id="757">
+		<title>Yars' Revenge</title>
+		<system>
+			<console>Atari</console>
+			<version>2600</version>
+		</system>
+		<purchase>
+			<date>2013-06-15</date>
+			<price>1.99</price>
+			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Picked up after picking up Defender. Cheap enough. Game only.</notes>
+	</game>
+	<game id="758">
+		<title>Asteroids</title>
+		<system>
+			<console>Atari</console>
+			<version>2600</version>
+		</system>
+		<purchase>
+			<date>2013-06-15</date>
+			<price>1.99</price>
+			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Picked up after picking up Defender. Cheap enough, and in pretty good shape. Game only.</notes>
+	</game>
+	<!--
+	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
+	-->
 </games>

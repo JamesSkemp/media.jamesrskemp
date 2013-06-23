@@ -8313,13 +8313,6 @@
 			<keyword>noir</keyword>
 		</keywords>
 	</book>
-	<book id="807">
-		<title pages="254">Final Fantasy Origins: Official Strategy Guide</title>
-		<authors>
-			<author>Casey Loe, Laura M. Parkinson</author>
-		</authors>
-		<buy date="2006-06-12" place="Pearson Educaton" price="9.74"/>
-	</book>
 	<book id="808">
 		<title pages="296">Zen of CSS Design, The</title>
 		<authors>
@@ -8738,10 +8731,6 @@
 		</authors>
 		<buy date="2007-01-30" place="Borders Books and Music (East Madison)" price="5.08"/>
 	</book>
-	<book id="848">
-		<title pages="384">Rogue Galaxy: The Official Strategy Guide</title>
-		<buy date="2007-02-16" place="GameStop (Prairie Town Ctr, Madison WI)" price="15.99"/>
-	</book>
 	<book id="849">
 		<title pages="318">Thinner</title>
 		<authors>
@@ -8777,10 +8766,6 @@
 		<keywords>
 			<keyword>technology</keyword>
 		</keywords>
-	</book>
-	<book id="852">
-		<title pages="255">Devil Summoner: Raidou Kuzunoha vs the Soulless Army: Strategy Guide</title>
-		<buy date="2007-04-07" place="GameStop (Prairie Town Ctr, Madison WI)" price="4.99"/>
 	</book>
 	<book id="853">
 		<title pages="168">Principles of Beautiful Web Design, The</title>
@@ -9166,13 +9151,6 @@
 		<keywords>
 			<keyword>philosophy</keyword>
 			<keyword>Schopenhauer, Arthur</keyword>
-		</keywords>
-	</book>
-	<book id="885">
-		<title pages="264">Shin Megami Tensei: Persona 3: The Official Strategy Guide</title>
-		<buy date="2007-08-12" place="GameStop (Prairie Town Ctr, Madison WI)" price="15.99"/>
-		<keywords>
-			<keyword>technology</keyword>
 		</keywords>
 	</book>
 	<book id="886">
@@ -9790,16 +9768,6 @@
 			<keyword>Schopenhauer, Arthur</keyword>
 		</keywords>
 	</book>
-	<book id="937">
-		<title>LittleBigPlanet: Signature Series Guide</title>
-		<buy date="2008-10-25" place="GameStop (West Madison)" price="17.99"/>
-		<notes><![CDATA[$2 discount for purchasing with the game.]]></notes>
-	</book>
-	<book id="938">
-		<title pages="304">Shin Megami Tensei: Persona 4: The Official Strategy Guide</title>
-		<buy date="2008-11-03" place="Amazon.com" price="19.99"/>
-		<notes><![CDATA[Pre-ordered, and received in December.]]></notes>
-	</book>
 	<book id="939">
 		<title pages="573" isbn10="1-59555-111-5" isbn13="978-1-59555-111-5">America: The Last Best Hope: Volume I</title>
 		<authors>
@@ -10364,16 +10332,6 @@
 		</readings>
 		<notes>Received a free copy for review purposes. Received 8/12/2011.</notes>
 	</book>
-	<book id="992">
-		<title>3rd Birthday, The</title>
-		<buy date="2011-08-27" price="5.99" place="Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913"/>
-		<notes>Strategy guide. Clerk had just put them out that morning.</notes>
-	</book>
-	<book id="993">
-		<title>Resonance of Fate</title>
-		<buy date="2011-08-27" price="5.99" place="Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913"/>
-		<notes>Strategy guide. Clerk had just put them out that morning.</notes>
-	</book>
 	<book id="994">
 		<title>JavaScript Web Applications: jQuery Developer's Guide to Moving State to the Client</title>
 		<authors>
@@ -10437,11 +10395,6 @@
 		<title>Programming Microsoft® LINQ in Microsoft .NET Framework 4</title>
 		<buy date="2011-12-14" price="19.99" place="O'Reilly.com"/>
 		<notes>Electronic copy. 50% off ($20) today.</notes>
-	</book>
-	<book id="1003">
-		<title>Deus Ex: Human Revolution: The Official Guide</title>
-		<buy date="2011-12-16" price="13.99" place="Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689"/>
-		<notes>Used, but looks almost new. Don't have the game yet, but the guide is very pretty.</notes>
 	</book>
 	<book id="1004">
 		<title>Windows PowerShell in Action, Second Edition</title>

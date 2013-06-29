@@ -4,7 +4,7 @@
 	<xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" scope="stylesheet">
 		<xd:desc>
 			<xd:p><xd:b>Created on:</xd:b> Oct 12, 2009</xd:p>
-			<xd:p><xd:b>Author:</xd:b> James</xd:p>
+			<xd:p><xd:b>Author:</xd:b> James Skemp</xd:p>
 			<xd:p></xd:p>
 		</xd:desc>
 	</xd:doc>

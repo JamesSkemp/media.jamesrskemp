@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/MuramasaBlades.xsl"?>
 <blades>
-	<title>Muramasa: The Demon Blade weapon database</title>
+	<title>Muramasa: The Demon Blade (and Muramasa Rebirth) weapon database</title>
 	<description>
-		The following is a listing of weapons for Muramasa: The Demon Blade, for the Nintendo Wii.
+		The following is a listing of weapons for Muramasa: The Demon Blade, for the Nintendo Wii, and Muramasa Rebirth, for the PlayStation Vita.
 		This listing follows the equipment listing in-game ordering, but may eventually allow sorting.
-		Thanks to Gen2000 of GameFAQs for the inspiration to create this guide.
+		Thanks to Gen2000 of GameFAQs for the inspiration to initially create this guide.
+		The Muramasa Rebirth weapon names will be updated once I'm able to stop playing the game; it's so dang good! 
 	</description>
-	<updated>2009-10-14</updated>
+	<updated>2013-06-29</updated>
 	<blade>
 		<name>Kagura Muramasa</name>
 		<type>Long Blade</type>

@@ -69,7 +69,10 @@
 										</xsl:choose>
 									</xsl:otherwise>
 								</xsl:choose>
-								<td><xsl:value-of select="name"/></td>
+								<td>
+									<em>The Demon Blade</em> name: <xsl:value-of select="name"/><br />
+									<em>Rebirth</em> name: <xsl:value-of select="nameRebirth"/>
+								</td>
 								<td><xsl:value-of select="type"/></td>
 								<td><xsl:value-of select="attack"/></td>
 								<td><xsl:value-of select="secretArt"/></td>

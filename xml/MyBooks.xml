@@ -10549,4 +10549,16 @@
 		<buy date="2013-05-26" price="13.95" place="Barnes &amp; Nobles Booksellers #2720, 7433 Mineral Point Road, Madison WI 53717" />
 		<notes>Haven't seen it before, and figured I'd pick it up, since my copies are older, and by slightly different translators.</notes>
 	</book>
+	<book id="1026">
+		<title>Microsoft .NET Framework 4.5 Quickstart Cookbook</title>
+		<buy date="2013-06-23" price="0.00" place="PacktPub.com" />
+		<notes>Free copy for review.</notes>
+	</book>
+	<book id="1027">
+		<title>Farewell, My Lovely</title>
+		<authors>
+			<author>Raymond Chandler</author>
+		</authors>
+		<buy date="2013-06-30" price="0.89" place="Goodwill, 20 Janesville, 2003 Holiday Drive, Janesville WI 53545"/>
+	</book>
 </books>

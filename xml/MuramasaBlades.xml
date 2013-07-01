@@ -1859,7 +1859,7 @@
 	</blade>
 	<blade>
 		<name>Otenta Mitsuyo</name>
-		<nameRebirth></nameRebirth>
+		<nameRebirth>Blade of Absolute Truth</nameRebirth>
 		<type>Long Blade</type>
 		<attack>645</attack>
 		<secretArt>5 Kamaitachi</secretArt>
@@ -1985,18 +1985,21 @@
 <!--
 	Name of Enemy Lair | Barrier Color | Location | Game recommended level
 MK	100 Shadowy Ninja | Red | Yamashiro | 9 or above
-M	100 Armed Monks | Red | Musashi | 9 or above
+MK	100 Armed Monks | Red | Musashi | 9 or above
 MK	God of Prestilence | Orange | Owari | 16 or above | easy boss
 M	Moutain Kagura Dance, Storm of Tengu | Yellow | Totomi | 23 or above | pain in the butt
 MK	Toads of Yourou Falls | Green | Mino | 29 or above
-	Seven Samurai | Light Blue | Mikawa (difficult)
- K	Snow Woman, Oiran Procession | Blue | Hida | 42 or above | very easy and a great place to farm souls
- K	Courage in Ghostly Hour | Purple | Sagami | 47 or above | three enemies and then furball - not that bad at lower levels - about 7200-7600 exp and 700 Mon
-	Ozaru Stealth Army | Purple | Iga | 49 or above | not very fun
-	The Scheming Yagyu Clan | White | Yamato | 57 or above
+M	Seven Samurai | Light Blue | Mikawa | 36 or above | very difficult
+MK	Snow Woman, Oiran Procession | Blue | Hida | 42 or above | very easy and a great place to farm souls
+MK	Courage in Ghostly Hour | Purple | Sagami | 47 or above | three enemies and then furball - not that bad at lower levels - about 7200-7600 exp and 700 Mon
+M	Ozaru Stealth Army | Purple | Iga | 49 or above | not very fun - four large shuriken guys, at once
+M	The Scheming Yagyu Clan | White | Yamato | 57 or above | many ninjas and one samurai boss with ninjas; blade killer
 	Lair of the Oni | White | Omi | 78 or above
 	Rising Dragon, Lying Dragon | White | Suruga | 71 or above
-	Giant Centipede | White | Ise | 64 or above | easy easy - no real experience or souls gain
-	Ghost of the Battlefield | White | Shinaro
-	Total Pandemonium | White | Izu
+MK	Giant Centipede | White | Ise | 64 or above | easy easy - good amount of souls
+	Ghost of the Battlefield | White | Shinaro |
+	Total Pandemonium | White | Izu |
+	
+? areas:
+	Ise	| Rajin | not very easy; blades will break ...
 -->

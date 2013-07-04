@@ -1987,19 +1987,20 @@
 MK	100 Shadowy Ninja | Red | Yamashiro | 9 or above
 MK	100 Armed Monks | Red | Musashi | 9 or above
 MK	God of Prestilence | Orange | Owari | 16 or above | easy boss
-M	Moutain Kagura Dance, Storm of Tengu | Yellow | Totomi | 23 or above | pain in the butt
+MK	Moutain Kagura Dance, Storm of Tengu | Yellow | Totomi | 23 or above | pain in the butt
 MK	Toads of Yourou Falls | Green | Mino | 29 or above
-M	Seven Samurai | Light Blue | Mikawa | 36 or above | very difficult
+MK	Seven Samurai | Light Blue | Mikawa | 36 or above | very difficult
 MK	Snow Woman, Oiran Procession | Blue | Hida | 42 or above | very easy and a great place to farm souls
 MK	Courage in Ghostly Hour | Purple | Sagami | 47 or above | three enemies and then furball - not that bad at lower levels - about 7200-7600 exp and 700 Mon
 MK	Ozaru Stealth Army | Purple | Iga | 49 or above | not very fun - four large shuriken guys, at once
 MK	The Scheming Yagyu Clan | White | Yamato | 57 or above | many ninjas and one samurai boss with ninjas; blade killer
-	Lair of the Oni | White | Omi | 78 or above
- K	Rising Dragon, Lying Dragon | White | Suruga | 71 or above
+ K	Lair of the Oni | White | Omi | 78 or above | small, red and blue, Gozu and Mezu, and then more big oni - not fun
+MK	Rising Dragon, Lying Dragon | White | Suruga | 71 or above | two dragons - not too bad
 MK	Giant Centipede | White | Ise | 64 or above | easy easy - good amount of souls
  K	Ghost of the Battlefield | White | Shinaro | 85 or above | dead with guns, flying ninjas with bombs, dead samurai, and then a huge battle with large dead samurai and dead samurai; definitely a blade killer 
-	Total Pandemonium | White | Izu |
-	
+ K	Total Pandemonium | White | Izu | 92 or above | not easy, at all, but doing before level 92 may make it a bit easier; bring a lot of stones and healing items for the marathon
+
+
 ? areas:
 K?(beat?)	Ise	| Rajin | not very easy; blades will break ...
 -->
@@ -2038,4 +2039,21 @@ Musashi = White boss
 Kai
 Shinano
 Hida = White boss
+-->
+<!-- 
+MK	Shura Seal - beat Sagami MOMOHIME boss cyclops monk
+A Pair of Clappers - beat Musashi MOMOHIME boss fire wheel
+Dragon God Gauntlet - beat Suruga MOMOHIME boss samurai on the beach
+Izumo Charm - beat Hida MOMOHIME boss demon pig god
+Jade Matagama - beat Mino MOMOHIME boss storm Chimera
+Sacred Tree Tablet - beat Ise MOMOHIME boss Raijin (flying chick who shoots lightning)
+Dragon God Mask - beat Yamashiro MOMOHIME boss Giant Oni (archdemon of Hell)
+
+Nio Bracelet - beat Suruga KISUKE boss Sky Dragon God
+MK	Cloisonne Rosary - beat Yamato KISUKE boss spider demon
+Ninja Socks Version 2 - beat Yamashiro KISUKE boss Skull Valley Ninja with windmill shuriken
+Imari Platter - beat Iga KISUKE boss Centipede
+Dragon God Belt - beat Mino KISUKE boss Torahime (girl with antler horns)
+Merchant's Abacus - beat Totomi KISUKE boss Sayo (the midget priestess)
+Iwami Poison - beat Shinano KISUKE boss Bishamon (giant samurai)
 -->

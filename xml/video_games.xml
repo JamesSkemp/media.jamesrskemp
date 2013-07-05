@@ -8552,7 +8552,7 @@
 		<own>yes</own>
 		<notes>Saved 10% ($2.80), buying used with PowerUp card.</notes>
 	</game>
-	<game id="581" electronic="true">
+	<game id="581" electronic="true" beat="true">
 		<title>Walking Dead, The - Episode 1: A New Day</title>
 		<system>
 			<console>PlayStation</console>
@@ -8566,7 +8566,7 @@
 		<own>yes</own>
 		<notes>Free for PlayStation Plus members. Normally $4.99.</notes>
 	</game>
-	<game id="582" electronic="true">
+	<game id="582" electronic="true" beat="true">
 		<title>Walking Dead, The - Episode 2: Starved For Help</title>
 		<system>
 			<console>PlayStation</console>
@@ -10331,7 +10331,7 @@
 		<own>yes</own>
 		<notes>$35 off, and Amazon is selling for $35, so such a good deal, I bought both console versions. This one had to be shipped to the store, and I finally was able to pick it up 2/21..</notes>
 	</game>
-	<game id="707" electronic="true">
+	<game id="707" electronic="true" beat="true">
 		<title>Walking Dead - Season Pass (Episodes 1-5), The</title>
 		<system>
 			<console>PlayStation</console>
@@ -11093,7 +11093,7 @@
 		<own>yes</own>
 		<notes>Shipped and received 6/27/2013. Pre-order edition.</notes>
 	</game>
-	<game id="761" electronic="true" addOn="true">
+	<game id="761" electronic="true" addOn="true" beat="true">
 		<title>Walking Dead, The: 400 Days</title>
 		<system>
 			<console>PlayStation</console>

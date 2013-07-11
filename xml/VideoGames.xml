@@ -670,5 +670,19 @@
 			<own>yes</own>
 			<notes>Used. For fat PS2 only. Haven't seen it anywhere else, so I figured it was worth picking it up.</notes>
 		</item>
+		<item id="47">
+			<name>PlayStation Vita Protective Film (2 Pack)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2013-07-09</date>
+				<price>9.96</price>
+				<place>Walmart, 7202 Watts Rd, Madison WI 53719</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Amazon has for half the price, but I've decided it's worth full price for as much as I'll have to replace it.</notes>
+		</item>
 	</hardware>
 </videoGames>

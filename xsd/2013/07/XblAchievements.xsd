@@ -1,61 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
-	<xs:group name="Achievements">
-		<xs:sequence>
-			<xs:element name="Game">
-				<xs:annotation>
-					<xs:documentation>Basic information about the game.</xs:documentation>
-				</xs:annotation>
-				<xs:complexType>
-					<xs:sequence>
-						<xs:element name="Id" type="xs:positiveInteger">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	targetNamespace="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307">
+	<xs:element name="XblAchievements">
+		<xs:annotation>
+			<xs:documentation>Data about a single Xbox Live game's achievements, for use when using unofficial APIs to pull information.
+</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Game">
+					<xs:annotation>
+						<xs:documentation>Basic information about the game.</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Title" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>Title of the game.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required">
 							<xs:annotation>
 								<xs:documentation>Xbox Live id of the game.</xs:documentation>
 							</xs:annotation>
-						</xs:element>
-						<xs:element name="Title" type="xs:string">
-							<xs:annotation>
-								<xs:documentation>Title of the game.</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-					</xs:sequence>
-				</xs:complexType>
-			</xs:element>
-			<xs:element maxOccurs="unbounded" minOccurs="0" name="Achievement">
-				<xs:annotation>
-					<xs:documentation>Data to use to update hidden or offline achievements.</xs:documentation>
-				</xs:annotation>
-				<xs:complexType>
-					<xs:sequence>
-						<xs:element name="Id" type="xs:positiveInteger">
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+				<xs:element maxOccurs="unbounded" minOccurs="0" name="Achievement">
+					<xs:annotation>
+						<xs:documentation>Data to use to update hidden achievements.</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Title" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>Title of the achievement, as displayed on Xbox Live.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Image" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>URL of the image on Xbox Live. Should be the unlocked tile.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Description" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>Description of the achievement, as displayed on Xbox Live.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:positiveInteger" use="required">
 							<xs:annotation>
 								<xs:documentation>Xbox Live id of the achievement.</xs:documentation>
 							</xs:annotation>
-						</xs:element>
-						<xs:element name="Title" type="xs:string">
-							<xs:annotation>
-								<xs:documentation>Title of the achievement, as displayed on Xbox Live.</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="Image" type="xs:string">
-							<xs:annotation>
-								<xs:documentation>URL of the image on Xbox Live. Should be the unlocked tile.</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element name="Description" type="xs:string">
-							<xs:annotation>
-								<xs:documentation>Description of the achievement, as displayed on Xbox Live.</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-						<xs:element minOccurs="0" name="Earned" type="xs:dateTime">
-							<xs:annotation>
-								<xs:documentation>Date/time the achievement was earned. Only used if the achievement was earned, and it was done offline.
-</xs:documentation>
-							</xs:annotation>
-						</xs:element>
-					</xs:sequence>
-				</xs:complexType>
-			</xs:element>
-		</xs:sequence>
-	</xs:group>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
 </xs:schema>

@@ -10561,4 +10561,12 @@
 		</authors>
 		<buy date="2013-06-30" price="0.89" place="Goodwill, 20 Janesville, 2003 Holiday Drive, Janesville WI 53545"/>
 	</book>
+	<book id="1028">
+		<title>Riddle of the World, The: A Reconsideration of Schopenhauer's Philosophy</title>
+		<authors>
+			<author>Barbara Hannan</author>
+		</authors>
+		<buy date="2013-07-21" price="6.98" place="Frugal Muse Books on Sherman, 1193 N. Sherman Ave, Madison WI 53717"/>
+		<notes>Was absolutely pouring this afternoon. Was hoping for strategy guides, but this was on display.</notes>
+	</book>
 </books>

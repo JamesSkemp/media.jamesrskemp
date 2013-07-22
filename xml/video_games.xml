@@ -11135,6 +11135,48 @@
 		<own>yes</own>
 		<notes>Received 7/10/2013. On sale, and heard it was pretty good (and might get me moving towards Monster Hunter games). And wanted to pick up something more than just Project X Zone.</notes>
 	</game>
+	<game id="764">
+		<title>Fallout</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2012-04-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason.</notes>
+	</game>
+	<game id="765" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-07-21</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $6 this weekend. Have/had it physically as well, but ...</notes>
+	</game>
+	<game id="766" electronic="true">
+		<title>Syberia 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-07-21</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $6 this weekend. Think I have/had it physically as well, but ...</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

@@ -11191,6 +11191,48 @@
 		<own>yes</own>
 		<notes>Normally $34.99, but free for PlayStation Plus members. Leaves the instant game collection next week, and since I probably won't pick up and play 666 by then ...</notes>
 	</game>
+	<game id="768">
+		<title>Fuse</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-07-29</date>
+			<price>34.19</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 10% ($3.80) with PowerUp card. While a review I watched wasn't happy with the game, I thought it sounded like a lot of fun.</notes>
+	</game>
+	<game id="769">
+		<title>Need for Speed: Most Wanted</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-07-29</date>
+			<price>34.19</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $3.80 (10%) with PowerUp card.</notes>
+	</game>
+	<game id="770">
+		<title>Meta Gear Rising Revengeance</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-07-29</date>
+			<price>0.00</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $34.99 thanks to buy two get one free coupon, from my birthday.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

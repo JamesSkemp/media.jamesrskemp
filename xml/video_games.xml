@@ -11289,7 +11289,49 @@
 		<own>yes</own>
 		<notes>Purchased something else, and this has been on the wish list for a bit. Received 8/6/2013.</notes>
 	</game>
+	<game id="775" electronic="true">
+		<title>Metroid</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2013-08-07</date>
+			<price>4.99</price>
+			<place>Nintendo Store (3DS)</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="776" electronic="true">
+		<title>Hitman: Absolution Special Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-08-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free this week for PlayStation Plus members.</notes>
+	</game>
+	<game id="777">
+		<title>Dragon's Crown</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-08-07</date>
+			<price>39.96</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PS3 version was so good decided to pick up the other version for the bus. Picked up from office 8/10/2013. Got the limited artwork book, despite not pre-ordering this version.</notes>
+	</game>
 	<!--
-	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
+	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->
 </games>

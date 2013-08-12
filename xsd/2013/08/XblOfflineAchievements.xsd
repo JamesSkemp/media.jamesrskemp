@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	targetNamespace="http://media.jamesrskemp.com/ns/XblOfflineAchievements/201308"
+	xmlns="http://media.jamesrskemp.com/ns/XblOfflineAchievements/201308">
+
+	<xs:element name="XblOfflineAchievements">
+		<xs:annotation>
+			<xs:documentation>Data about a single user's achievements that were earned offline.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" minOccurs="0" name="Achievement">
+					<xs:annotation>
+						<xs:documentation>Individual achievement earned offline.</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:attribute name="Id" type="xs:string" use="required">
+							<xs:annotation>
+								<xs:documentation>Id of the achievement.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="GameId" type="xs:string" use="required">
+							<xs:annotation>
+								<xs:documentation>Id of the game.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="Earned" type="xs:dateTime" use="required">
+							<xs:annotation>
+								<xs:documentation>Local date/time the achievement was earned (approximately).</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attribute name="Notes" type="xs:string">
+							<xs:annotation>
+								<xs:documentation>Any notes about the achievement, such as what game it's for and the title.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

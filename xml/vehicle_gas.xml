@@ -2766,6 +2766,15 @@
 				<costTotal>38.17</costTotal>
 				<notes>Paid only $3.399 per gallon, thanks to Roundy's card, which they've discontinued.</notes>
 			</fillup>
+			<fillup id="240">
+				<date>2013-08-17</date>
+				<milesCar>50222</milesCar>
+				<milesDriven>369.3</milesDriven>
+				<gallons>13.241</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>47.65</costTotal>
+				<notes>Drove down to Chicago, with horrible a 35, consecutive, mile 45 work zone, then to IKEA, back to Chicago, then back home through Milwaukee. Got this in Delafield BP shortly after my light came on.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

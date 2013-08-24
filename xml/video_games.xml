@@ -387,7 +387,10 @@
 			<place>Best Buy #59 - Madison 53704 (East)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Contains Final Fantasy IV and Chrono Trigger.</notes>
+		<notes>
+			Contains Final Fantasy IV and Chrono Trigger.
+			Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+		</notes>
 	</game>
 	<game id="26">
 		<title>Dragon Quest VIII: Journey of the Cursed King</title>
@@ -775,7 +778,6 @@
 		<own>yes</own>
 		<notes>
 			She paid $49.99.
-			Bought strategy guide 6/22/2013 for $7.49 from Half Price Books, 626 South Whitney Way, Madison WI 53711.
 		</notes>
 	</game>
 	<game id="49">
@@ -849,7 +851,10 @@
 			<place>Toys R Us - 2161 Zeier Road, Madison 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>
+			Bought strategy guide 6/22/2013 for $7.49 from Half Price Books, 626 South Whitney Way, Madison WI 53711.
+			Bought strategy guide 8/24/2013 used for $9.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. Didn't include poster. Didn't think I had this since I put the first one under FF12. Whoops.
+		</notes>
 	</game>
 	<game id="54" beat="true">
 		<title>Final Fantasy X-2</title>
@@ -1115,7 +1120,7 @@
 			<place>ShopKo #032 (Monona)</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.</notes>
 	</game>
 	<game id="71">
 		<title>Legend of Dragoon, The</title>
@@ -1329,7 +1334,7 @@
 			<place>Game Stop - West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. Seems to be a good deal.</notes>
 	</game>
 	<game id="84">
 		<title>Onimusha 3: Demon Siege</title>
@@ -1805,7 +1810,10 @@
 			<place>Game Stop - West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes>$34.99 - $3.50 - $3.15</notes>
+		<notes>
+			$34.99 - $3.50 - $3.15.
+			Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. This seems to be a good deal according to Amazon.
+		</notes>
 	</game>
 	<game id="114">
 		<title>Tetris Worlds</title>
@@ -10769,7 +10777,10 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Was on sale. Heard good things about it. Was delivered 4/2, but had to pick up from the post office on 4/3.</notes>
+		<notes>
+			Was on sale. Heard good things about it. Was delivered 4/2, but had to pick up from the post office on 4/3.
+			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+		</notes>
 	</game>
 	<game id="738">
 		<title>Record of Agaret War Zero: Limited Edition</title>
@@ -11372,6 +11383,107 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free for Gold members. One of the free games leading up to the Xbox One.</notes>
+	</game>
+	<game id="781" electronic="true">
+		<title>Star Wars Pinball</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-08-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="782" electronic="true">
+		<title>Star Wars Pinball PS Vita</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-08-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="783" electronic="true" addOn="true">
+		<title>Zen Pinball 2: Star Wars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-08-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="784" electronic="true" addOn="true">
+		<title>ZEN Pinball 2 PS Vita: Star Wars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-08-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="785">
+		<title>Arc the Lad: End of Darkness</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-08-24</date>
+			<price>4.99</price>
+			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used.</notes>
+	</game>
+	<game id="786">
+		<title>Jade Empire: Limited Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-08-24</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Used. Seemingly this is very good, and 360 compatible. Included bonus disc.
+			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+		</notes>
+	</game>
+	<game id="787">
+		<title>Shenmue II</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-08-24</date>
+			<price>3.99</price>
+			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. At this price it's worth picking up. Actually included movie.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

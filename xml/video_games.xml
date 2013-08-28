@@ -11486,6 +11486,20 @@
 		<own>yes</own>
 		<notes>Used. At this price it's worth picking up. Actually included movie.</notes>
 	</game>
+	<game id="788" electronic="true">
+		<title>Machinarium</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-08-28</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

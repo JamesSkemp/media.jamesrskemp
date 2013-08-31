@@ -11500,6 +11500,48 @@
 		<own>yes</own>
 		<notes>Free for PlayStation Plus members.</notes>
 	</game>
+	<game id="789" electronic="true" beat="true">
+		<title>Microsoft Minesweeper</title>
+		<system>
+			<console>Windows</console>
+			<version>8</version>
+		</system>
+		<purchase>
+			<date>2013-08-31</date>
+			<price>0.00</price>
+			<place>Microsoft Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free and easy achievements.</notes>
+	</game>
+	<game id="790" electronic="true" beat="true">
+		<title>Microsoft Solitaire Collection</title>
+		<system>
+			<console>Windows</console>
+			<version>8</version>
+		</system>
+		<purchase>
+			<date>2013-08-31</date>
+			<price>0.00</price>
+			<place>Microsoft Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free and easy achievements.</notes>
+	</game>
+	<game id="791" electronic="true" beat="true">
+		<title>Microsoft Mahjong</title>
+		<system>
+			<console>Windows</console>
+			<version>8</version>
+		</system>
+		<purchase>
+			<date>2013-08-31</date>
+			<price>0.00</price>
+			<place>Microsoft Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free and easy achievements.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

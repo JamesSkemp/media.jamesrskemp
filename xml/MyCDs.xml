@@ -5829,4 +5829,14 @@
 		</purchase>
 		<notes>Available on Amazon MP3! Don't have to pay import prices!</notes>
 	</album>
+	<album id="652">
+		<title>The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You [Deluxe Edition] [+digital booklet]</title>
+		<artist>Neko Case</artist>
+		<purchase>
+			<date>2013-09-06</date>
+			<place>Amazon.com</place>
+			<price>10.99</price>
+		</purchase>
+		<notes>And they say people don't buy music with subscription streaming services.</notes>
+	</album>
 </albums>

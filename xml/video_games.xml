@@ -7788,7 +7788,7 @@
 		<own>yes</own>
 		<notes>Have to support their decision, since I wanted Mistwalker's game.</notes>
 	</game>
-	<game id="526">
+	<game id="526" beat="true">
 		<title>Alice: Madness Returns</title>
 		<system>
 			<console>Xbox</console>
@@ -7802,7 +7802,7 @@
 		<own>yes</own>
 		<notes>Watched some of a Let's Play of the first, and the guy said it was good, and hard to find.</notes>
 	</game>
-	<game id="527" electronic="true">
+	<game id="527" electronic="true" beat="true">
 		<title>American McGee's Alice</title>
 		<system>
 			<console>Xbox</console>
@@ -11555,6 +11555,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Microsoft finally switched to dollars! A little while ago.</notes>
+	</game>
+	<game id="793">
+		<title>Kingdom Hearts HD 1.5 ReMIX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-05-08</date>
+			<price>39.96</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Limited edition with artbook. Delivered 9/10/2013, but I picked up from the office 9/12/2013.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

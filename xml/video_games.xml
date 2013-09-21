@@ -4042,7 +4042,10 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received September 30, 2009.</notes>
+		<notes>
+			Received September 30, 2009.
+			Bought strategy guide 9/21/2013 for $9.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="265" beat="true">
 		<title>Uncharted 2: Among Thieves</title>
@@ -7702,7 +7705,10 @@
 			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>$10 off for a short time. Includes the first White Knight Chronicles and with my PowerUp card I got some download code.</notes>
+		<notes>
+			$10 off for a short time. Includes the first White Knight Chronicles and with my PowerUp card I got some download code.
+			Bought strategy guide 9/21/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="520" electronic="true">
 		<title>Shank 2</title>
@@ -11569,6 +11575,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Limited edition with artbook. Delivered 9/10/2013, but I picked up from the office 9/12/2013.</notes>
+	</game>
+	<game id="794">
+		<title>Jeanne D'Arc</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2013-09-21</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Seems to be in really good condition.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

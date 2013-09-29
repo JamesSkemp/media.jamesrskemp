@@ -684,5 +684,19 @@
 			<own>yes</own>
 			<notes>Amazon has for half the price, but I've decided it's worth full price for as much as I'll have to replace it.</notes>
 		</item>
+		<item id="48">
+			<name>PlayStation Vita Travel Pouch</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2013-09-24</date>
+				<price>9.24</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Purchased another one to replace my PSP case.</notes>
+		</item>
 	</hardware>
 </videoGames>

@@ -11618,6 +11618,48 @@
 		<own>yes</own>
 		<notes>USPS attempted to deliver 10/2, and picked up 10/3.</notes>
 	</game>
+	<game id="797">
+		<title>Final Fantasy Type-0 (Ultimate Hits)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2013-09-24</date>
+			<price>33.93</price>
+			<place>Amazon.com (Japan Treasure)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Shipped 9/28/2013. Received 10/5/2013, even though expected delivery was 10/22-11/13. Japanese.</notes>
+	</game>
+	<game id="798" electronic="true">
+		<title>rymdkapsel</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-10-05</date>
+			<price>3.99</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Via Kotaku. Got sucked into it the first time I played, despite losing.</notes>
+	</game>
+	<game id="799" electronic="true">
+		<title>Valhalla Knights</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2013-10-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free because of the launch of the third game this week/soon.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

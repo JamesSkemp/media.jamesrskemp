@@ -2775,6 +2775,15 @@
 				<costTotal>47.65</costTotal>
 				<notes>Drove down to Chicago, with horrible a 35, consecutive, mile 45 work zone, then to IKEA, back to Chicago, then back home through Milwaukee. Got this in Delafield BP shortly after my light came on.</notes>
 			</fillup>
+			<fillup id="241">
+				<date>2013-10-10</date>
+				<milesCar>50529</milesCar>
+				<milesDriven>307.1</milesDriven>
+				<gallons>11.545</gallons>
+				<costGallon>3.319</costGallon>
+				<costTotal>38.32</costTotal>
+				<notes>About a quarter of a tank less, but less.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

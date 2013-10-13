@@ -11660,6 +11660,68 @@
 		<own>yes</own>
 		<notes>Free because of the launch of the third game this week/soon.</notes>
 	</game>
+	<game id="800" electronic="true">
+		<title>Witcher: Enhanced Edition, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-10-13</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free if you purchase anything on GOG.com.</notes>
+	</game>
+	<game id="801" electronic="true">
+		<title>SimCity 2000 Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-10-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Sale on EA games. Normally $5.99.</notes>
+	</game>
+	<game id="802" electronic="true">
+		<title>Ultima 7 The Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-10-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Sale on EA games. Normally $5.99.
+			Spoony did a series on these games, and this seems to be the best.
+		</notes>
+	</game>
+	<game id="803" electronic="true">
+		<title>Theme Hospital</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-10-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Sale on EA games. Normally $5.99.
+			Kotaku had mentioned this (or Joystiq) and reviews are favorable.
+		</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

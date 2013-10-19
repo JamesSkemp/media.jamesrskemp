@@ -10569,4 +10569,12 @@
 		<buy date="2013-07-21" price="6.98" place="Frugal Muse Books on Sherman, 1193 N. Sherman Ave, Madison WI 53717"/>
 		<notes>Was absolutely pouring this afternoon. Was hoping for strategy guides, but this was on display.</notes>
 	</book>
+	<book id="1029">
+		<title>Pure Drivel</title>
+		<authors>
+			<author>Steve Martin</author>
+		</authors>
+		<buy date="2013-10-13" place="Goodwill 20 Janesville, 2003 Holiday Drive, Janesville WI 53545" price="0.00"/>
+		<notes>$1.79, but mom purchased for me. Came here because we were close as I picked up a game at Best Buy.</notes>
+	</book>
 </books>

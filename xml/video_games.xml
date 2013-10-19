@@ -4799,7 +4799,11 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 11/4/2010, with PSP. Started 11/5/2010 and beat 11/17/2010, with a time of around 27:04:42.</notes>
+		<notes>
+			Received 11/4/2010, with PSP.
+			Started 11/5/2010 and beat 11/17/2010, with a time of around 27:04:42.
+			Purchased strategy guide 10/17/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't include poster.
+		</notes>
 	</game>
 	<game id="317" addOn="true" electronic="true">
 		<title>Borderlands New Revolution (Add-On Content)</title>
@@ -11720,6 +11724,51 @@
 		<notes>
 			Sale on EA games. Normally $5.99.
 			Kotaku had mentioned this (or Joystiq) and reviews are favorable.
+		</notes>
+	</game>
+	<game id="804" beat="true">
+		<title>Remember Me</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-10-13</date>
+			<price>19.99</price>
+			<place>Best Buy BBY 892, 2850 Deerfield Dr, Janesville WI 53546-4381</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased online for pick-up. This was the closest location. Normally $39.99, but part of Columbus day sale. Great music.</notes>
+	</game>
+	<game id="805" electronic="true">
+		<title>Okami HD</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-10-15</date>
+			<price>6.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="806" electronic="true" beat="true">
+		<title>Halo 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-10-16</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Free for Gold members.
+			Decided to get it again to get some of the easy achievements.
 		</notes>
 	</game>
 	<!--

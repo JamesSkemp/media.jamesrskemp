@@ -11788,6 +11788,20 @@
 		<own>yes</own>
 		<notes>Should include an easy 100 gamerscore, so ... might as well just pick it up.</notes>
 	</game>
+	<game id="808" electronic="true">
+		<title>Shadowrun Returns</title>
+		<system>
+			<console>Steam</console>
+			<version>Windows</version>
+		</system>
+		<purchase>
+			<date>2013-10-29</date>
+			<price>13.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but 33% off for daily deal. First Steam game, and supposedly I can run it.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

@@ -698,5 +698,19 @@
 			<own>yes</own>
 			<notes>Purchased another one to replace my PSP case.</notes>
 		</item>
+		<item id="49">
+			<name>PlayStation Vita 16 GB Memory Card</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2013-10-24</date>
+				<price>38.72</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale. Received 10/26/2013.</notes>
+		</item>
 	</hardware>
 </videoGames>

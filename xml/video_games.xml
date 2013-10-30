@@ -11802,6 +11802,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but 33% off for daily deal. First Steam game, and supposedly I can run it.</notes>
 	</game>
+	<game id="809" electronic="true">
+		<title>Fatal Frame</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-10-29</date>
+			<price>2.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 50% off for Halloween. For PlayStation 3, as a PS2 Classic.</notes>
+	</game>
+	<game id="810" electronic="true">
+		<title>Fatal Frame II: Crimson Butterfly</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-10-29</date>
+			<price>2.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 50% off for Halloween. For PlayStation 3, as a PS2 Classic.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

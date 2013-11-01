@@ -712,5 +712,19 @@
 			<own>yes</own>
 			<notes>On sale. Received 10/26/2013.</notes>
 		</item>
+		<item id="50">
+			<name>DUALSHOCK 4 Wireless Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2013-10-29</date>
+				<price>59.96</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Works with some PlayStation 3 games, so ... Received 10/31/2013.</notes>
+		</item>
 	</hardware>
 </videoGames>

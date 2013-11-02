@@ -2784,6 +2784,15 @@
 				<costTotal>38.32</costTotal>
 				<notes>About a quarter of a tank less, but less.</notes>
 			</fillup>
+			<fillup id="242">
+				<date>2013-11-01</date>
+				<milesCar>50792</milesCar>
+				<milesDriven>263.3</milesDriven>
+				<gallons>10.169</gallons>
+				<costGallon>3.199</costGallon>
+				<costTotal>32.53</costTotal>
+				<notes>Drove to Janesville tonight. Down to about a quarter of a tank, plus a bit.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

@@ -11830,6 +11830,48 @@
 		<own>yes</own>
 		<notes>On sale for 50% off for Halloween. For PlayStation 3, as a PS2 Classic.</notes>
 	</game>
+	<game id="811">
+		<title>Metroid: Other M</title>
+		<system>
+			<console>Wii</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-11-01</date>
+			<price>9.99</price>
+			<place>Best Buy BBY 892, 2850 Deerfield Dr, Janesville WI 53546-4381</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$40 off, but once again the nearest one in stock was in Janesville.</notes>
+	</game>
+	<game id="812">
+		<title>Trinity: Souls of Zill Q'll</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-11-01</date>
+			<price>8.99</price>
+			<place>GameStop, 2500 Milton Ave, Janesville WI 53545</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved $1.00 with PowerUp card. Got on a whim. Almost picked up a new copy for $14.99, but he sold me on the used one.</notes>
+	</game>
+	<game id="813">
+		<title>Killzone Trilogy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-11-01</date>
+			<price>25.19</price>
+			<place>GameStop, 2500 Milton Ave, Janesville WI 53545</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Saved $2.80 with PowerUp card. Not sure if I'm going to like this or not ... but worth a shot before the PS4 launches.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

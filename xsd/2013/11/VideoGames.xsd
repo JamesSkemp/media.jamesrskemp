@@ -57,6 +57,11 @@
 								<xs:documentation>Game was beat, which may not be considered as finished.</xs:documentation>
 							</xs:annotation>
 						</xs:attribute>
+						<xs:attribute name="used" type="xs:boolean">
+							<xs:annotation>
+								<xs:documentation>Game was purchased used/pre-owned.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>

@@ -26,11 +26,8 @@
 										<xs:element name="price"/>
 										<xs:element name="place">
 											<xs:complexType mixed="true">
-												<xs:attribute name="name"/>
-												<xs:attribute name="address"/>
 												<xs:attribute name="city"/>
 												<xs:attribute name="state"/>
-												<xs:attribute name="zip"/>
 											</xs:complexType>
 										</xs:element>
 									</xs:sequence>

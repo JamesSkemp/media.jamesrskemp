@@ -726,5 +726,33 @@
 			<own>yes</own>
 			<notes>Works with some PlayStation 3 games, so ... Received 10/31/2013.</notes>
 		</item>
+		<item id="51">
+			<name>PlayStation 4 500GB</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2013-06-10</date>
+				<price>399.96</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Launch edition. Received 11/15/2013.</notes>
+		</item>
+		<item id="52">
+			<name>DUALSHOCK 4 Wireless Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2013-06-10</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with system.</notes>
+		</item>
 	</hardware>
 </videoGames>

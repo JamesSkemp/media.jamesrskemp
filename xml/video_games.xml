@@ -11900,6 +11900,48 @@
 		<own>yes</own>
 		<notes>Dragon's Crown is almost done and looking for another action-y game to play on the bus.</notes>
 	</game>
+	<game id="816" electronic="true">
+		<title>Contrast</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2013-11-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members. Normally $14.99.</notes>
+	</game>
+	<game id="817" electronic="true">
+		<title>Flower</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2013-11-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I purchased it on the PS3.</notes>
+	</game>
+	<game id="818" electronic="true">
+		<title>RESOGUN</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2013-11-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members. Normally $14.99.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	-->

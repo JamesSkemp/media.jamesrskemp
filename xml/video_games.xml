@@ -7269,7 +7269,7 @@
 		<purchase>
 			<date>2012-02-18</date>
 			<price>2.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Didn't come with a manual or sleeve.</notes>
@@ -7283,7 +7283,7 @@
 		<purchase>
 			<date>2012-02-18</date>
 			<price>9.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Didn't come with a manual or sleeve.</notes>
@@ -7297,7 +7297,7 @@
 		<purchase>
 			<date>2012-02-18</date>
 			<price>13.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Didn't come with a manual or sleeve.</notes>
@@ -9762,7 +9762,7 @@
 		<purchase>
 			<date>2012-12-22</date>
 			<price>20.00</price>
-			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+			<place city="Chicago" state="IL">The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
 		</purchase>
 		<own>yes</own>
 		<notes>2nd copy. It's been difficult to find another with the manual.</notes>
@@ -9776,7 +9776,7 @@
 		<purchase>
 			<date>2012-12-22</date>
 			<price>4.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Complete copy, with box, manual, and game.</notes>
@@ -9790,7 +9790,7 @@
 		<purchase>
 			<date>2012-12-22</date>
 			<price>4.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Didn't come with a manual, but they had one there for $1.00, so setting price as $3.95 + $1.00.</notes>
@@ -9804,7 +9804,7 @@
 		<purchase>
 			<date>2012-12-22</date>
 			<price>7.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Didn't come with a manual. Tiffany said she'd play the copy I got for her, at some point.</notes>
@@ -9818,7 +9818,7 @@
 		<purchase>
 			<date>2012-12-22</date>
 			<price>5.95</price>
-			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Didn't come with a manual. Heard from someone on YouTube that it's actually a good game.</notes>
@@ -10970,7 +10970,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>7.16</price>
-			<place>T N T Games, 845 S Perryville Rd, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">T N T Games, 845 S Perryville Rd, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Was $8.95 but saved 20% (sale?).</notes>
@@ -10984,7 +10984,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>3.99</price>
-			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+			<place city="Rockford" state="IL">Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Second copy to replace the one that doesn't work.</notes>
@@ -10998,7 +10998,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>3.99</price>
-			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+			<place city="Rockford" state="IL">Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Seemed like a good deal, so ...</notes>
@@ -11012,7 +11012,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>3.59</price>
-			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($0.40) with PowerUp card.</notes>
@@ -11026,7 +11026,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>8.99</price>
-			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($1.00) with PowerUp card. In the bargin rack, so it's worth giving it a try.</notes>
@@ -11040,7 +11040,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>39.99</price>
-			<place>Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>It's time to finally pick this game up.</notes>

@@ -7821,7 +7821,7 @@
 		<purchase>
 			<date>2012-04-21</date>
 			<price>0.00</price>
-			<place>Xbove Live</place>
+			<place>Xbox Live</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Free as part of new copy of Alice.</notes>
@@ -8442,7 +8442,7 @@
 		<own>yes</own>
 		<notes>Bought it again ... Saved $0.70 with PowerUp card.</notes>
 	</game>
-	<game id="572">
+	<game id="572" used="true">
 		<title>Romancing SaGa</title>
 		<system>
 			<console>PlayStation</console>
@@ -8454,9 +8454,9 @@
 			<place>3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes/>
 	</game>
-	<game id="573">
+	<game id="573" used="true">
 		<title>Unlimited Saga</title>
 		<system>
 			<console>PlayStation</console>
@@ -8468,9 +8468,9 @@
 			<place>3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes/>
 	</game>
-	<game id="574">
+	<game id="574" used="true">
 		<title>Tales of Graces f</title>
 		<system>
 			<console>PlayStation</console>
@@ -8482,9 +8482,9 @@
 			<place>3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. $10 cheaper than GameStop.</notes>
+		<notes>$10 cheaper than GameStop.</notes>
 	</game>
-	<game id="575">
+	<game id="575" used="true">
 		<title>Quest 64</title>
 		<system>
 			<console>Nintendo</console>
@@ -8497,11 +8497,11 @@
 		</purchase>
 		<own>yes</own>
 		<notes>
-			Used. Game with box, but no manual.
+			Game with box, but no manual.
 			Purchased manual 12/22/2012 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 		</notes>
 	</game>
-	<game id="576">
+	<game id="576" used="true">
 		<title>X-Men Origins: Wolverine</title>
 		<system>
 			<console>PlayStation</console>
@@ -8513,7 +8513,7 @@
 			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. I won't be happy until I platinum this game.</notes>
+		<notes>I won't be happy until I platinum this game.</notes>
 	</game>
 	<game id="577">
 		<title>Dead Island: Game of the Year Edition</title>
@@ -8543,7 +8543,7 @@
 		<own>yes</own>
 		<notes/>
 	</game>
-	<game id="579">
+	<game id="579" used="true">
 		<title>MagnaCarta 2</title>
 		<system>
 			<console>Xbox</console>
@@ -8557,7 +8557,7 @@
 		<own>yes</own>
 		<notes>Saved 10% ($3.00), buying used with PowerUp card.</notes>
 	</game>
-	<game id="580">
+	<game id="580" used="true">
 		<title>Witcher 2, The: Assassins of Kings: Enhanced Edition</title>
 		<system>
 			<console>Xbox</console>

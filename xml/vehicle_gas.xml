@@ -2793,6 +2793,15 @@
 				<costTotal>32.53</costTotal>
 				<notes>Drove to Janesville tonight. Down to about a quarter of a tank, plus a bit.</notes>
 			</fillup>
+			<fillup id="243">
+				<date>2013-11-23</date>
+				<milesCar>50918</milesCar>
+				<milesDriven>125.8</milesDriven>
+				<gallons>5.156</gallons>
+				<costGallon>3.399</costGallon>
+				<costTotal>17.53</costTotal>
+				<notes>About 20 cents more expensive than Madison. Got this in Beloit on the way down to see Tiffany.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

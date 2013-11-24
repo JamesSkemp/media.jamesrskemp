@@ -237,7 +237,7 @@
 		<own>yes</own>
 		<notes>Bought used.</notes>
 	</game>
-	<game id="16" beat="true">
+	<game id="16" beat="true" used="true">
 		<title>Shadow Hearts: Covenant</title>
 		<system>
 			<console>PlayStation</console>
@@ -249,7 +249,10 @@
 			<place>Game Stop - West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Had $14.86 in trade-in. Bought used.</notes>
+		<notes>
+			Had $14.86 in trade-in.
+			Purchased strategy guide 11/23/2013 for $9.95 from People Play Games, 3268 N Clark St, Chicago IL 60657. Never seen this before.
+		</notes>
 	</game>
 	<game id="17" beat="true">
 		<title>Shadow Hearts: From the New World</title>
@@ -4091,7 +4094,11 @@
 			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Sold 18 movies and three games to cover this game and another, plus cash back. Picked up game guide on 7/28/2012 from Video Game X-Change, 3002 Atwood Ave, Madison WI, for $2.50.</notes>
+		<notes>
+			Sold 18 movies and three games to cover this game and another, plus cash back.
+			Picked up game guide on 7/28/2012 from Video Game X-Change, 3002 Atwood Ave, Madison WI, for $2.50.
+			Purchased strategy guide 11/23/2013 for $6.95 from People Play Games, 3268 N Clark St, Chicago IL 60657. Whoops!
+		</notes>
 	</game>
 	<game id="268">
 		<title>Tales of Symphonia</title>
@@ -7667,7 +7674,10 @@
 			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $0.60 with PowerUp card. Cheap enough that I'll give it a try.</notes>
+		<notes>
+			Saved $0.60 with PowerUp card. Cheap enough that I'll give it a try.
+			Purchased strategy guide 11/23/2013 for $1.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="517">
 		<title>Quantum Theory</title>
@@ -7908,7 +7918,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes>Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.</notes>
 	</game>
 	<game id="534">
 		<title>Jungle Strike: The Sequel to Desert Strike</title>
@@ -7922,7 +7932,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes>Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.</notes>
 	</game>
 	<game id="535">
 		<title>Magical Quest Starring Mickey Mouse, The</title>
@@ -8499,6 +8509,7 @@
 		<notes>
 			Game with box, but no manual.
 			Purchased manual 12/22/2012 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+			Purchased strategy guide 11/23/2013 for $2.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 		</notes>
 	</game>
 	<game id="576" used="true">
@@ -9779,7 +9790,10 @@
 			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Complete copy, with box, manual, and game.</notes>
+		<notes>
+			Complete copy, with box, manual, and game.
+			Purchased another manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657. Intentional as I might do something with it.
+		</notes>
 	</game>
 	<game id="667">
 		<title>Mechwarrior 3050</title>
@@ -9793,7 +9807,10 @@
 			<place city="Chicago" state="IL">People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Didn't come with a manual, but they had one there for $1.00, so setting price as $3.95 + $1.00.</notes>
+		<notes>
+			Didn't come with a manual, but they had one there for $1.00, so setting price as $3.95 + $1.00.
+			Bought another manual 11/23/2013 for $2 from the same place. Whoops!
+		</notes>
 	</game>
 	<game id="668">
 		<title>Final Fantasy Mystic Quest</title>
@@ -11942,7 +11959,51 @@
 		<own>yes</own>
 		<notes>Free for PlayStation Plus members. Normally $14.99.</notes>
 	</game>
+	<game id="819">
+		<title>Killer is Dead</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-11-23</date>
+			<price>39.99</price>
+			<place city="Chicago" state="IL">The Exchange, 935 W Belmont, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Limited edition with book and etcetera.</notes>
+	</game>
+	<game id="820">
+		<title>Time and Eternity</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-11-23</date>
+			<price>19.99</price>
+			<place city="Rockford" state="IL">GameStop Forest Plaza (F), 6075 E State St, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes soundtrack.</notes>
+	</game>
+	<game id="821" used="true">
+		<title>Far Cry 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2013-11-23</date>
+			<price>17.99</price>
+			<place city="Rockford" state="IL">GameStop Forest Plaza (F), 6075 E State St, Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $2.00 with PowerUp card. Recommended by Rob Lumley, as he said he had fun with it.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
+	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+	Tales of Symphonia: Dawn of the New World - Purchased strategy guide 11/23/2013 for $13.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	-->
 </games>

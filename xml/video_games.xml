@@ -12001,6 +12001,48 @@
 		<own>yes</own>
 		<notes>Saved $2.00 with PowerUp card. Recommended by Rob Lumley, as he said he had fun with it.</notes>
 	</game>
+	<game id="822" electronic="true">
+		<title>Pharaoh + Cleopatra</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-11-30</date>
+			<price>7.68</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$6 off bundle (complete series discount). I used to have this game.</notes>
+	</game>
+	<game id="823" electronic="true">
+		<title>Zeus + Poseidon (Acropolis)</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-11-30</date>
+			<price>7.68</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$6 off bundle (complete series discount). I think I used to have this game.</notes>
+	</game>
+	<game id="824" electronic="true">
+		<title>Caesar III</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-11-30</date>
+			<price>4.61</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$6 off bundle (complete series discount). I used to have this game.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

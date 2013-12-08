@@ -886,7 +886,7 @@
 			<place/>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Purchased strategy guide 12/7/2013 for $5.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.</notes>
 	</game>
 	<game id="56">
 		<title>Front Mission 4</title>
@@ -1068,7 +1068,10 @@
 			<place>Game Stop - West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Buy 2 get 1 free.</notes>
+		<notes>
+			Buy 2 get 1 free.
+			Purchased strategy guide 12/7/2013 for $9.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="67">
 		<title>Rise to Honor</title>
@@ -1786,7 +1789,7 @@
 			<place>Game Stop - West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Purchased strategy guide 12/7/2013 for $9.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.</notes>
 	</game>
 	<game id="112">
 		<title>Suikoden V</title>
@@ -4738,7 +4741,7 @@
 		<own>yes</own>
 		<notes><![CDATA[Was going to pick this up new at Best Buy for $59.99, with 10% off and $5 in reward zone, but ...  Saved $4.50 with Edge card.]]></notes>
 	</game>
-	<game id="312" beat="true">
+	<game id="312" beat="true" used="true">
 		<title>Ninety-Nine Nights</title>
 		<system>
 			<console>Xbox</console>
@@ -4750,7 +4753,10 @@
 			<place>Mega Media Xchange, 405 N Cassaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
-		<notes><![CDATA[Used copy. Heard talk about the first before the second was released, so ...]]></notes>
+		<notes>
+			Heard talk about the first before the second was released, so ...
+			Purchased strategy guide 12/7/2013 for $4.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="313">
 		<title>Prince of Persia</title>
@@ -8764,7 +8770,7 @@
 		<own>yes</own>
 		<notes>Enthralled by the Lite version.</notes>
 	</game>
-	<game id="594">
+	<game id="594" used="true">
 		<title>Dirge of Cerberus: Final Fantasy VII</title>
 		<system>
 			<console>PlayStation</console>
@@ -8776,7 +8782,10 @@
 			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Saved 10% ($1.30) with PowerUp Card.</notes>
+		<notes>
+			Saved 10% ($1.30) with PowerUp Card.
+			Purchased strategy guide 12/7/2013 for $6.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="595">
 		<title>Atelier Rorona</title>
@@ -11859,7 +11868,10 @@
 			<place>Best Buy BBY 892, 2850 Deerfield Dr, Janesville WI 53546-4381</place>
 		</purchase>
 		<own>yes</own>
-		<notes>$40 off, but once again the nearest one in stock was in Janesville.</notes>
+		<notes>
+			$40 off, but once again the nearest one in stock was in Janesville.
+			Purchased strategy guide 12/7/2013 for $6.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.
+		</notes>
 	</game>
 	<game id="812">
 		<title>Trinity: Souls of Zill O'll</title>
@@ -12140,6 +12152,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Believe this was extended Cyber Monday sale. Love it enough that I want it even if my PS+ subscription lapses. Received 12/6/2013 (didn't do Prime shipping).</notes>
+	</game>
+	<game id="832" used="true">
+		<title>Devil Kings</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2013-12-07</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Now that I've gotten that far, realized that some of the characters in this game are in Sengoku Basara as well. Worth trying out.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

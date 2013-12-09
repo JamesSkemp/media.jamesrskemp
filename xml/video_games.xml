@@ -12153,7 +12153,21 @@
 		<own>yes</own>
 		<notes>Believe this was extended Cyber Monday sale. Love it enough that I want it even if my PS+ subscription lapses. Received 12/6/2013 (didn't do Prime shipping).</notes>
 	</game>
-	<game id="832" used="true">
+	<game id="832" electronic="true">
+		<title>Terraria</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-12-07</date>
+			<price>3.75</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 75% off, I believe. Coming soon for PS Vita, so just in case it's cross-buy ...</notes>
+	</game>
+	<game id="833" used="true">
 		<title>Devil Kings</title>
 		<system>
 			<console>PlayStation</console>

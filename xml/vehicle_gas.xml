@@ -2802,6 +2802,15 @@
 				<costTotal>17.53</costTotal>
 				<notes>About 20 cents more expensive than Madison. Got this in Beloit on the way down to see Tiffany.</notes>
 			</fillup>
+			<fillup id="244">
+				<date>2013-12-13</date>
+				<milesCar>51245</milesCar>
+				<milesDriven>326.7</milesDriven>
+				<gallons>12.426</gallons>
+				<costGallon>3.099</costGallon>
+				<costTotal>37.27</costTotal>
+				<notes>Only paid $2.999/gallon since I used my BP Driver Rewards card (free). Empty light came on. Put Heet into the tank first.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

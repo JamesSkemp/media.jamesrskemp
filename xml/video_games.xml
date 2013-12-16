@@ -12181,6 +12181,34 @@
 		<own>yes</own>
 		<notes>Now that I've gotten that far, realized that some of the characters in this game are in Sengoku Basara as well. Worth trying out.</notes>
 	</game>
+	<game id="834" electronic="true">
+		<title>Fallout 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-12-13</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for a couple days, along with the other 2 Fallout games.</notes>
+	</game>
+	<game id="835" electronic="true">
+		<title>Fallout Tactics</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2013-12-13</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for a couple days, along with the other 2 Fallout games.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

@@ -12209,6 +12209,118 @@
 		<own>yes</own>
 		<notes>Free for a couple days, along with the other 2 Fallout games.</notes>
 	</game>
+	<game id="836" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Baldren) + Black Ring (Short)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-16</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="837" addOn="true" electronic="true">
+		<title>Rainbow Moon Beginner's Kit</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="838" electronic="true">
+		<title>Terraria</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-19</date>
+			<price>13.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and I decided I might play this a bunch on the bus.</notes>
+	</game>
+	<game id="839" electronic="true">
+		<title>flOw</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I purchased it on the PS3.</notes>
+	</game>
+	<game id="840" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Trisha) + Fire Ring</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-20</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="841" addOn="true" electronic="true">
+		<title>Rainbow Moon Amulet Set (Triple)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-20</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="842" addOn="true" electronic="true">
+		<title>Rainbow Moon Starter Pack (Large)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-20</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="843" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Dozeru) + Pearl Ring</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-20</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

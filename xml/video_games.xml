@@ -5414,7 +5414,10 @@
 			<place>Game Stop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Was $19.99, but saved $2 with Edge card.</notes>
+		<notes>
+			Used. Was $19.99, but saved $2 with Edge card.
+			Bought strategy guide 12/30/2013 for $5.99 from PrePlayed 3868 East Washington Ave Madison WI 53704.
+		</notes>
 	</game>
 	<game id="359">
 		<title>Sports Champions</title>
@@ -8586,7 +8589,10 @@
 			<place>GameStop, West Town Mall, 128 West Town Mall, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved 10% ($2.80), buying used with PowerUp card.</notes>
+		<notes>
+			Saved 10% ($2.80), buying used with PowerUp card.
+			Bought strategy guide 12/30/2013 for $13.99 from PrePlayed 3868 East Washington Ave Madison WI 53704. Was on the fence, but supposed to be a very good guide.
+		</notes>
 	</game>
 	<game id="581" electronic="true" beat="true">
 		<title>Walking Dead, The - Episode 1: A New Day</title>
@@ -10646,7 +10652,10 @@
 			<place>Best Buy #208, Madison WI 53713</place>
 		</purchase>
 		<own>yes</own>
-		<notes>DLC is 50% off until 4/1, so since they probably won't have an ultimate edition, might as well finally get the game.</notes>
+		<notes>
+			DLC is 50% off until 4/1, so since they probably won't have an ultimate edition, might as well finally get the game.
+			Bought strategy guide 12/30/2013 for $13.99 from PrePlayed 3868 East Washington Ave Madison WI 53704.
+		</notes>
 	</game>
 	<game id="726">
 		<title>Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs King Abaddon</title>
@@ -10901,7 +10910,10 @@
 			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Saved 10% ($0.70) with PowerUp card.</notes>
+		<notes>
+			Used. Saved 10% ($0.70) with PowerUp card.
+			Bought strategy guide 12/30/2013 for $4.99 from PrePlayed 3868 East Washington Ave Madison WI 53704. Second copy, but this was wrapped, and basically like new.
+		</notes>
 	</game>
 	<game id="744">
 		<title>Shining Tears</title>
@@ -12320,6 +12332,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="844" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Gorodo) + Fire Ring</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-26</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PS3 version.</notes>
+	</game>
+	<game id="845">
+		<title>Ys Memories of Celceta</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2013-12-29</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Christmas gift from mom. She bought from Amazon for $39.99.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

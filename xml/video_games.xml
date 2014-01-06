@@ -12361,9 +12361,53 @@
 		<own>yes</own>
 		<notes>Christmas gift from mom. She bought from Amazon for $39.99.</notes>
 	</game>
+	<game id="846">
+		<title>Gears of War: Judgment</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-01-05</date>
+			<price>19.99</price>
+			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$20 off.</notes>
+	</game>
+	<game id="847" used="true">
+		<title>Metroid Prime: Trilogy</title>
+		<system>
+			<console>Wii</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-01-05</date>
+			<price>44.99</price>
+			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>These are normally $70+ and hundreds new. Doesn't appear to actually be used. Saved $5 with PowerUp card.</notes>
+	</game>
+	<game id="848" used="true">
+		<title>Tales of Symphonia: Dawn of the New World</title>
+		<system>
+			<console>Wii</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-01-05</date>
+			<price>17.99</price>
+			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Saved $2 with PowerUp card. Despite getting the remakes in a few months, decided to pick this up since they had it and it was cheap.
+			Purchased strategy guide 11/23/2013 for $13.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
-	Tales of Symphonia: Dawn of the New World - Purchased strategy guide 11/23/2013 for $13.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	-->
 </games>

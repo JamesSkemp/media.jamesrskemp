@@ -12420,6 +12420,34 @@
 		<own>yes</own>
 		<notes>Sold as 'Collectible' which means it's complete. Dang good shape.</notes>
 	</game>
+	<game id="850" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Serena) + Pearl Ring</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-01-08</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PlayStation 3 version.</notes>
+	</game>
+	<game id="851" addOn="true" electronic="true">
+		<title>Rainbow Moon: 50,000 Rainbow Pearls (Zelorus) + Black Ring</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-01-08</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also for PlayStation 3 version.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

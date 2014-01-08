@@ -768,5 +768,19 @@
 			<own>yes</own>
 			<notes>Was delivered 1/4/2014, but I had to pick up from the office 1/6/2014.</notes>
 		</item>
+		<item id="54">
+			<name>EX-02 Bluetooth Headset X3 Faceplate Pack for PlayStation 3</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2013-12-31</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Free from Amazon Prime. Received 1/8/2014.</notes>
+		</item>
 	</hardware>
 </videoGames>

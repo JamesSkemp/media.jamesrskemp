@@ -8473,7 +8473,7 @@
 			<place>3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Bought strategy guide for $9.99 on 1/11/2014 from Mega Media Xchange 7610 Mineral Point Rd Madison WI 53719-1689.</notes>
 	</game>
 	<game id="573" used="true">
 		<title>Unlimited Saga</title>
@@ -8835,7 +8835,7 @@
 		<own>yes</own>
 		<notes>Used. Almost picked this up for ~$4 less at GameStop in FDL, but he couldn't find the game ...</notes>
 	</game>
-	<game id="598">
+	<game id="598" used="true">
 		<title>Suikoden Tactics</title>
 		<system>
 			<console>PlayStation</console>
@@ -8847,7 +8847,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Even came with the soundtrack.</notes>
+		<notes>
+			Used. Even came with the soundtrack.
+			Bought strategy guide for $13.99 on 1/11/2014 from Mega Media Xchange 7610 Mineral Point Rd Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="599">
 		<title>Eternal Sonata</title>

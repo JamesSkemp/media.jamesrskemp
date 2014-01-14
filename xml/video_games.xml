@@ -5811,7 +5811,7 @@
 		<own>yes</own>
 		<notes>Used. Was $26.99, but saved $2.70 (10%) with PowerUp Card. Started 11/26/2011 and beat main game 12/10/2011, with platinum on 12/11/2011. Not marking as 'beat' since there's still Awakening and DLC to finish.</notes>
 	</game>
-	<game id="386">
+	<game id="386" used="true" beat="true">
 		<title>Bullet Witch</title>
 		<system>
 			<console>Xbox</console>
@@ -5823,7 +5823,10 @@
 			<place>GameStop, East Towne Mall, 54 East Towne Mall, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Was $4.99, but saved $.50 (10%) with PowerUp Card. Cavia had a hand in this, which originally brought it to my attention. First time I've found one in the original case, with the manual.</notes>
+		<notes>
+			Was $4.99, but saved $.50 (10%) with PowerUp Card. Cavia had a hand in this, which originally brought it to my attention. First time I've found one in the original case, with the manual.
+			Bought strategy guide 1/9/2014 from Amazon.com (ph9) for $23.23 plus $6.99 for expedited shipping, which meant I received it 1/13/2014..
+		</notes>
 	</game>
 	<game id="387">
 		<title>Ninja Gaiden 2</title>

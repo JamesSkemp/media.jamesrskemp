@@ -12454,6 +12454,20 @@
 		<own>yes</own>
 		<notes>Also for PlayStation 3 version.</notes>
 	</game>
+	<game id="852" electronic="true">
+		<title>Cut the Rope</title>
+		<system>
+			<console>Windows</console>
+			<version>8</version>
+		</system>
+		<purchase>
+			<date>2014-01-15</date>
+			<price>4.99</price>
+			<place>Microsoft Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received a $25 gift card with my Asus Transformer, so this was basically free.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

@@ -10577,4 +10577,28 @@
 		<buy date="2013-10-13" place="Goodwill 20 Janesville, 2003 Holiday Drive, Janesville WI 53545" price="0.00"/>
 		<notes>$1.79, but mom purchased for me. Came here because we were close as I picked up a game at Best Buy.</notes>
 	</book>
+	<book id="1030">
+		<title>A Life of Philip K. Dick: The Man Who Remembered the Future</title>
+		<authors>
+			<author>Anthony Peake</author>
+		</authors>
+		<buy date="2014-01-26" place="Half Price Books, 626 South Whitney Way, Madison WI 53711" price="6.99"/>
+		<notes>Was marked as $4.99 but I didn't notice until after they charged more. Looks new.</notes>
+	</book>
+	<book id="1031">
+		<title>In a Glass Darkly</title>
+		<authors>
+			<author>Sheridan Le Fanu</author>
+		</authors>
+		<buy date="2014-01-26" place="Half Price Books, 626 South Whitney Way, Madison WI 53711" price="4.98"/>
+	</book>
+	<book id="1032">
+		<title>Watchmen</title>
+		<authors>
+			<author>Alan Moore</author>
+			<author>Dave Gibbons</author>
+		</authors>
+		<buy date="2014-01-26" place="Half Price Books, 626 South Whitney Way, Madison WI 53711" price="9.99"/>
+		<notes>Thanks to Rob Lumley for recommending this in the first place, many years ago.</notes>
+	</book>
 </books>

@@ -12583,6 +12583,24 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but free for PlayStation Plus.</notes>
 	</game>
+	<game id="861">
+		<title>Lightning Returns: Final Fantasy XIII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-07-02</date>
+			<price>59.96</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own></own>
+		<notes>
+			Received on release day, 2/11/2014.
+			Purchased normal guide 1/13/2014 from Amazon.com for $18.48, which I received on 2/11/2014.
+			Purchased Collector's Edition guide 11/28/2013 from Amazon.com for $23.99, which I received 2/11/2014.
+		</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

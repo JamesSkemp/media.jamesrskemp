@@ -11,7 +11,7 @@
 		<purchase>
 			<date>2007-11-17</date>
 			<price>0.00</price>
-			<place>Best Buy #208 (West Madison)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<sell>
 			<date>2010-05-17</date>
@@ -184,7 +184,7 @@
 		<purchase>
 			<date>2007-06-03</date>
 			<price>31.49</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2009-11-21</date>
@@ -202,7 +202,7 @@
 		<purchase>
 			<date>2006-02-03</date>
 			<price>13.49</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used.</notes>
@@ -216,7 +216,7 @@
 		<purchase>
 			<date>2006-02-25</date>
 			<price>39.99</price>
-			<place>Best Buy #208 - West Madison</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -246,7 +246,7 @@
 		<purchase>
 			<date>2005-11-05</date>
 			<price>16.19</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -263,7 +263,7 @@
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought strategy guide 11/28/2013 from Amazon.com (Physicaltherapymedicalmission) for $14.99, and received 12/4/2013 (delivery attempted via USPS 12/3/2013).</notes>
@@ -277,7 +277,7 @@
 		<purchase>
 			<date>2005-12-28</date>
 			<price>14.50</price>
-			<place>netdealz (Amazon.com)</place>
+			<place>Amazon.com (netdealz)</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -319,7 +319,7 @@
 		<purchase>
 			<date>2005-08-27</date>
 			<price>17.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -355,7 +355,7 @@
 		<purchase>
 			<date>2006-02-03</date>
 			<price>29.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2009-11-21</date>
@@ -392,7 +392,7 @@
 		<own>yes</own>
 		<notes>
 			Contains Final Fantasy IV and Chrono Trigger.
-			Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+			Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107.
 		</notes>
 	</game>
 	<game id="26">
@@ -404,7 +404,7 @@
 		<purchase>
 			<date>2006-01-02</date>
 			<price>49.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased game guide 2/4/2012 at Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913, for $5.99.</notes>
@@ -522,7 +522,7 @@
 		<purchase>
 			<date>2005-01-23</date>
 			<price>19.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -640,7 +640,7 @@
 		<purchase>
 			<date>2006-02-25</date>
 			<price>31.49</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used</notes>
@@ -672,7 +672,7 @@
 		<purchase>
 			<date>2005-09-10</date>
 			<price>11.92</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-10</date>
@@ -726,7 +726,7 @@
 		<purchase>
 			<date>2005-08-27</date>
 			<price>9.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -857,7 +857,7 @@
 		<own>yes</own>
 		<notes>
 			Bought strategy guide 6/22/2013 for $7.49 from Half Price Books, 626 South Whitney Way, Madison WI 53711.
-			Bought strategy guide 8/24/2013 used for $9.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. Didn't include poster. Didn't think I had this since I put the first one under FF12. Whoops.
+			Bought strategy guide 8/24/2013 used for $9.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107. Didn't include poster. Didn't think I had this since I put the first one under FF12. Whoops.
 		</notes>
 	</game>
 	<game id="54" beat="true">
@@ -897,7 +897,7 @@
 		<purchase>
 			<date>2006-01-06</date>
 			<price>14.88</price>
-			<place>J&amp;R Music World Computer World (Amazon.com)</place>
+			<place>Amazon.com (J&amp;R Music World Computer World)</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought strategy guide 5/19/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
@@ -947,7 +947,7 @@
 		<purchase>
 			<date>2005-09-10</date>
 			<price>10.12</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -1065,7 +1065,7 @@
 		<purchase>
 			<date>2007-06-03</date>
 			<price>24.29</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -1127,7 +1127,7 @@
 			<place>ShopKo #032 (Monona)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.</notes>
+		<notes>Bought strategy guide 8/24/2013 used for $4.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107.</notes>
 	</game>
 	<game id="71">
 		<title>Legend of Dragoon, The</title>
@@ -1266,7 +1266,7 @@
 		<purchase>
 			<date>2005-09-10</date>
 			<price>20.91</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-10</date>
@@ -1284,7 +1284,7 @@
 		<purchase>
 			<date>2007-06-03</date>
 			<price>0.00</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<sell>
 			<date>2009-11-21</date>
@@ -1338,10 +1338,10 @@
 		<purchase>
 			<date>2006-10-14</date>
 			<price>39.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. Seems to be a good deal.</notes>
+		<notes>Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107. Seems to be a good deal.</notes>
 	</game>
 	<game id="84">
 		<title>Onimusha 3: Demon Siege</title>
@@ -1352,7 +1352,7 @@
 		<purchase>
 			<date>2006-11-22</date>
 			<price>11.69</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used</notes>
@@ -1380,7 +1380,7 @@
 		<purchase>
 			<date>2005-01-23</date>
 			<price>11.99</price>
-			<place>PrePlayed - 7610 Mineral Point Rd Madison</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes><![CDATA[Started 1/12/2011 and beat 1/16/2011 with a time of 11:47:14. Then played an EX game starting 1/16/2011 and beat 1/17/2011, with a time of 7:02:11 (includes approximately 50 minutes of Chrysler Building - floors 1 and 2 (mapping) and one level of grinding). Picked up game guide 7/28/2012 from Video Game X-Change, 3002 Atwood Ave, Madison WI, for $6.50.]]></notes>
@@ -1394,7 +1394,7 @@
 		<purchase>
 			<date>2005-09-10</date>
 			<price>25.41</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used</notes>
@@ -1426,7 +1426,7 @@
 		<purchase>
 			<date>2005-11-05</date>
 			<price>49.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased game guide 2/18/2012 for $4.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.</notes>
@@ -1476,7 +1476,7 @@
 		<purchase>
 			<date>2007-02-16</date>
 			<price>39.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -1492,7 +1492,7 @@
 		<purchase>
 			<date>2006-02-25</date>
 			<price>11.69</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used</notes>
@@ -1506,7 +1506,7 @@
 		<purchase>
 			<date>2004-07-25</date>
 			<price>24.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed - 3868 East Washington Ave, Madison 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used, but excellent shape. Supposedly a hot item.</notes>
@@ -1580,7 +1580,7 @@
 		<purchase>
 			<date>2006-10-14</date>
 			<price>49.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -1772,7 +1772,7 @@
 		<purchase>
 			<date>2005-08-27</date>
 			<price>27.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used</notes>
@@ -1786,7 +1786,7 @@
 		<purchase>
 			<date>2005-08-27</date>
 			<price>19.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased strategy guide 12/7/2013 for $9.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.</notes>
@@ -1814,12 +1814,12 @@
 		<purchase>
 			<date>2006-09-30</date>
 			<price>28.34</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
 			$34.99 - $3.50 - $3.15.
-			Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107. This seems to be a good deal according to Amazon.
+			Bought strategy guide 8/24/2013 used for $13.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107. This seems to be a good deal according to Amazon.
 		</notes>
 	</game>
 	<game id="114">
@@ -1909,7 +1909,7 @@
 		<purchase>
 			<date>2004-08-10</date>
 			<price>19.99</price>
-			<place>Target East Madison</place>
+			<place>Target - East Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -2041,7 +2041,7 @@
 		<purchase>
 			<date>2005-01-15</date>
 			<price>17.99</price>
-			<place>Game Stop - West Madison</place>
+			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -2410,7 +2410,7 @@
 		<purchase>
 			<date>2008-09-14</date>
 			<price>19.99</price>
-			<place>Best Buy #208 (West Madison)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -2746,7 +2746,7 @@
 		<purchase>
 			<date>2009-01-04</date>
 			<price>49.99</price>
-			<place>Best Buy #208 (west Madison)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for $10 off.</notes>
@@ -2811,7 +2811,7 @@
 		<notes>
 			Purchased official guide, used, for $19.99 + $4.00 shipping from lites99 on eBay, on 2/23/2011, and recieved 2/28/2011.
 			Bought game guide again 6/22/2012 for $9.99 at PrePlayed, 3868 East Washington Ave, Madison WI 53704, since it was in much better shape.
-			Bought game guide yet again 6/15/2013 for $9.99 from PrePlayed - 3868 E Washington Ave, Madison 53704.
+			Bought game guide yet again 6/15/2013 for $9.99 from PrePlayed - 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
 	<game id="180" electronic="true">
@@ -4390,7 +4390,7 @@
 		<own>yes</own>
 		<notes>
 			First day it was in stock, although it's been out a couple of days, I believe.
-			Bought Resonance of Fate strategy guide 8/27/2011 for $5.99 from Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913. Clerk had just put them out that morning.
+			Bought Resonance of Fate strategy guide 8/27/2011 for $5.99 from Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913. Clerk had just put them out that morning.
 		</notes>
 	</game>
 	<game id="288">
@@ -4694,7 +4694,7 @@
 		<purchase>
 			<date>2010-09-11</date>
 			<price>27.60</price>
-			<place>Westview Traders Inc (Amazon.com)</place>
+			<place>Amazon.com (Westview Traders Inc)</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Paid mandatory $3.99 shipping.</notes>
@@ -4750,12 +4750,12 @@
 		<purchase>
 			<date>2010-10-09</date>
 			<price>8.99</price>
-			<place>Mega Media Xchange, 405 N Cassaloma Dr, Appleton WI 54913</place>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
 			Heard talk about the first before the second was released, so ...
-			Purchased strategy guide 12/7/2013 for $4.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.
+			Purchased strategy guide 12/7/2013 for $4.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
 	<game id="313">
@@ -4767,7 +4767,7 @@
 		<purchase>
 			<date>2010-10-09</date>
 			<price>13.99</price>
-			<place>Mega Media Xchange, 405 N Cassaloma Dr, Appleton WI 54913</place>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
 		<notes><![CDATA[Wasn't sure if the PS3 version had trophies, so it took a bit of debating on whether to pick this up ... Bought used.]]></notes>
@@ -5411,7 +5411,7 @@
 		<purchase>
 			<date>2011-05-14</date>
 			<price>17.99</price>
-			<place>Game Stop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
+			<place>Game Stop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -5428,7 +5428,7 @@
 		<purchase>
 			<date>2011-05-14</date>
 			<price>13.49</price>
-			<place>GameStop, Forest Mall, 835 W Johnson Street, Fond Du Lac WI 54935</place>
+			<place>GameStop, Forest Mall, 835 W Johnson Street, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Was $14.99 but saved $1.50 with Edge card. New copies selling for $39.99.</notes>
@@ -5442,7 +5442,7 @@
 		<purchase>
 			<date>2011-05-14</date>
 			<price>16.19</price>
-			<place>GameStop, Forest Mall, 835 W Johnson Street, Fond Du Lac WI 54935</place>
+			<place>GameStop, Forest Mall, 835 W Johnson Street, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Was $17.99 but saved $1.80 with Edge card. New copies selling for $19.99 there, but since I've already played on the PS3 ... it was hard enough to convenience myself to pick up another copy.</notes>
@@ -5484,12 +5484,12 @@
 		<purchase>
 			<date>2011-05-29</date>
 			<price>19.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used. Exchanged six movies for $20 towards this and two other games.</notes>
 	</game>
-	<game id="363" beat="true">
+	<game id="363" used="true" beat="true">
 		<title>Dante's Inferno</title>
 		<system>
 			<console>Xbox</console>
@@ -5498,7 +5498,7 @@
 		<purchase>
 			<date>2011-05-29</date>
 			<price>13.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used. Exchanged six movies for $20 towards this and two other games.</notes>
@@ -5512,7 +5512,7 @@
 		<purchase>
 			<date>2011-05-29</date>
 			<price>9.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used. Exchanged six movies for $20 towards this and two other games.</notes>
@@ -6009,7 +6009,7 @@
 		<purchase>
 			<date>2011-08-17</date>
 			<price>36.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased used. More expensive than what GameStop is selling it for, but there's nothing around, and it's possible it's not complete. This one was.</notes>
@@ -6126,7 +6126,7 @@
 		<own>yes</own>
 		<notes>
 			Almost picked up a physical copy today but I opted to wait until the digital version dropped to the physical's price, which just happened to be today! Took 9:53:10 to beat on easy, between around 10/19 and 10/28, and ending at level 21.
-			Bought strategy guide 8/27/2011 for $5.99 from Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913. Clerk had just put them out that morning.
+			Bought strategy guide 8/27/2011 for $5.99 from Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913. Clerk had just put them out that morning.
 		</notes>
 	</game>
 	<game id="408" electronic="true">
@@ -6705,7 +6705,7 @@
 		<purchase>
 			<date>2011-12-09</date>
 			<price>29.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Had to pick up another copy, just in case. And when I walked into the store I said that if they had a copy I was going to pick it up.</notes>
@@ -6719,7 +6719,7 @@
 		<purchase>
 			<date>2011-12-09</date>
 			<price>13.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. I was able to price check thanks to unsecured wireless, and this appears to be a good price.</notes>
@@ -6733,7 +6733,7 @@
 		<purchase>
 			<date>2011-12-09</date>
 			<price>13.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. I was able to price check thanks to unsecured wireless, and this appears to be a good price.</notes>
@@ -7122,7 +7122,7 @@
 		<own>yes</own>
 		<notes>
 			Preowned. Had a buy 2 get one free sale today. Saved $1.70 with PowerUp card.
-			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks fantastic inside.
+			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison WI 53704. Looks fantastic inside.
 		</notes>
 	</game>
 	<game id="478" electronic="true">
@@ -7330,12 +7330,12 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>7.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
 			I keep seeing this around, and really just needed to pick it up ...
-			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704.
+			Picked up strategy guide 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704.
 		</notes>
 	</game>
 	<game id="493">
@@ -7347,7 +7347,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>7.00</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Comes with Forza 2, which I decided was worth the additional $2-3.</notes>
@@ -7361,7 +7361,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>6.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Comes with Marvel Ultimate Alliance, which I've played for the PS2, but I keep thinking about it, so ...</notes>
@@ -7375,7 +7375,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>19.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>I should have picked this up at GameStop (I think it was the same price) but I kept not, until it dropped out of stock.</notes>
@@ -7389,7 +7389,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>4.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>By Enix, and it's rather cheap and looks fairly decent. It's worth a try, despite reviews being a mixed bag.</notes>
@@ -7403,7 +7403,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>13.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>I think I've seen people playing this or the newer version, and reviews seemed to be generally good.</notes>
@@ -7417,7 +7417,7 @@
 		<purchase>
 			<date>2012-02-21</date>
 			<price>9.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Looks like Ninja Gaiden, and it's supposed to be over the top action (based on reviews), so it's worth a try.</notes>
@@ -7667,7 +7667,7 @@
 		<purchase>
 			<date>2012-03-25</date>
 			<price>11.99</price>
-			<place>Mega Media Xchange, 405 N. Casaloma Dr, Appleton WI 54913</place>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -8473,7 +8473,7 @@
 		<purchase>
 			<date>2012-07-23</date>
 			<price>11.99</price>
-			<place>3868 East Washington Ave, Madison WI 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought strategy guide for $9.99 on 1/11/2014 from Mega Media Xchange 7610 Mineral Point Rd Madison WI 53719-1689.</notes>
@@ -8487,7 +8487,7 @@
 		<purchase>
 			<date>2012-07-23</date>
 			<price>6.99</price>
-			<place>3868 East Washington Ave, Madison WI 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -8501,7 +8501,7 @@
 		<purchase>
 			<date>2012-07-23</date>
 			<price>44.99</price>
-			<place>3868 East Washington Ave, Madison WI 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>$10 cheaper than GameStop.</notes>
@@ -8788,7 +8788,7 @@
 		<purchase>
 			<date>2012-09-22</date>
 			<price>11.69</price>
-			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
+			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -10831,7 +10831,7 @@
 		<own>yes</own>
 		<notes>
 			Was on sale. Heard good things about it. Was delivered 4/2, but had to pick up from the post office on 4/3.
-			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107.
 		</notes>
 	</game>
 	<game id="738">
@@ -10930,7 +10930,7 @@
 		<purchase>
 			<date>2013-05-02</date>
 			<price>19.99</price>
-			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704.</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used.</notes>
@@ -10944,7 +10944,7 @@
 		<purchase>
 			<date>2013-05-02</date>
 			<price>15.99</price>
-			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704.</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Finally decided to pick it up. PS3 version is significantly more.</notes>
@@ -11098,7 +11098,7 @@
 		<purchase>
 			<date>2013-06-15</date>
 			<price>1.90</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Cheap and I really liked the 'cover.' Game only.</notes>
@@ -11112,7 +11112,7 @@
 		<purchase>
 			<date>2013-06-15</date>
 			<price>1.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Picked up after picking up Defender. Cheap enough. Game only.</notes>
@@ -11126,7 +11126,7 @@
 		<purchase>
 			<date>2013-06-15</date>
 			<price>1.99</price>
-			<place>PrePlayed - 3868 E Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Picked up after picking up Defender. Cheap enough, and in pretty good shape. Game only.</notes>
@@ -11504,7 +11504,7 @@
 		<purchase>
 			<date>2013-08-24</date>
 			<price>4.99</price>
-			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used.</notes>
@@ -11518,12 +11518,12 @@
 		<purchase>
 			<date>2013-08-24</date>
 			<price>9.99</price>
-			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
 			Used. Seemingly this is very good, and 360 compatible. Included bonus disc.
-			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107.
+			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107.
 		</notes>
 	</game>
 	<game id="787">
@@ -11535,7 +11535,7 @@
 		<purchase>
 			<date>2013-08-24</date>
 			<price>3.99</price>
-			<place>Mega Media Xchange, 7810 Mineral Point Rd, Madison WI 53719-4107</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. At this price it's worth picking up. Actually included movie.</notes>
@@ -12201,7 +12201,7 @@
 		<purchase>
 			<date>2013-12-07</date>
 			<price>6.99</price>
-			<place>PrePlayed, 3868 East Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Now that I've gotten that far, realized that some of the characters in this game are in Sengoku Basara as well. Worth trying out.</notes>
@@ -12693,7 +12693,7 @@
 		<notes>Seems to include the original game as well, and reviews of this seemed favorable.</notes>
 	</game>
 	<!--
-	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
+	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	-->
 </games>

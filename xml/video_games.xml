@@ -12615,7 +12615,7 @@
 		<own>yes</own>
 		<notes>50% off. Received 2/12/2014.</notes>
 	</game>
-	<game id="863">
+	<game id="863" used="true">
 		<title>Fist of the North Star: Ken's Rage 2</title>
 		<system>
 			<console>Xbox</console>
@@ -12656,6 +12656,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale. $1 more expensive than the Xbox 360 version, but this version has been patched, so ...</notes>
+	</game>
+	<game id="866" electronic="true">
+		<title>Castle Crashers</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-02-15</date>
+			<price>3.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale and Alan said he would go through it in co-op. Possibly others in the Borderlands 2 group as well.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

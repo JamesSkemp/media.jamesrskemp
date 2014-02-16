@@ -12615,6 +12615,48 @@
 		<own>yes</own>
 		<notes>50% off. Received 2/12/2014.</notes>
 	</game>
+	<game id="863">
+		<title>Fist of the North Star: Ken's Rage 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-02-15</date>
+			<price>8.09</price>
+			<place>GameStop, 2500 Milton Ave, Janesville WI 53545</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.90 with PowerUp Card. While I heard it wasn't as good as the first, this was dirt cheap.</notes>
+	</game>
+	<game id="864">
+		<title>Beyond: Two Souls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-02-15</date>
+			<price>24.99</price>
+			<place>Best Buy #892, Janesville WI 53546</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for the last few days. Was marked as $29.99, but $5 less for some reason at checkout.</notes>
+	</game>
+	<game id="865">
+		<title>Zone of the Enders: HD Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-02-15</date>
+			<price>15.99</price>
+			<place>Best Buy #892, Janesville WI 53546</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. $1 more expensive than the Xbox 360 version, but this version has been patched, so ...</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

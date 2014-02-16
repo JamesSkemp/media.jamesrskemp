@@ -12073,7 +12073,7 @@
 		<own>yes</own>
 		<notes>$6 off bundle (complete series discount). I used to have this game.</notes>
 	</game>
-	<game id="825">
+	<game id="825" beat="true">
 		<title>LEGO Marvel Super Heroes</title>
 		<system>
 			<console>PlayStation</console>
@@ -12084,8 +12084,15 @@
 			<price>39.00</price>
 			<place>Amazon.com</place>
 		</purchase>
-		<own>yes</own>
-		<notes>Initially it was $49, but it wasn't in stock, and Black Friday had it for $39.99. Got the discount. Received 12/2/2013. First physical PS4 game, and first purchased game for it.</notes>
+		<sell>
+			<date>2014-02-16</date>
+			<price>25.00</price>
+		</sell>
+		<own>no</own>
+		<notes>
+			Initially it was $49, but it wasn't in stock, and Black Friday had it for $39.99. Got the discount. Received 12/2/2013. First physical PS4 game, and first purchased game for it.
+			Sold at Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="826">
 		<title>DMC: Devil May Cry</title>
@@ -12670,6 +12677,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale and Alan said he would go through it in co-op. Possibly others in the Borderlands 2 group as well.</notes>
+	</game>
+	<game id="867" used="true">
+		<title>Panzer Dragoon Orta</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-02-16</date>
+			<price>8.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems to include the original game as well, and reviews of this seemed favorable.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 E Washington Ave, Madison 53704. Looks really good.

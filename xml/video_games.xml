@@ -10509,7 +10509,7 @@
 		<purchase>
 			<date>2013-03-10</date>
 			<price>59.99</price>
-			<place>Best Buy #208, Madison WI 53713 (West)</place>
+			<place>Best Buy #208, Madison WI 53713</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Came with book and some DLC.</notes>
@@ -12733,6 +12733,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $14.99. On sale as part of the Back to 2013 Sale.</notes>
+	</game>
+	<game id="871">
+		<title>Bravely Default</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-02</date>
+			<price>39.99</price>
+			<place>Best Buy #208, Madison WI 53713</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Initially ordered for the same-ish price from Amazon, but they're out of stock.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

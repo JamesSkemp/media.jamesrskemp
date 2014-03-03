@@ -2820,6 +2820,15 @@
 				<costTotal>35.30</costTotal>
 				<notes>Really cold, so car has been sitting. Just about a quarter of a tank left.</notes>
 			</fillup>
+			<fillup id="246">
+				<date>2014-03-02</date>
+				<milesCar>51607</milesCar>
+				<milesDriven>143.1</milesDriven>
+				<gallons>6.417</gallons>
+				<costGallon>3.499</costGallon>
+				<costTotal>22.45</costTotal>
+				<notes>Very cold. Filled up right before going to an auction for Tiffany.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

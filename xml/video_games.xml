@@ -7717,7 +7717,10 @@
 			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>New. Reviews are 'eh,' but it's cheap enough that I don't care.</notes>
+		<notes>
+			New. Reviews are 'eh,' but it's cheap enough that I don't care.
+			Bought strategy guide 3/7/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="519">
 		<title>White Knight Chronicles II</title>
@@ -12761,6 +12764,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Don't have a Wii U, but ... Delivered to the office on Saturday, picked up from there 3/4/2014.</notes>
+	</game>
+	<game id="873" electronic="true">
+		<title>Need for Speed Most Wanted</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-03-04</date>
+			<price>5.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week.</notes>
+	</game>
+	<game id="874" used="true">
+		<title>God Hand</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-03-06</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>TotalBiscuit did a video on it a while back that I watched within the last week. Seems hard, but worth a purchase.</notes>
+	</game>
+	<game id="875" used="true">
+		<title>Soul Nomad &amp; the World Eaters</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-03-06</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>New copies sell for $40+ on Amazon, and while reviews seem mixed, it sounds interesting.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

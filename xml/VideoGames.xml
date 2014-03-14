@@ -782,5 +782,19 @@
 			<own>yes</own>
 			<notes>Free from Amazon Prime. Received 1/8/2014.</notes>
 		</item>
+		<item id="55">
+			<name>MS Pro Duo Dual Slot Adapter w/ two 16 GB MicroSDHC Cards</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Portable</version>
+			</system>
+			<purchase>
+				<date>2014-03-11</date>
+				<place>23.99</place>
+				<place>Amazon.com (MemoryWhiz)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 3/13/2014. Allows MicroSD cards to be used with PSP.</notes>
+		</item>
 	</hardware>
 </videoGames>

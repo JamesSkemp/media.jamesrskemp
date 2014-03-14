@@ -12807,6 +12807,76 @@
 		<own>yes</own>
 		<notes>New copies sell for $40+ on Amazon, and while reviews seem mixed, it sounds interesting.</notes>
 	</game>
+	<game id="876" electronic="true">
+		<title>Need for Speed Hot Pursuit</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-03-10</date>
+			<price>5.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale until Tuesday.</notes>
+	</game>
+	<game id="877">
+		<title>Ghost Trick: Phantom Detective</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-11</date>
+			<price>21.49</price>
+			<place>Amazon.com (MOST WANTED)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/13/2014. Watched Mojo channel had a video where this was mentioned. Graphics look very interesting.</notes>
+	</game>
+	<game id="878">
+		<title>Castlevania: Dawn of Sorrow</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-11</date>
+			<price>21.78</price>
+			<place>Amazon.com (DealTavern)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/14/2014.</notes>
+	</game>
+	<game id="879">
+		<title>Castlevania: Portrait of Ruin</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-11</date>
+			<price>23.48</price>
+			<place>Amazon.com (DealTavern)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/14/2014.</notes>
+	</game>
+	<game id="880">
+		<title>Castlevania: Order of Ecclesia</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-11</date>
+			<price>27.90</price>
+			<place>Amazon.com (DealTavern)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/14/2014.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

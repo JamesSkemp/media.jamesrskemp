@@ -790,11 +790,25 @@
 			</system>
 			<purchase>
 				<date>2014-03-11</date>
-				<place>23.99</place>
+				<price>23.99</price>
 				<place>Amazon.com (MemoryWhiz)</place>
 			</purchase>
 			<own>yes</own>
 			<notes>Received 3/13/2014. Allows MicroSD cards to be used with PSP.</notes>
+		</item>
+		<item id="56">
+			<name>PlayStation Vita Card Case</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2014-03-15</date>
+				<price>5.97</price>
+				<place>GameStop @ Gateway Market, 1905 Market Way, Watertown WI 53098</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Need to put my extra 8 GB card in something.</notes>
 		</item>
 	</hardware>
 </videoGames>

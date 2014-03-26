@@ -12950,6 +12950,34 @@
 		<own>yes</own>
 		<notes>Normally $17.99. Free for PlayStation Plus members. Alan mentioned playing co-op.</notes>
 	</game>
+	<game id="886" electronic="true">
+		<title>Dead Nation Apocalypse Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-03-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="887" used="true">
+		<title>Advance Wars: Days of Ruin</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-03-25</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Amazon has used copies starting at $30 and new copies starting at $40/$50+. Also heard about one version of this (I think the first DS version) in Top lists.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

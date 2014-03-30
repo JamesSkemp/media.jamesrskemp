@@ -2829,6 +2829,15 @@
 				<costTotal>22.45</costTotal>
 				<notes>Very cold. Filled up right before going to an auction for Tiffany.</notes>
 			</fillup>
+			<fillup id="247">
+				<date>2014-03-30</date>
+				<milesCar>51903</milesCar>
+				<milesDriven>296.0</milesDriven>
+				<gallons>12.464</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>43.99</costTotal>
+				<notes>Got a really nice day today. Only paid $3.529/ gallon with BP Driver Rewards card.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

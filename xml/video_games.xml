@@ -12821,7 +12821,7 @@
 		<own>yes</own>
 		<notes>On sale until Tuesday.</notes>
 	</game>
-	<game id="877">
+	<game id="877" beat="true">
 		<title>Ghost Trick: Phantom Detective</title>
 		<system>
 			<console>Nintendo</console>
@@ -12977,6 +12977,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Amazon has used copies starting at $30 and new copies starting at $40/$50+. Also heard about one version of this (I think the first DS version) in Top lists.</notes>
+	</game>
+	<game id="888" electronic="true">
+		<title>Batman: Arkham City</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-02</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus subscribers. Normally $19.99.</notes>
+	</game>
+	<game id="889" electronic="true">
+		<title></title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-02</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus subscribers. Normally $29.99. Downloading only so I can play it on both PS3s at once.</notes>
+	</game>
+	<game id="890" electronic="true">
+		<title>Monster Hunter Freedom Unit</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-04-02</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus subscribers. Normally $19.99.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

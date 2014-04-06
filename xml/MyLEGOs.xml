@@ -70,4 +70,44 @@
 		</bought>
 		<notes>Normally $109.99, but 30% off this week.</notes>
 	</set>
+	<set id="8" number="31005">
+		<name>Creator | Construction Hauler</name>
+		<pieces>256</pieces>
+		<bought>
+			<date>2013-01-14</date>
+			<place>Walmart, 7202 Watts Rd, Madison WI 53719</place>
+			<price>17.97</price>
+		</bought>
+		<notes>Bought for work. Made with Liz.</notes>
+	</set>
+	<set id="9" number="31007">
+		<name>Creator | Power Mech</name>
+		<pieces>223</pieces>
+		<bought>
+			<date>2013-01-20</date>
+			<place>Toys R Us West Madison</place>
+			<price>21.99</price>
+		</bought>
+		<notes>Bought for work. Still hadn't made as of 4/6/2014.</notes>
+	</set>
+	<set id="10" number="31008">
+		<name>Creator | Thunder Wings</name>
+		<pieces>235</pieces>
+		<bought>
+			<date>2013-01-20</date>
+			<place>Toys R Us West Madison</place>
+			<price>21.99</price>
+		</bought>
+		<notes>Bought for work. Still hadn't made as of 4/6/2014.</notes>
+	</set>
+	<!--<set id="" number="">
+		<name></name>
+		<pieces></pieces>
+		<bought>
+			<date></date>
+			<place></place>
+			<price></price>
+		</bought>
+		<notes></notes>
+	</set>-->
 </legoSets>

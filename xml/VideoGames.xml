@@ -810,5 +810,33 @@
 			<own>yes</own>
 			<notes>Need to put my extra 8 GB card in something.</notes>
 		</item>
+		<item id="57">
+			<name>Sega Dreamcast</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-04-07</date>
+				<price>39.95</price>
+				<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Complete. Seems to be in really good shape.</notes>
+		</item>
+		<item id="58">
+			<name>Sega Dreamcast Controller</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-04-07</date>
+				<price>0.00</price>
+				<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with system, and seems to be in really good shape.</notes>
+		</item>
 	</hardware>
 </videoGames>

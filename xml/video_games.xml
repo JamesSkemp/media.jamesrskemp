@@ -2721,7 +2721,7 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Bought strategy guide 4/7/2014 for $4.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.</notes>
 	</game>
 	<game id="174" electronic="true" beat="true">
 		<title>Braid</title>
@@ -8005,7 +8005,7 @@
 		<own>yes</own>
 		<notes>Used. Saved $1.00 with PowerUp Card.</notes>
 	</game>
-	<game id="539">
+	<game id="539" used="true">
 		<title>XIII</title>
 		<system>
 			<console>PlayStation</console>
@@ -8017,9 +8017,12 @@
 			<place>Level Up Games, 174 W Main St, Whitewater WI 53190</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. $1.99, but for some reason was free. Possibly a buy one get one?</notes>
+		<notes>
+			$1.99, but for some reason was free. Possibly a buy one get one?
+			Bought strategy guide 4/7/2014 for $0.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
-	<game id="540">
+	<game id="540" used="true">
 		<title>Armored Core 3</title>
 		<system>
 			<console>PlayStation</console>
@@ -8031,7 +8034,7 @@
 			<place>Level Up Games, 174 W Main St, Whitewater WI 53190</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes/>
 	</game>
 	<game id="541">
 		<title>Metroid</title>

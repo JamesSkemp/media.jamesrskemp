@@ -838,5 +838,19 @@
 			<own>yes</own>
 			<notes>Came with system, and seems to be in really good shape.</notes>
 		</item>
+		<item id="59">
+			<name>Visual Memory Unit - Blue</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-04-08</date>
+				<price>9.49</price>
+				<place>Amazon.com (PLAYITNOW)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 4/11/2014 (did standard shipping so I didn't have to go to the office). Original product.</notes>
+		</item>
 	</hardware>
 </videoGames>

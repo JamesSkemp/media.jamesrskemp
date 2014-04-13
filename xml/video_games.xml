@@ -11093,7 +11093,10 @@
 			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
-		<notes>It's time to finally pick this game up.</notes>
+		<notes>
+			It's time to finally pick this game up.
+			Purchased hardcover Limited Edition strategy guide 4/13/2014 for $13.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107. The inside backcover illustration is why I purchased it, since I had deep regret when I didn't last time.
+		</notes>
 	</game>
 	<game id="756">
 		<title>Defender</title>
@@ -13050,6 +13053,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free for PlayStation Plus. Normally $39.99.</notes>
+	</game>
+	<game id="893" used="true">
+		<title>Tony Hawk's Pro Skater</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-04-13</date>
+			<price>4.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I can't get Crazy Taxi, but this should be (and is) even better.</notes>
+	</game>
+	<game id="894" used="true">
+		<title>Tony Hawk's Pro Skater 2</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-04-13</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="895" used="true">
+		<title>King of Fighters: Dream Match 1999</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-04-13</date>
+			<price>11.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I'm not very good at fighters, but since I have KoF '99 on the PS1 still, I feel like I should get this.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

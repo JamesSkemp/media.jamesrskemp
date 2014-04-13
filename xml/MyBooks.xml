@@ -10601,4 +10601,16 @@
 		<buy date="2014-01-26" place="Half Price Books, 626 South Whitney Way, Madison WI 53711" price="9.99"/>
 		<notes>Thanks to Rob Lumley for recommending this in the first place, many years ago.</notes>
 	</book>
+	<book id="1033">
+		<title>Getting Start with Paint.NET</title>
+		<authors>
+			<author>Andros T. Sturgeon</author>
+			<author>Shoban Kumar</author>
+		</authors>
+		<buy date="2014-04-01" place="Packt Publishing" price="0.00"/>
+		<readings finished="true">
+			<read time="1" start="2014-04-08" finish="2014-04-09"/>
+		</readings>
+		<notes>Free copy for review.</notes>
+	</book>
 </books>

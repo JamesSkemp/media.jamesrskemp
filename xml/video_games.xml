@@ -12841,7 +12841,7 @@
 		<own>yes</own>
 		<notes>Received 3/13/2014. Watched Mojo channel had a video where this was mentioned. Graphics look very interesting.</notes>
 	</game>
-	<game id="878">
+	<game id="878" beat="true">
 		<title>Castlevania: Dawn of Sorrow</title>
 		<system>
 			<console>Nintendo</console>
@@ -12853,7 +12853,7 @@
 			<place>Amazon.com (DealTavern)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2014.</notes>
+		<notes>Received 3/14/2014. Finished 4/17/2014 after approxmiately 10 hours.</notes>
 	</game>
 	<game id="879">
 		<title>Castlevania: Portrait of Ruin</title>

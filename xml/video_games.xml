@@ -13096,6 +13096,90 @@
 		<own>yes</own>
 		<notes>I'm not very good at fighters, but since I have KoF '99 on the PS1 still, I feel like I should get this.</notes>
 	</game>
+	<game id="896" used="true">
+		<title>Tony Hawk's Pro Skater 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't realize I didn't have the PS2 version until I watched a video on the history of THPS.</notes>
+	</game>
+	<game id="897" used="true">
+		<title>Tony Hawk's Pro Skater 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't realize I didn't have the PS2 version until I watched a video on the history of THPS.</notes>
+	</game>
+	<game id="898" used="true">
+		<title>Tony Hawk's Pro Skater 3</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>2.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Decided to pick up the Xbox version to try the few new maps.</notes>
+	</game>
+	<game id="899" used="true">
+		<title>Valkyrie Profile: Covenant of the Plume</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>9.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="900" used="true">
+		<title>Syberia</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>11.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth trying it, since I enjoyed the PC version.</notes>
+	</game>
+	<game id="901" used="true">
+		<title>Lufia: Curse of the Sinistrals</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-04-17</date>
+			<price>13.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

@@ -13180,6 +13180,62 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="902" electronic="true">
+		<title>Tokyo Jungle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-18</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend.</notes>
+	</game>
+	<game id="903" electronic="true">
+		<title>Jurassic Park: The Game - Full Seasons (Episodes 1-4)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-18</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend.</notes>
+	</game>
+	<game id="904" electronic="true">
+		<title>Sam &amp; Max: The Devil's Playhouse (Episodes 1-5)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-18</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend.</notes>
+	</game>
+	<game id="905" electronic="true">
+		<title>Tales of Monkey Island Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-04-18</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

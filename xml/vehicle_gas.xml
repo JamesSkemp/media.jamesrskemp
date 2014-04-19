@@ -2836,7 +2836,7 @@
 				<gallons>12.464</gallons>
 				<costGallon>3.579</costGallon>
 				<costTotal>43.99</costTotal>
-				<notes>Got a really nice day today. Only paid $3.529/ gallon with BP Driver Rewards card.</notes>
+				<notes>Got a really nice day today. Only paid $3.529/gallon with BP Driver Rewards card.</notes>
 			</fillup>
 			<fillup id="248">
 				<date>2014-04-07</date>
@@ -2846,6 +2846,15 @@
 				<costGallon>3.579</costGallon>
 				<costTotal>29.45</costTotal>
 				<notes>Before heading up to Chicago. Had driven to Rockford and back to pick up Tiffany.</notes>
+			</fillup>
+			<fillup id="249">
+				<date>2014-04-19</date>
+				<milesCar>52485</milesCar>
+				<milesDriven>342.1</milesDriven>
+				<gallons>11.955</gallons>
+				<costGallon>3.579</costGallon>
+				<costTotal>42.19</costTotal>
+				<notes>Paid only $3.529/gallon with BP Driver Rewards card.</notes>
 			</fillup>
 		</fillups>
 	</vehicle>

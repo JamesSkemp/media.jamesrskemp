@@ -13264,6 +13264,48 @@
 		<own>yes</own>
 		<notes>Seems interesting.</notes>
 	</game>
+	<game id="908" electronic="true">
+		<title>Crusader: No Remorse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-04-20</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but 60% off sale this weekend on EA games. While I have a physical copy, it's nice to have a backup as well.</notes>
+	</game>
+	<game id="909" electronic="true">
+		<title>Crusader: No Regret</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-04-20</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but 60% off sale this weekend on EA games.</notes>
+	</game>
+	<game id="910" electronic="true">
+		<title>Sid Meier's Alpha Centauri</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-04-20</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but 60% off sale this weekend on EA games. Looked interesting.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

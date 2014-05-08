@@ -13432,6 +13432,62 @@
 		<own>yes</own>
 		<notes>Saved 10% ($0.50) with PowerUp card. I figure I should Platinum the game, and this is less than I sold it for years ago.</notes>
 	</game>
+	<game id="920" electronic="true">
+		<title>Rogue Legacy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-08</date>
+			<price>3.74</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale as part of the May 6-21st spring sale. Normally $14.99.</notes>
+	</game>
+	<game id="921" electronic="true">
+		<title>PixelJunk Eden</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-08</date>
+			<price>2.49</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale as part of the May 6-21st spring sale. Normally $9.99.</notes>
+	</game>
+	<game id="922" electronic="true">
+		<title>Saints Row IV</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-08</date>
+			<price>13.33</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale as part of the May 6-21st spring sale. Normally $39.99.</notes>
+	</game>
+	<game id="923" electronic="true" addOn="true">
+		<title>Saints Row IV: Season Pass</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-08</date>
+			<price>3.33</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale as part of the May 6-21st spring sale. Normally $9.99.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

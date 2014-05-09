@@ -13488,6 +13488,48 @@
 		<own>yes</own>
 		<notes>On sale as part of the May 6-21st spring sale. Normally $9.99.</notes>
 	</game>
+	<game id="924" electronic="true">
+		<title>BioShock</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-09</date>
+			<price>5.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Got all three games for $14.99 total, thanks to weekend sale.</notes>
+	</game>
+	<game id="925" electronic="true">
+		<title>BioShock 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-09</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Got all three games for $14.99 total, thanks to weekend sale.</notes>
+	</game>
+	<game id="926" electronic="true">
+		<title>BioShock Infinite</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-09</date>
+			<price>5.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Got all three games for $14.99 total, thanks to weekend sale.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

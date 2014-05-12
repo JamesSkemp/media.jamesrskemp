@@ -2856,6 +2856,15 @@
 				<costTotal>42.19</costTotal>
 				<notes>Paid only $3.529/gallon with BP Driver Rewards card.</notes>
 			</fillup>
+			<fillup id="250">
+				<date>2014-05-10</date>
+				<milesCar>52753</milesCar>
+				<milesDriven>267.7</milesDriven>
+				<gallons>10.042</gallons>
+				<costGallon>3.519</costGallon>
+				<costTotal>35.34</costTotal>
+				<notes>About 1/4 of a tank left. Finally getting into the 70s and low 80s.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

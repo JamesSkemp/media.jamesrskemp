@@ -266,7 +266,10 @@
 			<place>GameStop, West Madison</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought strategy guide 11/28/2013 from Amazon.com (Physicaltherapymedicalmission) for $14.99, and received 12/4/2013 (delivery attempted via USPS 12/3/2013).</notes>
+		<notes>
+			Bought strategy guide 11/28/2013 from Amazon.com (Physicaltherapymedicalmission) for $14.99, and received 12/4/2013 (delivery attempted via USPS 12/3/2013).
+			Bought another guide 5/13/2014 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689, for $5.99. Worth having another copy.
+		</notes>
 	</game>
 	<game id="18">
 		<title>Koudelka</title>
@@ -13530,8 +13533,177 @@
 		<own>yes</own>
 		<notes>Got all three games for $14.99 total, thanks to weekend sale.</notes>
 	</game>
+	<game id="927" used="true">
+		<title>Anno 1701: Dawn of Discovery</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>5.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Sadly doesn't include the manual. Seems to generally have favorable reviews.</notes>
+	</game>
+	<game id="928" electronic="true">
+		<title>Age of Empires II: HD Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>4.99</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but cheap for the day.</notes>
+	</game>
+	<game id="929" electronic="true">
+		<title>Risen 2: Dark Waters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="930" electronic="true">
+		<title>Sacred 2: Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="931" electronic="true">
+		<title>Saints Row 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="932" electronic="true">
+		<title>Saints Row: The Third</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="933" electronic="true">
+		<title>Dead Island: Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="934" electronic="true" addOn="true">
+		<title>Saints Row: The Third - The Full DLC Package</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="935" electronic="true">
+		<title>Metro 2033</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="936" electronic="true">
+		<title>Risen</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="937" electronic="true">
+		<title>Sacred Citadel</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
+	<game id="938" electronic="true">
+		<title>Dead Island Riptide - Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-13</date>
+			<price>1.50</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it..
 	-->
 </games>

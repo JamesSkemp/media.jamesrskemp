@@ -13701,9 +13701,205 @@
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
 	</game>
+	<game id="939" electronic="true">
+		<title>Age of Empires III: Complete Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>3.99</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but part of the spring sale, and a flash sale made it even less.</notes>
+	</game>
+	<game id="940" electronic="true">
+		<title>Dear Esther</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="941" electronic="true">
+		<title>Capsized</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="942" electronic="true">
+		<title>Thomas Was Alone</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="943" electronic="true">
+		<title>Little Inferno</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="944" electronic="true">
+		<title>Awesomenauts</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="945" electronic="true" addOn="true">
+		<title>Awesomenauts Cluck Costume</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.38</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="946" electronic="true">
+		<title>Hotline Miami</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="947" electronic="true">
+		<title>Proteus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="948" electronic="true">
+		<title>Tiny and Big in Grandpa's Leftovers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="949" electronic="true">
+		<title>English Country Tune</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="950" electronic="true">
+		<title>Intrusion 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="951" electronic="true">
+		<title>Oil Rush</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-16</date>
+			<price>0.42</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
+	</game>
+	<game id="952" electronic="true">
+		<title>Gnomoria</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-17</date>
+			<price>3.99</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99. Part of spring sale, I think.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
-	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it..
+	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
 	-->
 </games>

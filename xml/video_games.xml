@@ -13002,7 +13002,7 @@
 		<notes>Free for PlayStation Plus subscribers. Normally $19.99.</notes>
 	</game>
 	<game id="889" electronic="true">
-		<title></title>
+		<title>Borderlands 2</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -13895,7 +13895,175 @@
 			<place>Humble Bundle Store</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $7.99. Part of spring sale, I think.</notes>
+		<notes>Normally $7.99. Part of spring sale, I think. Early access game.</notes>
+	</game>
+	<game id="953">
+		<title>Drakengard 3 Collector's Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-02-06</date>
+			<price>79.99</price>
+			<place>Square-Enix online</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 5/20/2014 (release day). One of 5000 copies.</notes>
+	</game>
+	<game id="954">
+		<title>Drakengard 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-02-06</date>
+			<price>49.99</price>
+			<place>Square-Enix online</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 5/20/2014 (release day).</notes>
+	</game>
+	<game id="955" electronic="true">
+		<title>Enslaved: Odyssey to the West Premium Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-21</date>
+			<price>5.99</price>
+			<place>Gamestop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $19.99.</notes>
+	</game>
+	<game id="956" electronic="true">
+		<title>Cities XL Platinum</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-21</date>
+			<price>7.49</price>
+			<place>Gamestop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $29.99.</notes>
+	</game>
+	<game id="957" electronic="true">
+		<title>Tropico 4</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-21</date>
+			<price>3.99</price>
+			<place>Gamestop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $19.99.</notes>
+	</game>
+	<game id="958" electronic="true">
+		<title>Puppeteer</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-05-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free for PlayStation Plus.</notes>
+	</game>
+	<game id="959" electronic="true" addOn="true">
+		<title>Muramasa Rebirth Genroku Legends - Fishy Tales of the Nekomata</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-05-22</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week. Normally $4.99.</notes>
+	</game>
+	<game id="960" electronic="true" addOn="true">
+		<title>Muramasa Rebirth Genroku Legends - A Cause to Daikon For</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-05-22</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week. Normally $4.99.</notes>
+	</game>
+	<game id="961" electronic="true">
+		<title>Final Fantasy VII</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-22</date>
+			<price>5.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $11.99.</notes>
+	</game>
+	<game id="962" electronic="true">
+		<title>Final Fantasy VIII</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-22</date>
+			<price>5.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $11.99.</notes>
+	</game>
+	<game id="963" electronic="true" addOn="true">
+		<title>Mass Effect 3: Extended Cut</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-05-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free DLC with a new ending for the game.</notes>
+	</game>
+	<game id="964" electronic="true">
+		<title>Witcher 2, The: Assassins of Kings Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-24</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale this morning for a limited time.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

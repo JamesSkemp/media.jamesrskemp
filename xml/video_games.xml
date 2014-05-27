@@ -870,12 +870,12 @@
 			<version>2</version>
 		</system>
 		<purchase>
-			<date xsi:nil="true"/>
-			<price/>
+			<date>2004-03-13</date>
+			<price>44.99</price>
 			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought guide 2005.01.15, $15.99, Game Stop West Madison.</notes>
+		<notes>Saved $5 with SCEA coupon. Bought guide 2005.01.15, $15.99, Game Stop West Madison.</notes>
 	</game>
 	<game id="55">
 		<title>Front Mission 3</title>
@@ -1030,16 +1030,16 @@
 			<version>2</version>
 		</system>
 		<purchase>
-			<date xsi:nil="true"/>
+			<date>2004-01-30</date>
 			<price>0.00</price>
-			<place/>
+			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<sell>
 			<date>2008-05-10</date>
 			<price>1.10</price>
 		</sell>
 		<own>no</own>
-		<notes>Bought by sister for my birthday.</notes>
+		<notes>Bought by sister for my birthday. She paid $39.99.</notes>
 	</game>
 	<game id="65">
 		<title>Grand Theft Auto: Vice City (Double Pack)</title>
@@ -1048,9 +1048,9 @@
 			<version>2</version>
 		</system>
 		<purchase>
-			<date xsi:nil="true"/>
+			<date>2004-01-30</date>
 			<price>0.00</price>
-			<place/>
+			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<sell>
 			<date>2008-05-10</date>

@@ -14065,9 +14065,474 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale this morning for a limited time.</notes>
 	</game>
+	<game id="965" electronic="true">
+		<title>Sniper: Ghost Warrior 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="966" electronic="true">
+		<title>Alien Rage: Unlimited</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="967" electronic="true">
+		<title>Disciples III: Reincarnation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="968" electronic="true">
+		<title>Deadly 30</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="969" electronic="true">
+		<title>Fearless Fantasy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115. This game made the bundle worth the price to me.</notes>
+	</game>
+	<game id="970" electronic="true">
+		<title>Muffin Knight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="971" electronic="true">
+		<title>Street Racing Syndicate</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="972" electronic="true">
+		<title>I Am Vegend - Zombiegeddon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="973" electronic="true">
+		<title>Iron Grip: Warlord</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="974" electronic="true" addOn="true">
+		<title>Iron Grip: Warlord - Scorched Earth DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
+	</game>
+	<game id="975" electronic="true">
+		<title>Rescue: Everyday Heroes US Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="976" electronic="true">
+		<title>Gray Matter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115. This and one other nudged me to pick this up.</notes>
+	</game>
+	<game id="977" electronic="true">
+		<title>Infinite Space III: Sea of Stars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="978" electronic="true">
+		<title>Gomo</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="979" electronic="true">
+		<title>QuestRun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115. This and one other nudged me to pick this up.</notes>
+	</game>
+	<game id="980" electronic="true">
+		<title>Adventure Park</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="981" electronic="true">
+		<title>CT Special Forces: Fire for Effect</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="982" electronic="true">
+		<title>Fortix 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="983" electronic="true">
+		<title>Hotel Collector's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="984" electronic="true">
+		<title>Zooloretto</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
+	</game>
+	<game id="985" electronic="true">
+		<title>Skyborn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games.</notes>
+	</game>
+	<game id="986" electronic="true">
+		<title>Sweet Lily Dreams</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games.</notes>
+	</game>
+	<game id="987" electronic="true">
+		<title>To the Moon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games.</notes>
+	</game>
+	<game id="988" electronic="true">
+		<title>Deadly Sin 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games.</notes>
+	</game>
+	<game id="989" electronic="true">
+		<title>Legionwood 2: Rise of the Eternal's Realm</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games.</notes>
+	</game>
+	<game id="990" electronic="true">
+		<title>In Search for Immortality</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#1).</notes>
+	</game>
+	<game id="991" electronic="true">
+		<title>Legionwood: The Tale of Two Swords</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#1).</notes>
+	</game>
+	<game id="992" electronic="true">
+		<title>Star Stealing Prince</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#1).</notes>
+	</game>
+	<game id="993" electronic="true">
+		<title>Reconstruction, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#1).</notes>
+	</game>
+	<game id="994" electronic="true">
+		<title>Homework Salesman</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#2).</notes>
+	</game>
+	<game id="995" electronic="true">
+		<title>I Miss the Sunrise</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#2).</notes>
+	</game>
+	<game id="996" electronic="true">
+		<title>Aetherion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#2).</notes>
+	</game>
+	<game id="997" electronic="true">
+		<title>Visions and Voices</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-31</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#2).</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
+	-->
+	<!--
+	RPG Maker VX Ace and XP, along with DLC Bundles and Game Character Hub, purchased 5/31/2014 from Humble Bundle. Games that were part of the bundle are included above.
 	-->
 </games>

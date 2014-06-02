@@ -20,52 +20,23 @@
 						min-height: initial;
 						padding: initial;
 					}
-		.col1 {
+		.col1, .col2, .col3, .col4, .col5, .col1-2, .col1-3, .col2-4, .col2-5, .col3-5, .col4-5 {
+			float: right;
+		}
+		.col1, .col1-2, .col1-3 {
 			clear: both;
-			float: right;
+		}
+		.col1, .col2, .col3, .col4, .col5 {
 			width: 200px;
 		}
-		.col2 {
-			float: right;
-			width: 200px;
-		}
-		.col3 {
-			float: right;
-			width: 200px;
-		}
-		.col4 {
-			float: right;
-			width: 200px;
-		}
-		.col5 {
-			float: right;
-			width:200px;
-		}
-		.col1-2 {
-			clear: both;
-			float: right;
+		.col1-2, .col4-5 {
 			width: 400px;
 		}
-		.col1-3 {
-			clear: both;
-			float: right;
-			width: 600px;
-		}
-		.col2-4 {
-			float: right;
+		.col1-3, .col2-4, .col3-5 {
 			width: 600px;
 		}
 		.col2-5 {
-			float: right;
 			width: 800px;
-		}
-		.col3-5 {
-			float: right;
-			width: 600px;
-		}
-		.col4-5 {
-			float: right;
-			width: 400px;
 		}
 		.key {
 			background-color:#175ec2;
@@ -74,6 +45,8 @@
 		.ending {
 			background-color:#be0000;
 			color:white;
+		}
+		.chapter > div {
 		}
 		.chapter div div.top, .chapter div div.right, .chapter div div.bottom, .chapter div div.left {
 		}
@@ -673,7 +646,13 @@
 					Automatically completed during the plot.
 				</div>
 			</div>
-			<div class="col3"></div>
+			<div class="col3 ending" data-number="068">
+				Chains of Hatred
+				<div>
+					Follow the above steps up to talking to Liese at Granorg the second time.
+					Choose to "Leave it to her" to unlock this ending.
+				</div>
+			</div>
 			<div class="col4" data-number="072">
 				Battle of Gran Plain
 				<div>
@@ -834,16 +813,6 @@
 			</div>
 			<div class="col5"></div>
 		</div>
-
-
-
-		<div class=" ending" data-number="068">
-			Chains of Hatred
-			<div>
-				Follow the above steps up to talking to Liese at Granorg the second time.
-				Choose to "Leave it to her" to unlock this ending.
-			</div>
-		</div>
 	</div>
 	<h2>Chapter 3</h2>
 	<div class="chapter" data-chapter="3">
@@ -874,7 +843,17 @@
 			<div class="col5"></div>
 		</div>
 		<div>
-			<div class="col1"></div>
+			<div class="col1" data-number="103" data-sidequest="true">
+				Despairing Young Man
+				<div>
+					During "The Resistance" node at Granorg, go east two screens and up one.  Talk
+					to the woman dressed in pink to receive this sidequest.  Return to the
+					"Duty Revealed" node, head to the same area, and talk to the man in the cloak.
+					Return to "The Resistance" node to talk to him again to complete this
+					sidequest and receive the Left-Cut Scroll for Marco, needed for the
+					"Marco the Calm" sidequest.
+				</div>
+			</div>
 			<div class="col2" data-number="086">
 				To Cornet Village
 				<div>
@@ -1158,18 +1137,6 @@
 				</div>
 			</div>
 			<div class="col3-5"></div>
-		</div>
-
-		<div class="" data-number="103" data-sidequest="true">
-			Despairing Young Man
-			<div>
-				During "The Resistance" node at Granorg, go east two screens and up one.  Talk
-				to the woman dressed in pink to receive this sidequest.  Return to the
-				"Duty Revealed" node, head to the same area, and talk to the man in the cloak.
-				Return to "The Resistance" node to talk to him again to complete this
-				sidequest and receive the Left-Cut Scroll for Marco, needed for the
-				"Marco the Calm" sidequest.
-			</div>
 		</div>
 	</div>
 	<h2>Chapter 4</h2>
@@ -1575,7 +1542,31 @@
 					Automatically completed during the plot.
 				</div>
 			</div>
-			<div class="col5"></div>
+			<div class="col5" data-number="177" data-sidequest="true">
+				At Journey's End
+				<div>
+					This one is very tricky, as it has prerequisite choices to even access the
+					sidequest, and the game doesn't tell you.  There are three decisions you have
+					to make over the course of the game.
+
+					1) During the "Breakthrough" node at Gran Plain (see GRAN1), head north one
+					screen and west to the checkpoint.  You will hear someone in distress back
+					east.  Make sure to choose "Let's go save her now."
+					2) After the "Wolf in the Fold" node (see GRAN3), return to "Alistel's
+					Offensive" and talk to Viola.  Return to the "A Meeting Too Late" node and
+					proceed with the plot normally.  Make sure to choose "I leave it to you."
+					3) During the "Commander's Fall" node at the Sand Fortress (SAND6), defeat the
+					Thaumaton boss at the end.  Afterwards, make sure to choose "Bring back now."
+
+					Despite that last decision occuring AFTER the time when you can access the
+					sidequest, it is indeed a prerequisite.  Return to the "Gafka &amp; the Scrolls"
+					node and head to Skalla.  Talk to Marco by the item shop.  Then, talk to Raynie
+					by the inn and choose "I can't give up."  Talk to Marco again to complete this
+					sidequest and receive the Priere Bonheur (ATK+15/MAG+32/Fear Res+5).  This
+					sidequest is a prerequisite for unlocking the "A Warrior in Love" part of the
+					true ending.
+				</div>
+			</div>
 		</div>
 		<div>
 			<div class="col1"></div>
@@ -1592,7 +1583,13 @@
 					Automatically completed during the plot.
 				</div>
 			</div>
-			<div class="col5"></div>
+			<div class="col5 ending" data-number="178">
+				Oncoming Calamity
+				<div>
+					Follow the above steps until you talk to Raynie about Marco's concerns.  Choose
+					"I'll stop fighting" to unlock this ending.
+				</div>
+			</div>
 		</div>
 		<div>
 			<div class="col1"></div>
@@ -1650,40 +1647,6 @@
 				</div>
 			</div>
 			<div class="col5"></div>
-		</div>
-
-		<div class="" data-number="177" data-sidequest="true">
-			At Journey's End
-			<div>
-				This one is very tricky, as it has prerequisite choices to even access the
-				sidequest, and the game doesn't tell you.  There are three decisions you have
-				to make over the course of the game.
-
-				1) During the "Breakthrough" node at Gran Plain (see GRAN1), head north one
-				screen and west to the checkpoint.  You will hear someone in distress back
-				east.  Make sure to choose "Let's go save her now."
-				2) After the "Wolf in the Fold" node (see GRAN3), return to "Alistel's
-				Offensive" and talk to Viola.  Return to the "A Meeting Too Late" node and
-				proceed with the plot normally.  Make sure to choose "I leave it to you."
-				3) During the "Commander's Fall" node at the Sand Fortress (SAND6), defeat the
-				Thaumaton boss at the end.  Afterwards, make sure to choose "Bring back now."
-
-				Despite that last decision occuring AFTER the time when you can access the
-				sidequest, it is indeed a prerequisite.  Return to the "Gafka &amp; the Scrolls"
-				node and head to Skalla.  Talk to Marco by the item shop.  Then, talk to Raynie
-				by the inn and choose "I can't give up."  Talk to Marco again to complete this
-				sidequest and receive the Priere Bonheur (ATK+15/MAG+32/Fear Res+5).  This
-				sidequest is a prerequisite for unlocking the "A Warrior in Love" part of the
-				true ending.
-			</div>
-		</div>
-
-		<div class=" ending" data-number="178">
-			Oncoming Calamity
-			<div>
-				Follow the above steps until you talk to Raynie about Marco's concerns.  Choose
-				"I'll stop fighting" to unlock this ending.
-			</div>
 		</div>
 	</div>
 	<h2>Chapter 6</h2>
@@ -1896,7 +1859,15 @@
 					Automatically completed during the plot.
 				</div>
 			</div>
-			<div class="col3"></div>
+			<div class="col3" data-number="196" data-sidequest="true">
+				The Final Trial
+				<div>
+					After completing "The Blades Trial", "The Starlit Trial", and
+					"The Light Trial", talk to Vainqueur again to receive this sidequest.  Defeat
+					him (see HALL1) to complete this sidequest and receive the True Historica
+					(ATK+70/MAG+34/SPD+5).
+				</div>
+			</div>
 			<div class="col4 key" data-number="202">
 				Demigod
 				<div>
@@ -1965,16 +1936,6 @@
 					complete this sidequest and receive the Haste Core for Rosch, needed for the
 					"Conversion" sidequest.
 				</div>
-			</div>
-		</div>
-
-		<div class="" data-number="196" data-sidequest="true">
-			The Final Trial
-			<div>
-				After completing "The Blades Trial", "The Starlit Trial", and
-				"The Light Trial", talk to Vainqueur again to receive this sidequest.  Defeat
-				him (see HALL1) to complete this sidequest and receive the True Historica
-				(ATK+70/MAG+34/SPD+5).
 			</div>
 		</div>
 	</div>
@@ -2084,225 +2045,166 @@
 					Automatically completed during the plot.
 				</div>
 			</div>
-			<div class="col3"></div>
+			<div class="col3" data-number="219">
+				Warlord in Black
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
+			<div class="col4" data-number="220">
+				Monstrocity in Black
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
+			<div class="col5"></div>
+		</div>
+		<div>
+			<div class="col1"></div>
+			<div class="col2"></div>
+			<div class="col3" data-number="221">
+				Valkyrie in Black
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
 			<div class="col4"></div>
 			<div class="col5"></div>
 		</div>
 		<div>
 			<div class="col1"></div>
 			<div class="col2"></div>
-			<div class="col3"></div>
+			<div class="col3" data-number="222">
+				Death Knell
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
 			<div class="col4"></div>
 			<div class="col5"></div>
 		</div>
 		<div>
 			<div class="col1"></div>
 			<div class="col2"></div>
-			<div class="col3"></div>
+			<div class="col3 key" data-number="223">
+				Final Battleground
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
 			<div class="col4"></div>
 			<div class="col5"></div>
 		</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<div class="" data-number="219">
-			Warlord in Black
-			<div>
-				Automatically completed during the plot.
+		<div>
+			<div class="col1"></div>
+			<div class="col2"></div>
+			<div class="col3" data-number="224">
+				Aprocrypha
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
+			<div class="col4"></div>
+			<div class="col5"></div>
+		</div>
+		<div>
+			<div class="col1"></div>
+			<div class="col2" data-number="229">
+				Iron-Armed General
+				<div>
+					Complete the "Red-Letter Day" sidequest (see 052) to unlock this part of the
+					ending.
+				</div>
+			</div>
+			<div class="col3" data-number="225">
+				Ritual of Flux
+				<div>
+					Automatically completed during the plot.
+				</div>
+			</div>
+			<div class="col4" data-number="232">
+				Valkyrie in Repose
+				<div>
+					Complete the "A Letter to Tomorrow" sidequest (see 055) to unlock this part of
+					the ending.
+				</div>
+			</div>
+			<div class="col5"></div>
+		</div>
+		<div>
+			<div class="col1" data-number="227">
+				The Show Goes On
+				<div>
+					Complete "The King's Daughter" sidequest (see 032) to unlock this part of the
+					ending.
+				</div>
+			</div>
+			<div class="col2" data-number="230">
+				Shaman
+				<div>
+					Complete the "Wandering Soul" sidequest (see 118) to unlock this part of the
+					ending.
+				</div>
+			</div>
+			<div class="col3"></div>
+			<div class="col4" data-number="233">
+				Beast God at Rest
+				<div>
+					Complete "The Beast God's Birth" sidequest (see 175) to unlock this part of the
+					ending.
+				</div>
+			</div>
+			<div class="col5" data-number="235">
+				A Warrrior in Love
+				<div>
+					Complete the "At Journey's End" sidequest (see 177) to unlock this part of the
+					ending.
+				</div>
 			</div>
 		</div>
-
-		<div class="" data-number="220">
-			Monstrocity in Black
-			<div>
-				Automatically completed during the plot.
+		<div>
+			<div class="col1" data-number="228">
+				A Little Hero
+				<div>
+					Complete the "An Unwanted Reunion" sidequest (see 161) to unlock this part of
+					the ending.
+				</div>
+			</div>
+			<div class="col2" data-number="231">
+				Overseers of Time
+				<div>
+					Complete the "What Was Inherited" sidequest (see 034) to unlock this part of
+					the ending.
+				</div>
+			</div>
+			<div class="col3"></div>
+			<div class="col4" data-number="234">
+				Life of the Beastkind
+				<div>
+					Complete the "Mankind &amp; Beastkind" sidequest (see 067) to unlock this part of
+					the ending.
+				</div>
+			</div>
+			<div class="col5" data-number="236">
+				The Lives of Humans
+				<div>
+					Complete the "Assassination of Dias" sidequest (see 104) to unlock this part of
+					the ending.
+				</div>
 			</div>
 		</div>
-
-		<div class="" data-number="221">
-			Valkyrie in Black
-			<div>
-				Automatically completed during the plot.
+		<div>
+			<div class="col1"></div>
+			<div class="col2"></div>
+			<div class="col3" data-number="226">
+				A Promise
+				<div>
+					Automatically completed during the plot.
+				</div>
 			</div>
-		</div>
-
-		<div class="" data-number="222">
-			Death Knell
-			<div>
-				Automatically completed during the plot.
-			</div>
-		</div>
-
-		<div class="" data-number="223">
-			Final Battleground
-			<div>
-				Automatically completed during the plot.
-			</div>
-		</div>
-		</div>
-
-		=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-		FINAL CHAPTER
-		(ending only)
-
-		=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-		227   228
-
-		229   230   231
-
-		--- 224 - 225 ------------- 226
-
-		232   233   234
-
-		235   236
-
-	<div class="chapter" data-chapter="">
-		<div class="" data-number="224">
-			Aprocrypha
-			<div>
-				Automatically completed during the plot.
-			</div>
-		</div>
-
-		<div class="" data-number="225">
-			Ritual of Flux
-			<div>
-				Automatically completed during the plot.
-			</div>
-		</div>
-
-		<div class="" data-number="226">
-			A Promise
-			<div>
-				Automatically completed during the plot.
-			</div>
-		</div>
-
-		<div class="" data-number="227">
-			The Show Goes On
-			<div>
-				Complete "The King's Daughter" sidequest (see 032) to unlock this part of the
-				ending.
-			</div>
-		</div>
-
-		<div class="" data-number="228">
-			A Little Hero
-			<div>
-				Complete the "An Unwanted Reunion" sidequest (see 161) to unlock this part of
-				the ending.
-			</div>
-		</div>
-
-		<div class="" data-number="229">
-			Iron-Armed General
-			<div>
-				Complete the "Red-Letter Day" sidequest (see 052) to unlock this part of the
-				ending.
-			</div>
-		</div>
-
-		<div class="" data-number="230">
-			Shaman
-			<div>
-				Complete the "Wandering Soul" sidequest (see 118) to unlock this part of the
-				ending.
-			</div>
-		</div>
-
-		<div class="" data-number="231">
-			Overseers of Time
-			<div>
-				Complete the "What Was Inherited" sidequest (see 034) to unlock this part of
-				the ending.
-			</div>
-		</div>
-
-		<div class="" data-number="232">
-			Valkyrie in Repose
-			<div>
-				Complete the "A Letter to Tomorrow" sidequest (see 055) to unlock this part of
-				the ending.
-			</div>
-		</div>
-
-		<div class="" data-number="233">
-			Beast God at Rest
-			<div>
-				Complete "The Beast God's Birth" sidequest (see 175) to unlock this part of the
-				ending.
-			</div>
-		</div>
-
-		<div class="" data-number="234">
-			Life of the Beastkind
-			<div>
-				Complete the "Mankind &amp; Beastkind" sidequest (see 067) to unlock this part of
-				the ending.
-			</div>
-		</div>
-
-		<div class="" data-number="235">
-			A Warrrior in Love
-			<div>
-				Complete the "At Journey's End" sidequest (see 177) to unlock this part of the
-				ending.
-			</div>
-		</div>
-
-		<div class="" data-number="236">
-			The Lives of Humans
-			<div>
-				Complete the "Assassination of Dias" sidequest (see 104) to unlock this part of
-				the ending.
-			</div>
+			<div class="col4"></div>
+			<div class="col5"></div>
 		</div>
 	</div>
-
-
-	<!--
-				<div>
-					<div class="col1" data-number="">
-						<div></div>
-					</div>
-					<div class="col2" data-number="">
-						<div></div>
-					</div>
-					<div class="col3" data-number="">
-						<div></div>
-					</div>
-					<div class="col4" data-number="">
-						<div></div>
-					</div>
-					<div class="col5" data-number="">
-						<div></div>
-					</div>
-				</div>
-
-				<div>
-					<div class="col1"></div>
-					<div class="col2"></div>
-					<div class="col3"></div>
-					<div class="col4"></div>
-					<div class="col5"></div>
-				</div>
-	-->
-
-
-
-
-
 </body>
 </html>

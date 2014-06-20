@@ -10616,6 +10616,9 @@
 	<book id="1034">
 		<title>From Hell</title>
 		<buy date="2014-05-28" place="Humble Bundle" price="1.69"/>
+		<readings finished="true">
+			<read time="1" finish="2014-06-06"/>
+		</readings>
 		<notes>Electronic copy. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books.</notes>
 	</book>
 	<book id="1035">
@@ -10657,5 +10660,25 @@
 		<title>Wizzywig: Portrait of a Serial Hacker</title>
 		<buy date="2014-05-28" place="Humble Bundle" price="1.66"/>
 		<notes>Electronic copy. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books.</notes>
+	</book>
+	<book id="1043">
+		<title>From Hell Companion</title>
+		<buy date="2014-05-28" place="Humble Bundle" price="0.00"/>
+		<notes>Electronic copy. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books, then this was part of free ones later.</notes>
+	</book>
+	<book id="1044">
+		<title>Lawful Interception</title>
+		<buy date="2014-05-28" place="Humble Bundle" price="0.00"/>
+		<notes>Audiobook. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books, then this was part of free ones later.</notes>
+	</book>
+	<book id="1045">
+		<title>Shambling Towards Hiroshima</title>
+		<buy date="2014-05-28" place="Humble Bundle" price="0.00"/>
+		<notes>Electronic copy. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books, then this was part of free ones later.</notes>
+	</book>
+	<book id="1046">
+		<title>Too Cool To Be Forgotten</title>
+		<buy date="2014-05-28" place="Humble Bundle" price="0.00"/>
+		<notes>Electronic copy. Part of Weekly Humble Bundle eBook Bundle 4. Paid $15 for 9 books, then this was part of free ones later.</notes>
 	</book>
 </books>

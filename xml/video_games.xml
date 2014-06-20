@@ -15202,6 +15202,1504 @@
 		<own>yes</own>
 		<notes>Free from Brian.</notes>
 	</game>
+	<game id="1048" electronic="true">
+		<title>Tropico</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Sold in Tropico Trilogy bundle.</notes>
+	</game>
+	<game id="1049" electronic="true">
+		<title>Tropico 2: Pirate Cove</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Sold in Tropico Trilogy bundle.</notes>
+	</game>
+	<game id="1050" electronic="true">
+		<title>Tropico 3 - Steam Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Sold in Tropico Trilogy bundle.</notes>
+	</game>
+	<game id="1051" electronic="true">
+		<title>Tropico 3: Absolute Power</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Sold in Tropico Trilogy bundle.</notes>
+	</game>
+	<game id="1052" electronic="true">
+		<title>Hard Reset Extended Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Brian Dell gave a favorable review to the game.</notes>
+	</game>
+	<game id="1053" electronic="true">
+		<title>Combat Wings: Battle of Britain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games.</notes>
+	</game>
+	<game id="1054" electronic="true">
+		<title>Inquisitor Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games. Looks enjoyable.</notes>
+	</game>
+	<game id="1055" electronic="true">
+		<title>Zeno Clash 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games.</notes>
+	</game>
+	<game id="1056" electronic="true">
+		<title>The First Templar</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-07</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 4.0, which was $2.99 for 6/9 games.</notes>
+	</game>
+	<game id="1057" electronic="true">
+		<title>XCOM: Enemy Unknown</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM Collection.</notes>
+	</game>
+	<game id="1058" electronic="true" addOn="true">
+		<title>XCOM: Enemy Within</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher.</notes>
+	</game>
+	<game id="1059" electronic="true" addOn="true">
+		<title>XCOM: Enemy Unknown - Slingshot Content Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM Collection.</notes>
+	</game>
+	<game id="1060" electronic="true" addOn="true">
+		<title>XCOM: Enemy Unknown - Elite Solider Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM Collection.</notes>
+	</game>
+	<game id="1061" electronic="true" addOn="true">
+		<title>XCOM: Enemy Unknown Pre-Purchase</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM Collection.</notes>
+	</game>
+	<game id="1062" electronic="true">
+		<title>X-COM: Apocalypse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM: Classic Collection, which was part of the XCOM Collection.</notes>
+	</game>
+	<game id="1063" electronic="true">
+		<title>X-COM: Enforcer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM: Classic Collection, which was part of the XCOM Collection.</notes>
+	</game>
+	<game id="1064" electronic="true">
+		<title>X-COM: Interceptor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM: Classic Collection, which was part of the XCOM Collection.</notes>
+	</game>
+	<game id="1065" electronic="true">
+		<title>X-COM: Terror From the Deep</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM: Classic Collection, which was part of the XCOM Collection.</notes>
+	</game>
+	<game id="1066" electronic="true">
+		<title>X-COM: UFO Defense</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>1.70</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Part of the XCOM: Classic Collection, which was part of the XCOM Collection.</notes>
+	</game>
+	<game id="1067" electronic="true" addOn="true">
+		<title>BioShock 2: Minerva's Den</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>2.12</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher.</notes>
+	</game>
+	<game id="1068" electronic="true" addOn="true">
+		<title>BioShock Infinite: Burial at Sea Episode 1</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>4.20</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher.</notes>
+	</game>
+	<game id="1069" electronic="true" addOn="true">
+		<title>BioShock Infinite: Burial at Sea Episode 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>8.54</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher.</notes>
+	</game>
+	<game id="1070" electronic="true">
+		<title>Spec Ops: The Line</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>4.33</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher.</notes>
+	</game>
+	<game id="1071" electronic="true">
+		<title>Bureau, The: XCOM Declassified</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-09</date>
+			<price>0.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special and used 15% off voucher. Free since I purchased the XCOM Collection.</notes>
+	</game>
+	<game id="1072" electronic="true">
+		<title>Shelter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>2.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Nice art style and music.</notes>
+	</game>
+	<game id="1073" electronic="true">
+		<title>Gun Metal</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.28</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1074" electronic="true">
+		<title>Grimind</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1075" electronic="true">
+		<title>Hostile Waters: Antaeus Rising</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1076" electronic="true">
+		<title>Humanity Asset</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1077" electronic="true">
+		<title>Nosferatu: Wrath of Malachi</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1078" electronic="true">
+		<title>Realms of the Haunting</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1079" electronic="true">
+		<title>Soulbringer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1080" electronic="true">
+		<title>Ampu-Tea</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1081" electronic="true">
+		<title>Chompy Chomp Chomp</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1082" electronic="true">
+		<title>Cobi Treasure Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1083" electronic="true">
+		<title>Marine Sharpshooter II : Jungle Warfare</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1084" electronic="true">
+		<title>Desert Thunder</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1085" electronic="true">
+		<title>Manhunter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1086" electronic="true">
+		<title>RADical ROACH Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-11</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resurrection Bundle, which was $2.49 for 14 games.</notes>
+	</game>
+	<game id="1087" electronic="true">
+		<title>Anomaly 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-12</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the E3 Digital Ticket.</notes>
+	</game>
+	<game id="1088" electronic="true">
+		<title>Sid Meier's Civilization III: Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-12</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the E3 Digital Ticket.</notes>
+	</game>
+	<game id="1089" electronic="true">
+		<title>MX vs ATV Reflex</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-12</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the E3 Digital Ticket.</notes>
+	</game>
+	<game id="1090" electronic="true">
+		<title>Mortal Kombat Arcade Kollection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-12</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the E3 Digital Ticket.</notes>
+	</game>
+	<game id="1091" electronic="true" addOn="true">
+		<title>Magicka: Wizard Wars E3 Robe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-12</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the E3 Digital Ticket.</notes>
+	</game>
+	<game id="1092" electronic="true">
+		<title>Command &amp; Conquer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1093" electronic="true">
+		<title>Command &amp; Conquer The Covert Operations</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1094" electronic="true">
+		<title>Command &amp; Conquer Red Alert</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1095" electronic="true">
+		<title>Command &amp; Conquer Red Alert Counterstrike</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1096" electronic="true">
+		<title>Command &amp; Conquer Red Alert The Aftermath</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1097" electronic="true">
+		<title>Command &amp; Conquer Tiberian Sun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1098" electronic="true">
+		<title>Command &amp; Conquer Tiberian Sun Firestorm</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1099" electronic="true">
+		<title>Command &amp; Conquer Red Alert 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1100" electronic="true">
+		<title>Command &amp; Conquer Red Alert Yuri's Revenge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1101" electronic="true">
+		<title>Command &amp; Conquer Renegade</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1102" electronic="true">
+		<title>Command &amp; Conquer Generals</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1103" electronic="true">
+		<title>Command &amp; Conquer Generals Zero Hour</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1104" electronic="true">
+		<title>Command &amp; Conquer 3 Tiberium Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1105" electronic="true">
+		<title>Command &amp; Conquer 3 Kane's Wrath</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1106" electronic="true">
+		<title>Command &amp; Conquer Red Alert 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1107" electronic="true">
+		<title>Command &amp; Conquer Red Alert 3 Uprising</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1108" electronic="true">
+		<title>Command &amp; Conquer 4 Tiberian Twilight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, and Command and Conquer Ultimate Edition.</notes>
+	</game>
+	<game id="1109" electronic="true">
+		<title>Magicka</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.72</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1110" electronic="true">
+		<title>Magicka Vietnam</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1111" electronic="true">
+		<title>Magicka Wizard Survival Kit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1112" electronic="true">
+		<title>Magicka Caverns and Marshlands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1113" electronic="true">
+		<title>Magicka Nippon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1114" electronic="true">
+		<title>Magicka Final Frontier</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1115" electronic="true">
+		<title>Magicka Frozen Lake</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1116" electronic="true">
+		<title>Magicka Watch Tower</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1117" electronic="true">
+		<title>Magicka Robe Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1118" electronic="true">
+		<title>Magicka Dungeons and Gargoyles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Magicka Collection.</notes>
+	</game>
+	<game id="1119" electronic="true">
+		<title>Skullgirls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.25</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Skullgirls Bundle.</notes>
+	</game>
+	<game id="1120" electronic="true" addOn="true">
+		<title>Skullgirls: Color Palette DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Skullgirls Bundle.</notes>
+	</game>
+	<game id="1121" electronic="true" addOn="true">
+		<title>Skullgirls: Squigly DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Skullgirls Bundle.</notes>
+	</game>
+	<game id="1122" electronic="true">
+		<title>Skullgirls Endless Beta</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Skullgirls Bundle.</notes>
+	</game>
+	<game id="1123" electronic="true">
+		<title>Renegade Ops</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.42</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Renegade Ops Collection.</notes>
+	</game>
+	<game id="1124" electronic="true" addOn="true">
+		<title>Renegade Ops: Coldstrike DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.41</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Renegade Ops Collection.</notes>
+	</game>
+	<game id="1125" electronic="true" addOn="true">
+		<title>Renegade Ops: Reinforcements DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.41</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sales Encore Day 1, as the Renegade Ops Collection.</notes>
+	</game>
+	<game id="1126" electronic="true">
+		<title>Forgotten Realms: Demon Stone</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1127" electronic="true">
+		<title>Dungeons &amp; Dragons: Dragonshard</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1128" electronic="true">
+		<title>Temple of Elemental Evil, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.19</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1129" electronic="true">
+		<title>Icewind Dale Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1130" electronic="true">
+		<title>Icewind Dale 2 Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1131" electronic="true">
+		<title>Neverwinter Nights: Diamond Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1132" electronic="true">
+		<title>Neverwinter Nights 2: Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1133" electronic="true">
+		<title>Planescape: Torment</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1134" electronic="true">
+		<title>Baldur's Gate: The Orignal Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1135" electronic="true">
+		<title>Baldur's Gate 2 Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the D&amp;D Masterset, which was $21.10, saving $84.80 (80%).</notes>
+	</game>
+	<game id="1136" electronic="true">
+		<title>Jet Set Radio</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-13</date>
+			<price>0.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason, proably because of bundle purchased.</notes>
+	</game>
+	<game id="1137" electronic="true">
+		<title>Fallen Enchantress: Legendary Heroes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-14</date>
+			<price>10.20</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale and had 15% off coupon.</notes>
+	</game>
+	<game id="1138" electronic="true">
+		<title>Hexcells</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-14</date>
+			<price>1.25</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Weekend sale, normally $5 and each on sale for $1.50 a piece.</notes>
+	</game>
+	<game id="1139" electronic="true">
+		<title>Hexcells Plus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-14</date>
+			<price>1.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Weekend sale, normally $5 and each on sale for $1.50 a piece.</notes>
+	</game>
+	<game id="1140" electronic="true">
+		<title>Age of Wonders</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-15</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Age of Wondeers Classics collection, which was 75% off, saving $19.50.</notes>
+	</game>
+	<game id="1141" electronic="true">
+		<title>Age of Wonders 2: The Wizard's Throne</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-15</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Age of Wondeers Classics collection, which was 75% off, saving $19.50.</notes>
+	</game>
+	<game id="1142" electronic="true">
+		<title>Age of Wonders: Shadow Magic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-15</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Age of Wondeers Classics collection, which was 75% off, saving $19.50.</notes>
+	</game>
+	<game id="1143">
+		<title>Diablo III</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-15</date>
+			<price>20.00</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Paid only $10 since I redeemed points for a $10 off coupon, and the game was already 50% off this weekend.</notes>
+	</game>
+	<game id="1144" electronic="true">
+		<title>Battlefield 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the House special.</notes>
+	</game>
+	<game id="1145" electronic="true">
+		<title>Peggle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-16</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the House special.</notes>
+	</game>
+	<game id="1146" electronic="true">
+		<title>Still Life</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.00</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle. Heard this one was good, but the others not so much.</notes>
+	</game>
+	<game id="1147" electronic="true">
+		<title>Still Life 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.00</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle.</notes>
+	</game>
+	<game id="1148" electronic="true">
+		<title>Post Mortem</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.00</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle.</notes>
+	</game>
+	<game id="1149" electronic="true">
+		<title>Obulis</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.34</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle.</notes>
+	</game>
+	<game id="1150" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.34</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle. Wanted it on Steam.</notes>
+	</game>
+	<game id="1151" electronic="true">
+		<title>Syberia II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-17</date>
+			<price>1.34</price>
+			<place>Gala Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Still Life Bundle. Wanted it on Steam.</notes>
+	</game>
+	<game id="1152" electronic="true">
+		<title>Rollercoaster Tycoon: Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-18</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Rollercoaster Tycoon Series, which was 75% off, so saved $27.</notes>
+	</game>
+	<game id="1153" electronic="true">
+		<title>Rollercoaster Tycoon 2: Triple Thrill Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-18</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Rollercoaster Tycoon Series, which was 75% off, so saved $27.</notes>
+	</game>
+	<game id="1154" electronic="true">
+		<title>Rollercoaster Tycoon 3: Platinum!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-18</date>
+			<price>4.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Rollercoaster Tycoon Series, which was 75% off, so saved $27.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

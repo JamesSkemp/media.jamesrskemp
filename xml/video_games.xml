@@ -12861,7 +12861,7 @@
 		<own>yes</own>
 		<notes>Received 3/14/2014. Finished 4/17/2014 after approxmiately 10 hours.</notes>
 	</game>
-	<game id="879">
+	<game id="879" beat="true">
 		<title>Castlevania: Portrait of Ruin</title>
 		<system>
 			<console>Nintendo</console>
@@ -12873,7 +12873,7 @@
 			<place>Amazon.com (DealTavern)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2014.</notes>
+		<notes>Received 3/14/2014. Finished main story 6/19/2014 after about 13 hours of play.</notes>
 	</game>
 	<game id="880">
 		<title>Castlevania: Order of Ecclesia</title>
@@ -14529,6 +14529,678 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle (#2).</notes>
+	</game>
+	<game id="1000" electronic="true">
+		<title>Cities in Motion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.44</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1001" electronic="true" addOn="true">
+		<title>Cities in Motion: Design Classics DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1002" electronic="true" addOn="true">
+		<title>Cities in Motion: Design Dreams DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1003" electronic="true" addOn="true">
+		<title>Cities in Motion: Design Marvels DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1004" electronic="true" addOn="true">
+		<title>Cities in Motion: Design Now DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1005" electronic="true" addOn="true">
+		<title>Cities in Motion: Design Quirks DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1006" electronic="true" addOn="true">
+		<title>Cities in Motion: German Cities DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1007" electronic="true" addOn="true">
+		<title>Cities in Motion: London DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1008" electronic="true" addOn="true">
+		<title>Cities in Motion: Metro Stations DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1009" electronic="true" addOn="true">
+		<title>Cities in Motion: Paris DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1010" electronic="true" addOn="true">
+		<title>Cities in Motion: St. Petersburg DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1011" electronic="true" addOn="true">
+		<title>Cities in Motion: Tokyo DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1012" electronic="true" addOn="true">
+		<title>Cities in Motion: Ulm DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1013" electronic="true" addOn="true">
+		<title>Cities in Motion: US Cities DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cities in Motion Bundle, which was $4.99 for 1 game and 13 DLC.</notes>
+	</game>
+	<game id="1014" electronic="true">
+		<title>Edna &amp; Harvey: Harvey's New Eyes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.47</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1015" electronic="true">
+		<title>A New Beginning - Final Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1016" electronic="true">
+		<title>Gateways</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1017" electronic="true">
+		<title>Alien Zombie Megadeath</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1018" electronic="true">
+		<title>Mutant Storm: Reloaded</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1019" electronic="true">
+		<title>Astro Tripper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1020" electronic="true">
+		<title>Vitrum</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-03</date>
+			<price>0.42</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Wild Bundle, which was $2.99 for 7 games.</notes>
+	</game>
+	<game id="1021" electronic="true">
+		<title>Scourge Project, The : Episode 1 and 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games. Sold as a Scourge: Outbreak - Ambrosia Bundle.</notes>
+	</game>
+	<game id="1022" electronic="true">
+		<title>Scourge: Outbreak</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.30</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games. Sold as a Scourge: Outbreak - Ambrosia Bundle.</notes>
+	</game>
+	<game id="1023" electronic="true">
+		<title>Party of Sin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1024" electronic="true">
+		<title>Huntsman: The Orphanage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1025" electronic="true">
+		<title>Miner Wars Arena Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1026" electronic="true">
+		<title>Survivor Squad</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1027" electronic="true">
+		<title>Garshasp: The Monster Slayer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1028" electronic="true">
+		<title>Jack Lumber</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1029" electronic="true">
+		<title>Little Racers STREET</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1030" electronic="true">
+		<title>Not The Robots</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1031" electronic="true">
+		<title>Sacraboar</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1032" electronic="true">
+		<title>Cube &amp; Star: An Arbitrary Love</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1033" electronic="true">
+		<title>Blue Toad Murder Files</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-04</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Delirium Bundle, which was $3.49 for 12 games.</notes>
+	</game>
+	<game id="1034" electronic="true">
+		<title>Beatbuddy: Tale of the Guardians</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1035" electronic="true">
+		<title>Spirits</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1036" electronic="true">
+		<title>The Great Jitters: Pudding Panic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1037" electronic="true">
+		<title>Galaxy on Fire 2 Full HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1038" electronic="true">
+		<title>Crazy Machines 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1039" electronic="true">
+		<title>The Guild II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.30</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two. Part of The Guild II Collection.</notes>
+	</game>
+	<game id="1040" electronic="true" addOn="true">
+		<title>The Guild II - Pirates of the European Seas</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.30</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two. Part of The Guild II Collection.</notes>
+	</game>
+	<game id="1041" electronic="true">
+		<title>The Guild II: Renaissance</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.30</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two. Part of The Guild II Collection.</notes>
+	</game>
+	<game id="1042" electronic="true">
+		<title>The Book of Unwritten Tales Digital Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1043" electronic="true">
+		<title>ArcaniA</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1044" electronic="true">
+		<title>Giana Sisters: Twisted Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1045" electronic="true">
+		<title>The Night of the Rabbit: Premium Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: German Edition, which was 12 items for $9, but I had two.</notes>
+	</game>
+	<game id="1046" electronic="true">
+		<title>Kung Fu Strike: The Warrior’s Rise</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.00</price>
+			<place>Brian Dell</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian.</notes>
+	</game>
+	<game id="1047" electronic="true">
+		<title>Command and Conquer: Red Alert 3 - Uprising</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-06</date>
+			<price>0.00</price>
+			<place>Brian Dell</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian.</notes>
 	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.

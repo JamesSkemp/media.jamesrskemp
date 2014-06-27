@@ -376,7 +376,7 @@
 		<purchase>
 			<date>2004-05-23</date>
 			<price>19.99</price>
-			<place>Best Buy #208 - Madison 53713 (West)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Contains Final Fantasy V and Final Fantasy VI. Purchased strategy guide 8/11/2012 from Half Price Books, 626 South Whitney Way, Madison WI 53711 for $7.49, which is the first time I've seen it for sale.</notes>
@@ -478,7 +478,7 @@
 			<price>1.20</price>
 		</sell>
 		<own>no</own>
-		<notes>Bought guide 2005.01.15, for 2.99, at Game Stop West Madison.</notes>
+		<notes>Bought guide 2005.01.15, for 2.99, at GameStop West Madison.</notes>
 	</game>
 	<game id="31">
 		<title>Battle Hunter</title>
@@ -844,7 +844,7 @@
 			<place/>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought guide 2005.01.23, $14.99, Game Stop West Madison. Bought game pre-August 18, 2002.</notes>
+		<notes>Bought guide 2005.01.23, $14.99, GameStop West Madison. Bought game pre-August 18, 2002.</notes>
 	</game>
 	<game id="53" beat="true">
 		<title>Final Fantasy X</title>
@@ -875,7 +875,7 @@
 			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $5 with SCEA coupon. Bought guide 2005.01.15, $15.99, Game Stop West Madison.</notes>
+		<notes>Saved $5 with SCEA coupon. Bought guide 2005.01.15, $15.99, GameStop West Madison.</notes>
 	</game>
 	<game id="55">
 		<title>Front Mission 3</title>
@@ -1369,7 +1369,7 @@
 		<purchase>
 			<date>2006-05-07</date>
 			<price>39.99</price>
-			<place>Best Buy #208 - Madison 53713 (West)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -2058,7 +2058,7 @@
 		<purchase>
 			<date>2004-07-17</date>
 			<price>19.99</price>
-			<place>Best Buy #208 - Madison 53713 (West)</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -4728,7 +4728,7 @@
 		<purchase>
 			<date>2010-10-09</date>
 			<price>39.98</price>
-			<place>Gamestop, Prangeway S/C, 2640 West College Ave, Appleton WI 54914</place>
+			<place>GameStop, Prangeway S/C, 2640 West College Ave, Appleton WI 54914</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4742,7 +4742,7 @@
 		<purchase>
 			<date>2010-10-09</date>
 			<price>40.49</price>
-			<place>Gamestop, Prangeway S/C, 2640 West College Ave, Appleton WI 54914</place>
+			<place>GameStop, Prangeway S/C, 2640 West College Ave, Appleton WI 54914</place>
 		</purchase>
 		<own>yes</own>
 		<notes><![CDATA[Was going to pick this up new at Best Buy for $59.99, with 10% off and $5 in reward zone, but ...  Saved $4.50 with Edge card.]]></notes>
@@ -5417,7 +5417,7 @@
 		<purchase>
 			<date>2011-05-14</date>
 			<price>17.99</price>
-			<place>Game Stop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
+			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -5462,7 +5462,7 @@
 		<purchase>
 			<date>2011-05-25</date>
 			<price>16.19</price>
-			<place>Gamestop, Hillside Terrace S/C, 2740 Hillside Dr, Delafield WI 53018</place>
+			<place>GameStop, Hillside Terrace S/C, 2740 Hillside Dr, Delafield WI 53018</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used. Saved $1.80 by doing so, with Edge card.</notes>
@@ -6071,7 +6071,7 @@
 		<purchase>
 			<date>2011-08-17</date>
 			<price>11.45</price>
-			<place>eBay - ring1979zombies</place>
+			<place>eBay (ring1979zombies)</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Paid $4 shipping and handling. Received 8/22/2011.</notes>
@@ -7182,7 +7182,7 @@
 		<purchase>
 			<date>2012-02-05</date>
 			<price>4.99</price>
-			<place>Xbox Live Marketplace</place>
+			<place>Xbox Live</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Same as DLC Pack 2 for the PlayStation 3 version. 400 points, and I purchased 800 for $9.99.</notes>
@@ -7196,7 +7196,7 @@
 		<purchase>
 			<date>2012-02-05</date>
 			<price>6.99</price>
-			<place>Xbox Live Marketplace</place>
+			<place>Xbox Live</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Same as DLC Pack 4 for the PlayStation 3 version. 560 points, and I had to purchase 400 for $4.99.</notes>
@@ -8006,7 +8006,7 @@
 		<purchase>
 			<date>2012-05-05</date>
 			<price>8.99</price>
-			<place>Game Stop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
+			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $1.00 with PowerUp Card.</notes>
@@ -8817,7 +8817,7 @@
 		<purchase>
 			<date>2012-09-22</date>
 			<price>17.99</price>
-			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
+			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($2.00) with PowerUp Card.</notes>
@@ -8831,7 +8831,7 @@
 		<purchase>
 			<date>2012-09-22</date>
 			<price>2.69</price>
-			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond Du Lac WI 54935</place>
+			<place>GameStop, Starbucks Center, 187 N Pioneer Rd, Fond du Lac WI 54935</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($0.30) with PowerUp Card. At this price ... Played October 7, 2012 to October 12, 2012, and beat after 4:08:18 at 60% with 214325 points remaining on easy.</notes>
@@ -8993,7 +8993,7 @@
 		<own>yes</own>
 		<notes>
 			Received 10/26/2012 (at the office yesterday). Effectively free since I got $233 for selling my iPad on Amazon.com.
-			Bought stragegy guide 3/16/2013 for $19.99 (worth it) from Pre-Played, 3868 East Washington Ave, Madison WI 53704.
+			Bought stragegy guide 3/16/2013 for $19.99 (worth it) from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
 	<game id="608">
@@ -9033,7 +9033,7 @@
 		<purchase>
 			<date>2012-10-27</date>
 			<price>19.99</price>
-			<place>Best Buy #208 Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought because mom enjoyed the bowling game.</notes>
@@ -9047,7 +9047,7 @@
 		<purchase>
 			<date>2012-10-27</date>
 			<price>0.00</price>
-			<place>Best Buy #208 Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -9064,7 +9064,7 @@
 		<purchase>
 			<date>2012-10-27</date>
 			<price>39.99</price>
-			<place>Best Buy #208 Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Had it marked for $59.99 in-store, but confirmed it was only $39.99 online, so I got it for that price.</notes>
@@ -9162,7 +9162,7 @@
 		<purchase>
 			<date>2012-11-18</date>
 			<price>0.00</price>
-			<place>Best Buy #208, Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Came with PlayStation Vita.</notes>
@@ -10294,7 +10294,7 @@
 		<purchase>
 			<date>2013-02-09</date>
 			<price>19.99</price>
-			<place>Best Buy #208, Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Decided it was worth the purchase, since I'm now interested in the new DMC game.</notes>
@@ -10521,7 +10521,7 @@
 		<purchase>
 			<date>2013-03-10</date>
 			<price>59.99</price>
-			<place>Best Buy #208, Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Came with book and some DLC.</notes>
@@ -10554,7 +10554,7 @@
 		<own>yes</own>
 		<notes>
 			Received 3/14/2013.
-			Bought strategy guide 3/16/2013 from Pre-Played, 3868 East Washington Ave, Madison WI 53704 for $5.99.
+			Bought strategy guide 3/16/2013 from PrePlayed, 3868 East Washington Ave, Madison WI 53704 for $5.99.
 		</notes>
 	</game>
 	<game id="718">
@@ -10566,7 +10566,7 @@
 		<purchase>
 			<date>2013-03-16</date>
 			<price>19.99</price>
-			<place>Pre-Played, 3868 East Washington Ave, Madison WI 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -10580,12 +10580,12 @@
 		<purchase>
 			<date>2013-03-16</date>
 			<price>13.99</price>
-			<place>Pre-Played, 3868 East Washington Ave, Madison WI 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
 			Finally decided to pick this version up. More because I got the strategy guide, which was for the 360 version.
-			Bought strategy guide 3/16/2013 for $9.99 (absolute steal, since it's going for $60+ used) from Pre-Played, 3868 East Washington Ave, Madison WI 53704.
+			Bought strategy guide 3/16/2013 for $9.99 (absolute steal, since it's going for $60+ used) from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
 	<game id="720" addOn="true" electronic="true">
@@ -10667,7 +10667,7 @@
 		<purchase>
 			<date>2013-03-30</date>
 			<price>39.99</price>
-			<place>Best Buy #208, Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -10970,7 +10970,7 @@
 		<purchase>
 			<date>2013-05-11</date>
 			<price>6.29</price>
-			<place>Game Stop, Baraboo WM, 912 US Hwy 12, Baraboo WI 53913</place>
+			<place>GameStop, Baraboo WM, 912 US Hwy 12, Baraboo WI 53913</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved 10% ($0.70) with PowerUp card. Picked it up since it's cheap, and I've had my mind on picking up a PS3 copy for a while.</notes>
@@ -11068,7 +11068,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>3.59</price>
-			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">GameStop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($0.40) with PowerUp card.</notes>
@@ -11082,7 +11082,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>8.99</price>
-			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">GameStop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($1.00) with PowerUp card. In the bargin rack, so it's worth giving it a try.</notes>
@@ -11096,7 +11096,7 @@
 		<purchase>
 			<date>2013-06-08</date>
 			<price>39.99</price>
-			<place city="Rockford" state="IL">Game Stop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
+			<place city="Rockford" state="IL">GameStop, Forest Place (F), 6075 E State St, Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -12758,7 +12758,7 @@
 		<purchase>
 			<date>2014-03-02</date>
 			<price>39.99</price>
-			<place>Best Buy #208, Madison WI 53713</place>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Initially ordered for the same-ish price from Amazon, but they're out of stock.</notes>
@@ -13349,7 +13349,7 @@
 		<purchase>
 			<date>2014-05-03</date>
 			<price>5.99</price>
-			<place>Steam Store</place>
+			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Heard it's really good, and that the soundtrack is as well.</notes>
@@ -13363,7 +13363,7 @@
 		<purchase>
 			<date>2014-05-03</date>
 			<price>3.39</price>
-			<place>Steam Store</place>
+			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for 66% off this weekend.</notes>
@@ -13419,7 +13419,7 @@
 		<purchase>
 			<date>2014-05-04</date>
 			<price>9.99</price>
-			<place>Steam Store</place>
+			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for 33% off this weekend. Read really good things about the DLC.</notes>

@@ -1,20 +1,18 @@
 <Query Kind="Statements" />
 
-var startingId = 990;
+var startingId = 1191;
 var titles = new List<string>() {
-"In Search for Immortality",
-"Legionwood: The Tale of Two Swords",
-"Star Stealing Prince",
-"Reconstruction, The",
-"Homework Salesman",
-"I Miss the Sunrise",
-"Aetherion",
-"Visions and Voices"
+"Two Worlds Epic Edition",
+"Two Worlds II",
+"Pirates of the Flying Fortress DLC",
+"Septerra Core: Legacy of the Creator",
+"Enclave",
+"Gorky 17",
 };
-var date = "2014-05-31";
-var price = "0.25";
-var place = "Humble Bundle";
-var note = "Part of RPG Maker weekly bundle. Paid $14 for RPG Makers (two versions), and a number of games. This was part of 4-game bundle.";
+var date = "2014-06-27";
+var price = "0.83";
+var place = "Bundle Stars";
+var note = "Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.";
 
 var xmlFormat = @"
 	<game id=""{0}"" electronic=""true"">

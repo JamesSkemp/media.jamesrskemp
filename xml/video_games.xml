@@ -4155,7 +4155,7 @@
 		</notes>
 	</game>
 	<game id="271" beat="true">
-		<title>Earthbound</title>
+		<title>EarthBound</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
 			<version/>
@@ -11379,10 +11379,10 @@
 		<purchase>
 			<date>2013-08-07</date>
 			<price>4.99</price>
-			<place>Nintendo Store (3DS)</place>
+			<place>Nintendo eShop</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Virtual console game.</notes>
 	</game>
 	<game id="776" electronic="true">
 		<title>Hitman: Absolution Special Edition</title>
@@ -16700,6 +16700,595 @@
 		<own>yes</own>
 		<notes>Part of Rollercoaster Tycoon Series, which was 75% off, so saved $27.</notes>
 	</game>
+	<game id="1155" electronic="true">
+		<title>Witcher 2, The: Assassin of Kings</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-22</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>DRM free, since I purchased it on Steam.</notes>
+	</game>
+	<game id="1156" electronic="true">
+		<title>Terraria</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>80% off for summer sale.</notes>
+	</game>
+	<game id="1157">
+		<title>New Super Mario Bros. U</title>
+		<system>
+			<console>Wii</console>
+			<version>U</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>0.00</price>
+			<place>Target.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with Wii U Deluxe Set, and with New Super Luigi U.</notes>
+	</game>
+	<game id="1158">
+		<title>New Super Luigi U</title>
+		<system>
+			<console>Wii</console>
+			<version>U</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>0.00</price>
+			<place>Target.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with Wii U Deluxe Set, and with New Super Mario Bros. U.</notes>
+	</game>
+	<game id="1159" electronic="true">
+		<title>Draw Slasher</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>1.50</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
+	<game id="1160" electronic="true">
+		<title>NBA 2K14</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1161" electronic="true">
+		<title>PixelJunk Shooter Ultimate</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1162" electronic="true">
+		<title>PixelJunk Shooter Ultimate</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1163" electronic="true">
+		<title>EarthBound</title>
+		<system>
+			<console>Wii</console>
+			<version>U</version>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>9.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Virtual console game.</notes>
+	</game>
+	<game id="1164" electronic="true">
+		<title>Tomb Raider: GOTY Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>7.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>75% off for summer sale.</notes>
+	</game>
+	<game id="1165" electronic="true">
+		<title>Risk of Rain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>75% off for summer sale. Brian said he might play with me.</notes>
+	</game>
+	<game id="1166" electronic="true">
+		<title>Guacamelee! Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-23</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer sale.</notes>
+	</game>
+	<game id="1167" electronic="true">
+		<title>1953- KGB Unleashed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1168" electronic="true">
+		<title>Trauma</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1169" electronic="true">
+		<title>Mata Hari</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1170" electronic="true">
+		<title>Jack Orlando Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1171" electronic="true">
+		<title>Alter Ego</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1172" electronic="true">
+		<title>The Void</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1173" electronic="true">
+		<title>The Tiny Bang Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1174" electronic="true">
+		<title>The Journey Down: Chapter 1</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1175" electronic="true">
+		<title>Kingdom Tales</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1176" electronic="true">
+		<title>Time Gentlemen Please</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.26</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle). This was bundled with Ben There, Dan That.</notes>
+	</game>
+	<game id="1177" electronic="true">
+		<title>Ben There, Dan That</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.26</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle). This was bundled with Time Gentleman Please.</notes>
+	</game>
+	<game id="1178" electronic="true">
+		<title>The Witch's Yarn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1179" electronic="true">
+		<title>Cargo! The Quest for Gravity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-24</date>
+			<price>0.27</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Other Worlds Bundle, which was $3.49 for 13 games (two in one bundle).</notes>
+	</game>
+	<game id="1180" electronic="true">
+		<title>Metro Last Light Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-25</date>
+			<price>6.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer sale.</notes>
+	</game>
+	<game id="1181" electronic="true">
+		<title>Next Car Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-25</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>40% off for summer sale, and early access. Supposedly will go higher once it launches, and YouTube videos looked fun.</notes>
+	</game>
+	<game id="1182" electronic="true">
+		<title>Banished</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off for summer sale.</notes>
+	</game>
+	<game id="1183" electronic="true">
+		<title>UFO: Aftershock</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1184" electronic="true">
+		<title>UFO: Aftermath</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1185" electronic="true">
+		<title>System Shock 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.38</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1186" electronic="true">
+		<title>Wizardry 6</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1187" electronic="true">
+		<title>Wizardry 7</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1188" electronic="true">
+		<title>Wizardry 8</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.38</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1189" electronic="true">
+		<title>Harvester</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.38</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1190" electronic="true">
+		<title>Ascension to the Throne</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-26</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Aftershock Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="1191" electronic="true">
+		<title>Two Worlds Epic Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.83</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
+	</game>
+	<game id="1192" electronic="true">
+		<title>Two Worlds II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.83</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
+	</game>
+	<game id="1193" electronic="true" addOn="true">
+		<title>Pirates of the Flying Fortress DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.83</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
+	</game>
+	<game id="1194" electronic="true">
+		<title>Septerra Core: Legacy of the Creator</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.84</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC. Looks pretty enjoyable.</notes>
+	</game>
+	<game id="1195" electronic="true">
+		<title>Enclave</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.83</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
+	</game>
+	<game id="1196" electronic="true">
+		<title>Gorky 17</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.83</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
+	</game>
+	
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

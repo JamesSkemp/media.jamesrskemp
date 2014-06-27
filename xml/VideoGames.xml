@@ -852,5 +852,36 @@
 			<own>yes</own>
 			<notes>Received 4/11/2014 (did standard shipping so I didn't have to go to the office). Original product.</notes>
 		</item>
+		<item id="60">
+			<name>Nintendo Wii U 32GB Deluxe Set</name>
+			<system>
+				<console>Wii</console>
+				<version>U</version>
+			</system>
+			<purchase>
+				<date>2014-06-23</date>
+				<price>274.99</price>
+				<place>Target.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>
+				Picked up from Janesville store, but I had to return due to a bad disc drive. Visited West Madison and then Hilldale locations to get a replacement.
+				Mario and Luigi set.
+			</notes>
+		</item>
+		<item id="61">
+			<name>Wii U GamePad</name>
+			<system>
+				<console>Wii</console>
+				<version>U</version>
+			</system>
+			<purchase>
+				<date>2014-06-23</date>
+				<price>0.00</price>
+				<place>Target.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with Deluxe Set.</notes>
+		</item>
 	</hardware>
 </videoGames>

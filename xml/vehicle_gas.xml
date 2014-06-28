@@ -2865,6 +2865,24 @@
 				<costTotal>35.34</costTotal>
 				<notes>About 1/4 of a tank left. Finally getting into the 70s and low 80s.</notes>
 			</fillup>
+			<fillup id="251">
+				<date>2014-06-21</date>
+				<milesCar>53001</milesCar>
+				<milesDriven>248.1</milesDriven>
+				<gallons>9.673</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>34.33</costTotal>
+				<notes>Paid only $3.549/gallon with BP Driver Rewards card. Heading up to Chicago for the weekend.</notes>
+			</fillup>
+			<fillup id="252">
+				<date>2014-06-23</date>
+				<milesCar>53299</milesCar>
+				<milesDriven>297.9</milesDriven>
+				<gallons>9.914</gallons>
+				<costGallon>3.599</costGallon>
+				<costTotal>35.68</costTotal>
+				<notes/>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

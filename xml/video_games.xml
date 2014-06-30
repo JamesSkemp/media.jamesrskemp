@@ -11850,8 +11850,8 @@
 	<game id="808" electronic="true">
 		<title>Shadowrun Returns</title>
 		<system>
-			<console>Steam</console>
-			<version>Windows</version>
+			<console>PC</console>
+			<version/>
 		</system>
 		<purchase>
 			<date>2013-10-29</date>
@@ -13383,18 +13383,18 @@
 		<notes>Activates on Steam. Includes main game and all DLC. 50% off normal price.</notes>
 	</game>
 	<game id="916" electronic="true">
-		<title>Torchlight Complete Pack</title>
+		<title>Torchlight</title>
 		<system>
 			<console>PC</console>
 			<version/>
 		</system>
 		<purchase>
 			<date>2014-05-04</date>
-			<price>17.50</price>
+			<price>8.75</price>
 			<place>GamersGate</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Includes Torchlight and Torchlight II, the latter of which activates on Steam. These are $14.99 and $19.99 on Steam individually, so I basically got a discount on the second (the one I wanted) and the first one free.</notes>
+		<notes>Part of the Torchlight Complete Pack, which included Torchlight and Torchlight II, the latter of which activates on Steam. These are $14.99 and $19.99 on Steam individually, so I basically got a discount on the second (the one I wanted) and the first one free.</notes>
 	</game>
 	<game id="917" electronic="true">
 		<title>Dust: An Elysian Tail</title>
@@ -17288,7 +17288,90 @@
 		<own>yes</own>
 		<notes>Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.</notes>
 	</game>
-	
+	<game id="1197" electronic="true">
+		<title>Torchlight II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-05-04</date>
+			<price>8.75</price>
+			<place>GamersGate</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Torchlight Complete Pack, which included Torchlight and Torchlight II, the latter of which activates on Steam. These are $14.99 and $19.99 on Steam individually, so I basically got a discount on the second (the one I wanted) and the first one free.</notes>
+	</game>
+	<game id="1198" electronic="true">
+		<title>Reus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>75% off during summer flash sale.</notes>
+	</game>
+	<game id="1199" electronic="true">
+		<title>Dungeon Village</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-27</date>
+			<price>0.00</price>
+			<place>Amazon Appstore</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free through their Appstore. Normally $4.41.</notes>
+	</game>
+	<game id="1200" electronic="true">
+		<title>Divinity: Original Sin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-29</date>
+			<price>31.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>20% off for summer encore sale. Normally $39.99.</notes>
+	</game>
+	<game id="1201" electronic="true">
+		<title>Portal</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-29</date>
+			<price>3.12</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Portal Bundle, which was 75% off for summer encore sale. Bundle is normally $24.98.</notes>
+	</game>
+	<game id="1202" electronic="true">
+		<title>Portal 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-29</date>
+			<price>3.12</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Portal Bundle, which was 75% off for summer encore sale. Bundle is normally $24.98.</notes>
+	</game>
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

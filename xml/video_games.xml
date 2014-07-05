@@ -17372,6 +17372,120 @@
 		<own>yes</own>
 		<notes>Part of the Portal Bundle, which was 75% off for summer encore sale. Bundle is normally $24.98.</notes>
 	</game>
+	<game id="1203" electronic="true">
+		<title>Mount &amp; Blade</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1204" electronic="true">
+		<title>Blades of Time Limited Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1205" electronic="true" addOn="true">
+		<title>Blades of Time - Dismal Swamp DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.17</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1206" electronic="true">
+		<title>UFO Extraterrestrials Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1207" electronic="true">
+		<title>Thunder Wolves</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1208" electronic="true">
+		<title>Puzzle Kingdoms</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99.</notes>
+	</game>
+	<game id="1209" electronic="true">
+		<title>STORM: Frontline Nation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-03</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 5.0, which was 6 games and 1 DLC for $1.99. This looked enjoyable.</notes>
+	</game>
+	<game id="1210" electronic="true">
+		<title>Sid Meier's Civilization V: The Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-05</date>
+			<price>14.99</price>
+			<place>Mac Game Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 70% off $49.99 price.</notes>
+	</game>
+	<!--
+	-->
 	<!--
 	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

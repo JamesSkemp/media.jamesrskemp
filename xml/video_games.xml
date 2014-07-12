@@ -6402,7 +6402,10 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 10/12/2011.</notes>
+		<notes>
+			Received 10/12/2011.
+			Purchased game guide 7/5/2014 for $4.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="427" electronic="true">
 		<title>Valkyria Chronicles II Bundle</title>
@@ -17483,6 +17486,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for 70% off $49.99 price.</notes>
+	</game>
+	<game id="1211" electronic="true">
+		<title>Hammerwatch</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-06</date>
+			<price>1.99</price>
+			<place>Humble Bundle Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>DRM Freedom Sale. Normally $7.99.</notes>
+	</game>
+	<game id="1212">
+		<title>BioShock Infinite Ultimate Songbird Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-07-02</date>
+			<price>37.50</price>
+			<place></place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $149.99, but on clearance. Wanted the PS3 version, but they were sold out. Received 7/11/2014, and paid $8.67 for shipping.</notes>
+	</game>
+	<game id="1213" electronic="true">
+		<title>Wild Arms</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2014-07-11</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PS1 Classic. Special 99 cent sale. Normally $5.99.</notes>
+	</game>
+	<game id="1214" electronic="true">
+		<title>Wild Arms 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2014-07-11</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PS1 Classic. Special 99 cent sale. Normally $5.99.</notes>
+	</game>
+	<game id="1215" electronic="true">
+		<title>Legend of Dragoon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2014-07-11</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PS1 Classic. Special 99 cent sale. Normally $5.99.</notes>
+	</game>
+	<game id="1216" electronic="true">
+		<title>Malicious</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-07-11</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special 99 cent sale. Normally $9.99. Looked interesting.</notes>
 	</game>
 	<!--
 	-->

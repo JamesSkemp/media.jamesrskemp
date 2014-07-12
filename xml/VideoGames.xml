@@ -883,5 +883,19 @@
 			<own>yes</own>
 			<notes>Came with Deluxe Set.</notes>
 		</item>
+		<item id="62">
+			<name>Visual Memory Unit - Blue</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-07-06</date>
+				<price>10.85</price>
+				<place>Amazon.com (Hitgaming Video Games)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 7/9/2014. Original product.</notes>
+		</item>
 	</hardware>
 </videoGames>

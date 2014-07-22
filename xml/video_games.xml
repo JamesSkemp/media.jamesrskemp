@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/video_games.xslt"?>
 <games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2013/11/VideoGames.xsd">
+ xsi:noNamespaceSchemaLocation="../xsd/2013/11/VideoGames.xsd">
 	<game id="1">
 		<title>MotorStorm</title>
 		<system>
@@ -14127,7 +14127,7 @@
 		<own>yes</own>
 		<notes>Part of The Vendetta Bundle - $5 for 10 games, normally $115.</notes>
 	</game>
-	<game id="969" electronic="true">
+	<game id="969" electronic="true" beat="true">
 		<title>Fearless Fantasy</title>
 		<system>
 			<console>PC</console>
@@ -17570,6 +17570,62 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Special 99 cent sale. Normally $9.99. Looked interesting.</notes>
+	</game>
+	<game id="1217" electronic="true">
+		<title>Path of Exile</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-13</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free-to-play without the bs.</notes>
+	</game>
+	<game id="1218">
+		<title>Pokemon X</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2014-07-20</date>
+			<price>19.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Technically buy one get one free.</notes>
+	</game>
+	<game id="1219">
+		<title>Pokemon Y</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2014-07-20</date>
+			<price>20.00</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Technically buy one get one free.</notes>
+	</game>
+	<game id="1220" electronic="true">
+		<title>Elder Scrolls V, The: Skyrim Legendary Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-20</date>
+			<price>10.87</price>
+			<place>GameFly</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but then on sale for $13.59 (66%) for Quakecon, minus 20% with coupon. Heard that the mods will get you to play, even if you failed before.</notes>
 	</game>
 	<!--
 	-->

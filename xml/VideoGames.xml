@@ -897,5 +897,19 @@
 			<own>yes</own>
 			<notes>Received 7/9/2014. Original product.</notes>
 		</item>
+		<item id="63">
+			<name>Wii U Pro Controller (White)</name>
+			<system>
+				<console>Wii</console>
+				<version>U</version>
+			</system>
+			<purchase>
+				<date>2014-07-20</date>
+				<price>29.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>$20 off.</notes>
+		</item>
 	</hardware>
 </videoGames>

@@ -2883,6 +2883,15 @@
 				<costTotal>35.68</costTotal>
 				<notes>Heading to Janesville to pick up a Wii U.</notes>
 			</fillup>
+			<fillup id="253">
+				<date>2014-07-26</date>
+				<milesCar>53627</milesCar>
+				<milesDriven>328.5</milesDriven>
+				<gallons>11.854</gallons>
+				<costGallon>3.450</costGallon>
+				<costTotal>40.90</costTotal>
+				<notes>Almost into the red bars, if I remember correctly.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

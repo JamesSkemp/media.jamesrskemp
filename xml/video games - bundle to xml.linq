@@ -1,18 +1,32 @@
 <Query Kind="Statements" />
 
-var startingId = 1191;
+var startingId = 1221;
 var titles = new List<string>() {
-"Two Worlds Epic Edition",
-"Two Worlds II",
-"Pirates of the Flying Fortress DLC",
-"Septerra Core: Legacy of the Creator",
-"Enclave",
-"Gorky 17",
+"Thief Gold",
+"Hitman: Codename 47",
+"Hitman 2: Silent Assassin",
+"Mini Ninjas",
+"Daikatana",
+"Anachronox",
+"Deus Ex: The Fall",
+"Battlestations: Midway",
+"Hitman: Absolution",
+"Deus Ex: Invisible War",
+"Deus Ex: Human Revolution Director's Cut",
+"Just Cause 2",
+"Deus Ex: Game of the Year Edition",
+"Lara Croft and the Guardian of Light",
+"Kane &amp; Lynch 2: Dog Days",
+"Hitman: Blood Money",
+"Just Cause",
+"Hitman: Contracts",
+"Last Remnant, The"
 };
-var date = "2014-06-27";
-var price = "0.83";
-var place = "Bundle Stars";
-var note = "Part of the RPG Champions Bundle, which was $4.99 for 5 games and 1 DLC.";
+
+var date = "2014-07-22";
+var price = "0.79";
+var place = "Humble Bundle";
+var note = "Part of the Square Enix Bundle, which was $15 for 19 games.";
 
 var xmlFormat = @"
 	<game id=""{0}"" electronic=""true"">

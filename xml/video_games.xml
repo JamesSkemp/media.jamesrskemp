@@ -17627,6 +17627,426 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but then on sale for $13.59 (66%) for Quakecon, minus 20% with coupon. Heard that the mods will get you to play, even if you failed before.</notes>
 	</game>
+	<game id="1221" electronic="true">
+		<title>Thief Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1222" electronic="true">
+		<title>Hitman: Codename 47</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1223" electronic="true">
+		<title>Hitman 2: Silent Assassin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1224" electronic="true">
+		<title>Mini Ninjas</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1225" electronic="true">
+		<title>Daikatana</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.78</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1226" electronic="true">
+		<title>Anachronox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1227" electronic="true">
+		<title>Deus Ex: The Fall</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1228" electronic="true">
+		<title>Battlestations: Midway</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1229" electronic="true">
+		<title>Hitman: Absolution</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1230" electronic="true">
+		<title>Deus Ex: Invisible War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1231" electronic="true">
+		<title>Deus Ex: Human Revolution Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1232" electronic="true">
+		<title>Just Cause 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1233" electronic="true">
+		<title>Deus Ex: Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1234" electronic="true">
+		<title>Lara Croft and the Guardian of Light</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1235" electronic="true">
+		<title>Kane &amp; Lynch 2: Dog Days</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1236" electronic="true">
+		<title>Hitman: Blood Money</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1237" electronic="true">
+		<title>Just Cause</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1238" electronic="true">
+		<title>Hitman: Contracts</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1239" electronic="true">
+		<title>Last Remnant, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-22</date>
+			<price>0.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Square Enix Bundle, which was $15 for 19 games.</notes>
+	</game>
+	<game id="1240" electronic="true">
+		<title>Strider</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-07-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1241" electronic="true">
+		<title>Vessel</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-07-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="1242" electronic="true">
+		<title>Doki-Doki Universe</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-07-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99. Includes all three systems.</notes>
+	</game>
+	<game id="1243" electronic="true">
+		<title>Doki-Doki Universe</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-07-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99. Includes all three systems.</notes>
+	</game>
+	<game id="1244" electronic="true">
+		<title>Doki-Doki Universe</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-07-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99. Includes all three systems.</notes>
+	</game>
+	<game id="1245" electronic="true">
+		<title>Alice: Madness Returns - The Complete Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-28</date>
+			<price>4.97</price>
+			<place>Gamestop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Redeems on Origin.</notes>
+	</game>
+	<game id="1246" electronic="true">
+		<title>Hell Yeah! Wrath of the Dead Rabbit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-29</date>
+			<price>1.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
+	<game id="1247" electronic="true" addOn="true">
+		<title>Hell Yeah! Pimp my Rabbit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-29</date>
+			<price>1.98</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
+	<game id="1248" electronic="true" addOn="true">
+		<title>Hell Yeah! Virtual Rabbit Missions</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-29</date>
+			<price>1.98</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
+	<game id="1249" electronic="true">
+		<title>NiGHTS into Dreams</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-29</date>
+			<price>1.98</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
+	<game id="1250" electronic="true">
+		<title>Cave, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-29</date>
+			<price>1.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
 	<!--
 	-->
 	<!--

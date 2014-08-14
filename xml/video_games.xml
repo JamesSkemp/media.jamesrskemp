@@ -16577,7 +16577,7 @@
 		<own>yes</own>
 		<notes>On the House special.</notes>
 	</game>
-	<game id="1146" electronic="true">
+	<game id="1146" electronic="true" beat="true">
 		<title>Still Life</title>
 		<system>
 			<console>PC</console>
@@ -16617,7 +16617,7 @@
 			<place>Gala Store</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of The Still Life Bundle.</notes>
+		<notes>Part of The Still Life Bundle. Part one of trilogy.</notes>
 	</game>
 	<game id="1149" electronic="true">
 		<title>Obulis</title>
@@ -18041,11 +18041,459 @@
 		</system>
 		<purchase>
 			<date>2014-07-29</date>
-			<price>1.99</price>
+			<price>1.99st</price>
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Sega Fun Pack, which is normally $81.42 (88% off). 9 items but I gave away 4 (Brian Renegade Ops and Reddit got Jet Set Radio).</notes>
+	</game>
+	<game id="1251" electronic="true">
+		<title>POSTAL</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-30</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 6.0, which was $1.99 for 6 games, but gave one away.</notes>
+	</game>
+	<game id="1252" electronic="true">
+		<title>Expeditions: Conquistador</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-30</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 6.0, which was $1.99 for 6 games, but gave one away.</notes>
+	</game>
+	<game id="1253" electronic="true">
+		<title>Knytt Underground</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-30</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 6.0, which was $1.99 for 6 games, but gave one away.</notes>
+	</game>
+	<game id="1254" electronic="true">
+		<title>Blockland</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-30</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 6.0, which was $1.99 for 6 games, but gave one away.</notes>
+	</game>
+	<game id="1255" electronic="true">
+		<title>Steel Storm: Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-30</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Reboot Bundle 6.0, which was $1.99 for 6 games, but gave one away.</notes>
+	</game>
+	<game id="1256" electronic="true">
+		<title>Deponia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.34</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1257" electronic="true">
+		<title>Skyward Collapse Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.34</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1258" electronic="true">
+		<title>Ignite</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.34</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1259" electronic="true">
+		<title>Crystals of Time</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1260" electronic="true">
+		<title>LightFish</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1261" electronic="true">
+		<title>The 39 Steps</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1262" electronic="true">
+		<title>Super Killer Hornet: Resurrection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1263" electronic="true">
+		<title>iBomber Attack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1264" electronic="true">
+		<title>Fortix</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1265" electronic="true">
+		<title>Q.U.B.E. Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1266" electronic="true">
+		<title>//N.P.P.D. RUSH// - The milk of Ultraviolet</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1267" electronic="true">
+		<title>Clones</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-07-31</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Scorched Bundle - $3.99 for 14 games, but only wanted 12.</notes>
+	</game>
+	<game id="1268" electronic="true" addOn="true">
+		<title>BioShock Infinite - Season Pass</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-02</date>
+			<price>6.59</price>
+			<place>Mac Game Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Lowest price, excluding pricing mistake a while ago. Worth it for the two DLC it contains.</notes>
+	</game>
+	<game id="1269" electronic="true">
+		<title>Wing Command 3: Heart of the Tiger</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-05</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the House game. Normally $4.99.</notes>
+	</game>
+	<game id="1270" electronic="true">
+		<title>Final Fantasy III</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-08-06</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
+	<game id="1271" electronic="true">
+		<title>Final Fantasy IV: The Complete Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-08-06</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
+	<game id="1272" electronic="true">
+		<title>Final Fantasy Tactics</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2014-08-06</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. PS One Classic.</notes>
+	</game>
+	<game id="1273" electronic="true">
+		<title>Final Fantasy X|X-2 HD Remaster</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-08-06</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Worth it, I think.</notes>
+	</game>
+	<game id="1274" electronic="true">
+		<title>Dissidia Final Fantasy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-08-06</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Want to try it out.</notes>
+	</game>
+	<game id="1275" electronic="true">
+		<title>Unholy Heights</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $1.59. In $1 section.</notes>
+	</game>
+	<game id="1276" electronic="true">
+		<title>One Way Heroics</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $0.87. In $1 section.</notes>
+	</game>
+	<game id="1277" electronic="true">
+		<title>GIGANTIC ARMY</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $2.99. In $1 section.</notes>
+	</game>
+	<game id="1278" electronic="true">
+		<title>Ys Origin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>1.67</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $4.99. In $6 section.</notes>
+	</game>
+	<game id="1279" electronic="true">
+		<title>Mitsurugi Kamui Hikae</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>1.67</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $2.49. In $6 section.</notes>
+	</game>
+	<game id="1280" electronic="true">
+		<title>PixelJunk Shooter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>1.66</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $1.25. In $6 section.</notes>
+	</game>
+	<game id="1281" electronic="true">
+		<title>Astebreed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-07</date>
+			<price>4.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $9.99. In $10 section.</notes>
+	</game>
+	<game id="1282" electronic="true">
+		<title>Ys: I &amp; II Chronicles</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-08-12</date>
+			<price>7.34</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.49. 30% off on sale.</notes>
 	</game>
 	<!--
 	-->

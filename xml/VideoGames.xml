@@ -911,5 +911,75 @@
 			<own>yes</own>
 			<notes>$20 off.</notes>
 		</item>
+		<item id="64">
+			<name>PlayStation Move Motion Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2011-03-31</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of SOCOM 4 U.S. Navy SEALS Full Deployment Edition.</notes>
+		</item>
+		<item id="65">
+			<name>PlayStation Move Navigation Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2011-03-31</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of SOCOM 4 U.S. Navy SEALS Full Deployment Edition.</notes>
+		</item>
+		<item id="66">
+			<name>PlayStation Eye</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2011-03-31</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of SOCOM 4 U.S. Navy SEALS Full Deployment Edition.</notes>
+		</item>
+		<item id="67">
+			<name>PlayStation Move Sharp Shooter</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2011-03-31</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of SOCOM 4 U.S. Navy SEALS Full Deployment Edition.</notes>
+		</item>
+		<item id="68">
+			<name>PlayStation Move Motion Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2014-07-30</date>
+				<price>19.99</price>
+				<place>Amazon.com (The Best Only)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Cheaper than anything else currently.</notes>
+		</item>
 	</hardware>
 </videoGames>

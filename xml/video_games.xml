@@ -18495,6 +18495,48 @@
 		<own>yes</own>
 		<notes>Normally $10.49. 30% off on sale.</notes>
 	</game>
+	<game id="1283" electronic="true">
+		<title>Stella Deus: The Gate of Eternity</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-15</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. PlayStation 2 Classics for PS3.</notes>
+	</game>
+	<game id="1284" electronic="true">
+		<title>Growlanser: Heritage of War</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-15</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. PlayStation 2 Classics for PS3.</notes>
+	</game>
+	<game id="1285" electronic="true">
+		<title>Crysis 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-08-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus subscribers.</notes>
+	</game>
 	<!--
 	-->
 	<!--

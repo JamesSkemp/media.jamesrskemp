@@ -11850,7 +11850,7 @@
 		<own>yes</own>
 		<notes>Should include an easy 100 gamerscore, so ... might as well just pick it up.</notes>
 	</game>
-	<game id="808" electronic="true">
+	<game id="808" electronic="true" beat="true">
 		<title>Shadowrun Returns</title>
 		<system>
 			<console>PC</console>
@@ -12988,7 +12988,7 @@
 		<purchase>
 			<date>2014-03-25</date>
 			<price>13.99</price>
-			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Amazon has used copies starting at $30 and new copies starting at $40/$50+. Also heard about one version of this (I think the first DS version) in Top lists.</notes>
@@ -18381,7 +18381,10 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>On sale. Want to try it out.</notes>
+		<notes>
+			On sale. Want to try it out.
+			Bought strategy guide 8/17/2014 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="1275" electronic="true">
 		<title>Unholy Heights</title>
@@ -18536,6 +18539,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free for PlayStation Plus subscribers.</notes>
+	</game>
+	<game id="1286" used="true">
+		<title>Gungrave</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Looks interesting, and I think I've seen a video on it.</notes>
+	</game>
+	<game id="1287" used="true">
+		<title>Rampage: Total Destruction</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>9.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes original and World Tour.</notes>
+	</game>
+	<game id="1288" used="true">
+		<title>Final Fantasy Tactics A2: Grimoire of the Rift</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>19.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems like it should be good.</notes>
+	</game>
+	<game id="1289" used="true">
+		<title>Suikoden: Tierkreis</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>19.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems like it should be interesting.</notes>
+	</game>
+	<game id="1290" used="true">
+		<title>Onimusha: Warlords</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>4.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Not sure about the tank controls, but ... I want to give it a try.</notes>
+	</game>
+	<game id="1291" used="true">
+		<title>Onimusha 2: Samurai's Destiny</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-08-17</date>
+			<price>3.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Like the first, not sure about the tank controls, but I want to give it a try.</notes>
 	</game>
 	<!--
 	-->

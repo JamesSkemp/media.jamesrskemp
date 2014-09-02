@@ -6840,7 +6840,7 @@
 		<purchase>
 			<date>2011-12-23</date>
 			<price>29.99</price>
-			<place>GameStop.com</place>
+			<place>Gamestop.com</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Received 12/29/2011. Was on the fence about this, but it's going to become rare, and the gameplay looked interesting. And people either love it or hate it.</notes>
@@ -17579,11 +17579,14 @@
 		</system>
 		<purchase>
 			<date>2014-07-13</date>
-			<price>0.00</price>
+			<price>20.00</price>
 			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free-to-play without the bs.</notes>
+		<notes>
+			Free-to-play without the bs.
+			On 8/23/2014 spent $20 (Path of Exile site) for Premium Stash Tab Bundle for 165 points ($16.50), which is a savings of 17.5%.
+		</notes>
 	</game>
 	<game id="1218">
 		<title>Pokemon X</title>
@@ -18623,6 +18626,132 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Like the first, not sure about the tank controls, but I want to give it a try.</notes>
+	</game>
+	<game id="1292" electronic="true">
+		<title>SimCity 4 Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>7.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo. Already have a physical copy, but we'll make it easy.</notes>
+	</game>
+	<game id="1293" electronic="true">
+		<title>Ultima 8 Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo.</notes>
+	</game>
+	<game id="1294" electronic="true">
+		<title>Ultima 4</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>0.79</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo. Part of bundle with 4, 5, and 6.</notes>
+	</game>
+	<game id="1295" electronic="true">
+		<title>Ultima 5</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>0.80</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo. Part of bundle with 4, 5, and 6.</notes>
+	</game>
+	<game id="1296" electronic="true">
+		<title>Ultima 6</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>0.80</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo. Part of bundle with 4, 5, and 6.</notes>
+	</game>
+	<game id="1297" electronic="true">
+		<title>Nox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-23</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved 60% for EA weekend promo. Looks enjoyable.</notes>
+	</game>
+	<game id="1298" electronic="true">
+		<title>Diablo III Reaper of Souls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-24</date>
+			<price>19.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off. Shipped to store so I got it later that week.</notes>
+	</game>
+	<game id="1299" electronic="true">
+		<title>SimCity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-28</date>
+			<price>5.99</price>
+			<place>Gamestop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 80% off. Redeems through Origin.</notes>
+	</game>
+	<game id="1300" electronic="true">
+		<title>Arcanum: Of Steamworks and Magick Obscura</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-08-29</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 60% off. First 15+ minutes of a playthrough video looked enjoyable.</notes>
 	</game>
 	<!--
 	-->

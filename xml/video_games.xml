@@ -12210,7 +12210,7 @@
 		<own>yes</own>
 		<notes>On sale for 75% off, I believe. Coming soon for PS Vita, so just in case it's cross-buy ...</notes>
 	</game>
-	<game id="833" used="true">
+	<game id="833" used="true" beat="true">
 		<title>Devil Kings</title>
 		<system>
 			<console>PlayStation</console>
@@ -12222,7 +12222,10 @@
 			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Now that I've gotten that far, realized that some of the characters in this game are in Sengoku Basara as well. Worth trying out.</notes>
+		<notes>
+			Now that I've gotten that far, realized that some of the characters in this game are in Sengoku Basara as well. Worth trying out.
+			Finished all 12 characters on easy on 9/6/2014.
+		</notes>
 	</game>
 	<game id="834" electronic="true">
 		<title>Fallout 2</title>
@@ -18752,6 +18755,118 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $5.99, but on sale for 60% off. First 15+ minutes of a playthrough video looked enjoyable.</notes>
+	</game>
+	<game id="1301" electronic="true">
+		<title>Fez</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1302" electronic="true">
+		<title>Fez</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1303" electronic="true">
+		<title>Fez</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1304" electronic="true">
+		<title>Road Not Taken</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1305" electronic="true">
+		<title>Proteus</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1306" electronic="true">
+		<title>Proteus</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1307" electronic="true">
+		<title>Metrico</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-09-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99, but free for PlayStation Plus members.</notes>
+	</game>
+	<game id="1308" electronic="true">
+		<title>Anno 2070</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-02</date>
+			<price>5.00</price>
+			<place>Ubi.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Historic low. Redeems on Uplay.</notes>
 	</game>
 	<!--
 	-->

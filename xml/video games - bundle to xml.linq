@@ -1,32 +1,20 @@
 <Query Kind="Statements" />
 
-var startingId = 1221;
+var startingId = 1275;
 var titles = new List<string>() {
-"Thief Gold",
-"Hitman: Codename 47",
-"Hitman 2: Silent Assassin",
-"Mini Ninjas",
-"Daikatana",
-"Anachronox",
-"Deus Ex: The Fall",
-"Battlestations: Midway",
-"Hitman: Absolution",
-"Deus Ex: Invisible War",
-"Deus Ex: Human Revolution Director's Cut",
-"Just Cause 2",
-"Deus Ex: Game of the Year Edition",
-"Lara Croft and the Guardian of Light",
-"Kane &amp; Lynch 2: Dog Days",
-"Hitman: Blood Money",
-"Just Cause",
-"Hitman: Contracts",
-"Last Remnant, The"
+"Unholy Heights0.33Historical Lowest Price: $1.59",
+"One Way Heroics0.33Historical Lowest Price: $0.87",
+"GIGANTIC ARMY0.34Historical Lowest Price: $2.99",
+"Ys Origin1.67Historical Lowest Price: $4.99",
+"Mitsurugi Kamui Hikae1.67Historical Lowest Price: $2.49",
+"PixelJunk Shooter1.66Historical Lowest Price: $1.25",
+"Astebreed4.00Historical Lowest Price: $9.994.00"
 };
 
-var date = "2014-07-22";
-var price = "0.79";
+var date = "2014-08-07";
+var price = "";
 var place = "Humble Bundle";
-var note = "Part of the Square Enix Bundle, which was $15 for 19 games.";
+var note = "Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games.";
 
 var xmlFormat = @"
 	<game id=""{0}"" electronic=""true"">

@@ -13428,7 +13428,10 @@
 			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
-		<notes>On sale for 33% off this weekend. Read really good things about the DLC.</notes>
+		<notes>
+			On sale for 33% off this weekend. Read really good things about the DLC.
+			Updated to Director's Cut around 9/18/2014 for free.
+		</notes>
 	</game>
 	<game id="919" used="true">
 		<title>Red Faction Guerrilla</title>
@@ -13453,7 +13456,7 @@
 		<purchase>
 			<date>2014-05-08</date>
 			<price>3.74</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale as part of the May 6-21st spring sale. Normally $14.99.</notes>
@@ -13467,7 +13470,7 @@
 		<purchase>
 			<date>2014-05-08</date>
 			<price>2.49</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale as part of the May 6-21st spring sale. Normally $9.99.</notes>
@@ -13481,7 +13484,7 @@
 		<purchase>
 			<date>2014-05-08</date>
 			<price>13.33</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale as part of the May 6-21st spring sale. Normally $39.99.</notes>
@@ -13495,7 +13498,7 @@
 		<purchase>
 			<date>2014-05-08</date>
 			<price>3.33</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale as part of the May 6-21st spring sale. Normally $9.99.</notes>
@@ -13565,7 +13568,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>4.99</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99, but cheap for the day.</notes>
@@ -13579,7 +13582,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13593,7 +13596,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13607,7 +13610,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13621,7 +13624,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13635,7 +13638,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13649,7 +13652,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13663,7 +13666,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13677,7 +13680,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13691,7 +13694,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13705,7 +13708,7 @@
 		<purchase>
 			<date>2014-05-13</date>
 			<price>1.50</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Humble Daily Bundle: Deep Silver ReBundle! sale. Paid $15 for the bundle, which is less than the $230 for these individually, and more than the $6.10 average and $9 for everything., bu.</notes>
@@ -13719,7 +13722,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>3.99</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $39.99, but part of the spring sale, and a flash sale made it even less.</notes>
@@ -13733,7 +13736,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13747,7 +13750,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13761,7 +13764,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13775,7 +13778,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13789,7 +13792,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13803,7 +13806,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.38</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13817,7 +13820,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13831,7 +13834,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13845,7 +13848,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13859,7 +13862,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13873,7 +13876,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13887,7 +13890,7 @@
 		<purchase>
 			<date>2014-05-16</date>
 			<price>0.42</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of 11 game (plus one DLC) bundle. Paid $5 total.</notes>
@@ -13901,7 +13904,7 @@
 		<purchase>
 			<date>2014-05-17</date>
 			<price>3.99</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $7.99. Part of spring sale, I think. Early access game.</notes>
@@ -17499,7 +17502,7 @@
 		<purchase>
 			<date>2014-07-06</date>
 			<price>1.99</price>
-			<place>Humble Bundle Store</place>
+			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
 		<notes>DRM Freedom Sale. Normally $7.99.</notes>
@@ -18867,6 +18870,317 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $29.99. Historic low. Redeems on Uplay.</notes>
+	</game>
+	<game id="1309" electronic="true">
+		<title>Warlock: Master of the Arcane</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason, for a limited time.</notes>
+	</game>
+	<game id="1310" electronic="true">
+		<title>Psychonauts</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Redeems on Steam, and comes with DRM free versions.</notes>
+	</game>
+	<game id="1311" electronic="true">
+		<title>Viking: Battle for Asgard</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.99</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a SEGA Bundle, which was $52.96 worth of games for $3.96. Normally $14.99.</notes>
+	</game>
+	<game id="1312" electronic="true">
+		<title>Crazy Taxi</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.99</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a SEGA Bundle, which was $52.96 worth of games for $3.96. Normally $7.99.</notes>
+	</game>
+	<game id="1313" electronic="true">
+		<title>Binary Domain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.99</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a SEGA Bundle, which was $52.96 worth of games for $3.96. Normally $14.99.</notes>
+	</game>
+	<game id="1314" electronic="true">
+		<title>Alpha Protocol</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-08</date>
+			<price>0.99</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a SEGA Bundle, which was $52.96 worth of games for $3.96. Normally $14.99.</notes>
+	</game>
+	<game id="1315" electronic="true">
+		<title>Might and Magic 6-Pack: Limited Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-09</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Day two of six year anniversary sale. Contains first six games.</notes>
+	</game>
+	<game id="1316" electronic="true">
+		<title>SteamWorld Dig</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1317" electronic="true">
+		<title>Gunpoint</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1318" electronic="true">
+		<title>Gone Home</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1319" electronic="true">
+		<title>Papers, Please</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1320" electronic="true">
+		<title>LUFTRAUSERS</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1321" electronic="true">
+		<title>Bridge, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1322" electronic="true">
+		<title>Monaco: What's Yours Is Mine</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1323" electronic="true">
+		<title>Race the Sun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12.</notes>
+	</game>
+	<game id="1324" electronic="true">
+		<title>Prison Architect</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-10</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$10 for 10 games (one of which I had) as part of the Humble Indie Bundle 12. Early access. Had to pay $10 or more for this.</notes>
+	</game>
+	<game id="1325" electronic="true">
+		<title>Dungeon Siege II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-13</date>
+			<price>1.40</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and then 20% off.</notes>
+	</game>
+	<game id="1326" electronic="true">
+		<title>Dungeon Siege III</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-13</date>
+			<price>3.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and then 20% off.</notes>
+	</game>
+	<game id="1327" electronic="true">
+		<title>Kingdoms of Amalur: Reckoning - Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-13</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			75% off for weekend deal.
+			Includes  Kingdoms of Amalur: Reckoning - Weapons &amp; Armor Bundle, Kingdoms of Amalur: Reckoning™, Kingdoms of Amalur: Reckoning - Legend of Dead Kel, Kingdoms of Amalur: Reckoning - Teeth of Naros.
+		</notes>
+	</game>
+	<game id="1328" electronic="true">
+		<title>Septerra Core: Legacy of the Creator</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-14</date>
+			<price>1.79</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 6th birthday.</notes>
+	</game>
+	<game id="1329" electronic="true">
+		<title>Unreal Tournament 2004 Editor's Choice Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-14</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale for 6th birthday.</notes>
+	</game>
+	<game id="1330" electronic="true">
+		<title>Sid Meier's Civilization IV Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-18</date>
+			<price>6.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale and 20% off.</notes>
 	</game>
 	<!--
 	-->

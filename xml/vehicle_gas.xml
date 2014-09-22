@@ -2892,6 +2892,15 @@
 				<costTotal>40.90</costTotal>
 				<notes>Almost into the red bars, if I remember correctly.</notes>
 			</fillup>
+			<fillup id="254">
+				<date>2014-09-20</date>
+				<milesCar>53849</milesCar>
+				<milesDriven>221.3</milesDriven>
+				<gallons>9.318</gallons>
+				<costGallon>3.339</costGallon>
+				<costTotal>30.65</costTotal>
+				<notes>Paid only $3.289/gallon with BP Driver Rewards card. Driving over to Milwaukee.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

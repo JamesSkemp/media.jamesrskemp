@@ -19187,6 +19187,48 @@
 		<own>yes</own>
 		<notes>On sale and 20% off.</notes>
 	</game>
+	<game id="1331" electronic="true">
+		<title>Receiver</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-15</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for end of summer sale.</notes>
+	</game>
+	<game id="1332" electronic="true" addOn="true">
+		<title>Dungeon Siege III: Treasures of the Sun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-19</date>
+			<price>1.74</price>
+			<place>GamersGate</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 75% off.</notes>
+	</game>
+	<game id="1333" electronic="true">
+		<title>Final Fantasy XIII</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-19</date>
+			<price>11.09</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-order. Releases 10/9. On sale and had a 23% off coupon.</notes>
+	</game>
 	<!--
 	-->
 	<!--

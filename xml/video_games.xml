@@ -1372,7 +1372,9 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>
+			Bought strategy guide 9/20/2014 for $17.99 from Gorilla Games - Oak Creek, 8880 S Howell Ave Ste 1200, Oak Creek WI 53154.
+		</notes>
 	</game>
 	<game id="86" beat="true">
 		<title>Parasite Eve</title>
@@ -2015,7 +2017,10 @@
 			<place>Mega Media Xchange, Madison (West)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought used.</notes>
+		<notes>
+			Bought used.
+			Bought strategy guide 9/20/2014 for $16.99 from Gorilla Games - Oak Creek, 8880 S Howell Ave Ste 1200, Oak Creek WI 53154.
+		</notes>
 	</game>
 	<game id="126">
 		<title>Wreckless: The Yakuza Missions</title>

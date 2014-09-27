@@ -1511,7 +1511,7 @@
 		<purchase>
 			<date>2004-07-25</date>
 			<price>24.99</price>
-			<place>PrePlayed - 3868 East Washington Ave, Madison 53704</place>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used, but excellent shape. Supposedly a hot item.</notes>
@@ -19229,10 +19229,110 @@
 		<own>yes</own>
 		<notes>Pre-order. Releases 10/9. On sale and had a 23% off coupon.</notes>
 	</game>
+	<game id="1334" electronic="true">
+		<title>Remember Me</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-23</date>
+			<price>4.50</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and used a 25% off voucher.</notes>
+	</game>
+	<game id="1335" used="true">
+		<title>Evolution 2: Far Off Promise</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>9.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>They got some new Dreamcast games. Only RPG there, and it doesn't look horrid. Looking on Amazon later, has about 4 stars.</notes>
+	</game>
+	<game id="1336" used="true">
+		<title>4 Wheel Thunder</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>They got some new Dreamcast games. Cheap enough that it's worth a try.</notes>
+	</game>
+	<game id="1337" used="true">
+		<title>Dead or Alive 2</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>They got some new Dreamcast games. Worth a try.</notes>
+	</game>
+	<game id="1338" used="true">
+		<title>Advance Wars: Dual Strike</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>13.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap compared to online. Didn't come with manual.</notes>
+	</game>
+	<game id="1339" used="true">
+		<title>Dragon Quest VI: Realms of Revelation</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>13.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Didn't come with manual.
+			Strategy guide picked up 6/15/2013 for $5.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704. Looks really good.
+		</notes>
+	</game>
+	<game id="1340" electronic="true">
+		<title>Bejeweled 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-09-27</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free game.</notes>
+	</game>
 	<!--
 	-->
 	<!--
-	Dragon Quest VI: Realms of Revelation strategy guide picked up 6/15/2013 for $5.99 from PrePlayed - 3868 East Washington Ave, Madison 53704. Looks really good.
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
 	-->

@@ -2901,6 +2901,15 @@
 				<costTotal>30.65</costTotal>
 				<notes>Paid only $3.289/gallon with BP Driver Rewards card. Driving over to Milwaukee.</notes>
 			</fillup>
+			<fillup id="255">
+				<date>2014-10-16</date>
+				<milesCar>54145</milesCar>
+				<milesDriven>295.7</milesDriven>
+				<gallons>11.388</gallons>
+				<costGallon>3.199</costGallon>
+				<costTotal>36.43</costTotal>
+				<notes>Lowest I've seen it in a while.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

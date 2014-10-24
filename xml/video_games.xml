@@ -12886,7 +12886,7 @@
 		<own>yes</own>
 		<notes>Received 3/14/2014. Finished main story 6/19/2014 after about 13 hours of play.</notes>
 	</game>
-	<game id="880">
+	<game id="880" beat="true">
 		<title>Castlevania: Order of Ecclesia</title>
 		<system>
 			<console>Nintendo</console>
@@ -12898,7 +12898,10 @@
 			<place>Amazon.com (DealTavern)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2014.</notes>
+		<notes>
+			Received 3/14/2014.
+			Beat 9/27/2014, with 17:12:36, and at level 47.
+		</notes>
 	</game>
 	<game id="881">
 		<title>Touch My Katamari</title>
@@ -18510,7 +18513,10 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $10.49. 30% off on sale.</notes>
+		<notes>
+			Normally $10.49. 30% off on sale.
+			Beat Ys 1 in 5:15, on 9/28.
+		</notes>
 	</game>
 	<game id="1283" electronic="true">
 		<title>Stella Deus: The Gate of Eternity</title>
@@ -19329,6 +19335,331 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free game.</notes>
+	</game>
+	<game id="1341" electronic="true">
+		<title>Supreme Commander Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of $1 tier.</notes>
+	</game>
+	<game id="1342" electronic="true">
+		<title>AquaNox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of $1 tier.</notes>
+	</game>
+	<game id="1343" electronic="true">
+		<title>AquaNox 2: Revelation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of $1 tier.</notes>
+	</game>
+	<game id="1344" electronic="true">
+		<title>Black Mirror</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of $1 tier.</notes>
+	</game>
+	<game id="1345" electronic="true">
+		<title>Summoner</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of $1 tier.</notes>
+	</game>
+	<game id="1346" electronic="true">
+		<title>The Samaritan Paradox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>1.48</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Traded one of the games in the BTA tier for this.</notes>
+	</game>
+	<game id="1347" electronic="true">
+		<title>Titan Quest Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>1.49</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of BTA tier.
+			Includes Titan Quest and Titan Quest - Immortal Throne.
+		</notes>
+	</game>
+	<game id="1348" electronic="true">
+		<title>Red Faction: Armageddon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-07</date>
+			<price>1.48</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of BTA tier.</notes>
+	</game>
+	<game id="1349" electronic="true">
+		<title>Dragon Age: Origins</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-08</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the House special.</notes>
+	</game>
+	<game id="1350" electronic="true">
+		<title>Devil's Attorney</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-09</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
+	<game id="1351" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1352" electronic="true">
+		<title>Neuroshima Hex</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1353" electronic="true">
+		<title>Leo's Fortune</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1354" electronic="true">
+		<title>Out There</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1355" electronic="true">
+		<title>First Strike</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1356" electronic="true">
+		<title>So Long, Oregon!</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1357" electronic="true">
+		<title>Mountain</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1358" electronic="true">
+		<title>Bardbarian: Golden Axe Edition</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.41</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Mobile Bundle 9.</notes>
+	</game>
+	<game id="1359" electronic="true">
+		<title>Terra Battle</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>0.00</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free to play.</notes>
+	</game>
+	<game id="1360" electronic="true">
+		<title>Sacred Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Mutator promo.</notes>
+	</game>
+	<game id="1361" electronic="true">
+		<title>Beyond Divinity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>1.19</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Mutator promo.</notes>
+	</game>
+	<game id="1362" electronic="true">
+		<title>Race Driver: GRID</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-10</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Mutator promo.</notes>
+	</game>
+	<game id="1363" electronic="true" addOn="true">
+		<title>SimCity: Cities of Tomorrow</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-11</date>
+			<price>4.99</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>75% off as deal of the day.</notes>
 	</game>
 	<!--
 	-->

@@ -981,5 +981,33 @@
 			<own>yes</own>
 			<notes>Cheaper than anything else currently.</notes>
 		</item>
+		<item id="69">
+			<name>Lenovo TAB A10-70 A7600F</name>
+			<system>
+				<console>Android</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2014-10-12</date>
+				<price>169.99</price>
+				<place>Best Buy #208 Madison WI 53713</place>
+			</purchase>
+			<own>yes</own>
+			<notes>10.1 tablet. Saved $30 as it’s on clearance. Will be used for emulation and development.</notes>
+		</item>
+		<item id="70">
+			<name>Red Samurai Wireless Controller For Android Tablets V2</name>
+			<system>
+				<console>Android</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2014-10-12</date>
+				<price>14.97</price>
+				<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Purchased to learn Bluetooth usage for these, as well as to play games on Lenovo tablet.</notes>
+		</item>
 	</hardware>
 </videoGames>

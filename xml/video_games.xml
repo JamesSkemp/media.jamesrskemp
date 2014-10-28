@@ -14239,7 +14239,7 @@
 		<own>yes</own>
 		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115.</notes>
 	</game>
-	<game id="976" electronic="true">
+	<game id="976" electronic="true" beat="true">
 		<title>Gray Matter</title>
 		<system>
 			<console>PC</console>
@@ -14251,7 +14251,11 @@
 			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of The Intense Bundle - $4.00 for 10 games, normally $115. This and one other nudged me to pick this up.</notes>
+		<notes>
+			Part of The Intense Bundle - $4.00 for 10 games, normally $115.
+			This and one other nudged me to pick this up.
+			Beat 10/26/2014 in 11.5 hours.
+		</notes>
 	</game>
 	<game id="977" electronic="true">
 		<title>Infinite Space III: Sea of Stars</title>
@@ -19660,6 +19664,412 @@
 		</purchase>
 		<own>yes</own>
 		<notes>75% off as deal of the day.</notes>
+	</game>
+	<game id="1364" electronic="true">
+		<title>American Conquest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1365" electronic="true">
+		<title>American Conquest: Fight Back</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1366" electronic="true">
+		<title>Cossacks II: Napoleonic Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1367" electronic="true">
+		<title>Cossacks II: Battle for Europe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1368" electronic="true">
+		<title>Cossacks: European Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1369" electronic="true">
+		<title>Cossacks: Art of War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1370" electronic="true">
+		<title>Cossacks: Back to War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle.</notes>
+	</game>
+	<game id="1371" electronic="true" addOn="true">
+		<title>Cossacks: Campaign Expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-13</date>
+			<price>0.39</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Art of War Bundle. DLC for Back to War.</notes>
+	</game>
+	<game id="1372" electronic="true">
+		<title>PAYDAY: The Heist</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for it's anniversary.</notes>
+	</game>
+	<game id="1373" electronic="true">
+		<title>FATE: The Traitor Soul</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1374" electronic="true">
+		<title>Haegemonia: Legions of Iron</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games. Part of the Haegemonia Double Pack.</notes>
+	</game>
+	<game id="1375" electronic="true">
+		<title>Haegemonia: The Solon Heritage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games. Part of the Haegemonia Double Pack.</notes>
+	</game>
+	<game id="1376" electronic="true">
+		<title>Post Master</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1377" electronic="true">
+		<title>Commando Jack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1378" electronic="true">
+		<title>Battleplan: American Civil War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1379" electronic="true">
+		<title>Warring States Tactics</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1380" electronic="true">
+		<title>Zoo Park</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1381" electronic="true">
+		<title>Nicole (Otome Version) Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-16</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Destiny Bundle, which was $3.99 for 8 games.</notes>
+	</game>
+	<game id="1382" electronic="true">
+		<title>AI War Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-18</date>
+			<price>3.40</price>
+			<place>GamersGate</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $16.99. Includes base game and all 6 DLC.</notes>
+	</game>
+	<game id="1383" electronic="true">
+		<title>Aliens Versus Predator Classic 2000</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-21</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but free so that we can try out GOG Galaxy Multiplayer.</notes>
+	</game>
+	<game id="1384" electronic="true">
+		<title>LEGO The Hobbit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>3.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1385" electronic="true" addOn="true">
+		<title>LEGO The Hobbit - The Big Little Character Pack DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>0.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1386" electronic="true" addOn="true">
+		<title>LEGO The Hobbit - The Battle Pack DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>0.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1387" electronic="true" addOn="true">
+		<title>LEGO The Hobbit - Side Quest Character Pack DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>0.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1388" electronic="true">
+		<title>Lord of the Rings: War in the North</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>2.22</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1389" electronic="true">
+		<title>Guardians of Middle-earth</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>2.22</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1390" electronic="true" addOn="true">
+		<title>Guardians of Middle-earth: Smaug's Treasure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>0.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1391" electronic="true">
+		<title>LEGO The Lord of the Rings</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>2.22</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Lord of the Rings Bundle, which was 4 games and 4 DLC.</notes>
+	</game>
+	<game id="1392" electronic="true">
+		<title>Omerta: City of Gangsters Complete Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-22</date>
+			<price>4.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes: Omerta: City of Gangsters Gold Edition, Damsel in Distress DLC, The Bulgarian Colossus DLC, The Con Artist DLC, and The Japanese Incentive.</notes>
 	</game>
 	<!--
 	-->

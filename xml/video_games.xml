@@ -20071,6 +20071,90 @@
 		<own>yes</own>
 		<notes>Includes: Omerta: City of Gangsters Gold Edition, Damsel in Distress DLC, The Bulgarian Colossus DLC, The Con Artist DLC, and The Japanese Incentive.</notes>
 	</game>
+	<game id="1393" used="true">
+		<title>Syberia</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-25</date>
+			<price>3.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On a quest to own them all. Appears to not be playable on the 360.</notes>
+	</game>
+	<game id="1394" used="true">
+		<title>Syberia II</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-25</date>
+			<price>7.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On a quest to own them all.</notes>
+	</game>
+	<game id="1395" used="true">
+		<title>Homefront</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-10-25</date>
+			<price>3.59</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>After playing PAYDAY, decided to try this. Saved 10% with PowerUp card.</notes>
+	</game>
+	<game id="1396" used="true">
+		<title>Yaiba: Ninja Gaiden Z</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-10-25</date>
+			<price>8.09</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems to be complete. Saved $0.90 with PowerUp card.</notes>
+	</game>
+	<game id="1397">
+		<title>Earth Defense Force 2025</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-10-24</date>
+			<price>14.89</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/26/2014 (Sunday). Looks like Happy Video Game Nerd is going to recommend it. He at least recommends the first in the series.</notes>
+	</game>
+	<game id="1398" electronic="true">
+		<title>Crusader: No Remorse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-28</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the House game.</notes>
+	</game>
 	<!--
 	-->
 	<!--

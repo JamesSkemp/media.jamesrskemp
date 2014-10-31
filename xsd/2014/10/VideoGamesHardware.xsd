@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:cdt="http://media.jamesrskemp.com/ns/CustomDateType" elementFormDefault="qualified">
+	<xs:import namespace="http://media.jamesrskemp.com/ns/CustomDateType"
+		schemaLocation="http://media.jamesrskemp.com/xsd/2010/09/04/CustomDateType.xsd"/>
+	<xs:element name="videoGames">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="hardware">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" name="item">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="name"/>
+										<xs:element minOccurs="0" name="system">
+											<xs:complexType>
+												<xs:sequence>
+												<xs:element minOccurs="0" name="console"/>
+												<xs:element minOccurs="0" name="version"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="purchase">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="date" nillable="true"
+														type="cdt:customDateType"/>
+												<xs:element name="price"/>
+												<xs:element name="place"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element minOccurs="0" name="sell">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="date" nillable="true"
+														type="cdt:customDateType"/>
+												<xs:element name="price"/>
+												<xs:element name="place"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="own"/>
+										<xs:element name="notes"/>
+									</xs:sequence>
+									<xs:attribute form="unqualified" name="id"
+										type="xs:positiveInteger" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

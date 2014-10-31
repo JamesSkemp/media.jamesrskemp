@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<videoGames>
+<videoGames xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../xsd/2014/10/VideoGamesHardware.xsd">
 	<hardware>
 		<item id="1">
 			<name>PS One</name>

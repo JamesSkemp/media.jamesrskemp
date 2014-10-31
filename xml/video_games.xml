@@ -20155,6 +20155,20 @@
 		<own>yes</own>
 		<notes>On the House game.</notes>
 	</game>
+	<game id="1399" electronic="true">
+		<title>Teleglitch: Die More Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-29</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
 	<!--
 	-->
 	<!--

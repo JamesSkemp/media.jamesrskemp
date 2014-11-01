@@ -1010,5 +1010,19 @@
 			<own>yes</own>
 			<notes>Purchased to learn Bluetooth usage for these, as well as to play games on Lenovo tablet.</notes>
 		</item>
+		<item id="71">
+			<name>Nintendo DS Lite Cobalt/Black</name>
+			<system>
+				<console>Nintendo</console>
+				<version>DS</version>
+			</system>
+			<purchase>
+				<date>2014-10-31</date>
+				<price>0.00</price>
+				<place>Grandma</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Was my grandmother's, along with five games.</notes>
+		</item>
 	</hardware>
 </videoGames>

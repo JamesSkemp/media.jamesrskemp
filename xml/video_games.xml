@@ -20169,6 +20169,76 @@
 		<own>yes</own>
 		<notes>Free.</notes>
 	</game>
+	<game id="1400" used="true">
+		<title>Brain Challenge</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
+	<game id="1401">
+		<title>Club House Games</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games. Was unopened.</notes>
+	</game>
+	<game id="1402" used="true">
+		<title>Flash Focus</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
+	<game id="1403" used="true">
+		<title>Planet Puzzle League</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
+	<game id="1404" used="true">
+		<title>Platinum Sudoku</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

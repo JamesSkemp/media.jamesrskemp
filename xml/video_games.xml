@@ -13058,7 +13058,10 @@
 			<place>TNT Video Games of Rockford, 2432 S Alpine Rd Rockford IL 61108</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Marked at $29.95, but was given a 20% off discount, possibly because it's Saturday?</notes>
+		<notes>
+			Marked at $29.95, but was given a 20% off discount, possibly because it's Saturday?
+			Bought strategy guide 11/2/2014 for $14.99 from Video Game Xchange, 3002 Atwood Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="892" electronic="true">
 		<title>Bioshock Infinite</title>
@@ -20238,6 +20241,37 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
+	<game id="1405" used="true">
+		<title>Super Mario World: Super Mario Advance 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-02</date>
+			<price>19.99</price>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Included box and manual.</notes>
+	</game>
+	<game id="1406" used="true">
+		<title>Breath of Fire II</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-02</date>
+			<price>7.50</price>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
+		</purchase>
+		<own></own>
+		<notes>
+			50% off (from $14.99, since it was buy one get one half off.
+			Does not include box or manual.
+		</notes>
 	</game>
 	<!--
 	-->

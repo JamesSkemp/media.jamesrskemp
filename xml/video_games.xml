@@ -20228,7 +20228,35 @@
 		<own>yes</own>
 		<notes>Was my grandmother's, along with four other games.</notes>
 	</game>
-	<game id="1404" used="true">
+	<game id="1404" electronic="true">
+		<title>Teleglitch: Die More Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-10-29</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
+	<game id="1405" electronic="true">
+		<title>Viva Pinata: Trouble in Paradise</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-11-02</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Games with Gold.</notes>
+	</game>
+	<game id="1406" used="true">
 		<title>Platinum Sudoku</title>
 		<system>
 			<console>Nintendo</console>
@@ -20242,7 +20270,7 @@
 		<own>yes</own>
 		<notes>Was my grandmother's, along with four other games.</notes>
 	</game>
-	<game id="1405" used="true">
+	<game id="1407" used="true">
 		<title>Super Mario World: Super Mario Advance 2</title>
 		<system>
 			<console>Nintendo</console>
@@ -20256,7 +20284,7 @@
 		<own>yes</own>
 		<notes>Included box and manual.</notes>
 	</game>
-	<game id="1406" used="true">
+	<game id="1408" used="true">
 		<title>Breath of Fire II</title>
 		<system>
 			<console>Nintendo</console>
@@ -20272,6 +20300,20 @@
 			50% off (from $14.99, since it was buy one get one half off.
 			Does not include box or manual.
 		</notes>
+	</game>
+	<game id="1409" electronic="true">
+		<title>Valkyria Chronicles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-02</date>
+			<price>13.86</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered; releases November 11. On sale for $17.99, and then saved $4.13 with a 23% off coupon.</notes>
 	</game>
 	<!--
 	-->

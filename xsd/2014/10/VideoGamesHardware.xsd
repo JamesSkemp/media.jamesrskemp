@@ -21,11 +21,11 @@
 												</xs:sequence>
 											</xs:complexType>
 										</xs:element>
-										<xs:element name="purchase">
+										<xs:element name="purchase" minOccurs="0">
 											<xs:complexType>
 												<xs:sequence>
-													<xs:element name="date" nillable="true"
-														type="cdt:customDateType"/>
+												<xs:element name="date" nillable="true"
+												type="cdt:customDateType"/>
 												<xs:element name="price"/>
 												<xs:element name="place"/>
 												</xs:sequence>
@@ -34,8 +34,8 @@
 										<xs:element minOccurs="0" name="sell">
 											<xs:complexType>
 												<xs:sequence>
-													<xs:element name="date" nillable="true"
-														type="cdt:customDateType"/>
+												<xs:element name="date" nillable="true"
+												type="cdt:customDateType"/>
 												<xs:element name="price"/>
 												<xs:element name="place"/>
 												</xs:sequence>

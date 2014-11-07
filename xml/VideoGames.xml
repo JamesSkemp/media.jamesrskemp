@@ -8,8 +8,6 @@
 				<console>Playstation</console>
 				<version>1</version>
 			</system>
-			<purchase/>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -19,8 +17,6 @@
 				<console>Playstation</console>
 				<version>1</version>
 			</system>
-			<purchase/>
-			<sell/>
 			<own>yes</own>
 			<notes>Came with Playstation console.</notes>
 		</item>
@@ -30,8 +26,6 @@
 				<console>Playstation</console>
 				<version>1</version>
 			</system>
-			<purchase/>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -45,7 +39,6 @@
 				<date>2004-01-03</date>
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes><![CDATA[Unclear if this date is correct, but it seems like it is. Probably paid $199.99.]]></notes>
 		</item>
@@ -55,8 +48,6 @@
 				<console>Playstation</console>
 				<version>2</version>
 			</system>
-			<purchase/>
-			<sell/>
 			<own>yes</own>
 			<notes>Came with Playstation 2 console.</notes>
 		</item>
@@ -71,7 +62,6 @@
 				<price>25.19</price>
 				<place>ShopKo #032 (Monona WI)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -85,7 +75,6 @@
 				<date>2004-01-03</date>
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes><![CDATA[I assume this is the $19.99 item I purchased with my Playstation 2.]]></notes>
 		</item>
@@ -100,7 +89,6 @@
 				<price>22.88</price>
 				<place>Wal-Mart, West Madison</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -115,7 +103,6 @@
 				<price>24.96</price>
 				<place>Wal-Mart, West Madison</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -130,7 +117,6 @@
 				<price>20.99</price>
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes>Purchased to use with my Playstation 2.</notes>
 		</item>
@@ -145,7 +131,6 @@
 				<price>499.99</price>
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes>Came with MotorStorm.</notes>
 		</item>
@@ -160,7 +145,6 @@
 				<price>0.00</price>
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes>Came with Playstation 3 console.</notes>
 		</item>
@@ -175,7 +159,6 @@
 				<price>20.99</price>
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -190,7 +173,6 @@
 				<price>14.99</price>
 				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -205,7 +187,6 @@
 				<price>24.99</price>
 				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -220,7 +201,6 @@
 				<price>54.99</price>
 				<place>Best Buy #59 | Madison WI 53704 (East Madison)</place>
 			</purchase>
-			<sell/>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -1023,6 +1003,32 @@
 			</purchase>
 			<own>yes</own>
 			<notes>Was my grandmother's, along with five games.</notes>
+		</item>
+		<item id="72">
+			<name>AmazonBasics Carrying Case for Nintendo 3DS, DS Lite, DSi and DSi XL - Black</name>
+			<system>
+				<console>Nintendo</console>
+			</system>
+			<purchase>
+				<date>2013-07-26</date>
+				<price>9.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Used for my 3DS XL.</notes>
+		</item>
+		<item id="73">
+			<name>AmazonBasics Carrying Case for Nintendo 3DS, DS Lite, DSi and DSi XL - Black</name>
+			<system>
+				<console>Nintendo</console>
+			</system>
+			<purchase>
+				<date>2014-11-04</date>
+				<price>9.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Used for my DS Lite.</notes>
 		</item>
 	</hardware>
 </videoGames>

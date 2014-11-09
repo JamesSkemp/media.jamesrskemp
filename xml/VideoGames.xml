@@ -1030,5 +1030,47 @@
 			<own>yes</own>
 			<notes>Used for my DS Lite.</notes>
 		</item>
+		<item id="74">
+			<name>Sega Dreamcast Controller</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-11-08</date>
+				<price>2.99</price>
+				<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Used.</notes>
+		</item>
+		<item id="75">
+			<name>Xbox 360 Play &amp; Charge Kit - Black</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2014-11-09</date>
+				<price>19.10</price>
+				<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
+			</purchase>
+			<own>yes</own>
+			<notes>A surprise $5 gift card went toward this. Will use with my black wireless controller.</notes>
+		</item>
+		<item id="76">
+			<name>Xbox 360 Wired Controller - Black</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2014-11-09</date>
+				<price>38.20</price>
+				<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale, and a surprise $5 gift card went toward this.</notes>
+		</item>
 	</hardware>
 </videoGames>

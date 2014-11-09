@@ -8107,7 +8107,7 @@
 		<notes>Used.</notes>
 	</game>
 	<game id="545">
-		<title>Dragon Warrior</title>
+		<title>Dragon Warrior [BROKEN]</title>
 		<system>
 			<console>NES</console>
 			<version/>
@@ -8118,7 +8118,7 @@
 			<place>Derek, Whitewater WI</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes>Used. Doesn't work.</notes>
 	</game>
 	<game id="546">
 		<title>Galaga</title>
@@ -20114,7 +20114,10 @@
 			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
-		<notes>After playing PAYDAY, decided to try this. Saved 10% with PowerUp card.</notes>
+		<notes>
+			After playing PAYDAY, decided to try this. Saved 10% with PowerUp card.
+			Bought Collector's Edition strategy guide 11/8/2014 for $2.00 from St Vincent de Paul (West), 940 Hansen Rd, Green Bay WI 54304. Really good shape. 
+		</notes>
 	</game>
 	<game id="1396" used="true">
 		<title>Yaiba: Ninja Gaiden Z</title>
@@ -20342,6 +20345,188 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 11/6/2014.</notes>
+	</game>
+	<game id="1412" used="true">
+		<title>Metroid: Fusion</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>8.99</price>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box. Wasn't sure it was going to work, given label condition, but it does.</notes>
+	</game>
+	<game id="1413" used="true">
+		<title>Tony Hawk's Pro Skater 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>1.99</price>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box.</notes>
+	</game>
+	<game id="1414" used="true">
+		<title>Tony Hawk's Pro Skater 4</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>1.99</price>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box.</notes>
+	</game>
+	<game id="1415" used="true">
+		<title>Golden Sun [BROKEN]</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box. It looked to be in poor condition, and it was, as it doesn't work. Probably not worth trying to head back up there to return.</notes>
+	</game>
+	<game id="1416" used="true">
+		<title>Odin Sphere</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Couldn't remember if I had a black label version already or not. And that manual is so very frameable.</notes>
+	</game>
+	<game id="1417" used="true">
+		<title>Metroid (Classic NES Series)</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>8.99</price>
+			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box.</notes>
+	</game>
+	<game id="1418" used="true">
+		<title>Fire Emblem: The Sacred Stones</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>24.99</price>
+			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box.</notes>
+	</game>
+	<game id="1419" used="true">
+		<title>Metroid: Zero Mission</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>29.99</price>
+			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
+		</purchase>
+		<own>yes</own>
+		<notes>No manual or box.</notes>
+	</game>
+	<game id="1420" used="true">
+		<title>Blade II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>4.99</price>
+			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth a try!</notes>
+	</game>
+	<game id="1421" used="true">
+		<title>Sim City 2000</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>1.99</price>
+			<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't include manual or box.</notes>
+	</game>
+	<game id="1422" used="true">
+		<title>Advance Wars 2: Black Hole Rising</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>3.99</price>
+			<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't include manual or box.</notes>
+	</game>
+	<game id="1423" used="true">
+		<title>Tony Hawk's Pro Skater 3</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-08</date>
+			<price>2.99</price>
+			<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't include manual or box.</notes>
+	</game>
+	<game id="1424">
+		<title>BioShock Infinite: The Complete Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-11-09</date>
+			<price>38.20</price>
+			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>A surprise $5 gift card went toward this. Just recently came out.</notes>
 	</game>
 	<!--
 	-->

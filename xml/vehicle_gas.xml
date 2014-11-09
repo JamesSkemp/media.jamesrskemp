@@ -38,7 +38,7 @@
 				<costTotal>12.16</costTotal>
 				<notes/>
 			</fillup>
-			<fillup id="4">
+			<fillup id="4" partial="true">
 				<date>2005-07-20</date>
 				<milesCar>149782</milesCar>
 				<milesDriven>227.1</milesDriven>
@@ -2909,6 +2909,33 @@
 				<costGallon>3.199</costGallon>
 				<costTotal>36.43</costTotal>
 				<notes>Lowest I've seen it in a while.</notes>
+			</fillup>
+			<fillup id="256">
+				<date>2014-11-08</date>
+				<milesCar>54321</milesCar>
+				<milesDriven>176.1</milesDriven>
+				<gallons>7.300</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>21.60</costTotal>
+				<notes>Filling up before heading up north to shop.</notes>
+			</fillup>
+			<fillup id="257" partial="true">
+				<date>2014-11-09</date>
+				<milesCar>54665</milesCar>
+				<milesDriven>344.7</milesDriven>
+				<gallons>2.002</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>6.00</costTotal>
+				<notes>Partial. Gas light turned on, and I knew I couldn't get back to the west side with 1-lane on the beltline. Back from Green Bay trip.</notes>
+			</fillup>
+			<fillup id="258">
+				<date>2014-11-09</date>
+				<milesCar>54686</milesCar>
+				<milesDriven>365.4</milesDriven>
+				<gallons>12.048</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>35.05</costTotal>
+				<notes>Saved $0.05/gallon with card. Finished filling up tank.</notes>
 			</fillup>
 		</fillups>
 	</vehicle>

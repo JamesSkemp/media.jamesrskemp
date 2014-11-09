@@ -13,7 +13,9 @@
 <!ELEMENT fillups (fillup*)>
 
 <!ELEMENT fillup (date, milesCar, milesDriven, gallons, costGallon, costTotal, notes)>
-<!ATTLIST fillup id CDATA #REQUIRED>
+<!ATTLIST fillup
+	id CDATA #REQUIRED
+	partial (true|false) "false">
 
 <!ELEMENT date (#PCDATA)>
 <!ELEMENT milesCar (#PCDATA)>

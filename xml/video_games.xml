@@ -20231,20 +20231,7 @@
 		<own>yes</own>
 		<notes>Was my grandmother's, along with four other games.</notes>
 	</game>
-	<game id="1404" electronic="true">
-		<title>Teleglitch: Die More Edition</title>
-		<system>
-			<console>PC</console>
-			<version/>
-		</system>
-		<purchase>
-			<date>2014-10-29</date>
-			<price>0.00</price>
-			<place>Humble Bundle</place>
-		</purchase>
-		<own>yes</own>
-		<notes>Free.</notes>
-	</game>
+	<!-- put additional ds game here - 1404 -->
 	<game id="1405" electronic="true">
 		<title>Viva Pinata: Trouble in Paradise</title>
 		<system>
@@ -20527,6 +20514,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>A surprise $5 gift card went toward this. Just recently came out.</notes>
+	</game>
+	<game id="1425" used="true">
+		<title>Shadow Hearts (PlayStation2 the Best)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-10</date>
+			<price>14.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Paid $4.00 shipping, and received the 12th. Import version.</notes>
+	</game>
+	<game id="1426">
+		<title>Okamiden</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-11-11</date>
+			<price>18.40</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 11/13/2014.</notes>
+	</game>
+	<game id="1427">
+		<title>Mario Kart 8</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2014-11-11</date>
+			<price>36.11</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $48.15, and then an additional $12.04 taken off for having Prime.</notes>
 	</game>
 	<!--
 	-->

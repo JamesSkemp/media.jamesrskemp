@@ -1072,5 +1072,47 @@
 			<own>yes</own>
 			<notes>On sale, and a surprise $5 gift card went toward this.</notes>
 		</item>
+		<item id="77">
+			<name>PlayStation TV (VTE-1001)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>TV</version>
+			</system>
+			<purchase>
+				<date>2014-11-14</date>
+				<price>99.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale, and part of the PlayStation TV DualShock 3 Bundle, which included the TV, a controller, memory card, and game.</notes>
+		</item>
+		<item id="78">
+			<name>Playstation 3 DualShock 3 Wireless Controller</name>
+			<system>
+				<console>Playstation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2014-11-14</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of the PlayStation TV DualShock 3 Bundle, which included the TV, a controller, memory card, and game.</notes>
+		</item>
+		<item id="79">
+			<name>PlayStation Vita 8 GB Memory Card</name>
+			<system>
+				<console>Playstation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2014-11-14</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of the PlayStation TV DualShock 3 Bundle, which included the TV, a controller, memory card, and game.</notes>
+		</item>
 	</hardware>
 </videoGames>

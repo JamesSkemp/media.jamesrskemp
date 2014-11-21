@@ -232,7 +232,7 @@
 		<purchase>
 			<date>2005-09-17</date>
 			<price>24.99</price>
-			<place>Mega Media Xchange, Madison (West)</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used.</notes>
@@ -914,7 +914,7 @@
 		<purchase>
 			<date>2005-09-17</date>
 			<price>19.99</price>
-			<place>Mega Media Xchange, Madison (West)</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<sell>
 			<date>2008-05-10</date>
@@ -1237,7 +1237,7 @@
 		<purchase>
 			<date>2006-01-28</date>
 			<price>29.96</price>
-			<place>Wal-Mart, East Madison</place>
+			<place>Walmart, East Madison</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -1388,7 +1388,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes><![CDATA[Started 1/12/2011 and beat 1/16/2011 with a time of 11:47:14. Then played an EX game starting 1/16/2011 and beat 1/17/2011, with a time of 7:02:11 (includes approximately 50 minutes of Chrysler Building - floors 1 and 2 (mapping) and one level of grinding). Picked up game guide 7/28/2012 from Video Game X-Change, 3002 Atwood Ave, Madison WI, for $6.50.]]></notes>
+		<notes><![CDATA[Started 1/12/2011 and beat 1/16/2011 with a time of 11:47:14. Then played an EX game starting 1/16/2011 and beat 1/17/2011, with a time of 7:02:11 (includes approximately 50 minutes of Chrysler Building - floors 1 and 2 (mapping) and one level of grinding). Picked up game guide 7/28/2012 from Video Game Xchange, 3002 Atwood Ave, Madison WI 53704, for $6.50.]]></notes>
 	</game>
 	<game id="87">
 		<title>Persona 2: Eternal Punishment</title>
@@ -1946,7 +1946,7 @@
 		<purchase>
 			<date>2005-08-05</date>
 			<price>19.82</price>
-			<place>Wal-Mart East Madison</place>
+			<place>Walmart, East Madison</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -1964,7 +1964,7 @@
 		<purchase>
 			<date>2005-09-17</date>
 			<price>11.99</price>
-			<place>Mega Media Xchange, Madison (West)</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<sell>
 			<date>2008-05-17</date>
@@ -2014,7 +2014,7 @@
 		<purchase>
 			<date>2005-09-17</date>
 			<price>13.99</price>
-			<place>Mega Media Xchange, Madison (West)</place>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -4110,7 +4110,7 @@
 		<own>yes</own>
 		<notes>
 			Sold 18 movies and three games to cover this game and another, plus cash back.
-			Picked up game guide on 7/28/2012 from Video Game X-Change, 3002 Atwood Ave, Madison WI, for $2.50.
+			Picked up game guide on 7/28/2012 from Video Game Xchange, 3002 Atwood Ave, Madison WI 53704, for $2.50.
 			Purchased strategy guide 11/23/2013 for $6.95 from People Play Games, 3268 N Clark St, Chicago IL 60657. Whoops!
 		</notes>
 	</game>
@@ -4137,7 +4137,7 @@
 		<purchase>
 			<date>2009-12-11</date>
 			<price>13.49</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>10% discount, for whatever reason. Purchased used.</notes>
@@ -4151,7 +4151,7 @@
 		<purchase>
 			<date>2009-12-11</date>
 			<price>17.99</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -5481,7 +5481,7 @@
 		<purchase>
 			<date>2011-05-25</date>
 			<price>8.99</price>
-			<place>Gamestop, Hillside Terrace S/C, 2740 Hillside Dr, Delafield WI 53018</place>
+			<place>GameStop, Hillside Terrace S/C, 2740 Hillside Dr, Delafield WI 53018</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought used. Saved $1 by doing so, with Edge card.</notes>
@@ -8535,7 +8535,7 @@
 		<purchase>
 			<date>2012-07-28</date>
 			<price>9.99</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -8553,7 +8553,7 @@
 		<purchase>
 			<date>2012-07-28</date>
 			<price>12.99</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>I won't be happy until I platinum this game.</notes>
@@ -13268,7 +13268,7 @@
 		<purchase>
 			<date>2014-04-19</date>
 			<price>2.50</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Half off since there was a buy one get one half off sale this weekend.</notes>
@@ -13282,7 +13282,7 @@
 		<purchase>
 			<date>2014-04-19</date>
 			<price>9.99</price>
-			<place>Video Game X-Change, 3002 Atwood Ave, Madison WI</place>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Seems interesting.</notes>
@@ -15207,10 +15207,10 @@
 		<purchase>
 			<date>2014-06-06</date>
 			<price>0.00</price>
-			<place>Brian Dell</place>
+			<place>Gift</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free from Brian.</notes>
+		<notes>Free from Brian Dell.</notes>
 	</game>
 	<game id="1047" electronic="true">
 		<title>Command and Conquer: Red Alert 3 - Uprising</title>
@@ -15221,10 +15221,10 @@
 		<purchase>
 			<date>2014-06-06</date>
 			<price>0.00</price>
-			<place>Brian Dell</place>
+			<place>Gift</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free from Brian.</notes>
+		<notes>Free from Brian Dell.</notes>
 	</game>
 	<game id="1048" electronic="true">
 		<title>Tropico</title>
@@ -20737,6 +20737,244 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1440" electronic="true">
+		<title>Geneforge Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-15</date>
+			<price>2.23</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with other games, as part of sale. Normally $14.99.</notes>
+	</game>
+	<game id="1441" electronic="true">
+		<title>Avernum: The Complete Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-15</date>
+			<price>1.79</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with other games, as part of sale. Normally $11.99.</notes>
+	</game>
+	<game id="1442" electronic="true">
+		<title>Avadon: The Black Fortress</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-15</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with other games, as part of sale. Normally $9.99.</notes>
+	</game>
+	<game id="1443" electronic="true">
+		<title>Avadon 2: The Corruption</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-15</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with other games, as part of sale. Normally $9.99.</notes>
+	</game>
+	<game id="1444" electronic="true">
+		<title>Bard's Tale, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-16</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="1445" electronic="true">
+		<title>Jade Empire: Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-16</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="1446" electronic="true">
+		<title>Red Faction: Guerrilla</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-16</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Games with Gold.</notes>
+	</game>
+	<game id="1447" electronic="true">
+		<title>Luftrausers</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-11-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1448" electronic="true">
+		<title>Luftrausers</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-11-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1449" electronic="true">
+		<title>Warhammer 40000: Space Marine Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>12.00</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Base game and all (?) DLC. On sale for $14.99, and had coupon to save $2.</notes>
+	</game>
+	<game id="1450" electronic="true">
+		<title>Weird Worlds: Return to Infinite Space</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell.</notes>
+	</game>
+	<game id="1451" electronic="true">
+		<title>Alice: Madness Returns Ultimate Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>This bundle includes the Alice: Madness Returns™ digital game, American McGee's Alice™ and the Weapons of Madness and Dresses Pack.</notes>
+	</game>
+	<game id="1452" electronic="true">
+		<title>Escape Plan</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1453" electronic="true">
+		<title>Escape Plan</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1454" electronic="true">
+		<title>SteamWorld Dig</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1455" electronic="true">
+		<title>SteamWorld Dig</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PlayStation Plus.</notes>
+	</game>
+	<game id="1456">
+		<title>Dragon's Dogma: Dark Arisen</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-11-18</date>
+			<price>14.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Almost bought earlier this week for a bit more.</notes>
 	</game>
 	<!--
 	-->

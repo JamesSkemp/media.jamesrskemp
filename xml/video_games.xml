@@ -20231,7 +20231,20 @@
 		<own>yes</own>
 		<notes>Was my grandmother's, along with four other games.</notes>
 	</game>
-	<!-- put additional ds game here - 1404 -->
+	<game id="1404" used="true">
+		<title>Brain Age 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-10-31</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's, along with four other games.</notes>
+	</game>
 	<game id="1405" electronic="true">
 		<title>Viva Pinata: Trouble in Paradise</title>
 		<system>
@@ -20584,6 +20597,146 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Came with the PlayStation TV DualShock 3 Bundle.</notes>
+	</game>
+	<game id="1430" electronic="true">
+		<title>Tesla Effect: A Tex Murphy Adventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1431" electronic="true">
+		<title>Always Sometimes Monsters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1432" electronic="true">
+		<title>Insurgency</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1433" electronic="true">
+		<title>Blackguards</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1434" electronic="true">
+		<title>GRID 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1435" electronic="true">
+		<title>Euro Truck Simulator 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1436" electronic="true">
+		<title>Full Mojo Rampage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1437" electronic="true">
+		<title>Half Minute Hero: Super Mega Neo Climax Ultimate Boy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1438" electronic="true">
+		<title>KickBeat Steam Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
+	</game>
+	<game id="1439" electronic="true">
+		<title>GRID</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Jumbo Bundle 3, which I paid $6.20 for 10 games.</notes>
 	</game>
 	<!--
 	-->

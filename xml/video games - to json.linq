@@ -15,7 +15,7 @@
   <Namespace>System.Web.Script.Serialization</Namespace>
 </Query>
 
-XDocument xml = XDocument.Load(@"C:\Users\James\Projects\GitHub\JamesRSkemp\JamesRSkemp.Media.Web\xml\video_games.xml");
+XDocument xml = XDocument.Load(@"C:\Users\James\Projects\JamesRSkemp\JamesRSkemp.Media.Web\xml\video_games.xml");
 
 var datum = from x in xml.Descendants("game")
 	//where x.Element("own").Value == "yes" && x.Attribute("addOn") == null
@@ -43,7 +43,7 @@ var datum = from x in xml.Descendants("game")
 JavaScriptSerializer serializer = new JavaScriptSerializer();
 var output = serializer.Serialize(new { VideoGames = datum});
 
-File.WriteAllText(@"C:\Users\James\Projects\GitHub\JamesRSkemp\JamesRSkemp.Web\App_Data\Projects\VideoGameProfile\VideoGames.json", output);
-File.WriteAllText(@"C:\Users\James\Projects\GitHub\VideoGamesSpa\SimpleWebsite\Content\json\VideoGames.json", output);
+File.WriteAllText(@"C:\Users\James\Projects\JamesRSkemp\JamesRSkemp.Web\App_Data\Projects\VideoGameProfile\VideoGames.json", output);
+File.WriteAllText(@"C:\Users\James\Projects\VideoGamesSpa\SimpleWebsite\Content\json\VideoGames.json", output);
 
 output.Dump();

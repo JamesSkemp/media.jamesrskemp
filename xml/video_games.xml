@@ -20389,7 +20389,7 @@
 		<notes>No manual or box.</notes>
 	</game>
 	<game id="1415" used="true">
-		<title>Golden Sun [BROKEN]</title>
+		<title>Golden Sun: The Dark Age [BROKEN]</title>
 		<system>
 			<console>Nintendo</console>
 			<version>Game Boy Advance</version>
@@ -20975,6 +20975,76 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale. Almost bought earlier this week for a bit more.</notes>
+	</game>
+	<game id="1457" used="true">
+		<title>Resident Evil Code: Veronica</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-22</date>
+			<price>9.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems to have good reviews.</notes>
+	</game>
+	<game id="1458" used="true">
+		<title>Castlevania: Circle of the Moon</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-22</date>
+			<price>6.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Has good reviews.</notes>
+	</game>
+	<game id="1459" used="true">
+		<title>Dr. Mario &amp; Puzzle League</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-22</date>
+			<price>9.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Had just Dr. Mario for the same price, and it turns out Puzzle League is like Tetris Attack.</notes>
+	</game>
+	<game id="1460" used="true">
+		<title>Golden Sun</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-22</date>
+			<price>13.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1461" used="true">
+		<title>Golden Sun: The Lost Age</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-22</date>
+			<price>13.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Replaces the broken version I had purchased a bit ago.</notes>
 	</game>
 	<!--
 	-->

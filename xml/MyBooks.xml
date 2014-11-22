@@ -10755,4 +10755,12 @@
 		<buy date="2014-08-22" place="Amazon.com" price="0.00"/>
 		<notes>Free from Vine program.</notes>
 	</book>
+	<book id="1061">
+		<title>A Wrinkle in Time</title>
+		<authors>
+			<author>Madeleine L'Engle</author>
+		</authors>
+		<buy date="2014-11-22" place="Savers, East Madison" price="0.99"/>
+		<notes>March 1976 printing.</notes>
+	</book>
 </books>

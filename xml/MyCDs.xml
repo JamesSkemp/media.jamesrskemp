@@ -5849,4 +5849,18 @@
 		</purchase>
 		<notes>Corner of the case was gone, but CD appears to be in great shape. No clue why this was there, but totally worth it, since used copies are $27.62 and up on Amazon.</notes>
 	</album>
+	<album id="654">
+		<title>Pure Heroine</title>
+		<artist>Lorde</artist>
+		<purchase>
+			<date>2014-11-18</date>
+			<place>Google Play</place>
+			<price>0.00</price>
+		</purchase>
+		<notes>Free album.</notes>
+	</album>
+	<!--
+		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.
+		Skeletons From the Closest, The Grateful Dead	0.49	Savers, East Madison	Tape.
+	-->
 </albums>

@@ -2937,6 +2937,15 @@
 				<costTotal>35.05</costTotal>
 				<notes>Saved $0.05/gallon with card. Finished filling up tank.</notes>
 			</fillup>
+			<fillup id="259">
+				<date>2014-11-23</date>
+				<milesCar>54854</milesCar>
+				<milesDriven>167.5</milesDriven>
+				<gallons>6.243</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>18.10</costTotal>
+				<notes>Road Ranger in South Beloit IL. Drove sister back home and wanted to fillup before crossing into Illinois; 1 mile too late.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

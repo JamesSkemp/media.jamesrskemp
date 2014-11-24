@@ -10763,4 +10763,12 @@
 		<buy date="2014-11-22" place="Savers, East Madison" price="0.99"/>
 		<notes>March 1976 printing.</notes>
 	</book>
+	<book id="1062">
+		<title>Liberating Atlantis</title>
+		<authors>
+			<author>Harry Turtledove</author>
+		</authors>
+		<buy date="2014-11-23" place="Savers, West Madison" price="0.99"/>
+		<notes>Appears to be one of the books in a trilogy. Maybe a loose trilogy.</notes>
+	</book>
 </books>

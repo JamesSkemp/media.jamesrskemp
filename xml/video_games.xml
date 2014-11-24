@@ -11561,7 +11561,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. At this price it's worth picking up. Actually included movie.</notes>
+		<notes>
+			Used. At this price it's worth picking up. Actually included movie.
+			Purchased game guide 11/23/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="788" electronic="true">
 		<title>Machinarium</title>
@@ -12558,7 +12561,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Don't think I've seen it there before. Since I have the second one, ... but I don't have a Dreamcast yet.</notes>
+		<notes>
+			Don't think I've seen it there before. Since I have the second one, ... but I don't have a Dreamcast yet.
+			Purchased game guide 11/23/2014 for $4.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="857" electronic="true">
 		<title>Walking Dead, The: The Complete First Season</title>
@@ -21045,6 +21051,146 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Game only. Replaces the broken version I had purchased a bit ago.</notes>
+	</game>
+	<game id="1462">
+		<title>Tales of Xillia 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>19.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $20 off.</notes>
+	</game>
+	<game id="1463">
+		<title>Witcher 2, The: Assassins of Kings: Enhanced Edition (Silver Box)</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>19.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>2 sided world map appealed to me. And I must enjoy this game.</notes>
+	</game>
+	<game id="1464" used="true">
+		<title>Evolution: The World of Sacred Device</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Already have the second in the series from a previous pickup.</notes>
+	</game>
+	<game id="1465" used="true">
+		<title>Starlancer</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Has over four stars on Amazon.</notes>
+	</game>
+	<game id="1466" used="true">
+		<title>Quake III Arena</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>5.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth it because of the price, and because I need more games for my collection.</notes>
+	</game>
+	<game id="1467" used="true">
+		<title>Lunar: Legend</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1468" used="true">
+		<title>Lufia: The Ruins of Lore</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1469" used="true">
+		<title>Shining Force: Resurrection of the Dark Dragon</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>11.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1470" used="true">
+		<title>Castlevania: Aria of Sorrow</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>39.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Seems to be selling for over $120 online.</notes>
+	</game>
+	<game id="1471" used="true">
+		<title>Final Fantasy Tactics Advance</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-23</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
 	</game>
 	<!--
 	-->

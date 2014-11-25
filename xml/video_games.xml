@@ -235,7 +235,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Bought used.</notes>
+		<notes>
+			Bought used.
+			Bought Official Guidebook (Japanese) 11/10/2014 for $29.20 from chabo_drums on eBay (Tetsuya Yoshioka). Received 11/24/2014.
+		</notes>
 	</game>
 	<game id="16" beat="true" used="true">
 		<title>Shadow Hearts: Covenant</title>
@@ -2055,7 +2058,7 @@
 		<notes/>
 	</game>
 	<game id="128">
-		<title>Xenosaga: Episod I: Der Wille zur Macht</title>
+		<title>Xenosaga: Episode I: Der Wille zur Macht</title>
 		<system>
 			<console>PlayStation</console>
 			<version>2</version>
@@ -6483,7 +6486,7 @@
 		<notes>Purchased used. Saved $5 due to some promo, and then $1.30 (10%) with PowerUp card. A game good enough to purchase again. Started 11/15/2011 and finished 11/20/2011.</notes>
 	</game>
 	<game id="432">
-		<title>Bioshock 2</title>
+		<title>BioShock 2</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -13070,7 +13073,7 @@
 		</notes>
 	</game>
 	<game id="892" electronic="true">
-		<title>Bioshock Infinite</title>
+		<title>BioShock Infinite</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -20364,7 +20367,10 @@
 			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
-		<notes>No manual or box. Wasn't sure it was going to work, given label condition, but it does.</notes>
+		<notes>
+			No manual or box. Wasn't sure it was going to work, given label condition, but it does.
+			Bought manual 11/24/2014 for $3.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1413" used="true">
 		<title>Tony Hawk's Pro Skater 2</title>
@@ -20434,7 +20440,10 @@
 			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
 		</purchase>
 		<own>yes</own>
-		<notes>No manual or box.</notes>
+		<notes>
+			No manual or box.
+			Bought manual 11/24/2014 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1418" used="true">
 		<title>Fire Emblem: The Sacred Stones</title>
@@ -20448,7 +20457,10 @@
 			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
 		</purchase>
 		<own>yes</own>
-		<notes>No manual or box.</notes>
+		<notes>
+			No manual or box.
+			Bought strategy guide 11/24/2014 for $12.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1419" used="true">
 		<title>Metroid: Zero Mission</title>
@@ -20462,7 +20474,10 @@
 			<place>PrePlayed, 2418 South Oneida Street, Green Bay WI 54304</place>
 		</purchase>
 		<own>yes</own>
-		<notes>No manual or box.</notes>
+		<notes>
+			No manual or box.
+			Bought manual 11/24/2014 for $3.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1420" used="true">
 		<title>Blade II</title>
@@ -20490,7 +20505,10 @@
 			<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Didn't include manual or box.</notes>
+		<notes>
+			Didn't include manual or box.
+			Bought manual 11/24/2014 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1422" used="true">
 		<title>Advance Wars 2: Black Hole Rising</title>
@@ -20504,7 +20522,10 @@
 			<place>Mega Media Xchange, 521 S. Military Ave, Green Bay WI 54303</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Didn't include manual or box.</notes>
+		<notes>
+			Didn't include manual or box.
+			Bought manual 11/24/2014 for $2.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<game id="1423" used="true">
 		<title>Tony Hawk's Pro Skater 3</title>
@@ -21191,6 +21212,197 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Game only.</notes>
+	</game>
+	<game id="1472" used="true">
+		<title>Grandia II</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>25.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes soundtrack CD.</notes>
+	</game>
+	<game id="1473" used="true">
+		<title>Draconus: Cult of the Wyrm</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>12.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Wasn't sure what sort of game it was, but Amazon had a high collection of ratings (couldn't get a solid signal).</notes>
+	</game>
+	<game id="1474" used="true">
+		<title>Shadow Hearts: Covenant</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>20.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Doesn't include manual, but cheapest I've seen it in a long while.</notes>
+	</game>
+	<game id="1475" used="true">
+		<title>Xenosaga: Episode II: Jenseits von Gut und Bose</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>13.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheapest I've seen it.</notes>
+	</game>
+	<game id="1476" used="true">
+		<title>Xenosaga: Episode III: Also sprach Zarathustra</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>30.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheapest I've seen it. Includes special alternate cover.</notes>
+	</game>
+	<game id="1477" used="true">
+		<title>Breath of Fire</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>10.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1478" used="true">
+		<title>Final Fantasy VI Advance</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>40.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Complete, with box.</notes>
+	</game>
+	<game id="1479" used="true">
+		<title>Fire Emblem</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>31.95</price>
+			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Game only.
+			Bought strategy guide 11/24/2014 for $9.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
+	</game>
+	<game id="1480" used="true">
+		<title>Advance Wars</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>31.95</price>
+			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with box and manual.</notes>
+	</game>
+	<game id="1481" used="true">
+		<title>Final Fantasy IV Advance</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>12.00</price>
+			<place>The Exchange, 935 W Belmont, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Game only.
+			Bought manual 11/24/2014 for $2.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
+	</game>
+	<game id="1482" used="true">
+		<title>Xenosaga: Episode I: Der Wille zur Macht</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>10.00</price>
+			<place>The Exchange, 935 W Belmont, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't include manual. Opted to purchase it again, since I could get the second and third episodes for a low-ish price.</notes>
+	</game>
+	<game id="1483" used="true">
+		<title>Castlevania: Harmoney of Dissonance</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>7.99</price>
+			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only.</notes>
+	</game>
+	<game id="1484" used="true">
+		<title>Final Fantasy V Advance</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-11-24</date>
+			<price>11.99</price>
+			<place>Disc Replay of Rockford, 6241 E. State. St., Rockford IL 61108</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Game only.
+			Bought manual 11/24/2014 for $2.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+		</notes>
 	</game>
 	<!--
 	-->

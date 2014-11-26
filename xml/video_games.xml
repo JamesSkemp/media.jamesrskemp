@@ -20525,6 +20525,7 @@
 		<notes>
 			Didn't include manual or box.
 			Bought manual 11/24/2014 for $2.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+			Bought game guide 11/25/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
 		</notes>
 	</game>
 	<game id="1423" used="true">
@@ -21403,6 +21404,20 @@
 			Game only.
 			Bought manual 11/24/2014 for $2.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 		</notes>
+	</game>
+	<game id="1485" used="true">
+		<title>Xenosaga: Episode I: Der Wille zur Macht</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-11-25</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes manual. Opted to purchase another copy because of that.</notes>
 	</game>
 	<!--
 	-->

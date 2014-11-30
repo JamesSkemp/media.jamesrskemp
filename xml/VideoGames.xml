@@ -48,6 +48,10 @@
 				<console>Playstation</console>
 				<version>2</version>
 			</system>
+			<purchase>
+				<date>2004-01-03</date>
+				<place>Best Buy, Madison WI (store 596?)</place>
+			</purchase>
 			<own>yes</own>
 			<notes>Came with Playstation 2 console.</notes>
 		</item>
@@ -215,10 +219,6 @@
 				<price>299.99</price>
 				<place>Best Buy #59 | Madison WI 53704</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>Purchased two-year extended warranty for $39.99. Came with LEGO Indiana Jones/Kung Fu Panda game and one controller.</notes>
 		</item>
@@ -233,10 +233,6 @@
 				<price>0.00</price>
 				<place>Best Buy #59 | Madison WI 53704</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>Came with Xbox 360 console.</notes>
 		</item>
@@ -251,10 +247,6 @@
 				<price>17.99</price>
 				<place>Circuit City Stores, Inc. | Store 3184 | 450 Commerce Drive | Madison WI 53719-4918</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>On sale for $2 off list price.</notes>
 		</item>
@@ -269,10 +261,6 @@
 				<price>249.99</price>
 				<place>Toys R Us (Online)</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -287,10 +275,6 @@
 				<price>19.99</price>
 				<place>Toys R Us (Online)</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes/>
 		</item>
@@ -305,10 +289,6 @@
 				<price>29.99</price>
 				<place>Amazon.com</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>Received 2009-10-14.</notes>
 		</item>
@@ -323,10 +303,6 @@
 				<price>14.99</price>
 				<place>Amazon.com</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>Received 2009-11-27. Was $19.99, but received $5 off from previous game purchase.</notes>
 		</item>
@@ -337,10 +313,6 @@
 				<price>44.99</price>
 				<place>Amazon.com</place>
 			</purchase>
-			<sell>
-				<date/>
-				<price/>
-			</sell>
 			<own>yes</own>
 			<notes>Received 2009-12-01.</notes>
 		</item>
@@ -366,6 +338,8 @@
 			</system>
 			<purchase>
 				<date>2010-10-02</date>
+				<price>0.00</price>
+				<place>Best Buy #59, Madison WI 53704 (East)</place>
 			</purchase>
 			<own>yes</own>
 			<notes>Came with PlayStation 2 Slim console.</notes>
@@ -1113,6 +1087,16 @@
 			</purchase>
 			<own>yes</own>
 			<notes>Part of the PlayStation TV DualShock 3 Bundle, which included the TV, a controller, memory card, and game.</notes>
+		</item>
+		<item id="80">
+			<name>Elgato Game Capture HD</name>
+			<purchase>
+				<date>2014-11-27</date>
+				<price>138.91</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale (normally $150). Received 11/29/2014.</notes>
 		</item>
 	</hardware>
 </videoGames>

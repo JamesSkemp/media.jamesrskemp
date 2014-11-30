@@ -21086,7 +21086,10 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes>On sale for $20 off.</notes>
+		<notes>
+			On sale for $20 off.
+			Bought strategy guide 11/27/2014 from Amazon.com for $20.78. Saved $8.91 thanks to holiday book discount. Received 11/29/2014.
+		</notes>
 	</game>
 	<game id="1463">
 		<title>Witcher 2, The: Assassins of Kings: Enhanced Edition (Silver Box)</title>
@@ -21418,6 +21421,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Includes manual. Opted to purchase another copy because of that.</notes>
+	</game>
+	<game id="1486" electronic="true">
+		<title>StarCraft II: Wings of Liberty</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-26</date>
+			<price>9.99</price>
+			<place>Battle.net</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale for 50% off.</notes>
+	</game>
+	<game id="1487" electronic="true">
+		<title>StarCraft II: Heart of the Swarm</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-26</date>
+			<price>9.99</price>
+			<place>Battle.net</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale for 50% off.</notes>
+	</game>
+	<game id="1488" electronic="true">
+		<title>Guild Wars 2: Digital Heroic Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-26</date>
+			<price>19.99</price>
+			<place>ArenaNet</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale for 50% off.</notes>
+	</game>
+	<game id="1489" electronic="true">
+		<title>Dragon Age Origins: Ultimate Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-26</date>
+			<price>7.49</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale.</notes>
+	</game>
+	<game id="1490" used="true">
+		<title>Crimson Sea 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-11-30</date>
+			<price>11.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems to have good reviews.</notes>
+	</game>
+	<game id="1491" used="true">
+		<title>Fire Emblem: Shadow Dragon</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-11-30</date>
+			<price>36.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$68 new on Amazon.</notes>
 	</game>
 	<!--
 	-->

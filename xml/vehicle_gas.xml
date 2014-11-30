@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" standalone="no"?>
-<!DOCTYPE vehicles SYSTEM "http://media.jamesrskemp.com/dtd/vehicle_gas.dtd">
+<!DOCTYPE vehicles SYSTEM "../dtd/vehicle_gas.dtd">
 <!--<?xml-stylesheet type="text/css" href="http://media.jamesrskemp.com/xslt/vehicle_gas.css"?>-->
 <?xml-stylesheet type="text/xsl" href="../xslt/vehicle_gas.xslt"?>
 <!--<vehicles xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.net/xsd/vehicle_gas.xsd">-->
@@ -2945,6 +2945,15 @@
 				<costGallon>2.899</costGallon>
 				<costTotal>18.10</costTotal>
 				<notes>Road Ranger in South Beloit IL. Drove sister back home and wanted to fillup before crossing into Illinois; 1 mile too late.</notes>
+			</fillup>
+			<fillup id="260">
+				<date>2014-11-30</date>
+				<milesCar>55145</milesCar>
+				<milesDriven>291.1</milesDriven>
+				<gallons>11.771</gallons>
+				<costGallon>2.649</costGallon>
+				<costTotal>30.59</costTotal>
+				<notes>Saved $005/gallon with card.</notes>
 			</fillup>
 		</fillups>
 	</vehicle>

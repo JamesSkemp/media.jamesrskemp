@@ -20560,7 +20560,7 @@
 		<title>Shadow Hearts (PlayStation2 the Best)</title>
 		<system>
 			<console>PlayStation</console>
-			<version>2</version>
+			<version>2 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2014-11-10</date>
@@ -21257,7 +21257,10 @@
 			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Doesn't include manual, but cheapest I've seen it in a long while.</notes>
+		<notes>
+			Doesn't include manual, but cheapest I've seen it in a long while.
+			Purchased replacement manual (and new case) on 11/30/2014 for $5.35 from ebay.com (estarland). Received 12/4/2014.
+		</notes>
 	</game>
 	<game id="1475" used="true">
 		<title>Xenosaga: Episode II: Jenseits von Gut und Bose</title>
@@ -21271,7 +21274,10 @@
 			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Cheapest I've seen it.</notes>
+		<notes>
+			Cheapest I've seen it.
+			Bought strategy guide 12/5/2014 for $7.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="1476" used="true">
 		<title>Xenosaga: Episode III: Also sprach Zarathustra</title>
@@ -21420,7 +21426,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Includes manual. Opted to purchase another copy because of that.</notes>
+		<notes>
+			Includes manual. Opted to purchase another copy because of that.
+			Bought strategy guide 12/5/2014 for $6.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="1486" electronic="true">
 		<title>StarCraft II: Wings of Liberty</title>
@@ -21506,11 +21515,210 @@
 		<own>yes</own>
 		<notes>$68 new on Amazon.</notes>
 	</game>
+	<game id="1492" electronic="true">
+		<title>March of the Eagles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>0.75</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$3 for 6 games, although I have one, and one is a F2P DLC.</notes>
+	</game>
+	<game id="1493" electronic="true">
+		<title>Darkest Hour: A Hearts of Iron Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>0.75</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$3 for 6 games, although I have one, and one is a F2P DLC.</notes>
+	</game>
+	<game id="1494" electronic="true">
+		<title>Sword of the Stars II: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>0.75</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$3 for 6 games, although I have one, and one is a F2P DLC.</notes>
+	</game>
+	<game id="1495" electronic="true">
+		<title>Cities in Motion 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>0.75</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$3 for 6 games, although I have one, and one is a F2P DLC.</notes>
+	</game>
+	<game id="1496">
+		<title>Kingdom Hearts H.D. 2.5 ReMIX Limited Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2013-11-17</date>
+			<price>39.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/2/2014, on release day.</notes>
+	</game>
+	<game id="1497" used="true">
+		<title>Soul Calibur II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>7.50</price>
+			<place>ebay (ufc123100)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese version. Part of bundle with the console.</notes>
+	</game>
+	<game id="1498" used="true">
+		<title>Guilty Gear XX: The Midnight Carnival #Reload</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>7.50</price>
+			<place>ebay (ufc123100)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese version. Part of bundle with the console.</notes>
+	</game>
+	<game id="1499" used="true">
+		<title>Siren</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>7.50</price>
+			<place>ebay (ufc123100)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese version. Part of bundle with the console.</notes>
+	</game>
+	<game id="1500" used="true">
+		<title>SOCOM II: U.S. Navy Seals</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>7.50</price>
+			<place>ebay (ufc123100)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese version. Part of bundle with the console.</notes>
+	</game>
+	<game id="1501" used="true">
+		<title>Boku no Natsuyasumi 2 (PlayStation 2 the Best)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>7.50</price>
+			<place>ebay (ufc123100)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used. Japanese version. Part of bundle with the console.</notes>
+	</game>
+	<game id="1502">
+		<title>Prototype 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>15.26</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/4/2014.</notes>
+	</game>
+	<game id="1503" used="true">
+		<title>Phantasy Star Collection</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Gameboy Advance</version>
+		</system>
+		<purchase>
+			<date>2014-12-05</date>
+			<price>7.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Contains first three Phantasy Star games.</notes>
+	</game>
+	<game id="1504" used="true">
+		<title>Dead or Alive 3</title>
+		<system>
+			<console>Xbox</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2014-12-05</date>
+			<price>2.50</price>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="1505">
+		<title>Lunar: Dragon Song</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-12-05</date>
+			<price>14.99</price>
+			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>New copy.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
+	-->
+	<!--
+		Bought strategy guide /2014 for $ from .
 	-->
 	<!--
 	RPG Maker VX Ace and XP, along with DLC Bundles and Game Character Hub, purchased 5/31/2014 from Humble Bundle. Games that were part of the bundle are included above.

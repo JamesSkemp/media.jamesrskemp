@@ -50,6 +50,7 @@
 			</system>
 			<purchase>
 				<date>2004-01-03</date>
+				<price>0.00</price>
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
 			<own>yes</own>
@@ -1098,5 +1099,35 @@
 			<own>yes</own>
 			<notes>On sale (normally $150). Received 11/29/2014.</notes>
 		</item>
+		<item id="81">
+			<name>PlayStation 2 (SCPH-39000 S) NTSC J Silver</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-01</date>
+				<price>70.00</price>
+				<place>ebay (ufc123100)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>$159.95 for console, controller, 5 games, and 5 DVD box sets. Received 12/3/2014.</notes>
+		</item>
+		<item id="82">
+			<name>PlayStation 2 Dualshock Controller SCPH-10010 (Silver)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-01</date>
+				<price>9.95</price>
+				<place>ebay (ufc123100)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with Japanese console.</notes>
+		</item>
 	</hardware>
+<!--
+-->
 </videoGames>

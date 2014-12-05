@@ -10771,4 +10771,12 @@
 		<buy date="2014-11-23" place="Savers, West Madison" price="0.99"/>
 		<notes>Appears to be one of the books in a trilogy. Maybe a loose trilogy.</notes>
 	</book>
+	<book id="1063">
+		<title pages="534">World as Will and Representation Volume I, The</title>
+		<authors>
+			<author>Arthur Schopenhauer</author>
+		</authors>
+		<buy date="2014-12-04" place="Frugal Muse Books, Music &amp; Video, 235 Junction Road, Madison WI 53717" price="4.98"/>
+		<notes>Purchased primary because it had a number of written notes by the previous owner.</notes>
+	</book>
 </books>

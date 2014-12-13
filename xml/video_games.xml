@@ -21767,6 +21767,247 @@
 		<own>yes</own>
 		<notes>Free from EA due to PS 20th anniversary.</notes>
 	</game>
+	<game id="1510" electronic="true">
+		<title>Final Fantasy XIII-2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-11-12</date>
+			<price>13.50</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. 10% off brought it down to $17.99, and then a 25% off coupon brought it down to this. Comes out around 12/11.</notes>
+	</game>
+	<game id="1511" electronic="true">
+		<title>S.T.A.L.K.E.R: Shadow of Chernobyl</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1512" electronic="true">
+		<title>Demonicon: The Dark Eye</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.49</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1513" electronic="true">
+		<title>Pixel Piracy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1514" electronic="true">
+		<title>Year Walk</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1515" electronic="true">
+		<title>Alone In The Dark</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1516" electronic="true">
+		<title>Albedo: Eyes from Outer Space</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1517" electronic="true">
+		<title>Kraven Manor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1518" electronic="true">
+		<title>FATE: The Cursed King</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1519" electronic="true">
+		<title>Loren The Amazon Princess</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1520" electronic="true">
+		<title>Real Boxing</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.50</price>
+			<place>Bundle Starw</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1521" electronic="true">
+		<title>Halo: Reach</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>From Xbox 360 bundle a while back, I assume.</notes>
+	</game>
+	<game id="1522" electronic="true">
+		<title>Gabriel Knight: Sins of the Fathers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Winter sale.</notes>
+	</game>
+	<game id="1523" electronic="true">
+		<title>Gabriel Knight 2: The Beast Within</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Winter sale.</notes>
+	</game>
+	<game id="1524" electronic="true">
+		<title>Gabriel Knight 3: Blood of the Sacred, Blood of the Damned</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-08</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Winter sale.</notes>
+	</game>
+	<game id="1525" used="true">
+		<title>Nostalgia</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2014-12-04</date>
+			<price>29.99</price>
+			<place>eBay (bvargas75)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Complete. Paid $1.50 shipping and received 12/11/2014.
+			Bought strategy guide 12/4/2014 for $4.98 from Frugal Muse Books, Music &amp; Video, 235 Junction Road, Madison WI 53717.
+		</notes>
+	</game>
+	<game id="1526" used="true">
+		<title>Kingdom Hearts II: Final Mix (Ultimate Hits)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-06</date>
+			<price>10.00</price>
+			<place>eBay (cgun2166)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes Kingdom Hearts II and Kingdom Hearts Re: Chain of Memories. Came with slim Japanese PS2. Received 12/11/2014.</notes>
+	</game>
 	<!--
 	-->
 	<!--

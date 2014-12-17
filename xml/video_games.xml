@@ -21790,7 +21790,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21804,7 +21804,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.49</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21818,7 +21818,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21832,7 +21832,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21846,7 +21846,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21860,7 +21860,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21874,7 +21874,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21888,7 +21888,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21902,7 +21902,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -21916,7 +21916,7 @@
 		<purchase>
 			<date>2014-12-08</date>
 			<price>0.50</price>
-			<place>Bundle Starw</place>
+			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Killer Bundle, which was $4.99 for 10 games.</notes>
@@ -22007,6 +22007,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Includes Kingdom Hearts II and Kingdom Hearts Re: Chain of Memories. Came with slim Japanese PS2. Received 12/11/2014.</notes>
+	</game>
+	<game id="1527" electronic="true">
+		<title>Star Wars: Knights of the Old Republic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-15</date>
+			<price>2.72</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but then on sale for $3.39 and used a 20% off coupon. Supposedly really good, even if you're not into Star Wars.</notes>
+	</game>
+	<game id="1528">
+		<title>Last of Us Remastered, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2014-12-14</date>
+			<price>29.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $20 off. Includes all DLC. Received 12/16/2014.</notes>
+	</game>
+	<game id="1529">
+		<title>Freedom Wars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2014-12-14</date>
+			<price>25.14</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Sounds and looks interesting.</notes>
 	</game>
 	<!--
 	-->

@@ -21673,7 +21673,7 @@
 		<title>Phantasy Star Collection</title>
 		<system>
 			<console>Nintendo</console>
-			<version>Gameboy Advance</version>
+			<version>Game Boy Advance</version>
 		</system>
 		<purchase>
 			<date>2014-12-05</date>
@@ -22049,6 +22049,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Sounds and looks interesting.</notes>
+	</game>
+	<game id="1530" used="true">
+		<title>Bouncer, The (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-11-04</date>
+			<price>7.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/8. Japanese version, but can switch to English for menus and the like.</notes>
 	</game>
 	<!--
 	-->

@@ -22064,6 +22064,132 @@
 		<own>yes</own>
 		<notes>Received 12/8. Japanese version, but can switch to English for menus and the like.</notes>
 	</game>
+	<game id="1531" electronic="true">
+		<title>Panzer Tactics HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-17</date>
+			<price>1.84</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Won auction with 1501 gems. Paid $1.23 for 1000 gems earlier (twice), as well as crafting others, so ...</notes>
+	</game>
+	<game id="1532" electronic="true">
+		<title>LYNE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-19</date>
+			<price>0.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99.</notes>
+	</game>
+	<game id="1533" electronic="true">
+		<title>Zeno Clash</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-19</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="1534" electronic="true">
+		<title>How to Survive - Storm Warning Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Includes base game and 6 DLC.</notes>
+	</game>
+	<game id="1535" used="true">
+		<title>King of Fighters Evolution, The</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>17.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="1536" used="true">
+		<title>Dead or Alive 1 Ultimate</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>4.49</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Dead or Alive Ultimate collection. Supposedly can be played on the 360 now.</notes>
+	</game>
+	<game id="1537" used="true">
+		<title>Dead or Alive 2 Ultimate</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>4.50</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Dead or Alive Ultimate collection. Supposedly can be played on the 360 now.</notes>
+	</game>
+	<game id="1538" used="true">
+		<title>Virtua Fighter 4: EVOLUTION</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>2.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="1539" used="true">
+		<title>Rumble Roses</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-12-21</date>
+			<price>2.99</price>
+			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was already purchasing a bunch of fighters, so I might as well pick this one up at this price.</notes>
+	</game>
 	<!--
 	-->
 	<!--

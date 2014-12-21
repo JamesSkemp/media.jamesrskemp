@@ -2255,7 +2255,7 @@
 		<purchase>
 			<date>2008-05-10</date>
 			<price>26.99</price>
-			<place>GameStop - Prairie Towne Ctr</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<sell>
 			<date>2009-11-15</date>
@@ -2273,7 +2273,7 @@
 		<purchase>
 			<date>2008-05-10</date>
 			<price>19.99</price>
-			<place>GameStop - Prairie Towne Ctr</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -2449,7 +2449,7 @@
 		<purchase>
 			<date>2008-10-25</date>
 			<price>59.99</price>
-			<place>GameStop - Prairie Towne Ctr (West Madison)</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -2819,7 +2819,7 @@
 		<purchase>
 			<date>2009-01-18</date>
 			<price>29.99</price>
-			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -3059,7 +3059,7 @@
 		<purchase>
 			<date>2009-04-17</date>
 			<price>13.49</price>
-			<place>GameStop - Prairie Towne Ctr - 8118 Mineral Point Road - Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>$1.50 for buying used.</notes>
@@ -3073,7 +3073,7 @@
 		<purchase>
 			<date>2009-04-17</date>
 			<price>39.99</price>
-			<place>GameStop - Prairie Towne Ctr - 8118 Mineral Point Road - Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Bought game guide 6/22/2012 for $7.99 at Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704.</notes>
@@ -4416,7 +4416,7 @@
 		<purchase>
 			<date>2010-04-04</date>
 			<price>7.99</price>
-			<place>GameStop, Prairie Towne Ctr, 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>$10 off from Batman: AA trade-in.</notes>
@@ -4661,7 +4661,7 @@
 		<purchase>
 			<date>2010-08-31</date>
 			<price>17.99</price>
-			<place>GameStop, Prairie Towne Ctr, 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased another copy, since one of the videos on disc 1 of mine is unplayable. Yeah, that's right. Saved $2 since I purchased an Edge card too.</notes>
@@ -5243,7 +5243,7 @@
 		<purchase>
 			<date>2011-03-24</date>
 			<price>16.19</price>
-			<place>GameStop, Prairie Towne Ctr, 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Was $17.99, but had Edge Card.</notes>
@@ -5257,7 +5257,7 @@
 		<purchase>
 			<date>2011-03-24</date>
 			<price>8.99</price>
-			<place>GameStop, Prairie Towne Ctr, 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Was $9.99, but had Edge Card.</notes>
@@ -5271,7 +5271,7 @@
 		<purchase>
 			<date>2011-03-24</date>
 			<price>13.49</price>
-			<place>GameStop, Prairie Towne Ctr, 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Was $14.99, but had Edge Card.</notes>
@@ -7835,7 +7835,7 @@
 		<purchase>
 			<date>2012-04-21</date>
 			<price>49.99</price>
-			<place>GameStop, Prairie Towne Ctr (F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Have to support their decision, since I wanted Mistwalker's game.</notes>
@@ -7849,7 +7849,7 @@
 		<purchase>
 			<date>2012-04-21</date>
 			<price>29.99</price>
-			<place>GameStop, Prairie Towne Ctr (F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Watched some of a Let's Play of the first, and the guy said it was good, and hard to find.</notes>
@@ -8314,7 +8314,7 @@
 		<purchase>
 			<date>2012-06-09</date>
 			<price>8.99</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $1.00 with PowerUp Card.</notes>
@@ -8328,7 +8328,7 @@
 		<purchase>
 			<date>2012-06-09</date>
 			<price>4.49</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $0.50 with PowerUp Card.</notes>
@@ -8342,7 +8342,7 @@
 		<purchase>
 			<date>2012-06-09</date>
 			<price>4.49</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $0.50 with PowerUp Card.</notes>
@@ -8699,7 +8699,7 @@
 		<purchase>
 			<date>2012-09-01</date>
 			<price>11.69</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $1.30 with PowerUp Card.</notes>
@@ -8713,7 +8713,7 @@
 		<purchase>
 			<date>2012-09-01</date>
 			<price>13.49</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $1.50 with PowerUp Card.</notes>
@@ -8727,7 +8727,7 @@
 		<purchase>
 			<date>2012-09-01</date>
 			<price>6.29</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $0.70 with PowerUp Card. Beat on normal on 9/16/2012, after 18.5 hours.</notes>
@@ -8741,7 +8741,7 @@
 		<purchase>
 			<date>2012-09-01</date>
 			<price>11.69</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $1.30 with PowerUp Card.</notes>
@@ -8755,7 +8755,7 @@
 		<purchase>
 			<date>2012-09-01</date>
 			<price>49.99</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Another copy.</notes>
@@ -10880,7 +10880,7 @@
 		<purchase>
 			<date>2013-04-14</date>
 			<price>4.49</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($0.50) with PowerUp card.</notes>
@@ -10894,7 +10894,7 @@
 		<purchase>
 			<date>2013-04-14</date>
 			<price>13.49</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved 10% ($1.50) with PowerUp card.</notes>
@@ -10936,7 +10936,7 @@
 		<purchase>
 			<date>2013-04-28</date>
 			<price>6.29</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -11166,7 +11166,7 @@
 		<purchase>
 			<date>2013-06-22</date>
 			<price>16.19</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used. Saved $1.80 with PowerUp card, which I also renewed when I picked this up.</notes>
@@ -11292,7 +11292,7 @@
 		<purchase>
 			<date>2013-07-29</date>
 			<price>34.19</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved 10% ($3.80) with PowerUp card. While a review I watched wasn't happy with the game, I thought it sounded like a lot of fun.</notes>
@@ -11306,7 +11306,7 @@
 		<purchase>
 			<date>2013-07-29</date>
 			<price>34.19</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $3.80 (10%) with PowerUp card.</notes>
@@ -11320,7 +11320,7 @@
 		<purchase>
 			<date>2013-07-29</date>
 			<price>0.00</price>
-			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Rd, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $34.99 thanks to buy two get one free coupon, from my birthday.</notes>
@@ -12415,7 +12415,7 @@
 		<purchase>
 			<date>2014-01-05</date>
 			<price>19.99</price>
-			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>$20 off.</notes>
@@ -12429,7 +12429,7 @@
 		<purchase>
 			<date>2014-01-05</date>
 			<price>44.99</price>
-			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>These are normally $70+ and hundreds new. Doesn't appear to actually be used. Saved $5 with PowerUp card.</notes>
@@ -12443,7 +12443,7 @@
 		<purchase>
 			<date>2014-01-05</date>
 			<price>17.99</price>
-			<place>GameStop - Prairie Towne Ctr (F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>

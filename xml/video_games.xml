@@ -22261,7 +22261,7 @@
 		<notes>Free for PlayStation Plus. Normally $11.99.</notes>
 	</game>
 	<game id="1545" electronic="true">
-		<title></title>
+		<title>Titan Attacks!</title>
 		<system>
 			<console>PlayStation</console>
 			<version>4</version>
@@ -22275,7 +22275,7 @@
 		<notes>Free for PlayStation Plus. Normally $11.99.</notes>
 	</game>
 	<game id="1546" electronic="true">
-		<title></title>
+		<title>Titan Attacks!</title>
 		<system>
 			<console>PlayStation</console>
 			<version>Vita</version>
@@ -22301,6 +22301,37 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free for PlayStation Plus. Normally $12.99.</notes>
+	</game>
+	<game id="1548" used="true">
+		<title>Shadow Hearts II (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>18.00</price>
+			<place>ebay (retro-collectors_royal-kingdom)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Got part two and three in a bundle for $35.99 and $2.99 shipping. Received 12/22/2014.</notes>
+	</game>
+	<game id="1549" used="true">
+		<title>Shadow Hearts: From the New World (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-01</date>
+			<price>17.99</price>
+			<place>ebay (retro-collectors_royal-kingdom)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Got part two and three in a bundle for $35.99 and $2.99 shipping. Received 12/22/2014.
+			Bought the Japanese Master Guide 12/1/2014 from ebay (chabo_drums) for $20.80 + $9.40 s/h, and received 12/22/2014.
+		</notes>
 	</game>
 	<!--
 	-->

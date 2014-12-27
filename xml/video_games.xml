@@ -22364,6 +22364,62 @@
 		<own>yes</own>
 		<notes>Paid $4.80 shipping, and received 12/22/2014 (picked up on the 23rd).</notes>
 	</game>
+	<game id="1552" used="true">
+		<title>Drag-On Dragoon (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-06</date>
+			<price>13.20</price>
+			<place>ebay (tamayura-japan)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.</notes>
+	</game>
+	<game id="1553" used="true">
+		<title>Drag-On Dragoon 2 (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-06</date>
+			<price>13.19</price>
+			<place>ebay (tamayura-japan)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.</notes>
+	</game>
+	<game id="1554" used="true">
+		<title>Ryu ga Gotoku (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-22</date>
+			<price>15.00</price>
+			<place>ebay (kimchi711)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Yakuza 1. Part of bundle of the first and second games ($30.00). Free shipping, and received 12/26/2014.</notes>
+	</game>
+	<game id="1555" used="true">
+		<title>Ryu ga Gotoku 2 (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-22</date>
+			<price>15.00</price>
+			<place>ebay (kimchi711)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Yakuza 2. Part of bundle of the first and second games ($30.00). Free shipping, and received 12/26/2014.</notes>
+	</game>
 	<!--
 	-->
 	<!--

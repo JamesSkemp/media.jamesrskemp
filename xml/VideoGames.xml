@@ -1137,6 +1137,62 @@
 			<own>yes</own>
 			<notes>Picking up so I don't need to use the wireless controllers when I get my holiday gift from mom.</notes>
 		</item>
+		<item id="84">
+			<name>Playstation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-03</date>
+				<price>14.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/5/2014.</notes>
+		</item>
+		<item id="85">
+			<name>Playstation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-03</date>
+				<price>14.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/5/2014.</notes>
+		</item>
+		<item id="86">
+			<name>PlayStation 2 (SCPH-90001 CB) NTSC U/C Charcoal Black</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-03</date>
+				<price>149.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/5/2014. Didn't think I had a 90001 already. Oh well.</notes>
+		</item>
+		<item id="87">
+			<name>PlayStation 2 Dualshock Controller SCPH-10010 (Black)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-03</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with console.</notes>
+		</item>
 	</hardware>
 <!--
 -->

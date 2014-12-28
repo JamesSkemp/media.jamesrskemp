@@ -22504,12 +22504,49 @@
 		<own>yes</own>
 		<notes>Part of the Far Cry Franchise Pack, with was $9.99, but is normally $39.99. This is normally $14.99, but was marked down to $3.74.</notes>
 	</game>
+	<game id="1562" electronic="true">
+		<title>Secret World, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-25</date>
+			<price>10.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Daily deal. Normally $29.99.</notes>
+	</game>
+	<game id="1563" electronic="true">
+		<title>Wasteland 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-26</date>
+			<price>17.99</price>
+			<place>WinGameStore</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, and saved $1 with coupon.</notes>
+	</game>
+	<game id="1564" electronic="true">
+		<title>Wasteland 1 - The Original Classic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-12-26</date>
+			<price>1.00</price>
+			<place>WinGameStore</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with Wasteland 2 for free.</notes>
+	</game>
 	<!--
-12/25 Steam
-Secret World, The	10.19	Daily deal. Normally $10.19.
-12/26	WinGameStore
-Wasteland 2	17.99	Normally $39.99, and saved $1 with coupon.
-Wasteland 1 - The Original Classic	1.00	Came with Wasteland 2 for free.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

@@ -1103,7 +1103,7 @@
 			<name>PlayStation 2 (SCPH-39000 S) NTSC J Silver</name>
 			<system>
 				<console>PlayStation</console>
-				<version>2</version>
+				<version>2 (Japanese)</version>
 			</system>
 			<purchase>
 				<date>2014-12-01</date>
@@ -1193,7 +1193,79 @@
 			<own>yes</own>
 			<notes>Came with console.</notes>
 		</item>
+		<item id="88">
+			<name>Sega Dreamcast</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-12-05</date>
+				<price>29.99</price>
+				<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Complete. First controller port seemed a little off, but ...</notes>
+		</item>
+		<item id="89">
+			<name>Sega Dreamcast Controller</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-12-05</date>
+				<price>0.00</price>
+				<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with system.</notes>
+		</item>
+		<item id="90">
+			<name>PlayStation 2 (SCPH-70000) NTSC/J</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2 (Japanese)</version>
+			</system>
+			<purchase>
+				<date>2014-12-06</date>
+				<price>40.00</price>
+				<place>ebay (cgun2166)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>$50.00 for full system, game, memory card, and two really dirty controllers. Received 12/11/2014. System is unfortunately modded.</notes>
+		</item>
+		<item id="91">
+			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<system>
+				<console>Playstation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-06</date>
+				<price>0.00</price>
+				<place>ebay (cgun2166)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/11/2014. Came with system.</notes>
+		</item>
+		<item id="92">
+			<name>Sega Genesis Classic Game Console</name>
+			<system>
+				<console>Sega</console>
+				<version>Genesis</version>
+			</system>
+			<purchase>
+				<date>2014-12-28</date>
+				<price>0.00</price>
+				<place>Gift</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Gift from mom. She paid $34.99 for it ($39.99 - $5 coupon). Includes 80 games, only 40 of which are Genesis games.</notes>
+		</item>
 	</hardware>
 <!--
+12/6	eBay (cgun2166)
+PS2	SCPH-70000 NTSC/J	two really dirty controllers.
 -->
 </videoGames>

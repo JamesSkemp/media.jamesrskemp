@@ -1129,6 +1129,10 @@
 		</item>
 		<item id="83">
 			<name>Hyperkin Genesis GN6 Wired Controller</name>
+			<system>
+				<console>Sega</console>
+				<version>Genesis</version>
+			</system>
 			<purchase>
 				<date>2014-12-14</date>
 				<price>9.98</price>
@@ -1262,6 +1266,20 @@
 			</purchase>
 			<own>yes</own>
 			<notes>Gift from mom. She paid $34.99 for it ($39.99 - $5 coupon). Includes 80 games, only 40 of which are Genesis games.</notes>
+		</item>
+		<item id="93">
+			<name>Visual Memory Unit - Blue</name>
+			<system>
+				<console>Sega</console>
+				<version>Dreamcast</version>
+			</system>
+			<purchase>
+				<date>2014-12-29</date>
+				<price>10.00</price>
+				<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Appears to be new.</notes>
 		</item>
 	</hardware>
 <!--

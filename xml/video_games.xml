@@ -22546,6 +22546,62 @@
 		<own>yes</own>
 		<notes>Came with Wasteland 2 for free.</notes>
 	</game>
+	<game id="1565" used="true">
+		<title>Koudelka (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-24</date>
+			<price>19.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Doesn't include the manual. Paid $4.00 shipping.</notes>
+	</game>
+	<game id="1566" used="true">
+		<title>Metal Saga</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-12-29</date>
+			<price>15.00</price>
+			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Didn't include the manual.</notes>
+	</game>
+	<game id="1567" used="true">
+		<title>Metal Saga</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2014-12-29</date>
+			<price>14.95</price>
+			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Second copy, as this one is complete.</notes>
+	</game>
+	<game id="1568" used="true">
+		<title>Chaos Legion (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2014-12-29</date>
+			<price>10.95</price>
+			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese copy. They had a handful, but only this one looked good.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -10779,4 +10779,12 @@
 		<buy date="2014-12-04" place="Frugal Muse Books, Music &amp; Video, 235 Junction Road, Madison WI 53717" price="4.98"/>
 		<notes>Purchased primary because it had a number of written notes by the previous owner.</notes>
 	</book>
+	<book id="1064">
+		<title pages="192">Read Japanese Today: The Easy Way to Learn 400 Practical Kanji</title>
+		<authors>
+			<author>Len Walsh</author>
+		</authors>
+		<buy date="2014-12-27" place="Amazon.com" price="15.64"/>
+		<notes>Effectively cost nothing as I had points to cover the entire price. Heard this was a good book to read as a novel to pick up Kanji.</notes>
+	</book>
 </books>

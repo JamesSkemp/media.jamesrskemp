@@ -21217,7 +21217,7 @@
 		<own>yes</own>
 		<notes>Game only.</notes>
 	</game>
-	<game id="1472" used="true">
+	<game id="1472" used="true" beat="true">
 		<title>Grandia II</title>
 		<system>
 			<console>Sega</console>
@@ -21229,7 +21229,10 @@
 			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Includes soundtrack CD.</notes>
+		<notes>
+			Includes soundtrack CD.
+			Finished 12/18/2014. Took a little over 34 hours.
+		</notes>
 	</game>
 	<game id="1473" used="true">
 		<title>Draconus: Cult of the Wyrm</title>
@@ -22601,6 +22604,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Japanese copy. They had a handful, but only this one looked good.</notes>
+	</game>
+	<game id="1569" electronic="true">
+		<title>D4: Dark Dreams Don't Die</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-01-01</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. This one expires if I let Gold lapse.</notes>
+	</game>
+	<game id="1570" used="true">
+		<title>Princess Crown (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2014-12-24</date>
+			<price>24.00</price>
+			<place>ebay (gamerg62)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese, but playable on the PSP. Paid $5.00 shipping, and received 1/5/2015.</notes>
 	</game>
 	<!--
 	-->

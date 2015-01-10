@@ -10795,4 +10795,14 @@
 		<buy date="2014-12-30" place="Amazon.com" price="32.30"/>
 		<notes>Heard this was quite good. Used $30 gift card from mom toward this, so I only paid $4.08 with tax. Received 1/2/2015.</notes>
 	</book>
+	<book id="1066">
+		<title>Daemon</title>
+		<authors>
+			<author>Daniel Suarez</author>
+		</authors>
+		<readings finished="true">
+			<read time="1" start="2015-01-05" finish="2015-01-09"/>
+		</readings>
+		<notes>Lent to me by Beth W. at work. Liked everything but the ending; not sure where the third act went.</notes>
+	</book>
 </books>

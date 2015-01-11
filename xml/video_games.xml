@@ -750,7 +750,7 @@
 		<purchase>
 			<date>2006-07-23</date>
 			<price>13.49</price>
-			<place>GameStop (Prairie Town Ctr)</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<sell>
 			<date>2009-11-21</date>
@@ -4031,7 +4031,7 @@
 		<purchase>
 			<date>2009-09-26</date>
 			<price>26.99</price>
-			<place>Gamestop, Fox River Mall, 4301 W. Wisconsin Ave, Appleton WI 54913</place>
+			<place>GameStop, Fox River Mall, 4301 W. Wisconsin Ave, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used copy of game. Saved $3 with Edge card.</notes>
@@ -4045,7 +4045,7 @@
 		<purchase>
 			<date>2009-09-26</date>
 			<price>26.99</price>
-			<place>Gamestop, Fox River Mall, 4301 W. Wisconsin Ave, Appleton WI 54913</place>
+			<place>GameStop, Fox River Mall, 4301 W. Wisconsin Ave, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Used copy of game. Saved $1 with Edge card.</notes>
@@ -6466,7 +6466,7 @@
 		<purchase>
 			<date>2011-10-30</date>
 			<price>24.29</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased used. Saved $2.70 (10%) with PowerUp card. Beat Legend mode for all characters on 11/11/2011, with approximately 29:24 on the clock. Finished Dream mode and platniumed on 11/15/2011.</notes>
@@ -6480,7 +6480,7 @@
 		<purchase>
 			<date>2011-10-30</date>
 			<price>11.69</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased used. Saved $5 due to some promo, and then $1.30 (10%) with PowerUp card. A game good enough to purchase again. Started 11/15/2011 and finished 11/20/2011.</notes>
@@ -6494,7 +6494,7 @@
 		<purchase>
 			<date>2011-10-30</date>
 			<price>8.09</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased used. Saved $0.90 (10%) with PowerUp card.</notes>
@@ -6890,7 +6890,7 @@
 		<purchase>
 			<date>2011-12-31</date>
 			<price>24.29</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -6907,7 +6907,7 @@
 		<purchase>
 			<date>2011-12-31</date>
 			<price>19.99</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Platinum number 14.</notes>
@@ -7700,7 +7700,7 @@
 		<purchase>
 			<date>2012-04-03</date>
 			<price>5.39</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -7717,7 +7717,7 @@
 		<purchase>
 			<date>2012-04-03</date>
 			<price>13.49</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $1.50 with PowerUp card. I think this is the Gears of War clone.</notes>
@@ -7731,7 +7731,7 @@
 		<purchase>
 			<date>2012-04-03</date>
 			<price>14.99</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -7748,7 +7748,7 @@
 		<purchase>
 			<date>2012-04-03</date>
 			<price>19.99</price>
-			<place>GameStop Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
 		</purchase>
 		<own>yes</own>
 		<notes>
@@ -12680,7 +12680,7 @@
 		<purchase>
 			<date>2014-02-15</date>
 			<price>24.99</price>
-			<place>Best Buy #892, Janesville WI 53546</place>
+			<place>Best Buy #892, 2850 Deerfield Dr, Janesville WI 53546-4381</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for the last few days. Was marked as $29.99, but $5 less for some reason at checkout.</notes>
@@ -12694,7 +12694,7 @@
 		<purchase>
 			<date>2014-02-15</date>
 			<price>15.99</price>
-			<place>Best Buy #892, Janesville WI 53546</place>
+			<place>Best Buy #892, 2850 Deerfield Dr, Janesville WI 53546-4381</place>
 		</purchase>
 		<own>yes</own>
 		<notes>On sale. $1 more expensive than the Xbox 360 version, but this version has been patched, so ...</notes>

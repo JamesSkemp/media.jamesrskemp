@@ -10803,6 +10803,17 @@
 		<readings finished="true">
 			<read time="1" start="2015-01-05" finish="2015-01-09"/>
 		</readings>
-		<notes>Lent to me by Beth W. at work. Liked everything but the ending; not sure where the third act went.</notes>
+		<notes>Lent to me by Beth W. at work. Liked everything but the ending; not sure where the third act went.mer</notes>
+	</book>
+	<book id="1067">
+		<title pages="437">Mr. Mercedes</title>
+		<authors>
+			<author>Stephen King</author>
+		</authors>
+		<buy date="2014-11-23" place="Savers, West Madison" price="1.49"/>
+		<readings finished="true">
+			<read time="1" start="2015-01-12" finish="2015-01-15"/>
+		</readings>
+		<notes>Discarded from a library. Mom read first.</notes>
 	</book>
 </books>

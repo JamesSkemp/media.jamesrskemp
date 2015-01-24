@@ -22913,6 +22913,146 @@
 		<own>yes</own>
 		<notes>Paid $4.80 and received 1/12, but picked up from post office 1/13. Came over here as Devil Kings, but the art style is drawn in this version.</notes>
 	</game>
+	<game id="1591" electronic="true">
+		<title>Wrack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1592" electronic="true">
+		<title>DARK</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1593" electronic="true">
+		<title>BlazeRush</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1594" electronic="true">
+		<title>Onikira: Demon Killer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1595" electronic="true">
+		<title>Super Toy Cars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1596" electronic="true">
+		<title>Magnetic By Nature</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1597" electronic="true">
+		<title>Silence of the Sleep</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1598" electronic="true">
+		<title>The Joylancer: Legendary Motor Knight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games. Early access.</notes>
+	</game>
+	<game id="1599" electronic="true">
+		<title>The Detail	Episode 1 - Where the Dead Lie</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
+	<game id="1600" electronic="true">
+		<title>Z</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-19</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

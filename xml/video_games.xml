@@ -23193,6 +23193,20 @@
 		<own>yes</own>
 		<notes>PSOne Classic. Forgot to buy it the other day when I had the 10% off coupon.</notes>
 	</game>
+	<game id="1611">
+		<title>Shin Megami Tensei IV</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2015-01-21</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Received 1/25/2015.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -23207,6 +23207,202 @@
 		<own>yes</own>
 		<notes>On sale. Received 1/25/2015.</notes>
 	</game>
+	<game id="1612" electronic="true">
+		<title>Phantom Breaker: Battle Grounds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-01-26</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saw Total Buscuit playing the Steam version. Looked fun.</notes>
+	</game>
+	<game id="1613" electronic="true" addOn="true">
+		<title>Phantom Breaker: Battle Grounds: Makise Kurisu (Add-On Content)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-01-26</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="1614" electronic="true">
+		<title>Guardian Heroes</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-01-26</date>
+			<price>4.99</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Similar to Phantom Breaker and Code of Princess.</notes>
+	</game>
+	<game id="1615" electronic="true">
+		<title>LEVEL 22</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1616" electronic="true">
+		<title>Kick-Ass 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1617" electronic="true">
+		<title>Poof vs The Cursed Kitty</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1618" electronic="true">
+		<title>Cloud Chamber</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1619" electronic="true">
+		<title>Robot Rescue Revolution</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1620" electronic="true">
+		<title>Sang-Froid: Tales of Werewolves</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1621" electronic="true">
+		<title>Fly'N</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1622" electronic="true">
+		<title>Desert Ashes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1623" electronic="true">
+		<title>Dungeon Lurk II - Leona</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1624" electronic="true">
+		<title>99 Spirits</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.29</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+	</game>
+	<game id="1625" electronic="true">
+		<title>Tsukumogami</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-27</date>
+			<price>0.09</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Havoc Bundle, which was 10 games for $2.99. This came with 99 Spirits, and is the Japanese version of that game.</notes>
+	</game>
 	<!--
 	-->
 	<!--

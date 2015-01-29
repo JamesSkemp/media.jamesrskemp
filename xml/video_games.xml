@@ -23403,6 +23403,20 @@
 		<own>yes</own>
 		<notes>Part of the Havoc Bundle, which was 10 games for $2.99. This came with 99 Spirits, and is the Japanese version of that game.</notes>
 	</game>
+	<game id="1626">
+		<title>Code of Princess</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2015-01-26</date>
+			<price>23.29</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/28/2015. Heard it's similar to Phantom Breaker: Battle Grounds, which I'm really enjoying.</notes>
+	</game>
 	<!--
 	-->
 	<!--

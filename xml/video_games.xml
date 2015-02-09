@@ -23207,7 +23207,7 @@
 		<own>yes</own>
 		<notes>On sale. Received 1/25/2015.</notes>
 	</game>
-	<game id="1612" electronic="true">
+	<game id="1612" electronic="true" beat="true">
 		<title>Phantom Breaker: Battle Grounds</title>
 		<system>
 			<console>PlayStation</console>
@@ -23219,9 +23219,13 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saw Total Buscuit playing the Steam version. Looked fun.</notes>
+		<notes>
+			Saw Total Biscuit playing the Steam version. Looked fun.
+			Started 1/26/2015 and finished (all difficulty levels and to level 99 with one character) on 2/8/2015.
+			Includes the fact that I wasn't saving the first time I started the game, so I lost my level 50+ character.
+		</notes>
 	</game>
-	<game id="1613" electronic="true" addOn="true">
+	<game id="1613" electronic="true" addOn="true" beat="true">
 		<title>Phantom Breaker: Battle Grounds: Makise Kurisu (Add-On Content)</title>
 		<system>
 			<console>PlayStation</console>

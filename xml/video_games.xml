@@ -23421,6 +23421,188 @@
 		<own>yes</own>
 		<notes>Received 1/28/2015. Heard it's similar to Phantom Breaker: Battle Grounds, which I'm really enjoying.</notes>
 	</game>
+	<game id="1627" electronic="true">
+		<title>Star Wars Jedi Knight: Jedi Academy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1628" electronic="true">
+		<title>Star Wars: Dark Forces</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>0.90</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1629" electronic="true">
+		<title>Star Wars Battlefront II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1630" electronic="true">
+		<title>Star Wars Knights of the Old Republic II: The Sith Lords</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1631" electronic="true">
+		<title>Star Wars Republic Commando</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1632" electronic="true">
+		<title>Star Wars Jedi Knight II: Jedi Outcast</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1633" electronic="true">
+		<title>Star Wars Jedi Knight: Dark Forces II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1634" electronic="true">
+		<title>Star Wars Starfighter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1635" electronic="true">
+		<title>Star Wars Empire At War: Gold Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1636" electronic="true">
+		<title>Star Wars The Force Unleashed: Ultimate Sith Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1637" electronic="true">
+		<title>Star Wars: The Force Unleashed II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-03</date>
+			<price>1.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle, which was $12 for 12 games (one which I already had).</notes>
+	</game>
+	<game id="1638" electronic="true">
+		<title>Dungeon Siege</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-06</date>
+			<price>1.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99.</notes>
+	</game>
+	<game id="1639" electronic="true">
+		<title>Sniper Elite V2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-02-06</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>80% off this weekend. Will be playing with Brian Dell.</notes>
+	</game>
 	<!--
 	-->
 	<!--

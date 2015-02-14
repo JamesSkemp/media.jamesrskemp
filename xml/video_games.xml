@@ -908,7 +908,7 @@
 		<own>yes</own>
 		<notes>Bought strategy guide 5/19/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</game>
-	<game id="57">
+	<game id="57" used="true">
 		<title>Fullmetal Alchemist and the Broken Angel</title>
 		<system>
 			<console>PlayStation</console>
@@ -924,7 +924,7 @@
 			<price>7.70</price>
 		</sell>
 		<own>no</own>
-		<notes>Used</notes>
+		<notes/>
 	</game>
 	<game id="58">
 		<title>Galerians: Ash</title>
@@ -8109,7 +8109,7 @@
 		<own>yes</own>
 		<notes>Used.</notes>
 	</game>
-	<game id="545">
+	<game id="545" used="true">
 		<title>Dragon Warrior [BROKEN]</title>
 		<system>
 			<console>NES</console>
@@ -8121,9 +8121,9 @@
 			<place>Derek, Whitewater WI</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Doesn't work.</notes>
+		<notes>Doesn't work.</notes>
 	</game>
-	<game id="546">
+	<game id="546" used="true">
 		<title>Galaga</title>
 		<system>
 			<console>NES</console>
@@ -8135,7 +8135,7 @@
 			<place>Derek, Whitewater WI</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes/>
 	</game>
 	<game id="547" electronic="true">
 		<title>Rock of the Ages</title>
@@ -20401,7 +20401,7 @@
 		<notes>No manual or box.</notes>
 	</game>
 	<game id="1415" used="true">
-		<title>Golden Sun: The Dark Age [BROKEN]</title>
+		<title>Golden Sun [BROKEN]</title>
 		<system>
 			<console>Nintendo</console>
 			<version>Game Boy Advance</version>
@@ -21058,7 +21058,7 @@
 			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Game only.</notes>
+		<notes>Game only. Replaces the broken version I had purchased a bit ago.</notes>
 	</game>
 	<game id="1461" used="true">
 		<title>Golden Sun: The Lost Age</title>
@@ -21072,7 +21072,7 @@
 			<place>PrePlayed, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Game only. Replaces the broken version I had purchased a bit ago.</notes>
+		<notes>Game only.</notes>
 	</game>
 	<game id="1462">
 		<title>Tales of Xillia 2</title>
@@ -23602,6 +23602,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>80% off this weekend. Will be playing with Brian Dell.</notes>
+	</game>
+	<game id="1640" electronic="true">
+		<title>Dynasty Warriors 8: Xtreme Legends Complete Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>18.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $59.99.</notes>
+	</game>
+	<game id="1641" electronic="true">
+		<title>Guilty Gear XX Accent Core Plus R</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>3.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $14.99.</notes>
 	</game>
 	<!--
 	-->

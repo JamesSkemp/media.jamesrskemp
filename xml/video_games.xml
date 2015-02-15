@@ -4102,8 +4102,8 @@
 	<game id="267">
 		<title>Baten Kaitos: Eternal Wings and the Lost Ocean</title>
 		<system>
-			<console>GameCube</console>
-			<version></version>
+			<console>Nintendo</console>
+			<version>GameCube</version>
 		</system>
 		<purchase>
 			<date>2009-11-15</date>
@@ -4120,8 +4120,8 @@
 	<game id="268">
 		<title>Tales of Symphonia</title>
 		<system>
-			<console>GameCube</console>
-			<version></version>
+			<console>Nintendo</console>
+			<version>GameCube</version>
 		</system>
 		<purchase>
 			<date>2009-11-21</date>
@@ -23630,6 +23630,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Flash sale. Normally $14.99.</notes>
+	</game>
+	<game id="1642" used="true">
+		<title>Gauntlet &amp; Rampart</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Gameboy Advance</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>1.99</price>
+			<place>Mega Media Xchange, 1709 N Farwell Ave, Milwaukee WI 53202</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Interested in the Rampart game especially.</notes>
+	</game>
+	<game id="1643" used="true">
+		<title>Valkyrie Profile: Lenneth</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 1709 N Farwell Ave, Milwaukee WI 53202</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Think I saw this in Madison, but then it was gone. Almost missed this.</notes>
+	</game>
+	<game id="1644" used="true">
+		<title>Skies of Arcadia</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>59.99</price>
+			<place>Mega Media Xchange, 1709 N Farwell Ave, Milwaukee WI 53202</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I thought I should have picked it up when I saw it back in September. Was still there today, so ...</notes>
+	</game>
+	<game id="1645" used="true">
+		<title>Baten Kaitos: Origins</title>
+		<system>
+			<console>Nintendo</console>
+			<version>GameCube</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 7828 W Layton Ave, Greenfield WI 53220</place>
+		</purchase>
+		<own>yes</own>
+		<notes>First time I've ever seen this.</notes>
+	</game>
+	<game id="1646" used="true">
+		<title>Astonishia Story</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 19555 W Bluemound Rd Ste 22, Brookfield WI 53045</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems like it might be good.</notes>
+	</game>
+	<game id="1647" used="true">
+		<title>Gods Eater Burst</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-02-14</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 19555 W Bluemound Rd Ste 22, Brookfield WI 53045</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On the fence, but this is half the price of a new copy, and it seems to have good reviews.</notes>
 	</game>
 	<!--
 	-->

@@ -10816,4 +10816,25 @@
 		</readings>
 		<notes>Discarded from a library. Mom read first.</notes>
 	</book>
+	<book id="1068">
+		<title>Hello, Android (4th Edition)</title>
+		<authors>
+			<author>Ed Burnette</author>
+		</authors>
+		<buy date="2015-01-21" place="The Pragamatic Programmers" price="24.00"/>
+		<notes>Electronic, and beta version.</notes>
+	</book>
+	<book id="1069">
+		<title>OpenGL ES 2 for Android</title>
+		<authors>
+			<author>Kevin Brothaler</author>
+		</authors>
+		<buy date="2015-02-15" place="The Pragmatic Programmers" price="25.00"/>
+		<notes>Electronic. Has extremely positive reviews on Amazon.</notes>
+	</book>
+	<book id="1070">
+		<title>Internet Adventures</title>
+		<buy date="2014-12-06" place="Amazon.com" price="0.00"/>
+		<notes>Was $0.99, but free because of some sort of promotion. Not that great.</notes>
+	</book>
 </books>

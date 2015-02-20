@@ -10310,7 +10310,7 @@
 		<own>yes</own>
 		<notes>Decided it was worth the purchase, since I'm now interested in the new DMC game.</notes>
 	</game>
-	<game id="700">
+	<game id="700" beat="true">
 		<title>Radiant Historia</title>
 		<system>
 			<console>Nintendo</console>
@@ -10322,7 +10322,10 @@
 			<place>Amazon.com (cal's castle)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>$3.99 shipping. Received 2/9/2013, amazingly. This was the second cheapest price on Amazon ... :(</notes>
+		<notes>
+			$3.99 shipping. Received 2/9/2013, amazingly. This was the second cheapest price on Amazon ... :(
+			Started 7/31/2013, and finally finished 6/2/2014, after almost 43 hours.
+		</notes>
 	</game>
 	<game id="701">
 		<title>Ar tonelico II: Melody of Metafalica</title>
@@ -12865,7 +12868,10 @@
 			<place>Amazon.com (MOST WANTED)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/13/2014. Watched Mojo channel had a video where this was mentioned. Graphics look very interesting.</notes>
+		<notes>
+			Received 3/13/2014. Watched Mojo channel had a video where this was mentioned. Graphics look very interesting.
+			Looks like I played it for 11 hours 22 minutes between 3/28 and 4/3/2014.
+		</notes>
 	</game>
 	<game id="878" beat="true">
 		<title>Castlevania: Dawn of Sorrow</title>
@@ -12879,7 +12885,7 @@
 			<place>Amazon.com (DealTavern)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2014. Finished 4/17/2014 after approxmiately 10 hours.</notes>
+		<notes>Received 3/14/2014. Started 4/4 and finished 4/17/2014 after approxmiately 10 hours (15 hours of playtime recorded).</notes>
 	</game>
 	<game id="879" beat="true">
 		<title>Castlevania: Portrait of Ruin</title>
@@ -12893,7 +12899,7 @@
 			<place>Amazon.com (DealTavern)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 3/14/2014. Finished main story 6/19/2014 after about 13 hours of play.</notes>
+		<notes>Received 3/14/2014. Started 6/2 and finished main story 6/19/2014 after about 13 hours of play (17 hours 40 minutes recorded).</notes>
 	</game>
 	<game id="880" beat="true">
 		<title>Castlevania: Order of Ecclesia</title>
@@ -12909,7 +12915,7 @@
 		<own>yes</own>
 		<notes>
 			Received 3/14/2014.
-			Beat 9/27/2014, with 17:12:36, and at level 47.
+			Beat 9/27/2014, with 17:12:36, and at level 47. 3DS reports 7 hours 27 minutes.
 		</notes>
 	</game>
 	<game id="881">
@@ -23407,7 +23413,7 @@
 		<own>yes</own>
 		<notes>Part of the Havoc Bundle, which was 10 games for $2.99. This came with 99 Spirits, and is the Japanese version of that game.</notes>
 	</game>
-	<game id="1626">
+	<game id="1626" beat="true">
 		<title>Code of Princess</title>
 		<system>
 			<console>Nintendo</console>
@@ -23419,7 +23425,10 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 1/28/2015. Heard it's similar to Phantom Breaker: Battle Grounds, which I'm really enjoying.</notes>
+		<notes>
+			Received 1/28/2015. Heard it's similar to Phantom Breaker: Battle Grounds, which I'm really enjoying.
+			Started 2/11/2015 and beat main quest 2/20/2015 after 5:51.
+		</notes>
 	</game>
 	<game id="1627" electronic="true">
 		<title>Star Wars Jedi Knight: Jedi Academy</title>

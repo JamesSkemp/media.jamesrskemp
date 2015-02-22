@@ -18523,7 +18523,7 @@
 		<own>yes</own>
 		<notes>Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games. Historical Lowest Price: $9.99. In $10 section.</notes>
 	</game>
-	<game id="1282" electronic="true">
+	<game id="1282" electronic="true" beat="true">
 		<title>Ys: I &amp; II Chronicles</title>
 		<system>
 			<console>PlayStation</console>
@@ -18537,7 +18537,8 @@
 		<own>yes</own>
 		<notes>
 			Normally $10.49. 30% off on sale.
-			Beat Ys 1 in 5:15, on 9/28.
+			Beat Ys 1 in 5:15 on 9/28/2014.
+			Beat Ys 2 in 6:20 on 2/22/2015.
 		</notes>
 	</game>
 	<game id="1283" electronic="true">

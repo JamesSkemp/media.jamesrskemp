@@ -23725,6 +23725,93 @@
 		<own>yes</own>
 		<notes>On the fence, but this is half the price of a new copy, and it seems to have good reviews.</notes>
 	</game>
+	<game id="1648" electronic="true">
+		<title>Assassin's Creed IV: Black Flag</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-02-22</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of an Assassin's Creed bundle with console, second controller, and Wolfenstein, for $349.</notes>
+	</game>
+	<game id="1649" electronic="true">
+		<title>Assassin's Creed: Unity</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-02-22</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of an Assassin's Creed bundle with console, second controller, and Wolfenstein, for $349.</notes>
+	</game>
+	<game id="1650">
+		<title>Wolfenstein: The New Order</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-02-22</date>
+			<price>31.08</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of an Assassin's Creed bundle with console, second controller, and Wolfenstein, for $349.</notes>
+	</game>
+	<game id="1651" electronic="true">
+		<title>IDARB</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-02-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $14.99.</notes>
+	</game>
+	<game id="1652" electronic="true">
+		<title>Worms Battlegrounds</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-02-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $24.99.</notes>
+	</game>
+	<game id="1653" electronic="true">
+		<title>Castlevania: The Dracula X Chronicles</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-02-24</date>
+			<price>7.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			On sale for 50% off (normally $14.99) due to PS Vita's birthday.
+			Includes two versions of Rondo of Blood and Symphony of the Night.
+		</notes>
+	</game>
 	<!--
 	-->
 	<!--

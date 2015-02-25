@@ -1281,6 +1281,48 @@
 			<own>yes</own>
 			<notes>Appears to be new.</notes>
 		</item>
+		<item id="94">
+			<name>Xbox One Assassin's Creed Unity Bundle (500 GB)</name>
+			<system>
+				<console>Xbox</console>
+				<version>One</version>
+			</system>
+			<purchase>
+				<date>2015-02-22</date>
+				<price>271.28</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a bundle with console, second controller, and Wolfenstein, for $349.</notes>
+		</item>
+		<item id="95">
+			<name>Xbox One Wireless Controller</name>
+			<system>
+				<console>Xbox</console>
+				<version>One</version>
+			</system>
+			<purchase>
+				<date>2015-02-22</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a bundle with console, second controller, and Wolfenstein, for $349.</notes>
+		</item>
+		<item id="96">
+			<name>Xbox One Wireless Controller</name>
+			<system>
+				<console>Xbox</console>
+				<version>One</version>
+			</system>
+			<purchase>
+				<date>2015-02-22</date>
+				<price>46.64</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a bundle with console, second controller, and Wolfenstein, for $349.</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

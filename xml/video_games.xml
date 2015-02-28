@@ -878,7 +878,10 @@
 			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $5 with SCEA coupon. Bought guide 2005.01.15, $15.99, GameStop West Madison.</notes>
+		<notes>
+			Saved $5 with SCEA coupon. Bought guide 2005.01.15, $15.99, GameStop West Madison.
+			Bought limited edition guide 2/28/2015 for $9.99 from Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704. Didn't include poster.
+		</notes>
 	</game>
 	<game id="55">
 		<title>Front Mission 3</title>
@@ -2891,8 +2894,8 @@
 	<game id="184" beat="true" electronic="true">
 		<title>Super Mario World</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2009-02-10</date>
@@ -3993,8 +3996,8 @@
 	<game id="260" beat="true" electronic="true">
 		<title>Secret of Mana</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2009-09-05</date>
@@ -4053,8 +4056,8 @@
 	<game id="264" beat="true">
 		<title>Muramasa: The Demon Blade</title>
 		<system>
-			<console>Wii</console>
-			<version></version>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2009-09-17</date>
@@ -4540,8 +4543,8 @@
 	<game id="297">
 		<title>No More Heroes</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2010-05-17</date>
@@ -4730,8 +4733,8 @@
 	<game id="310">
 		<title>Fragile Dreams: Farewell Ruins of the Moon</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2010-10-09</date>
@@ -4803,8 +4806,8 @@
 	<game id="315">
 		<title>Kirby's Epic Yarn</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2010-10-23</date>
@@ -4830,6 +4833,7 @@
 			Received 11/4/2010, with PSP.
 			Started 11/5/2010 and beat 11/17/2010, with a time of around 27:04:42.
 			Purchased strategy guide 10/17/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't include poster.
+			Purchased second strategy guide 2/28/2015 for $6.99 from Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704. Included poster. 
 		</notes>
 	</game>
 	<game id="317" addOn="true" electronic="true">
@@ -5038,8 +5042,8 @@
 	<game id="331">
 		<title>MadWorld</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2011-01-22</date>
@@ -5108,8 +5112,8 @@
 	<game id="336">
 		<title>Opoona</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2011-02-05</date>
@@ -7524,8 +7528,8 @@
 	<game id="504">
 		<title>Wii Sports</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2009-02-03</date>
@@ -7829,8 +7833,8 @@
 	<game id="525">
 		<title>Xenoblade Chronicles</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-04-21</date>
@@ -8011,8 +8015,8 @@
 	<game id="538">
 		<title>A Boy and His Blob</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-05-05</date>
@@ -8651,8 +8655,8 @@
 	<game id="583">
 		<title>Last Story, The</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-03-13</date>
@@ -8679,8 +8683,8 @@
 	<game id="585">
 		<title>Last Story, The</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-08-26</date>
@@ -8749,8 +8753,8 @@
 	<game id="590">
 		<title>Xenoblade Chronicles</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-09-01</date>
@@ -8923,8 +8927,8 @@
 	<game id="602">
 		<title>Arc Rise Fantasia</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-10-06</date>
@@ -8965,8 +8969,8 @@
 	<game id="605">
 		<title>Sin &amp; Punishment: Star Successor</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2012-10-23</date>
@@ -9008,7 +9012,7 @@
 		</notes>
 	</game>
 	<game id="608">
-		<title>The House of the Dead Overkill: Extended Cut</title>
+		<title>House of the Dead Overkill, The: Extended Cut</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -10442,7 +10446,7 @@
 		<own>yes</own>
 		<notes>On sale, as it's a player's choice winner.</notes>
 	</game>
-	<game id="709">
+	<game id="709" electronic="true">
 		<title>Persona 2: Eternal Punishment</title>
 		<system>
 			<console>PlayStation</console>
@@ -10905,8 +10909,8 @@
 	<game id="741">
 		<title>Pandora's Tower</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2013-02-05</date>
@@ -10919,8 +10923,8 @@
 	<game id="742">
 		<title>Pandora's Tower</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2013-04-01</date>
@@ -11021,7 +11025,7 @@
 		<title>NieR Gestalt (Platinum Collection)</title>
 		<system>
 			<console>Xbox</console>
-			<version>360</version>
+			<version>360 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2013-05-16</date>
@@ -11909,8 +11913,8 @@
 	<game id="811">
 		<title>Metroid: Other M</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2013-11-01</date>
@@ -11951,7 +11955,7 @@
 		<own>yes</own>
 		<notes>Used. Saved $2.80 with PowerUp card. Not sure if I'm going to like this or not ... but worth a shot before the PS4 launches.</notes>
 	</game>
-	<game id="814">
+	<game id="814" electronic="true">
 		<title>Sine Mora</title>
 		<system>
 			<console>PlayStation</console>
@@ -12426,8 +12430,8 @@
 	<game id="847" used="true">
 		<title>Metroid Prime: Trilogy</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2014-01-05</date>
@@ -12440,8 +12444,8 @@
 	<game id="848" used="true">
 		<title>Tales of Symphonia: Dawn of the New World</title>
 		<system>
-			<console>Wii</console>
-			<version/>
+			<console>Nintendo</console>
+			<version>Wii</version>
 		</system>
 		<purchase>
 			<date>2014-01-05</date>
@@ -12639,7 +12643,7 @@
 			<price>59.96</price>
 			<place>Amazon.com</place>
 		</purchase>
-		<own></own>
+		<own>yes</own>
 		<notes>
 			Received on release day, 2/11/2014.
 			Purchased normal guide 1/13/2014 from Amazon.com for $18.48, which I received on 2/11/2014.
@@ -16770,8 +16774,8 @@
 	<game id="1157">
 		<title>New Super Mario Bros. U</title>
 		<system>
-			<console>Wii</console>
-			<version>U</version>
+			<console>Nintendo</console>
+			<version>Wii U</version>
 		</system>
 		<purchase>
 			<date>2014-06-23</date>
@@ -16784,8 +16788,8 @@
 	<game id="1158">
 		<title>New Super Luigi U</title>
 		<system>
-			<console>Wii</console>
-			<version>U</version>
+			<console>Nintendo</console>
+			<version>Wii U</version>
 		</system>
 		<purchase>
 			<date>2014-06-23</date>
@@ -16854,8 +16858,8 @@
 	<game id="1163" electronic="true">
 		<title>EarthBound</title>
 		<system>
-			<console>Wii</console>
-			<version>U</version>
+			<console>Nintendo</console>
+			<version>Wii U</version>
 		</system>
 		<purchase>
 			<date>2014-06-23</date>
@@ -20314,7 +20318,7 @@
 			<price>7.50</price>
 			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
-		<own></own>
+		<own>yes</own>
 		<notes>
 			50% off (from $14.99, since it was buy one get one half off.
 			Does not include box or manual.
@@ -21428,7 +21432,7 @@
 		<title>Xenosaga: Episode I: Der Wille zur Macht</title>
 		<system>
 			<console>PlayStation</console>
-			<version>3</version>
+			<version>2</version>
 		</system>
 		<purchase>
 			<date>2014-11-25</date>
@@ -21582,7 +21586,7 @@
 		<notes>$3 for 6 games, although I have one, and one is a F2P DLC.</notes>
 	</game>
 	<game id="1496">
-		<title>Kingdom Hearts H.D. 2.5 ReMIX Limited Edition</title>
+		<title>Kingdom Hearts HD 2.5 ReMIX Limited Edition</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -23645,7 +23649,7 @@
 		<title>Gauntlet &amp; Rampart</title>
 		<system>
 			<console>Nintendo</console>
-			<version>Gameboy Advance</version>
+			<version>Game Boy Advance</version>
 		</system>
 		<purchase>
 			<date>2015-02-14</date>
@@ -23965,6 +23969,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Free for PlayStation Plus. Normally $7.99.</notes>
+	</game>
+	<game id="1665" used="true">
+		<title>Chrono Cross</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date xsi:nil="true"/>
+			<price/>
+			<place/>
+		</purchase>
+		<own>yes</own>
+		<notes>Found 2/28/2015. No clue how long I've had this for.</notes>
+	</game>
+	<game id="1666" used="true">
+		<title>Blue Dragon: Awakened Shadow</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2015-02-28</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Complete. Selling for $60 new on Amazon.</notes>
+	</game>
+	<game id="1667" used="true">
+		<title>Anno 1701: Dawn of Discovery</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2015-02-28</date>
+			<price>2.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Complete. Cheaper than the incomplete version I bought a while back.</notes>
 	</game>
 	<!--
 	-->

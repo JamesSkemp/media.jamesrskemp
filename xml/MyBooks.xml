@@ -10837,4 +10837,19 @@
 		<buy date="2014-12-06" place="Amazon.com" price="0.00"/>
 		<notes>Was $0.99, but free because of some sort of promotion. Not that great.</notes>
 	</book>
+	<book id="1071">
+		<title pages="478">Learning LibGDX Game Development, 2nd Edition</title>
+		<buy date="2015-03-01" place="O'Reilly.com" price="14.99"/>
+		<notes>Electronic. Saved 50% with coupon; normally $29.99. Had my eye on this one, but picked up the others because of the coupon requirement (BOGO).</notes>
+	</book>
+	<book id="1072">
+		<title pages="516">Libgdx Cross-platform Game Development Cookbook</title>
+		<buy date="2015-03-01" place="O'Reilly.com" price="14.99"/>
+		<notes>Electronic. Saved 50% with coupon; normally $29.99.</notes>
+	</book>
+	<book id="1073">
+		<title pages="216">LibGDX Game Development Essentials</title>
+		<buy date="2015-03-01" place="O'Reilly.com" price="13.49"/>
+		<notes>Electronic. Saved 50% with coupon; normally $26.99.</notes>
+	</book>
 </books>

@@ -19,7 +19,7 @@ jQuery.beautyOfCode = {
         // overrides for configurations and defaults
         // http://alexgorbatchev.com/wiki/SyntaxHighlighter:Configuration
         config: {},
-        defaults: {},
+        defaults: { toolbar: false },
         // function to be called, when all scripts are loaded
         ready: function() {
             jQuery.beautyOfCode.beautifyAll();

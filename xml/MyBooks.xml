@@ -10850,6 +10850,9 @@
 	<book id="1073">
 		<title pages="216">LibGDX Game Development Essentials</title>
 		<buy date="2015-03-01" place="O'Reilly.com" price="13.49"/>
+		<readings finished="true">
+			<read time="1" finish="2015-03-07"/>
+		</readings>
 		<notes>Electronic. Saved 50% with coupon; normally $26.99.</notes>
 	</book>
 </books>

@@ -24040,7 +24040,42 @@
 		<own>yes</own>
 		<notes>Free with Gold.</notes>
 	</game>
+	<game id="1670">
+		<title>Sunset Overdrive (Day One Edition)</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-03-08</date>
+			<price>47.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $12 with recently purchased Gamers Club Unlocked.</notes>
+	</game>
+	<game id="1671">
+		<title>Bayonetta 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-03-08</date>
+			<price>41.84</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Saved $12 with Gamers Club Unlocked, and additional $6.15 with Amazon price match.
+			Includes first game.
+		</notes>
+	</game>
 	<!--
+	-->
+	<!--
+		Gamers Club Unlocked, 3/8/15:
+		$30 - 12 - 12 = $6 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

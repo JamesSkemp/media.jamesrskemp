@@ -23842,22 +23842,22 @@
 			<place>GamersGate</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $14.99.</notes>
+		<notes>Normally $14.99. Tried getting the second one too, but they ran out of keys.</notes>
 	</game>
-	<!--<game id="1656" electronic="true">
-		<title>Sniper Elite: Nazi Zombie Army 2</title>
+	<game id="1656" electronic="true">
+		<title>Closure</title>
 		<system>
 			<console>PC</console>
 			<version/>
 		</system>
 		<purchase>
-			<date>2015-02-26</date>
-			<price>3.75</price>
-			<place>GamersGate</place>
+			<date>2015-03-10</date>
+			<price>0.00</price>
+			<place>Gift</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $14.99.</notes>
-	</game>-->
+		<notes>Free from Brian Dell.</notes>
+	</game>
 	<game id="1657" electronic="true">
 		<title>Apotheon</title>
 		<system>
@@ -24072,7 +24072,6 @@
 		</notes>
 	</game>
 	<!--
-		1656 can be reused - no longer owned
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

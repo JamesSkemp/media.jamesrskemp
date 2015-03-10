@@ -23844,7 +23844,7 @@
 		<own>yes</own>
 		<notes>Normally $14.99.</notes>
 	</game>
-	<game id="1656" electronic="true">
+	<!--<game id="1656" electronic="true">
 		<title>Sniper Elite: Nazi Zombie Army 2</title>
 		<system>
 			<console>PC</console>
@@ -23857,7 +23857,7 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $14.99.</notes>
-	</game>
+	</game>-->
 	<game id="1657" electronic="true">
 		<title>Apotheon</title>
 		<system>
@@ -24072,6 +24072,7 @@
 		</notes>
 	</game>
 	<!--
+		1656 can be reused - no longer owned
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

@@ -54,12 +54,14 @@ comics
 	//.Where (c => c.DescriptiveName.Contains("Batman"))
 	//.Where (c => c.BoughtAt.Contains("Amazon"))
 	.Dump();
-
+// 582 = 577
+// this is no longer necessary.
+/*
 System.Xml.Serialization.XmlSerializer writer = new System.Xml.Serialization.XmlSerializer(comics.GetType());
 System.IO.StreamWriter file = new System.IO.StreamWriter(xmlPath);
 writer.Serialize(file, comics);
 file.Close();
-
+*/
 }
 
 public class Comic {

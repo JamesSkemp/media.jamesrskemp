@@ -19,7 +19,7 @@ reader.Close();
 comics.Select (c => c.AutoNumber).Max (c => c).Dump();
 
 comics
-	.Where (c => c.DescriptiveName.Contains("Plastron"))
+	//.Where (c => c.DescriptiveName.Contains("Flaming"))
 	.OrderBy (c => c.DescriptiveName)
 	.Dump();
 // 582 = 577

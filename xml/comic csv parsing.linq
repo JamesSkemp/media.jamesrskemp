@@ -17,8 +17,13 @@ while (!parser.EndOfData)
 	//Processing row
 	string[] fields = parser.ReadFields();
 
+	if (fields[0] == "AutoNumber") {
+		line++;
+		continue;
+	}
+
 	var comic = new Comic();
-	comic.AutoNumber = fields[0];
+	comic.AutoNumber = int.Parse(fields[0]);
 	comic.DescriptiveName = fields[1];
 	comic.Series = fields[2];
 	comic.Volume = fields[3];
@@ -33,11 +38,6 @@ while (!parser.EndOfData)
 	comic.Quantity = fields[12];
 	comic.Notes = fields[13];
 
-	if (comic.AutoNumber == "AutoNumber") {
-		line++;
-		continue;
-	}
-
 	foreach (string field in fields) 
 	{
 		//field.Dump();
@@ -47,6 +47,8 @@ while (!parser.EndOfData)
 	line++;
 }
 parser.Close();
+
+comics.Select (c => c.AutoNumber).Max (c => c).Dump();
 
 comics
 	//.Where (c => c.DescriptiveName.Contains("Batman"))
@@ -61,7 +63,7 @@ file.Close();
 }
 
 public class Comic {
-	public string AutoNumber { get; set; }
+	public int AutoNumber { get; set; }
 	public string DescriptiveName { get; set; }
 	public string Series { get; set; }
 	public string Volume { get; set; }

@@ -5859,6 +5859,86 @@
 		</purchase>
 		<notes>Free album.</notes>
 	</album>
+	<album id="655">
+		<title>Nouvelle Vague</title>
+		<artist>Nouvelle Vague</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Google Play</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>Digital. Amazon doesn't have it.</notes>
+	</album>
+	<album id="656">
+		<title>Utada Hikaru Single Collection Vol.1</title>
+		<artist>Utada Hikaru</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>3.98</price>
+		</purchase>
+		<notes>Digital. Automatic is on it. Cheap at only $6.99, and had $3.01 in credits from purchases.</notes>
+	</album>
+	<album id="657">
+		<title>Best Of [Explicit]</title>
+		<artist>Nouvelle Vague</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Digital.</notes>
+	</album>
+	<album id="658">
+		<title>Tales of Us (Deluxe Edition) [+video]</title>
+		<artist>Goldfrapp</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>12.49</price>
+		</purchase>
+		<notes>Digital. Totally worth the extra $2.50 for effectively two albums.</notes>
+	</album>
+	<album id="659">
+		<title>Don't Look Down [Explicit] [+digital booklet]</title>
+		<artist>Skylar Grey</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Digital.</notes>
+	</album>
+	<album id="660">
+		<title>Monstercat 007 - Solace</title>
+		<artist>Various artists</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Digital.</notes>
+	</album>
+	<album id="661">
+		<title>Imaginaerum</title>
+		<artist>Nightwish</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>9.49</price>
+		</purchase>
+		<notes>Digital. Recommendation from one of Tiffany's old boyfriends.</notes>
+	</album>
+	<album id="662">
+		<title>The Dance</title>
+		<artist>Fleetwood Mac</artist>
+		<purchase>
+			<date>2015-03-14</date>
+			<place>Amazon.com</place>
+			<price>5.00</price>
+		</purchase>
+		<notes>Digital. Monthly $5 album.</notes>
+	</album>
 	<!--
 		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.
 		Skeletons From the Closest, The Grateful Dead	0.49	Savers, East Madison	Tape.

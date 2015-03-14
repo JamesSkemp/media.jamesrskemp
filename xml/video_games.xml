@@ -892,7 +892,7 @@
 		<purchase>
 			<date>2005-01-23</date>
 			<price>19.99</price>
-			<place/>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Purchased strategy guide 12/7/2013 for $5.99 from PrePlayed, 3868 East Washington Ave, Madison 53704.</notes>
@@ -1449,9 +1449,9 @@
 			<version>1</version>
 		</system>
 		<purchase>
-			<date>2004-12</date>
-			<price/>
-			<place>ShopKo (East Madison)</place>
+			<date>2004-12-23</date>
+			<price>7.49</price>
+			<place>ShopKo #080 (East Madison)</place>
 		</purchase>
 		<sell>
 			<date xsi:nil="true"/>

@@ -24256,6 +24256,20 @@
 		<own>yes</own>
 		<notes>Normally $44.99, but saved 60% since I had the original two games.</notes>
 	</game>
+	<game id="1685" electronic="true">
+		<title>Cities: Skylines</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-03-13</date>
+			<price>17.27</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale and used $4.62 in account credit. Might have been close to release date?</notes>
+	</game>
 	<!--
 	-->
 	<!--

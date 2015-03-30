@@ -10855,4 +10855,12 @@
 		</readings>
 		<notes>Electronic. Saved 50% with coupon; normally $26.99.</notes>
 	</book>
+	<book id="1074">
+		<title>Milwaukee Mafia, The: Mobsters in the Heartland</title>
+		<authors>
+			<author>Gavin Schmitt</author>
+		</authors>
+		<buy date="2015-03-21" place="Barnes &amp; Nobles Booksellers #2720, 7433 Mineral Point Rd, Madison WI 53717" price="16.95"/>
+		<notes>Signed it there.</notes>
+	</book>
 </books>

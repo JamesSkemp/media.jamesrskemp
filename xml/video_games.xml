@@ -24746,6 +24746,62 @@
 		<own>yes</own>
 		<notes>Didn't include manual.</notes>
 	</game>
+	<game id="1720" electronic="true" beat="true">
+		<title>Forza Horizon 2 Presents Fast &amp; Furious Digital Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-03-17</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for a short time. Normally $9.99.</notes>
+	</game>
+	<game id="1721" electronic="true">
+		<title>Forza Horizon 2 Presents Fast &amp; Furious Digital Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-03-17</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for a short time. Normally $9.99.</notes>
+	</game>
+	<game id="1722">
+		<title>Animal Crossing: New Leaf</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2015-03-30</date>
+			<price>14.99</price>
+			<place>Target, Madison West</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $15 off. Heard this is good.</notes>
+	</game>
+	<game id="1723">
+		<title>Mario Kart 7</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2015-03-30</date>
+			<price>14.99</price>
+			<place>Target, Madison West</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $15 off.</notes>
+	</game>
 	<!--
 	-->
 	<!--

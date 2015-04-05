@@ -24802,6 +24802,90 @@
 		<own>yes</own>
 		<notes>On sale for $15 off.</notes>
 	</game>
+	<game id="1724" electronic="true">
+		<title>Creep!Speak: Episode 1</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-01</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell. No joke.</notes>
+	</game>
+	<game id="1725" electronic="true">
+		<title>Creep!Speak: Episode 2: Mendic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-01</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell.</notes>
+	</game>
+	<game id="1726">
+		<title>Ar nosurge: Ode to an Unborn Star</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-04-02</date>
+			<price>34.90</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Forget why I purchased. Received 4/4/2015.</notes>
+	</game>
+	<game id="1727" electronic="true">
+		<title>Child of Light</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-04-04</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $14.99.</notes>
+	</game>
+	<game id="1728" electronic="true">
+		<title>Terraria - Xbox 360 Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-04-04</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $14.99.</notes>
+	</game>
+	<game id="1729">
+		<title>Evil Within, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-04-03</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/5/2015. Heard generally meh things about this, but worth a try.</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -24813,6 +24897,8 @@
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
 	-->
 	<!--
+		Free for PlayStation Plus. Normally $9.99.
+		Free with Gold. Normally $.99.
 		Bought strategy guide /2014 for $ from .
 	-->
 	<!--

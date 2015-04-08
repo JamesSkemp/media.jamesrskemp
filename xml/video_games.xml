@@ -24914,6 +24914,62 @@
 		<own>yes</own>
 		<notes>Was my grandmother's. Unopened.</notes>
 	</game>
+	<game id="1732" electronic="true">
+		<title>Aerena</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-08</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>true</own>
+		<notes>Gift from Brian Dell.</notes>
+	</game>
+	<game id="1733" electronic="true">
+		<title>Gun Monkeys</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-08</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>true</own>
+		<notes>Gift from Brian Dell.</notes>
+	</game>
+	<game id="1734" electronic="true">
+		<title>ibb &amp; obb</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-08</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>true</own>
+		<notes>Gift from Brian Dell.</notes>
+	</game>
+	<game id="1735" electronic="true">
+		<title>Lilly Looking Through</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-08</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>true</own>
+		<notes>Gift from Brian Dell.</notes>
+	</game>
 	<!--
 	-->
 	<!--

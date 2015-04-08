@@ -24886,6 +24886,34 @@
 		<own>yes</own>
 		<notes>Received 4/5/2015. Heard generally meh things about this, but worth a try.</notes>
 	</game>
+	<game id="1730" used="true">
+		<title>Pong / Asteroids / Yar's Revenge</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2015-04-07</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's.</notes>
+	</game>
+	<game id="1731">
+		<title>Jam Sessions</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2015-04-07</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was my grandmother's. Unopened.</notes>
+	</game>
 	<!--
 	-->
 	<!--

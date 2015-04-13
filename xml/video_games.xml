@@ -24970,11 +24970,53 @@
 		<own>true</own>
 		<notes>Gift from Brian Dell.</notes>
 	</game>
+	<game id="1736">
+		<title>Xenoblade Chronicles 3D</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS (New)</version>
+		</system>
+		<purchase>
+			<date>2015-04-05</date>
+			<price>31.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Was released 4/10/2015, but picked up 4/11. Saved $8 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="1737" used="true">
+		<title>Warriors Orochi 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-04-11</date>
+			<price>4.49</price>
+			<place>GameStop, Beaver Dam, 106 Frances Ln, Beaver Dam WI 53916</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.50 with PowerUp rewards card. Disc doesn't look the best, but it works just fine. Cheap enough it was worth it.</notes>
+	</game>
+	<game id="1738">
+		<title>Middle Earth: Shadow of Mordor</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-04-11</date>
+			<price>31.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $8 with Gamers Club Unlocked.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 = $6 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 = -$10 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

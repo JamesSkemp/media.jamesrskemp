@@ -9827,11 +9827,29 @@
     <Quantity>1</Quantity>
     <Notes>Received 3/9/2015. Included with the others for some reason.</Notes>
   </Comic>
+  <Comic>
+    <AutoNumber>627</AutoNumber>
+    <DescriptiveName>Teenage Mutant Ninja Turtles 2012 Annual: Deluxe Edition</DescriptiveName>
+    <Series>Annual</Series>
+    <Volume>1</Volume>
+    <Number>1</Number>
+    <Publisher>IDW</Publisher>
+    <MonthYearPublished>December 2013</MonthYearPublished>
+    <Price>39.99</Price>
+    <BoughtAt>Amazon.com</BoughtAt>
+    <BoughtDate>2015-04-05</BoughtDate>
+    <BoughtPrice>28.32</BoughtPrice>
+    <Quantity>1</Quantity>
+    <Notes>Received 4/11/2015.</Notes>
+  </Comic>
   <!--
   -->
-  <!-- Next number: 627 -->
+  <!-- Next number: 628 -->
   <!--
 	2015.02.02 pre-ordered at Amazon.com
 Teenage Mutant Ninja Turtles Classics Volume 10	15.47
+  2015.04.05 at Amazon.com
+Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6  44.99
+Tales of the Teenage Mutant Ninja Turtles Volume 7  19.99
   -->
 </ArrayOfComic>

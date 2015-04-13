@@ -10863,4 +10863,36 @@
 		<buy date="2015-03-21" place="Barnes &amp; Nobles Booksellers #2720, 7433 Mineral Point Rd, Madison WI 53717" price="16.95"/>
 		<notes>Signed it there.</notes>
 	</book>
+	<book id="1075">
+		<title>Love Ain't Nothing But Sex Misspelled</title>
+		<authors>
+			<author>Harlan Ellison</author>
+		</authors>
+		<buy date="2015-04-12" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="1.48"/>
+		<notes>Went for their board games and found two old Ellison books.</notes>
+	</book>
+	<book id="1076">
+		<title>No Doors, No Windows</title>
+		<authors>
+			<author>Harlan Ellison</author>
+		</authors>
+		<buy date="2015-04-12" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="1.48"/>
+		<notes>Went for their board games and found two old Ellison books.</notes>
+	</book>
+	<book id="1077">
+		<title>World as Will Representation, The: Volume II</title>
+		<authors>
+			<author>Arthur Schopenhauer</author>
+		</authors>
+		<buy date="2015-04-12" place="Half Price Books #041, 4250 East Towne Blvd, Madison WI 53704" price="5.99"/>
+		<notes>Cheap enough to warrant finally picking up a second volume 2.</notes>
+	</book>
+	<book id="1078">
+		<title>Penultimate Truth, The</title>
+		<authors>
+			<author>Philip K. Dick</author>
+		</authors>
+		<buy date="2015-04-12" place="Half Price Books #041, 4250 East Towne Blvd, Madison WI 53704" price="1.98"/>
+		<notes>Very old copy worth a purchase.</notes>
+	</book>
 </books>

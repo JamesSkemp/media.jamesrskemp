@@ -3000,6 +3000,15 @@
 				<costTotal>25.03</costTotal>
 				<notes>Driving mom around because her VW is totalled.</notes>
 			</fillup>
+			<fillup id="266">
+				<date>2015-04-12</date>
+				<milesCar>56776</milesCar>
+				<milesDriven>331.7</milesDriven>
+				<gallons>12.998</gallons>
+				<costGallon>2.239</costGallon>
+				<costTotal>28.45</costTotal>
+				<notes>Paid $2.189/gallon with card. Had an empty light on, and just did an oil change a few days ago. Drove up to Beaver Dam the day before.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

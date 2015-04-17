@@ -25152,6 +25152,20 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but part of this weekend's PSN Flash Sale.</notes>
 	</game>
+	<game id="1749" electronic="true">
+		<title>Grim Dawn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-04-17</date>
+			<price>14.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend. Normally $24.99. Early access, but Reddit says it's quite good.</notes>
+	</game>
 	<!--
 	-->
 	<!--

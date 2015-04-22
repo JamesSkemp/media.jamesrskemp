@@ -25166,6 +25166,34 @@
 		<own>yes</own>
 		<notes>On sale this weekend. Normally $24.99. Early access, but Reddit says it's quite good.</notes>
 	</game>
+	<game id="1750">
+		<title>Tears to Tiara II: Heir of the Overlord</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-04-19</date>
+			<price>25.92</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/21/2015.</notes>
+	</game>
+	<game id="1751">
+		<title>Record of Agarest War 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-04-19</date>
+			<price>16.61</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap enough I decided to purchase. Received 4/21/2015.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -1323,6 +1323,20 @@
 			<own>yes</own>
 			<notes>Part of a bundle with console, second controller, and Wolfenstein, for $349.</notes>
 		</item>
+		<item id="97">
+			<name>PlayStation Move Navigation Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2015-04-19</date>
+				<price>12.00</price>
+				<place>Amazon.com (goHastings)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Cheap enough to now have two full sets of Move controllers.</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

@@ -24984,7 +24984,7 @@
 		<own>yes</own>
 		<notes>Pre-ordered. Was released 4/10/2015, but picked up 4/11. Saved $8 with Gamers Club Unlocked.</notes>
 	</game>
-	<game id="1737" used="true">
+	<game id="1737" used="true" beat="true">
 		<title>Warriors Orochi 2</title>
 		<system>
 			<console>Xbox</console>
@@ -24996,7 +24996,10 @@
 			<place>GameStop, Beaver Dam, 106 Frances Ln, Beaver Dam WI 53916</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $0.50 with PowerUp rewards card. Disc doesn't look the best, but it works just fine. Cheap enough it was worth it.</notes>
+		<notes>
+			Saved $0.50 with PowerUp rewards card. Disc doesn't look the best, but it works just fine. Cheap enough it was worth it.
+			Considering beat on 4/25/2015. Lot of fun.
+		</notes>
 	</game>
 	<game id="1738">
 		<title>Middle Earth: Shadow of Mordor</title>
@@ -25263,6 +25266,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Saved $6 with Gamers Club Unlocked, and was $10 off (clearance pricing, I believe). Picked up 4/23/2015 (shipped to store).</notes>
+	</game>
+	<game id="1757" used="true">
+		<title>Witch and the Hundred Knight, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-04-24</date>
+			<price>16.19</price>
+			<place>GameStop, State Street Mall, 640 State Street, Madison WI 53703</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $1.80 with PowerUp Card.</notes>
 	</game>
 	<!--
 	-->

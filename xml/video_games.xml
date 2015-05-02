@@ -25281,6 +25281,20 @@
 		<own>yes</own>
 		<notes>Saved $1.80 with PowerUp Card.</notes>
 	</game>
+	<game id="1758" electronic="true">
+		<title>Vampire: The Masquerade - Bloodlines</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-01</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale for 75% off. Heard the Unofficial patch makes it quite good. GOG had a lesser game in the series on sale, which started me asking about this. Also the cheapest it's ever been.</notes>
+	</game>
 	<!--
 	-->
 	<!--

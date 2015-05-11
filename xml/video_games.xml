@@ -25435,7 +25435,7 @@
 		<own>yes</own>
 		<notes>Part of the Killer Bundle 3, which was $4.99 for 10 games.</notes>
 	</game>
-	<game id="1769" electronic="true">
+	<game id="1769" electronic="true" beat="true">
 		<title>Woolfe - The Red Hood Diaries</title>
 		<system>
 			<console>PC</console>
@@ -25447,7 +25447,24 @@
 			<place>GamersGate</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used blue coins, so it was free. Normally $9.99.</notes>
+		<notes>
+			Used blue coins, so it was free. Normally $9.99.
+			Finished 5/9/2015.
+		</notes>
+	</game>
+	<game id="1770" electronic="true">
+		<title>Ridge Racer Unbounded Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-08</date>
+			<price>3.74</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
 	</game>
 	<!--
 	-->

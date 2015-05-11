@@ -3009,6 +3009,15 @@
 				<costTotal>28.45</costTotal>
 				<notes>Paid $2.189/gallon with card. Had an empty light on, and just did an oil change a few days ago. Drove up to Beaver Dam the day before.</notes>
 			</fillup>
+			<fillup id="267">
+				<date>2015-05-06</date>
+				<milesCar>56985</milesCar>
+				<milesDriven>208.1</milesDriven>
+				<gallons>9.257</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>23.13</costTotal>
+				<notes>Been driving into work since I haven't been able to feel good.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

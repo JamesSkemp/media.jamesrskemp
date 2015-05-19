@@ -25466,6 +25466,135 @@
 		<own>yes</own>
 		<notes>On sale.</notes>
 	</game>
+	<game id="1771" electronic="true">
+		<title>Wolf Among Us, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>4.75</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $24.99. Heard it's better on the PS4.</notes>
+	</game>
+	<game id="1772" electronic="true">
+		<title>Ace Combat: Assault Horizon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>4.80</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $19.99.</notes>
+	</game>
+	<game id="1773" electronic="true">
+		<title>Zombie Driver HD</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>4.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $9.99.</notes>
+	</game>
+	<game id="1774" electronic="true">
+		<title>Hohokum</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1775" electronic="true">
+		<title>Hohokum</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1776" electronic="true">
+		<title>Hohokum</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1777" electronic="true" beat="true">
+		<title>Mursasaki Baby</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Free for PlayStation Plus. Normally $14.99.
+			Beat 5/16/2015. 2 of 5 stars, only because of artwork. Can't unlock last three trophies. Touchscreen controls are frustrating.
+		</notes>
+	</game>
+	<game id="1778" used="true">
+		<title>Splatterhouse</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-17</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>First time I've seen the PS3 version used, period. HVGN recommendation.</notes>
+	</game>
+	<game id="1779" used="true">
+		<title>Samurai Warriors: State of War</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-05-17</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Could be good, could not be.</notes>
+	</game>
 	<!--
 	-->
 	<!--

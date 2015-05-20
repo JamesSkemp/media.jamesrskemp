@@ -25595,6 +25595,160 @@
 		<own>yes</own>
 		<notes>Could be good, could not be.</notes>
 	</game>
+	<game id="1780" electronic="true">
+		<title>Space Pirates and Zombies</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one. Supposedly really good, and looks fun. Appears to be worth the price of the bundle alone.</notes>
+	</game>
+	<game id="1781" electronic="true">
+		<title>Universe Sandbox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1782" electronic="true">
+		<title>Waves</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1783" electronic="true">
+		<title>Dead Effect</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1784" electronic="true">
+		<title>Enemy Mind</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1785" electronic="true">
+		<title>Syder Arcade</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1786" electronic="true">
+		<title>Boid</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1787" electronic="true">
+		<title>Dark Matter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1788" electronic="true">
+		<title>Smugglers 5</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-18</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Deep Space Bundle, which was $2.99 for 10 games, but I had one.</notes>
+	</game>
+	<game id="1789">
+		<title>Ryu ga Gotoku 1&amp;2 HD EDITION (PlayStation 3 the Best)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-17</date>
+			<price>22.05</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version.</notes>
+	</game>
+	<game id="1790">
+		<title>Ryu ga Gotoku Kenzan! (PlayStation 3 the Best)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-17</date>
+			<price>22.98</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

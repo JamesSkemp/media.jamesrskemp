@@ -34,9 +34,9 @@ var output = datum
 	;
 
 output
-	.Where (g => g.System == "Nintendo DS") //PlayStation Portable
+	//.Where (g => g.System.Contains("PlayStation 2 (")) //PlayStation Portable
+	.Where (g => g.System == "PlayStation 3")
 	.Dump();
 	
 var consoles = output.GroupBy (g => g.System).Select (g => new { g.Key, Count = g.Count() }).OrderBy (g => g.Key);
 consoles.Dump();
-

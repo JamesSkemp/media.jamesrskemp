@@ -25733,7 +25733,7 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Japanese version.</notes>
+		<notes>Japanese version. Received 5/20/2015.</notes>
 	</game>
 	<game id="1790">
 		<title>Ryu ga Gotoku Kenzan! (PlayStation 3 the Best)</title>
@@ -25747,9 +25747,26 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Japanese version.</notes>
+		<notes>Japanese version. Received 5/20/2015.</notes>
+	</game>
+	<game id="1791">
+		<title>Ryu ga Gotoku OF THE END</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-17</date>
+			<price>22.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 5/20/2015.</notes>
 	</game>
 	<!--
+		Sengoku Basara HD Collection [Japan Import]
+		33.20
+		ordered 5/19/2015 from Amazon.com
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

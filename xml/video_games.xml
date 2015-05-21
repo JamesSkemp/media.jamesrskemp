@@ -25763,10 +25763,21 @@
 		<own>yes</own>
 		<notes>Japanese version. Received 5/20/2015.</notes>
 	</game>
+	<game id="1792">
+		<title>Sengoku Basara HD Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-05-19</date>
+			<price>33.20</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 5/21/2015.</notes>
+	</game>
 	<!--
-		Sengoku Basara HD Collection [Japan Import]
-		33.20
-		ordered 5/19/2015 from Amazon.com
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

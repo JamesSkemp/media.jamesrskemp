@@ -3018,6 +3018,15 @@
 				<costTotal>23.13</costTotal>
 				<notes>Been driving into work since I haven't been able to feel good.</notes>
 			</fillup>
+			<fillup id="268">
+				<date>2015-05-23</date>
+				<milesCar>57149</milesCar>
+				<milesDriven>164.8</milesDriven>
+				<gallons>7.394</gallons>
+				<costGallon>2.589</costGallon>
+				<costTotal>19.14</costTotal>
+				<notes>Been driving into work since I still haven't been feeling good. At half a tank, I think.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

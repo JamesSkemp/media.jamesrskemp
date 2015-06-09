@@ -3027,6 +3027,15 @@
 				<costTotal>19.14</costTotal>
 				<notes>Been driving into work since I still haven't been feeling good. At half a tank, I think.</notes>
 			</fillup>
+			<fillup id="269">
+				<date>2015-06-08</date>
+				<milesCar>57461</milesCar>
+				<milesDriven>311.7</milesDriven>
+				<gallons>12.196</gallons>
+				<costGallon>2.579</costGallon>
+				<costTotal>29.75</costTotal>
+				<notes>Paid $2.439/gallon thanks to $0.14/gallon savings from card. Still driving into work.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

@@ -25579,7 +25579,10 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>First time I've seen the PS3 version used, period. HVGN recommendation.</notes>
+		<notes>
+			First time I've seen the PS3 version used, period. HVGN recommendation.
+			Started and finished 6/6/2015. Took less than 10 hours I think? Maybe 7?
+		</notes>
 	</game>
 	<game id="1779" used="true">
 		<title>Samurai Warriors: State of War</title>
@@ -25791,11 +25794,123 @@
 		<own>yes</own>
 		<notes>Japanese version, from Japan. Received 5/30/2015.</notes>
 	</game>
+	<game id="1794" electronic="true">
+		<title>Warhammer 40,000: Dawn of War - Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1795" electronic="true">
+		<title>Warhammer 40,000: Dawn of War II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1796" electronic="true">
+		<title>Warhammer 40,000: Dawn of War II: Retribution</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1797" electronic="true">
+		<title>Company of Heroes Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1798" electronic="true">
+		<title>Company of Heroes 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1799" electronic="true">
+		<title>Company of Heroes 2 - The Western Front Armies: Oberkommando West</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1800" electronic="true">
+		<title>Company of Heroes 2 - The Western Front Armies: US Forces</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-05-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>8 games for $4.76, but already had one.</notes>
+	</game>
+	<game id="1801">
+		<title>Watch Dogs</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-06-07</date>
+			<price>9.39</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was on sale, then saved $2.60 with Gamer's Club Unlocked, then saved $1.00 since the item wasn't at the online pickup area and I went to get it. Nice of him to do (gentleman in wheelchair) and we had a nice conversation about Geek Squad burn-in protection.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 = -$16 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 = -$18.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

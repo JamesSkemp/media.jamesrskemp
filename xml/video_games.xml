@@ -25906,6 +25906,244 @@
 		<own>yes</own>
 		<notes>Was on sale, then saved $2.60 with Gamer's Club Unlocked, then saved $1.00 since the item wasn't at the online pickup area and I went to get it. Nice of him to do (gentleman in wheelchair) and we had a nice conversation about Geek Squad burn-in protection.</notes>
 	</game>
+	<game id="1802">
+		<title>Yakuza 5</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-06-07</date>
+			<price>33.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 6/13/2015.</notes>
+	</game>
+	<game id="1803">
+		<title>Chaos Wars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-06-07</date>
+			<price>18.80</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Heard the voice acting was horrible, but more importantly that it features Shadow Hearts characters. Received 6/13/2015.</notes>
+	</game>
+	<game id="1804" electronic="true">
+		<title>Battle Realms + Winter of the Wolf</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-10</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free, as part of summer sale.</notes>
+	</game>
+	<game id="1805" electronic="true">
+		<title>Left 4 Dead</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-12</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Left 4 Dead Bundle, which contains the first and second game for $5.99. 80% off for Steam Summer Sale.</notes>
+	</game>
+	<game id="1806" electronic="true">
+		<title>Left 4 Dead 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-12</date>
+			<price>3.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Left 4 Dead Bundle, which contains the first and second game for $5.99. 80% off for Steam Summer Sale.</notes>
+	</game>
+	<game id="1807" electronic="true">
+		<title>Long Live the Queen</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-13</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Steam Summer Sale Flash Sale.</notes>
+	</game>
+	<game id="1808" electronic="true">
+		<title>Creeper World 3: Arc Eternal</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-13</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Steam Summer Sale Daily Deal.</notes>
+	</game>
+	<game id="1809" electronic="true">
+		<title>Massive Chalice</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-06-13</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Free with Gold.</notes>
+	</game>
+	<game id="1810" electronic="true">
+		<title>Forced</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-13</date>
+			<price>2.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Steam Summer Sale Monster Game unlock.</notes>
+	</game>
+	<game id="1811" electronic="true">
+		<title>Kings Bounty: Dark Side Premium Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2014-06-14</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Steam Summer Sale Monster Deal.</notes>
+	</game>
+	<game id="1812" electronic="true">
+		<title>Mimana Iyar Chronicle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-06-16</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but E3 sale.</notes>
+	</game>
+	<game id="1813" electronic="true">
+		<title>Skulls of the Shogun</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-06-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free for PlayStation Plus.</notes>
+	</game>
+	<game id="1814" electronic="true">
+		<title>Super Exploding Zoo!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-06-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but free for PlayStation Plus.</notes>
+	</game>
+	<game id="1815" electronic="true">
+		<title>Super Exploding Zoo!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-06-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but free for PlayStation Plus.</notes>
+	</game>
+	<game id="1816" electronic="true">
+		<title>Call of Juarez: Gunslinger</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-06-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free for PlayStation Plus.</notes>
+	</game>
+	<game id="1817" electronic="true">
+		<title>Cubetractor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-17</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell.</notes>
+	</game>
+	<game id="1818" electronic="true">
+		<title>Abyss Odyssey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-17</date>
+			<price>5.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Steam Summer sale monster discount.</notes>
+	</game>
 	<!--
 	-->
 	<!--

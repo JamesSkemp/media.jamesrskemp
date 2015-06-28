@@ -26144,6 +26144,329 @@
 		<own>yes</own>
 		<notes>Normally $14.99. Steam Summer sale monster discount.</notes>
 	</game>
+	<game id="1819" electronic="true">
+		<title>Mark of the Ninja</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>2.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Steam Summer Sale flash sale.</notes>
+	</game>
+	<game id="1820" electronic="true">
+		<title>Hero Siege</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>0.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Steam Summer Sale flash sale.</notes>
+	</game>
+	<game id="1821" electronic="true">
+		<title>Nom Nom Galaxy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Steam Summer Sale flash sale. Early access, but Q-Games (PixelJunk).</notes>
+	</game>
+	<game id="1822" electronic="true">
+		<title>Hand of Fate</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>12.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99. Steam Summer Sale daily deal.</notes>
+	</game>
+	<game id="1823" electronic="true">
+		<title>FTL: Faster Than Light</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Steam Summer Sale flash sale.</notes>
+	</game>
+	<game id="1824" electronic="true">
+		<title>Life Is Strange Complete Season (Episodes 1-5)</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-18</date>
+			<price>15.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Steam Summer Sale daily deal.</notes>
+	</game>
+	
+	<game id="1825" electronic="true">
+		<title>Dungeon Keeper Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1826" electronic="true">
+		<title>Dungeon Keeper 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1827" electronic="true">
+		<title>Populous</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1828" electronic="true">
+		<title>Populous 2: Trials of the Olympian Gods</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1829" electronic="true">
+		<title>Populous: The Beginning</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1830" electronic="true">
+		<title>Syndicate Plus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1831" electronic="true">
+		<title>Syndicate Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1832" electronic="true">
+		<title>Magic Carpet Plus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1833" electronic="true">
+		<title>Magic Carpet 2: The Netherworlds</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1834" electronic="true">
+		<title>Theme Park</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.19</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.</notes>
+	</game>
+	<game id="1835" electronic="true">
+		<title>Avernum: Escape From the Pit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.99</price>
+			<place>GOG</place>
+		</purchase>
+		<own></own>
+		<notes>Normally $9.99, but on sale as part of summer sale.</notes>
+	</game>
+	<game id="1836" electronic="true">
+		<title>Unepic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>2.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99. Steam Summer sale, Monster deal.</notes>
+	</game>
+	<game id="1837" electronic="true">
+		<title>Legend of Heroes, The: Trails in the Sky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Steam Summer sale, flash sale.</notes>
+	</game>
+	<game id="1838" electronic="true">
+		<title>One Finger Death Punch</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-19</date>
+			<price>1.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Steam Summer sale, flash sale.</notes>
+	</game>
+	<game id="1839" electronic="true">
+		<title>Afterlife</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-20</date>
+			<price>3.99</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Summer sale, and it hasn't gone below this price yet according to isthereanydeal.</notes>
+	</game>
+	<game id="1840" electronic="true">
+		<title>Majesty Gold HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-20</date>
+			<price>2.49</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Summer sale. Appears the second isn't worth getting.</notes>
+	</game>
+	<game id="1841" electronic="true">
+		<title>S.T.A.L.K.E.R.: Clear Sky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-20</date>
+			<price>0.00</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free as part of the summer sale, due to amount I had spent.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -5939,6 +5939,16 @@
 		</purchase>
 		<notes>Digital. Monthly $5 album.</notes>
 	</album>
+	<album id="663">
+		<title>Wolves Are Whispering, The</title>
+		<artist>Bang Gang</artist>
+		<purchase>
+			<date>2015-06-26</date>
+			<place>Amazon.com</place>
+			<price>699</price>
+		</purchase>
+		<notes>Was just released on the 23rd.</notes>
+	</album>
 	<!--
 		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.
 		Skeletons From the Closest, The Grateful Dead	0.49	Savers, East Madison	Tape.

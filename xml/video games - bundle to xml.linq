@@ -1,20 +1,23 @@
 <Query Kind="Statements" />
 
-var startingId = 1275;
+var startingId = 1825;
 var titles = new List<string>() {
-"Unholy Heights0.33Historical Lowest Price: $1.59",
-"One Way Heroics0.33Historical Lowest Price: $0.87",
-"GIGANTIC ARMY0.34Historical Lowest Price: $2.99",
-"Ys Origin1.67Historical Lowest Price: $4.99",
-"Mitsurugi Kamui Hikae1.67Historical Lowest Price: $2.49",
-"PixelJunk Shooter1.66Historical Lowest Price: $1.25",
-"Astebreed4.00Historical Lowest Price: $9.994.00"
+"Dungeon Keeper Gold",
+"Dungeon Keeper 2",
+"Populous",
+"Populous 2: Trials of the Olympian Gods",
+"Populous: The Beginning",
+"Syndicate Plus",
+"Syndicate Wars",
+"Magic Carpet Plus",
+"Magic Carpet 2: The Netherworlds",
+"Theme Park"
 };
 
-var date = "2014-08-07";
-var price = "";
-var place = "Humble Bundle";
-var note = "Part of the Humble Weekly Bundle: Japan Edtion! - $10 for 7 games.";
+var date = "2015-06-19";
+var price = "1.19";
+var place = "GOG";
+var note = "Normally $5.99, but on sale for 80% off. Part of the Best of Bullfrog collection.";
 
 var xmlFormat = @"
 	<game id=""{0}"" electronic=""true"">

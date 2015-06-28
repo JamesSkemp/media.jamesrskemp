@@ -26467,6 +26467,286 @@
 		<own>yes</own>
 		<notes>Free as part of the summer sale, due to amount I had spent.</notes>
 	</game>
+	<game id="1842" electronic="true">
+		<title>Borderlands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.97</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Borderlands Bundle, at the pay what you want tier.</notes>
+	</game>
+	<game id="1843" electronic="true" addOn="true">
+		<title>Borderlands: The Zombie Island of Dr. Ned</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Borderlands Bundle, at the pay what you want tier.</notes>
+	</game>
+	<game id="1844" electronic="true" addOn="true">
+		<title>Borderlands: Mad Moxxi's Underdome Riot</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Borderlands Bundle, at the pay what you want tier.</notes>
+	</game>
+	<game id="1845" electronic="true" addOn="true">
+		<title>Borderlands: The Secret Armory of General Knoxx</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Borderlands Bundle, at the pay what you want tier.</notes>
+	</game>
+	<game id="1846" electronic="true">
+		<title>Evil Genius</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>2.99</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Weekend sale.</notes>
+	</game>
+	<game id="1847" electronic="true">
+		<title>Moonbase Commander</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-28</date>
+			<price>1.79</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Weekend sale.</notes>
+	</game>
+	<game id="1848" electronic="true">
+		<title>Tengami</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games.</notes>
+	</game>
+	<game id="1849" electronic="true">
+		<title>Where is my Heart?</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games.</notes>
+	</game>
+	<game id="1850" electronic="true">
+		<title>Back to Bed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games.</notes>
+	</game>
+	<game id="1851" electronic="true">
+		<title>7 Grand Steps: What Ancients Begat</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games.</notes>
+	</game>
+	<game id="1852" electronic="true">
+		<title>Deep Under the Sky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games.</notes>
+	</game>
+	<game id="1853" electronic="true">
+		<title>Valdis Story: Abyssal City</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-26</date>
+			<price>0.60</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Eye Candy 3 (bta), which was $3.60 for 6 games. Item I really wanted in the bundle.</notes>
+	</game>
+	<game id="1854" electronic="true">
+		<title>Vandal Hearts: Flames of Judgment</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>3.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but flash sale this weekend.</notes>
+	</game>
+	<game id="1855" electronic="true">
+		<title>New Little King's Story</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>5.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but flash sale this weekend.</notes>
+	</game>
+	<game id="1856" electronic="true">
+		<title>Super Mario 64</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>0.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Redeemed 250 Club Nintendo points for a free copy of the game.</notes>
+	</game>
+	<game id="1857" electronic="true">
+		<title>Super Mario 64</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>2.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Upgraded from Wii to Wii U version.</notes>
+	</game>
+	<game id="1858" electronic="true">
+		<title>Paper Mario</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>0.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Redeemed 250 Club Nintendo points for a free copy of the game.</notes>
+	</game>
+	<game id="1859" electronic="true">
+		<title>Paper Mario</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>2.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Upgraded from Wii to Wii U version.</notes>
+	</game>
+	<game id="1860" electronic="true">
+		<title>Super Mario World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>0.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Redeemed 200 Club Nintendo points for a free copy of the game.</notes>
+	</game>
+	<game id="1861" electronic="true">
+		<title>EarthBound Beginnings</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>6.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Just came out a short while ago. It's essentially the translated Mother game.</notes>
+	</game>
 	<!--
 	-->
 	<!--

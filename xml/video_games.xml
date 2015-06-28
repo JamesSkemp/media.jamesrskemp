@@ -11528,7 +11528,7 @@
 		<own>yes</own>
 		<notes>Free for PlayStation Plus members.</notes>
 	</game>
-	<game id="785">
+	<game id="785" used="true">
 		<title>Arc the Lad: End of Darkness</title>
 		<system>
 			<console>PlayStation</console>
@@ -11540,9 +11540,9 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used.</notes>
+		<notes>Bought strategy guide 6/27/2015 for $4.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</game>
-	<game id="786">
+	<game id="786" used="true">
 		<title>Jade Empire: Limited Edition</title>
 		<system>
 			<console>Xbox</console>
@@ -11555,11 +11555,11 @@
 		</purchase>
 		<own>yes</own>
 		<notes>
-			Used. Seemingly this is very good, and 360 compatible. Included bonus disc.
+			Seemingly this is very good, and 360 compatible. Included bonus disc.
 			Bought strategy guide 8/24/2013 used for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-4107.
 		</notes>
 	</game>
-	<game id="787">
+	<game id="787" used="true">
 		<title>Shenmue II</title>
 		<system>
 			<console>Xbox</console>
@@ -11572,7 +11572,7 @@
 		</purchase>
 		<own>yes</own>
 		<notes>
-			Used. At this price it's worth picking up. Actually included movie.
+			At this price it's worth picking up. Actually included movie.
 			Purchased game guide 11/23/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
 		</notes>
 	</game>
@@ -22614,7 +22614,10 @@
 			<place>People Play Games, 3268 N Clark St, Chicago IL 60657</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Japanese copy. They had a handful, but only this one looked good.</notes>
+		<notes>
+			Japanese copy. They had a handful, but only this one looked good.
+			Bought strategy guide 6/27/2015 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="1569" electronic="true">
 		<title>D4: Dark Dreams Don't Die</title>
@@ -26746,6 +26749,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Just came out a short while ago. It's essentially the translated Mother game.</notes>
+	</game>
+	<game id="1862" used="true">
+		<title>MindJack</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-06-27</date>
+			<price>8.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Told myself I'd pick up a copy again and since I haven't played the 360 version ...</notes>
 	</game>
 	<!--
 	-->

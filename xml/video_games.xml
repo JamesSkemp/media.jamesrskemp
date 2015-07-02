@@ -26808,6 +26808,230 @@
 		<own>yes</own>
 		<notes>Received 6/28/2015.</notes>
 	</game>
+	<game id="1865" electronic="true">
+		<title>Borderlands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.97</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, pay what you want tier, which was $1 for main game and three DLC.</notes>
+	</game>
+	<game id="1866" electronic="true" addOn="true">
+		<title>Borderlands: The Zombie Island of Dr. Ned</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, pay what you want tier, which was $1 for main game and three DLC.</notes>
+	</game>
+	<game id="1867" electronic="true" addOn="true">
+		<title>Borderlands: Mad Moxxi's Underdome Riot</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, pay what you want tier, which was $1 for main game and three DLC.</notes>
+	</game>
+	<game id="1868" electronic="true" addOn="true">
+		<title>Borderlands: The Secret Armory of General Knoxx</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-23</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, pay what you want tier, which was $1 for main game and three DLC.</notes>
+	</game>
+	<game id="1869" electronic="true" addOn="true">
+		<title>Borderlands: Claptrap's Robot Revolution</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>$0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1870" electronic="true">
+		<title>Borderlands 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>3.95</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1871" electronic="true" addOn="true">
+		<title>Borderlands 2: Psycho Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1872" electronic="true" addOn="true">
+		<title>Borderlands 2: Mechromancer Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1873" electronic="true" addOn="true">
+		<title>Borderlands 2: Creature Slaughterdome</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1874" electronic="true" addOn="true">
+		<title>Borderlands 2: Headhunter 1: Bloody Harvest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1875" electronic="true" addOn="true">
+		<title>Borderlands 2: Headhunter 2: Wattle Gobbler</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1876" electronic="true" addOn="true">
+		<title>Borderlands 2: Headhunter 3: Mercenary Day</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1877" electronic="true" addOn="true">
+		<title>Borderlands 2: Headhunter 4: Wedding Day Massacre</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, second tier, which was $4 more for BL2 game and eight DLC.</notes>
+	</game>
+	<game id="1878" electronic="true" addOn="true">
+		<title>Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, third tier, which was $10 more for BL2 season pass and two more DLC.</notes>
+	</game>
+	<game id="1879" electronic="true" addOn="true">
+		<title>Borderlands 2: Headhunter 5: Son of Crawmerax</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, third tier, which was $10 more for BL2 season pass and two more DLC.</notes>
+	</game>
+	<game id="1880" electronic="true" addOn="true">
+		<title>Borderlands 2: Season Pass (4 DLC items)</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-06-30</date>
+			<price>9.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Borderlands Bundle, third tier, which was $10 more for BL2 season pass and two more DLC.</notes>
+	</game>
 	<!--
 	-->
 	<!--

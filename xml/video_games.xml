@@ -27032,6 +27032,48 @@
 		<own>yes</own>
 		<notes>Humble Borderlands Bundle, third tier, which was $10 more for BL2 season pass and two more DLC.</notes>
 	</game>
+	<game id="1881" used="true">
+		<title>Warriors Orochi</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-07-04</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="1882" used="true">
+		<title>Earth Defense Force 2017</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-07-04</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth it, I think.</notes>
+	</game>
+	<game id="1883" used="true">
+		<title>Tales of Phantasia</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Game Boy Advance</version>
+		</system>
+		<purchase>
+			<date>2015-07-04</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. I regret not getting the manual when I saw it in Chicago.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -10940,4 +10940,9 @@
 		</authors>
 		<buy date="2015-05-06" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="0.75"/>
 	</book>
+	<book id="1086">
+		<title>Unity in Action</title>
+		<buy date="2015-07-10" place="Manning.com" price="17.99"/>
+		<notes>Normally $35.99 but deal of the day.</notes>
+	</book>
 </books>

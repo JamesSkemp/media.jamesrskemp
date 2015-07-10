@@ -24071,7 +24071,10 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Saved $12 with recently purchased Gamers Club Unlocked.</notes>
+		<notes>
+			Saved $12 with recently purchased Gamers Club Unlocked.
+			Received Fizzco Loyalty Rewards Package on 7/6/2015 for free for some reason via message on Xbox Live.
+		</notes>
 	</game>
 	<game id="1671">
 		<title>Bayonetta 2</title>
@@ -27073,6 +27076,132 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Game only. I regret not getting the manual when I saw it in Chicago.</notes>
+	</game>
+	<game id="1884" electronic="true">
+		<title>1849</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-05</date>
+			<price>4.99</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used survey money to purchase.</notes>
+	</game>
+	<game id="1885" electronic="true">
+		<title>Shadow Puppeteer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.24</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play. This appears to be the strongest game in the bundle.</notes>
+	</game>
+	<game id="1886" electronic="true">
+		<title>Light Bound</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
+	</game>
+	<game id="1887" electronic="true">
+		<title>SCHAR: Blue Shield Alliance Soundtrack Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
+	</game>
+	<game id="1888" electronic="true">
+		<title>CastleMiner Z</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
+	</game>
+	<game id="1889" electronic="true">
+		<title>ZombieRun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
+	</game>
+	<game id="1890" electronic="true">
+		<title>Murder Miners</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
+	</game>
+	<game id="1891" electronic="true">
+		<title>Space Farmers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play. Included an extra copy which I gifted to Dan.</notes>
+	</game>
+	<game id="1892" electronic="true">
+		<title>Ted By Dawn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-06</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
 	</game>
 	<!--
 	-->

@@ -27203,11 +27203,39 @@
 		<own>yes</own>
 		<notes>Co-Op Bundle, which was $1.99 for 8 games. Brian Dell said he might play.</notes>
 	</game>
+	<game id="1893">
+		<title>Order, The: 1886</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-08</date>
+			<price>19.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was $39.99, but saved $20 with Gamers Club Unlocked. Ordered online and picked up 7/10/2015.</notes>
+	</game>
+	<game id="1894">
+		<title>Deadpool</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-07-08</date>
+			<price>11.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was $19.99, but on sale for $5 off, and then saved $3 with Gamers Club Unlocked. Ordered online and picked up 7/10/2015.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 = -$18.60 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 = -$41.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

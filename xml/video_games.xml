@@ -24091,6 +24091,7 @@
 		<notes>
 			Saved $12 with Gamers Club Unlocked, and additional $6.15 with Amazon price match.
 			Includes first game.
+			Purchased hardcover strategy guide 7/17/2015 for $13.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Really great shape.
 		</notes>
 	</game>
 	<game id="1672">
@@ -27233,6 +27234,150 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Was $19.99, but on sale for $5 off, and then saved $3 with Gamers Club Unlocked. Ordered online and picked up 7/10/2015.</notes>
+	</game>
+	<game id="1895" used="true">
+		<title>Patriotic Pinball</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-07</date>
+			<price>0.01</price>
+			<place>ebay (retronixinc)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with PSOne/LCD/controllers bundle. Case is cracked and game seems to have been circular scratched twice, but plays fine.</notes>
+	</game>
+	<game id="1896" electronic="true" addOn="true">
+		<title>Last of Us, The - Double Map Pack Bundle
+		</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes two map packs. Seemingly they have DLC, and were free for some reason, so ...</notes>
+	</game>
+	<game id="1897" electronic="true">
+		<title>Perimeter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>0.80</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Perimeter and Perimeter: Emperor's Testament pack, which is normally $8.99, but on sale for $1.79 as part of Day 8.</notes>
+	</game>
+	<game id="1898" electronic="true">
+		<title>Perimeter: Emperor's Testament</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>0.99</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Perimeter and Perimeter: Emperor's Testament pack, which is normally $8.99, but on sale for $1.79 as part of Day 8.</notes>
+	</game>
+	<game id="1899" electronic="true">
+		<title>Earth 2160</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale as part of Total Biscuit selections.</notes>
+	</game>
+	<game id="1900" used="true">
+		<title>Mat Hoffman's Pro BMX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>4.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought a few games to try on new/used PSOne, since it might have a scratching issue.</notes>
+	</game>
+	<game id="1901" used="true">
+		<title>Soviet Strike</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>2.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought a few games to try on new/used PSOne, since it might have a scratching issue.</notes>
+	</game>
+	<game id="1902" used="true">
+		<title>Nuclear Strike</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>1.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought a few games to try on new/used PSOne, since it might have a scratching issue.</notes>
+	</game>
+	<game id="1903" used="true">
+		<title>Front Mission 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Second copy. 10 and a half years later and same price as when I first bought a copy.
+			Bought a few games to try on new/used PSOne, since it might have a scratching issue.
+		</notes>
+	</game>
+	<game id="1904" used="true">
+		<title>Final Fantasy IX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-17</date>
+			<price>15.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought a few games to try on new/used PSOne, since it might have a scratching issue.</notes>
 	</game>
 	<!--
 	-->

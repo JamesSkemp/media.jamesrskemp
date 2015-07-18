@@ -1337,6 +1337,62 @@
 			<own>yes</own>
 			<notes>Cheap enough to now have two full sets of Move controllers.</notes>
 		</item>
+		<item id="98">
+			<name>PSone (SCPH-101)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-07-07</date>
+				<price>24.50</price>
+				<place>ebay (retronixinc)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
+		</item>
+		<item id="99">
+			<name>PSone LCD Screen (SCPH-131)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-07-07</date>
+				<price>24.50</price>
+				<place>ebay (retronixinc)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
+		</item>
+		<item id="100">
+			<name>PSone Controller (SCPH-110) (White)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-07-07</date>
+				<price>0.38</price>
+				<place>ebay (retronixinc)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
+		</item>
+		<item id="100">
+			<name>PlayStation Analog Controller (SCPH-1200) (Gray)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-07-07</date>
+				<price>0.38</price>
+				<place>ebay (retronixinc)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

@@ -10945,4 +10945,44 @@
 		<buy date="2015-07-10" place="Manning.com" price="17.99"/>
 		<notes>Normally $35.99 but deal of the day.</notes>
 	</book>
+	<book id="1087">
+		<title>Mastering Android Game Development [eBook]</title>
+		<authors>
+			<author>Raul Portales</author>
+		</authors>
+		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
+		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
+	</book>
+	<book id="1088">
+		<title>Learning Java by Building Android Games [eBook]</title>
+		<authors>
+			<author>John Horton</author>
+		</authors>
+		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
+		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
+	</book>
+	<book id="1089">
+		<title>Android Game Programming by Example [eBook]</title>
+		<authors>
+			<author>John Horton</author>
+		</authors>
+		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
+		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
+	</book>
+	<book id="1090">
+		<title>Learning Game AI Programming with Lua [eBook]</title>
+		<authors>
+			<author>David Young</author>
+		</authors>
+		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
+		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
+	</book>
+	<book id="1091">
+		<title>Box2D for Flash Games [eBook]</title>
+		<authors>
+			<author>Emanuele Feronato</author>
+		</authors>
+		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
+		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
+	</book>
 </books>

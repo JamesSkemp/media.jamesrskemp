@@ -1393,9 +1393,23 @@
 			<own>yes</own>
 			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
 		</item>
+		<item id="101">
+			<name>Logitech Extreme 3D Pro</name>
+			<system>
+				<console>PC</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2015-07-24</date>
+				<price>29.99</price>
+				<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Wanted to play Wing Commander 5 on a joystick. Saved $5 due to $2 off in-store, and then $3 price match (BestBuy.com / Amazon?).</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)
-PS2	SCPH-70000 NTSC/J	two really dirty controllers.
+PS2	SCPH-70000 NTSC/J	two really dirty controllers still pending.
 -->
 </videoGames>

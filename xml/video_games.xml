@@ -27425,6 +27425,510 @@
 		<own>yes</own>
 		<notes>Free from Summer Sale Sins of a Solar Empire purchase. Seemingly its usually $9.99.</notes>
 	</game>
+	<game id="1908" electronic="true">
+		<title>Outland - Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the first tier.</notes>
+	</game>
+	<game id="1909" electronic="true">
+		<title>Mercenary Kings</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the first tier.</notes>
+	</game>
+	<game id="1910" electronic="true">
+		<title>Endless Space Emperor Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.54</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1911" electronic="true">
+		<title>The Stanley Parable</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.53</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1912" electronic="true">
+		<title>Incredible Adventures of Van Helsing II, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.54</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1913" electronic="true">
+		<title>Screencheat</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.53</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1914" electronic="true">
+		<title>Freedom Planet</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.53</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1915" electronic="true">
+		<title>Coin Crypt</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-21</date>
+			<price>0.53</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble Jumbo Bundle 4, part of the second tier.</notes>
+	</game>
+	<game id="1916" used="true">
+		<title>Trinity Universe</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I think this is the first I've seen it this cheap.</notes>
+	</game>
+	<game id="1917" used="true">
+		<title>Guided Fate Paradox, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>15.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap enough that it's worth a try.</notes>
+	</game>
+	<game id="1918" used="true">
+		<title>Dynasty Warriors: Strikeforce</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap and I think it had good reviews.</notes>
+	</game>
+	<game id="1919" used="true">
+		<title>Bust -A- Move '99</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth picking up, I'm sure. Ended up playing a couple hours within the first few days of having it and it was enjoyable.</notes>
+	</game>
+	<game id="1920" used="true">
+		<title>Final Fantasy VIII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Second physical copy. Black label.</notes>
+	</game>
+	<game id="1921" electronic="true">
+		<title>Wing Commander 5: Prophecy Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-24</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but EA sale. Includes Wing Commander: Secret Ops expansion. This is the one I played a bit in college when I sprained my wrist.</notes>
+	</game>
+	<game id="1922" electronic="true">
+		<title>Wing Commander 3: Heart of the Tiger</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-25</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for EA weekend.</notes>
+	</game>
+	<game id="1923" electronic="true">
+		<title>Wing Commander 4: The Price of Freedom</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-25</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for EA weekend.</notes>
+	</game>
+	<game id="1924" electronic="true">
+		<title>Wing Commander: Privateer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-25</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale for EA weekend.</notes>
+	</game>
+	<game id="1925" electronic="true">
+		<title>bit Dungeon II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1926" electronic="true">
+		<title>Etherlords I</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1927" electronic="true">
+		<title>Etherlords II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1928" electronic="true">
+		<title>Rune Classic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1929" electronic="true">
+		<title>FATE: Undiscovered Realms</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1930" electronic="true">
+		<title>Realms of Arkania: Blade of Destiny HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.70</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1931" electronic="true" addOn="true">
+		<title>Realms of Arkania: Blade of Destiny - For The Gods DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.01</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Heroes Bundle, which was $2.49 for a bundle of nine games, but had two.</notes>
+	</game>
+	<game id="1932" electronic="true">
+		<title>MouseCraft</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1933" electronic="true">
+		<title>MouseCraft</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1934" electronic="true">
+		<title>MouseCraft</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1935" electronic="true">
+		<title>Entwined</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="1936" electronic="true">
+		<title>Entwined</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="1937" electronic="true">
+		<title>Entwined</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="1938" electronic="true">
+		<title>Styx: Master of Shadows</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $29.99.</notes>
+	</game>
+	<game id="1939" electronic="true">
+		<title>Rocket League</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $19.99.</notes>
+	</game>
+	<game id="1940" electronic="true">
+		<title>rain</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1941" electronic="true">
+		<title>DRIVECLUB: PlayStation Plus Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally free.</notes>
+	</game>
+	<game id="1942" electronic="true">
+		<title>Geometry Wars 3: Dimensions Evolved</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-07-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="1943" electronic="true">
+		<title>Under Defeat HD: Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-07-28</date>
+			<price>2.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale this week.</notes>
+	</game>
 	<!--
 	-->
 	<!--

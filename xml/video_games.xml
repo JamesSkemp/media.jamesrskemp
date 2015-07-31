@@ -18941,7 +18941,7 @@
 			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free for some reason, for a limited time.</notes>
+		<notes>Free for some reason, for a limited time</notes>
 	</game>
 	<game id="1310" electronic="true">
 		<title>Psychonauts</title>
@@ -23425,7 +23425,10 @@
 			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of the Havoc Bundle, which was 10 games for $2.99.</notes>
+		<notes>
+			Part of the Havoc Bundle, which was 10 games for $2.99.
+			Later got the Special Edition 7/30/2015 from Humble Bundle, as part of the Games From Japan weekly bundle, which added the Digital Artwork and Music Collection DLC, since I had the game.
+		</notes>
 	</game>
 	<game id="1625" electronic="true">
 		<title>Tsukumogami</title>
@@ -27928,6 +27931,188 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $9.99, but on sale this week.</notes>
+	</game>
+	<game id="1944" electronic="true">
+		<title>Ninja Village</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-29</date>
+			<price>4.99</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Heard it was quite good. Spent many hours playing it on the 29th.</notes>
+	</game>
+	<game id="1945" electronic="true">
+		<title>Spellforce - Platinum Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-29</date>
+			<price>1.99</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Finally time to pick it up.</notes>
+	</game>
+	<game id="1946" electronic="true">
+		<title>Cultures: Northland</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-29</date>
+			<price>0.99</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and it looks good.</notes>
+	</game>
+	<game id="1947" electronic="true">
+		<title>Cultures: 8th Wonder of the World</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-29</date>
+			<price>1.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, and it looks good.</notes>
+	</game>
+	<game id="1948" electronic="true">
+		<title>Warlock: Master of the Arcane Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-29</date>
+			<price>6.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, but didn't realize I already had it.</notes>
+	</game>
+	<game id="1949" electronic="true">
+		<title>Vanguard Princess</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1950" electronic="true" addOn="true">
+		<title>Vanguard Princess Hilda Rize Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1951" electronic="true" addOn="true">
+		<title>Vanguard Princess Lilith Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1952" electronic="true">
+		<title>Supercharged Robot VULKAISER</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1953" electronic="true">
+		<title>Gurumin: A Monstrous Adventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>1.67</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1954" electronic="true">
+		<title>NEO AQUARIUM - The King of Crustaceans</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>1.67</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1955" electronic="true">
+		<title>Sacred Tears TRUE, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>1.67</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
+	</game>
+	<game id="1956" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth1</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-07-30</date>
+			<price>2.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Games From Japan.</notes>
 	</game>
 	<!--
 	-->

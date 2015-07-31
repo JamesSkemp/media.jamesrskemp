@@ -1407,6 +1407,34 @@
 			<own>yes</own>
 			<notes>Wanted to play Wing Commander 5 on a joystick. Saved $5 due to $2 off in-store, and then $3 price match (BestBuy.com / Amazon?).</notes>
 		</item>
+		<item id="102">
+			<name>PlayStation 3 500GB</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2015-07-23</date>
+				<price>189.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Purchased online, as part of Black Friday in July sale, as it was $60 off.</notes>
+		</item>
+		<item id="103">
+			<name>PlayStation 3 DualShock 3 Wireless Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2015-07-23</date>
+				<price>0.00</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with 500GB PlayStation 3.</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

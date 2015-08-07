@@ -28142,6 +28142,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but saved $6 with Gamers Club Unlocked. Ordered online and picked up, since west location was seemingly out of stock. Release day.</notes>
 	</game>
+	<game id="1959" electronic="true">
+		<title>Letter Quest: Grimm's Journey Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-05</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for owners of the original.</notes>
+	</game>
 	<!--
 	-->
 	<!--

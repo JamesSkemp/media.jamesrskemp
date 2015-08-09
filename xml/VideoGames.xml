@@ -1435,6 +1435,20 @@
 			<own>yes</own>
 			<notes>Came with 500GB PlayStation 3.</notes>
 		</item>
+		<item id="104">
+			<name>Insignia Battery Charge Station for Xbox One</name>
+			<system>
+				<console>Xbox</console>
+				<version>One</version>
+			</system>
+			<purchase>
+				<date>2015-08-09</date>
+				<price>19.99</price>
+				<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Came with two battery packs.</notes>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

@@ -1449,6 +1449,91 @@
 			<own>yes</own>
 			<notes>Came with two battery packs.</notes>
 		</item>
+		<item id="105">
+			<name>PlayStation Vita Portable Charger</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2015-08-09</date>
+				<price>13.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/11/2015.</notes>
+		</item>
+		<item id="106">
+			<name>Pelican PS3 Dual Triggers</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2015-08-09</date>
+				<price>6.84</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes></notes>
+		</item>
+		<item id="107">
+			<name>Pelican PS3 Dual Triggers</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2015-08-09</date>
+				<price>6.84</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="108">
+			<name>Pelican PS3 Dual Triggers</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2012-06-28</date>
+				<price>6.40</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes/>
+		</item>
+		
+		<item id="109">
+			<name>Pelican PS3 Dual Triggers</name>
+			<system>
+				<console>PlayStation</console>
+				<version>3</version>
+			</system>
+			<purchase>
+				<date>2012-01-15</date>
+				<price>4.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Included only the R2/L2 triggers.</notes>
+		</item>
+		<item id="110">
+			<name>Pelican Memory Stick Case</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Portable</version>
+			</system>
+			<purchase>
+				<date>2010-11-13</date>
+				<price>4.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes/>
+		</item>
 	</hardware>
 <!--
 12/6	eBay (cgun2166)

@@ -28159,6 +28159,20 @@
 		<own>yes</own>
 		<notes>Free for owners of the original.</notes>
 	</game>
+	<game id="1960" used="true">
+		<title>Seiken Densetsu 2 (Secret of Mana)</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>17.09</price>
+			<place>ebay (sunnydaychild)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version of Secret of Mana, complete with manual and box.</notes>
+	</game>
 	<!--
 	-->
 	<!--

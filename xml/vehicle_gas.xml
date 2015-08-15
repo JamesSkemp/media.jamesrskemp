@@ -3054,6 +3054,15 @@
 				<costTotal>28.68</costTotal>
 				<notes>Paid $2.459/gallon thanks to $0.08/gallon savings from card. Still driving into work, but hope to stop next week.</notes>
 			</fillup>
+			<fillup id="272">
+				<date>2015-08-13</date>
+				<milesCar>58367</milesCar>
+				<milesDriven>320.0</milesDriven>
+				<gallons>12.690</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>36.79</costTotal>
+				<notes>I believe an eighth of a tank was left.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

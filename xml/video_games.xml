@@ -28173,6 +28173,118 @@
 		<own>yes</own>
 		<notes>Received 8/13/2015. Japanese version of Secret of Mana, complete with manual and box.</notes>
 	</game>
+	<game id="1961" used="true">
+		<title>Tales of Phantasia</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>16.20</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1962" used="true">
+		<title>Tales of Destiny</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>13.99</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1963" used="true">
+		<title>Tales of Destiny 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>12.80</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1964" used="true">
+		<title>Front Mission 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>5.70</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1965" used="true">
+		<title>Fist of the North Star: Ken's Rage 2 (Japan)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>16.15</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version of Fist of the North Star: Ken's Rage 2.</notes>
+	</game>
+	<game id="1966" used="true">
+		<title>Einhander</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>23.99</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1967" used="true">
+		<title>Tales of Eternia</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>14.80</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
+	<game id="1968" used="true">
+		<title>Persona</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-11</date>
+			<price>14.60</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/13/2015. Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

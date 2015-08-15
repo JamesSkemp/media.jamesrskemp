@@ -28285,6 +28285,34 @@
 		<own>yes</own>
 		<notes>Received 8/13/2015. Japanese version.</notes>
 	</game>
+	<game id="1969" electronic="true">
+		<title>Heroes of Might and Magic 2: Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-15</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale this weekend.</notes>
+	</game>
+	<game id="1970" electronic="true">
+		<title>Heroes of Might and Magic 3: Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-15</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale this weekend.</notes>
+	</game>
 	<!--
 	-->
 	<!--

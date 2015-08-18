@@ -28255,7 +28255,10 @@
 			<place>ebay (retro_saikou)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 8/13/2015. Japanese version.</notes>
+		<notes>
+			Received 8/13/2015. Japanese version.
+			Played it a bit before this, but went from start to finish on free mode 8/17/2015. I think it took a little over two hours?
+		</notes>
 	</game>
 	<game id="1967" used="true">
 		<title>Tales of Eternia</title>
@@ -28312,6 +28315,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $9.99, but on sale this weekend.</notes>
+	</game>
+	<game id="1971" electronic="true">
+		<title>Sudoku 4ever Plus</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-14</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free today.</notes>
 	</game>
 	<!--
 	-->

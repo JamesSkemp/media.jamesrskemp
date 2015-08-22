@@ -28330,6 +28330,48 @@
 		<own>yes</own>
 		<notes>Free today.</notes>
 	</game>
+	<game id="1972" electronic="true">
+		<title>Ragnarok Tactics</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-08-21</date>
+			<price>3.20</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99.</notes>
+	</game>
+	<game id="1973" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-08-21</date>
+			<price>6.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="1974" electronic="true">
+		<title>Syberia II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-08-21</date>
+			<price>4.50</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

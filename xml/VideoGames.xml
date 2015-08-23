@@ -1379,7 +1379,7 @@
 			<own>yes</own>
 			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
 		</item>
-		<item id="100">
+		<item id="101">
 			<name>PlayStation Analog Controller (SCPH-1200) (Gray)</name>
 			<system>
 				<console>PlayStation</console>
@@ -1393,7 +1393,7 @@
 			<own>yes</own>
 			<notes>Part of a PSOne/LCD/controllers/game bundle.</notes>
 		</item>
-		<item id="101">
+		<item id="102">
 			<name>Logitech Extreme 3D Pro</name>
 			<system>
 				<console>PC</console>
@@ -1407,7 +1407,7 @@
 			<own>yes</own>
 			<notes>Wanted to play Wing Commander 5 on a joystick. Saved $5 due to $2 off in-store, and then $3 price match (BestBuy.com / Amazon?).</notes>
 		</item>
-		<item id="102">
+		<item id="103">
 			<name>PlayStation 3 500GB</name>
 			<system>
 				<console>PlayStation</console>
@@ -1421,7 +1421,7 @@
 			<own>yes</own>
 			<notes>Purchased online, as part of Black Friday in July sale, as it was $60 off, but couldn't pick it up until 7/30/2015.</notes>
 		</item>
-		<item id="103">
+		<item id="104">
 			<name>PlayStation 3 DualShock 3 Wireless Controller</name>
 			<system>
 				<console>PlayStation</console>
@@ -1435,7 +1435,7 @@
 			<own>yes</own>
 			<notes>Came with 500GB PlayStation 3.</notes>
 		</item>
-		<item id="104">
+		<item id="105">
 			<name>Insignia Battery Charge Station for Xbox One</name>
 			<system>
 				<console>Xbox</console>
@@ -1449,7 +1449,7 @@
 			<own>yes</own>
 			<notes>Came with two battery packs.</notes>
 		</item>
-		<item id="105">
+		<item id="106">
 			<name>PlayStation Vita Portable Charger</name>
 			<system>
 				<console>PlayStation</console>
@@ -1463,7 +1463,7 @@
 			<own>yes</own>
 			<notes>Received 8/11/2015.</notes>
 		</item>
-		<item id="106">
+		<item id="107">
 			<name>Pelican PS3 Dual Triggers</name>
 			<system>
 				<console>PlayStation</console>
@@ -1477,7 +1477,7 @@
 			<own>yes</own>
 			<notes></notes>
 		</item>
-		<item id="107">
+		<item id="108">
 			<name>Pelican PS3 Dual Triggers</name>
 			<system>
 				<console>PlayStation</console>
@@ -1491,7 +1491,7 @@
 			<own>yes</own>
 			<notes/>
 		</item>
-		<item id="108">
+		<item id="109">
 			<name>Pelican PS3 Dual Triggers</name>
 			<system>
 				<console>PlayStation</console>
@@ -1505,8 +1505,7 @@
 			<own>yes</own>
 			<notes/>
 		</item>
-		
-		<item id="109">
+		<item id="110">
 			<name>Pelican PS3 Dual Triggers</name>
 			<system>
 				<console>PlayStation</console>
@@ -1520,7 +1519,7 @@
 			<own>yes</own>
 			<notes>Included only the R2/L2 triggers.</notes>
 		</item>
-		<item id="110">
+		<item id="111">
 			<name>Pelican Memory Stick Case</name>
 			<system>
 				<console>PlayStation</console>
@@ -1534,7 +1533,7 @@
 			<own>yes</own>
 			<notes/>
 		</item>
-		<item id="111">
+		<item id="112">
 			<name>PlayStation 2 (SCPH-70000) NTSC/J</name>
 			<system>
 				<console>PlayStation</console>

@@ -5,7 +5,7 @@
 		<item id="1">
 			<name>PS One</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>1</version>
 			</system>
 			<own>yes</own>
@@ -14,25 +14,25 @@
 		<item id="2">
 			<name>PS One Controller (White)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>1</version>
 			</system>
 			<own>yes</own>
-			<notes>Came with Playstation console.</notes>
+			<notes>Came with PlayStation console.</notes>
 		</item>
 		<item id="3">
-			<name>Playstation Memory Card (White)</name>
+			<name>PlayStation Memory Card (White)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>1</version>
 			</system>
 			<own>yes</own>
 			<notes/>
 		</item>
 		<item id="4">
-			<name>Playstation 2 (SCPH-50001/N)</name>
+			<name>PlayStation 2 (SCPH-50001/N)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -43,9 +43,9 @@
 			<notes><![CDATA[Unclear if this date is correct, but it seems like it is. Probably paid $199.99.]]></notes>
 		</item>
 		<item id="5">
-			<name>Playstation 2 Dualshock Controller (Black)</name>
+			<name>PlayStation 2 Dualshock Controller (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -54,12 +54,12 @@
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
 			<own>yes</own>
-			<notes>Came with Playstation 2 console.</notes>
+			<notes>Came with PlayStation 2 console.</notes>
 		</item>
 		<item id="6">
-			<name>Playstation 2 Dualshock Controller (Black)</name>
+			<name>PlayStation 2 Dualshock Controller (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -71,9 +71,9 @@
 			<notes/>
 		</item>
 		<item id="7">
-			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -81,12 +81,12 @@
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
 			<own>yes</own>
-			<notes><![CDATA[I assume this is the $19.99 item I purchased with my Playstation 2.]]></notes>
+			<notes><![CDATA[I assume this is the $19.99 item I purchased with my PlayStation 2.]]></notes>
 		</item>
 		<item id="8">
-			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -98,9 +98,9 @@
 			<notes/>
 		</item>
 		<item id="9">
-			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -112,9 +112,9 @@
 			<notes/>
 		</item>
 		<item id="10">
-			<name>Playstation 3 Component AV Cable</name>
+			<name>PlayStation 3 Component AV Cable</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -123,12 +123,12 @@
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
 			<own>yes</own>
-			<notes>Purchased to use with my Playstation 2.</notes>
+			<notes>Purchased to use with my PlayStation 2.</notes>
 		</item>
 		<item id="11">
-			<name>Playstation 3 80GB</name>
+			<name>PlayStation 3 80GB</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -140,9 +140,9 @@
 			<notes>Came with MotorStorm.</notes>
 		</item>
 		<item id="12">
-			<name>Playstation 3 Wireless Sixaxis Controller</name>
+			<name>PlayStation 3 Wireless Sixaxis Controller</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -151,12 +151,12 @@
 				<place>Best Buy #208 | Madison WI 53713 (West Madison)</place>
 			</purchase>
 			<own>yes</own>
-			<notes>Came with Playstation 3 console.</notes>
+			<notes>Came with PlayStation 3 console.</notes>
 		</item>
 		<item id="13">
-			<name>Playstation 3 Component AV Cable</name>
+			<name>PlayStation 3 Component AV Cable</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -168,9 +168,9 @@
 			<notes/>
 		</item>
 		<item id="14">
-			<name>Playstation 3 Memory Card Adapter</name>
+			<name>PlayStation 3 Memory Card Adapter</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -182,9 +182,9 @@
 			<notes/>
 		</item>
 		<item id="15">
-			<name>Playstation 3 Blu-ray Remote</name>
+			<name>PlayStation 3 Blu-ray Remote</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -196,9 +196,9 @@
 			<notes/>
 		</item>
 		<item id="16">
-			<name>Playstation 3 DualShock 3 Wireless Controller</name>
+			<name>PlayStation 3 DualShock 3 Wireless Controller</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -334,7 +334,7 @@
 		<item id="26">
 			<name>PlayStation 2 DUALSHOCK2 Controller (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -669,7 +669,7 @@
 			<notes>On sale. Received 10/26/2013.</notes>
 		</item>
 		<item id="50">
-			<name>DUALSHOCK 4 Wireless Controller</name>
+			<name>PlayStation 4 DUALSHOCK 4 Wireless Controller</name>
 			<system>
 				<console>PlayStation</console>
 				<version>4</version>
@@ -697,7 +697,7 @@
 			<notes>Launch edition. Received 11/15/2013.</notes>
 		</item>
 		<item id="52">
-			<name>DUALSHOCK 4 Wireless Controller</name>
+			<name>PlayStation 4 DUALSHOCK 4 Wireless Controller</name>
 			<system>
 				<console>PlayStation</console>
 				<version>4</version>
@@ -1062,9 +1062,9 @@
 			<notes>On sale, and part of the PlayStation TV DualShock 3 Bundle, which included the TV, a controller, memory card, and game.</notes>
 		</item>
 		<item id="78">
-			<name>Playstation 3 DualShock 3 Wireless Controller</name>
+			<name>PlayStation 3 DualShock 3 Wireless Controller</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>3</version>
 			</system>
 			<purchase>
@@ -1078,7 +1078,7 @@
 		<item id="79">
 			<name>PlayStation Vita 8 GB Memory Card</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>Vita</version>
 			</system>
 			<purchase>
@@ -1142,9 +1142,9 @@
 			<notes>Picking up so I don't need to use the wireless controllers when I get my holiday gift from mom.</notes>
 		</item>
 		<item id="84">
-			<name>Playstation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -1156,9 +1156,9 @@
 			<notes>Received 12/5/2014.</notes>
 		</item>
 		<item id="85">
-			<name>Playstation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) SCPH-10020 E (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -1172,7 +1172,7 @@
 		<item id="86">
 			<name>PlayStation 2 (SCPH-90001 CB) NTSC U/C Charcoal Black</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>
@@ -1240,9 +1240,9 @@
 			<notes>$50.00 for full system, game, memory card, and two really dirty controllers. Received 12/11/2014. System is unfortunately modded.</notes>
 		</item>
 		<item id="91">
-			<name>Playstation 2 Memory Card (8MB) (Black)</name>
+			<name>PlayStation 2 Memory Card (8MB) (Black)</name>
 			<system>
-				<console>Playstation</console>
+				<console>PlayStation</console>
 				<version>2</version>
 			</system>
 			<purchase>

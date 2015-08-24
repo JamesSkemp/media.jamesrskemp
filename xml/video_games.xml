@@ -4216,12 +4216,12 @@
 		<title>Teenage Mutant Ninja Turtles IV: Turtles in Time</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4230,12 +4230,12 @@
 		<title>Zombies Ate My Neighbors</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date>1996-02-29</date>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4244,12 +4244,12 @@
 		<title>Mega Man X</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4258,12 +4258,12 @@
 		<title>Teenage Mutant Ninja Turtles Tournament Fighters</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4272,12 +4272,12 @@
 		<title>SimCity</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -4286,12 +4286,12 @@
 		<title>Addams Family, The</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
 			<price/>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes/>
@@ -7902,7 +7902,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="529">
 		<title>Bullet Witch</title>
@@ -7930,7 +7930,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="531">
 		<title>Genji: Days of the Blade</title>
@@ -7944,7 +7944,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="532">
 		<title>Mafia II</title>
@@ -7958,7 +7958,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="533">
 		<title>Desert Strike: Return to the Gulf</title>
@@ -8000,7 +8000,7 @@
 			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="536" electronic="true">
 		<title>Awesomenauts</title>
@@ -8199,7 +8199,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="550" electronic="true" addOn="true">
 		<title>Kameo Design-A-Skin Pack</title>
@@ -8213,7 +8213,7 @@
 			<place>Xbox Live</place>
 		</purchase>
 		<own>yes</own>
-		<notes></notes>
+		<notes/>
 	</game>
 	<game id="551" electronic="true">
 		<title>Virtua Fighter 5 Final Showdown</title>
@@ -10688,7 +10688,7 @@
 		<title>Persona 4 Golden</title>
 		<system>
 			<console>PlayStation Vita</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date>2013-03-24</date>
@@ -17573,7 +17573,7 @@
 		<purchase>
 			<date>2014-07-02</date>
 			<price>37.50</price>
-			<place></place>
+			<place/>
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $149.99, but on clearance. Wanted the PS3 version, but they were sold out. Received 7/11/2014, and paid $8.67 for shipping.</notes>
@@ -21724,7 +21724,7 @@
 		<title>Dead or Alive 3</title>
 		<system>
 			<console>Xbox</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date>2014-12-05</date>
@@ -26413,7 +26413,7 @@
 			<price>1.99</price>
 			<place>GOG</place>
 		</purchase>
-		<own></own>
+		<own>yes</own>
 		<notes>Normally $9.99, but on sale as part of summer sale.</notes>
 	</game>
 	<game id="1836" electronic="true">

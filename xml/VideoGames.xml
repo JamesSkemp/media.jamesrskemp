@@ -1547,9 +1547,35 @@
 			<own>yes</own>
 			<notes>Received 8/16/2015. System only, but I have power cord from the modded Japanese PS2. Looks to be in really good shape, and quite quiet compared to the unmodded fat PS2 I got.</notes>
 		</item>
+		<item id="113">
+			<name>Canakit Raspberry Pi 2 Complete Starter Kit</name>
+			<system>
+				<console>Emulation</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2015-08-23</date>
+				<price>69.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/26/2015. 'Normal' price $129.99. Included case, memory card, power supply, HDMI cable, and WiFi adapter.</notes>
+		</item>
+		<item id="114">
+			<name>SanDisk Ultra 16GB MicroSD</name>
+			<purchase>
+				<date>2015-08-26</date>
+				<price>14.88</price>
+				<place>Walmart, 7202 Watts Rd, Madison WI 53719</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Used to install Retropie and ROMs for Raspberry Pi.</notes>
+		</item>
 	</hardware>
 <!--
-12/6	eBay (cgun2166)
+12/6/2014	eBay (cgun2166)
 PS2	SCPH-70000 NTSC/J	two really dirty controllers still pending.
+8/23/2015	Amazon.com
+Hyperkin PS1 Memory Card (1MB)	4.99	x2	Received 8/26/2015.
 -->
 </videoGames>

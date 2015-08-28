@@ -1571,11 +1571,37 @@
 			<own>yes</own>
 			<notes>Used to install Retropie and ROMs for Raspberry Pi.</notes>
 		</item>
+		<item id="115">
+			<name>Hyperkin PS1 Memory Card (1MB)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-08-23</date>
+				<price>4.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/26/2015.</notes>
+		</item>
+		<item id="116">
+			<name>Hyperkin PS1 Memory Card (1MB)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-08-23</date>
+				<price>4.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/26/2015.</notes>
+		</item>
 	</hardware>
 <!--
 12/6/2014	eBay (cgun2166)
 PS2	SCPH-70000 NTSC/J	two really dirty controllers still pending.
-8/23/2015	Amazon.com
-Hyperkin PS1 Memory Card (1MB)	4.99	x2	Received 8/26/2015.
 -->
 </videoGames>

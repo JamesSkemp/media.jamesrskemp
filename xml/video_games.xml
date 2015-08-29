@@ -28372,6 +28372,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99.</notes>
 	</game>
+	<game id="1975" used="true">
+		<title>Final Fantasy VI</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-23</date>
+			<price>23.95</price>
+			<place>ebay (luxaeon14)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/27/2015. Japanese version, and included box and manual.</notes>
+	</game>
+	<game id="1976" used="true">
+		<title>Front Mission</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-23</date>
+			<price>14.95</price>
+			<place>ebay (luxaeon14)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/27/2015. Japanese version, and included box and manual.</notes>
+	</game>
+	<game id="1977" electronic="true">
+		<title>Stealth Inc 2: A Game of Clones: Humble Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-28</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason.</notes>
+	</game>
 	<!--
 	-->
 	<!--

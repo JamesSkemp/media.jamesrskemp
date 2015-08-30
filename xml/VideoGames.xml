@@ -1599,6 +1599,34 @@
 			<own>yes</own>
 			<notes>Received 8/26/2015.</notes>
 		</item>
+		<item id="117">
+			<name>PlayStation 2 Dualshock Controller SCPH-10010 (Black)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-06</date>
+				<price>0.00</price>
+				<place>ebay (cgun2166)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/11/2014. Came with system. They were in poor shape, but I cleaned them up.</notes>
+		</item>
+		<item id="118">
+			<name>PlayStation 2 Dualshock Controller SCPH-10010 (Black)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2014-12-06</date>
+				<price>0.00</price>
+				<place>ebay (cgun2166)</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/11/2014. Came with system. They were in poor shape, but I cleaned them up.</notes>
+		</item>
 	</hardware>
 <!--
 12/6/2014	eBay (cgun2166)

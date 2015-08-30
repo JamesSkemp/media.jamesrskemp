@@ -28414,6 +28414,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free this weekend for some reason.</notes>
 	</game>
+	<game id="1978" used="true">
+		<title>2010 FIFA World Cup South Africa</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-08-29</date>
+			<price>4.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.50 with PowerUp Rewards card. Cheap enough it's worth a try.</notes>
+	</game>
+	<game id="1979" used="true">
+		<title>Akai Katana</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-08-29</date>
+			<price>6.29</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.70 with PowerUp Rewards card. Not very good at these types of games, but ...</notes>
+	</game>
+	<game id="1980" used="true">
+		<title>Ragnarok Odyssey ACE</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-08-29</date>
+			<price>13.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $1.50 with PowerUp Rewards card. Thought I had the Vita version of the original release, but ...</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -1627,9 +1627,27 @@
 			<own>yes</own>
 			<notes>Received 12/11/2014. Came with system. They were in poor shape, but I cleaned them up.</notes>
 		</item>
+		<item id="119">
+			<name>iPazzPort Raspberry Pi Mini Wireless Handheld Remote Control Keyboard with Multi Touch</name>
+			<purchase>
+				<date>2015-08-28</date>
+				<price>14.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/30/2015. Normally much more. Got for my Raspberry Pi.</notes>
+		</item>
+		<item id="120">
+			<name>Buffalo Classic USB Gamepad for PC</name>
+			<purchase>
+				<date>2015-08-28</date>
+				<price>11.49</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/30/2015. Got for my Raspberry Pi.</notes>
+		</item>
 	</hardware>
 <!--
-12/6/2014	eBay (cgun2166)
-PS2	SCPH-70000 NTSC/J	two really dirty controllers still pending.
 -->
 </videoGames>

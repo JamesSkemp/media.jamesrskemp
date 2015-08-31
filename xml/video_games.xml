@@ -28456,6 +28456,34 @@
 		<own>yes</own>
 		<notes>Saved $1.50 with PowerUp Rewards card. Thought I had the Vita version of the original release, but ...</notes>
 	</game>
+	<game id="1981" electronic="true">
+		<title>Shadows: Heretic Kingdoms - Digital Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $26.99 but on sale because they got the license back. Included Kult: Heretic Kingdoms, soundtrack, and bonus DLC (Tholean Tablet, The Owl Amulet, and The Scorpion).</notes>
+	</game>
+	<game id="1982" electronic="true">
+		<title>Kult: Heretic Kingdoms</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but came with Shadows: Heretic Kingdoms Deluxe Edition.</notes>
+	</game>
 	<!--
 	-->
 	<!--

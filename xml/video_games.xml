@@ -28484,6 +28484,20 @@
 		<own>yes</own>
 		<notes>Normally $5.99, but came with Shadows: Heretic Kingdoms Deluxe Edition.</notes>
 	</game>
+	<game id="1983" used="true">
+		<title>Seiken Densetsu 3</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-28</date>
+			<price>36.95</price>
+			<place>ebay (luxaeon14)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/31/2015, and box was slightly dented from mailing. Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

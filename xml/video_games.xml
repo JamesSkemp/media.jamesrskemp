@@ -28652,6 +28652,48 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $14.99.</notes>
 	</game>
+	<game id="1995" used="true">
+		<title>Super Mario RPG</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-28</date>
+			<price>29.90</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/2/2015. Complete.</notes>
+	</game>
+	<game id="1996" used="true">
+		<title>Chrono Trigger</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-28</date>
+			<price>25.20</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/2/2015. Complete.</notes>
+	</game>
+	<game id="1997" used="true">
+		<title>Tactics Ogre</title>
+		<system>
+			<console>Super</console>
+			<version>Famicom</version>
+		</system>
+		<purchase>
+			<date>2015-08-28</date>
+			<price>18.90</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/2/2015. Complete.</notes>
+	</game>
 	<!--
 	-->
 	<!--

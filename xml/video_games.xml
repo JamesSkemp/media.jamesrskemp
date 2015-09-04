@@ -28694,6 +28694,62 @@
 		<own>yes</own>
 		<notes>Received 9/2/2015. Complete.</notes>
 	</game>
+	<game id="1998" used="true">
+		<title>Xenogears</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>17.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/3/2015. Paid $2 shipping and handling.</notes>
+	</game>
+	<game id="1999" used="true">
+		<title>Magna Carta</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>11.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/3/2015. Paid $2 shipping and handling.</notes>
+	</game>
+	<game id="2000" used="true">
+		<title>Front Mission 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>9.00</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/3/2015. Paid $1 shipping and handling. Listing was for Front Mission 2 and 3.</notes>
+	</game>
+	<game id="2001" used="true">
+		<title>Front Mission 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-08-30</date>
+			<price>8.99</price>
+			<place>ebay (doberneck1980)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/3/2015. Paid $1 shipping and handling. Listing was for Front Mission 2 and 3.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -10985,4 +10985,20 @@
 		<buy date="2015-07-21" place="Packt Publishing" price="5.00"/>
 		<notes>Buy 5 for $25 promo. Wanted three, so added two more for the discount.</notes>
 	</book>
+	<book id="1092">
+		<title>Skeleton Crew</title>
+		<authors>
+			<author>Stephen King</author>
+		</authors>
+		<buy date="2015-09-06" place="Frugal Muse, 235 Junction Road, Madison WI 53717" price="2.35"/>
+		<notes>Hardcover.</notes>
+	</book>
+	<book id="1093">
+		<title>Tommyknockers, The</title>
+		<authors>
+			<author>Stephen King</author>
+		</authors>
+		<buy date="2015-09-06" place="Frugal Muse, 235 Junction Road, Madison WI 53717" price="4.79"/>
+		<notes>Softcover, but old school cover that I think mom had.</notes>
+	</book>
 </books>

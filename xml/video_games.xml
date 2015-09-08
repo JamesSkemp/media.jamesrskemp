@@ -29044,6 +29044,104 @@
 		<own>yes</own>
 		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
 	</game>
+	<game id="2023" electronic="true">
+		<title>Darklands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own></own>
+		<notes>Normally $5.99, but weekly sale. Interested in the sprites primarily.</notes>
+	</game>
+	<game id="2024" electronic="true">
+		<title>Fantasy Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
+	<game id="2025" electronic="true">
+		<title>King's Bounty: The Legend</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
+	<game id="2026" electronic="true">
+		<title>King's Bounty: Armored Princess</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
+	<game id="2027" electronic="true" addOn="true">
+		<title>King's Bounty: Crossworlds</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Expansion to Armored Princess. Normally $14.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
+	<game id="2028" electronic="true">
+		<title>Reign: Conflict of Nations</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
+	<game id="2029" electronic="true">
+		<title>XIII Century - Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-07</date>
+			<price>1.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -28764,6 +28764,286 @@
 		<own>yes</own>
 		<notes>Received 9/5/2015. Complete.</notes>
 	</game>
+	<game id="2003" used="true">
+		<title>Devilman</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico. Tank controls. :(</notes>
+	</game>
+	<game id="2004" used="true">
+		<title>Dewprism (Threads of Fate)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2005" used="true">
+		<title>Dragon Ball Final Bout</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.22</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2006" used="true">
+		<title>Dragon Ball Z Ultimate Battle 22</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.22</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2007" used="true">
+		<title>Dragon Quest VII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2008" used="true">
+		<title>Goemon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.22</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Included game and manual only. Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2009" used="true">
+		<title>I.Q. Intelligent Qube</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2010" used="true">
+		<title>Legend of Mana</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Did not load well for seller, but seems to work fine. Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2011" used="true">
+		<title>Minna no Golf (Hot Shots Golf)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2012" used="true">
+		<title>Parappa The Rapper</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2013" used="true">
+		<title>Parasite Eve</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2014" used="true">
+		<title>Policenauts</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2015" used="true">
+		<title>Psychic Force 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2016" used="true">
+		<title>Rurouni Kenshin</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.22</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2017" used="true">
+		<title>Saga Frontier</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2018" used="true">
+		<title>Star Ocean The Second Story</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2019" used="true">
+		<title>Tales of Destiny</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Missing manual. Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2020" used="true">
+		<title>Game of Life DX, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.22</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2021" used="true">
+		<title>Valkyrie Profile</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
+	<game id="2022" used="true">
+		<title>Xenogears</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2015-09-02</date>
+			<price>3.23</price>
+			<place>ebay (neojapanvideo)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+	</game>
 	<!--
 	-->
 	<!--

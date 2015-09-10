@@ -29142,6 +29142,20 @@
 		<own>yes</own>
 		<notes>Normally $12.99, but bought as part of the 1C Strategy Collection for $5.99, on sale from $39.99.</notes>
 	</game>
+	<game id="2030" electronic="true">
+		<title>Jeanne d'Arc</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2015-09-08</date>
+			<price>3.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale as part of PS Anniversary Sale. I have the physical copy, but would like an eletronic version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

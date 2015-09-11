@@ -29156,6 +29156,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but on sale as part of PS Anniversary Sale. I have the physical copy, but would like an eletronic version.</notes>
 	</game>
+	<game id="2031" electronic="true">
+		<title>Phantom Breaker: Battle Grounds</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-10</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Super Slam Showdown, which I paid $1.02 for the lowest tier.</notes>
+	</game>
+	<game id="2032" electronic="true">
+		<title>Stardust Vanguards</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-10</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Super Slam Showdown, which I paid $1.02 for the lowest tier.</notes>
+	</game>
+	<game id="2033" electronic="true">
+		<title>No Time To Explain Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-10</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Super Slam Showdown, which I paid $1.02 for the lowest tier.</notes>
+	</game>
 	<!--
 	-->
 	<!--

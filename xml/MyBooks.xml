@@ -11001,4 +11001,14 @@
 		<buy date="2015-09-06" place="Frugal Muse, 235 Junction Road, Madison WI 53717" price="4.79"/>
 		<notes>Softcover, but old school cover that I think mom had.</notes>
 	</book>
+	<book id="1094">
+		<title>Level Up! The Guide to Great Video Game Design, 2nd Edition</title>
+		<buy date="2015-09-15" place="O'Reilly.com" price="22.49"/>
+		<notes>Electronic version. Normally $44.99 but saved 50% with coupon.</notes>
+	</book>
+	<book id="1095">
+		<title>LibGDX Game Development By Example</title>
+		<buy date="2015-09-15" place="O'Reilly.com" price="17.99"/>
+		<notes>Electronic version. Normally $35.99 but saved 50% with coupon.</notes>
+	</book>
 </books>

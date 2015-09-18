@@ -29212,6 +29212,62 @@
 		<own>yes</own>
 		<notes>Normally $7.99.</notes>
 	</game>
+	<game id="2035" electronic="true">
+		<title>Command &amp; Conquer Red Alert 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-15</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free through Origin On the House.</notes>
+	</game>
+	<game id="2036" electronic="true">
+		<title>Command &amp; Conquer Red Alert Yuri's Revenge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-15</date>
+			<price>0.00</price>
+			<place>Origin</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free through Origin On the House.</notes>
+	</game>
+	<game id="2037" electronic="true">
+		<title>Tomb Raider: Definitive Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-09-15</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Gold.</notes>
+	</game>
+	<game id="2038" electronic="true">
+		<title>How to Survive: Storm Warning Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-09-15</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

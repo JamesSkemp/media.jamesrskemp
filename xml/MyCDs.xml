@@ -5945,9 +5945,19 @@
 		<purchase>
 			<date>2015-06-26</date>
 			<place>Amazon.com</place>
-			<price>699</price>
+			<price>6.99</price>
 		</purchase>
 		<notes>Was just released on the 23rd.</notes>
+	</album>
+	<album id="664">
+		<title>Pagans in Vegas</title>
+		<artist>Metric</artist>
+		<purchase>
+			<date>2015-09-18</date>
+			<place>Amazon.com</place>
+			<price>7.99</price>
+		</purchase>
+		<notes>Release date. Paid $2 less than this (so $5.99) due to promotional discounts (slow shipping).</notes>
 	</album>
 	<!--
 		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.

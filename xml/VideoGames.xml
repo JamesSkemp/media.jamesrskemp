@@ -1647,6 +1647,16 @@
 			<own>yes</own>
 			<notes>Received 8/30/2015. Got for my Raspberry Pi.</notes>
 		</item>
+		<item id="121">
+			<name>Buffalo Classic USB Gamepad for PC</name>
+			<purchase>
+				<date>2015-09-17</date>
+				<price>11.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 9/20/2015. Got another one for my Raspberry Pi.</notes>
+		</item>
 	</hardware>
 <!--
 -->

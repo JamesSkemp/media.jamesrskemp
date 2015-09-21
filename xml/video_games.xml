@@ -29268,6 +29268,177 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="2039">
+		<title>Steins;Gate</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-09-17</date>
+			<price>39.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/19/2015. Turned out only Amazon received physical copies of these games.</notes>
+	</game>
+	<game id="2040" electronic="true">
+		<title>Another Perspective</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2041" electronic="true">
+		<title>Spoiler Alert Collector's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2042" electronic="true">
+		<title>Death Ray Manta</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2043" electronic="true">
+		<title>Stealth Bastard Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2044" electronic="true">
+		<title>Savant - Ascent</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2045" electronic="true">
+		<title>10 Second Ninja</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2046" electronic="true">
+		<title>Detective Case and Clown Bot in: Murder in The Hotel Lisbon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Weekly Bundle: Play and Create with GameMaker, and treating as $0.25 each.</notes>
+	</game>
+	<game id="2047" electronic="true">
+		<title>Omega Quintet</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>12.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but on sale as part of an Animation Deals flash sale this weekend.</notes>
+	</game>
+	<game id="2048" electronic="true">
+		<title>DYNASTY WARRIORS: Gundam Reborn</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>12.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale as part of an Animation Deals flash sale this weekend.</notes>
+	</game>
+	<game id="2049" electronic="true" addOn="true">
+		<title>DYNASTY WARRIORS: Gundam Reborn Complete Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>9.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Normally $29.99 but on sale as part of an Animation Deals flash sale this weekend.
+			DLC includes; Beargguy, Mobile Suit Gundam Action Bundle, The Legendary Bundle, The Epic Bundle, Endless Waltz Bundle, Mobile Suit Gundam 00 Bundle, Crossbone Bundle, Stardust Memory Bundle, Unicorn Bundle, Trial of Crimson and Red, Fleet Battle Bundle.
+		</notes>
+	</game>
+	<game id="2050" electronic="true" beat="true">
+		<title>Nightmares from the Deep: The Cursed Heart - Collector's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-19</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Monsis101 on Reddit. Played 9/20 and beat after 4.4 hours. Quite good story, graphics, and play.</notes>
+	</game>
 	<!--
 	-->
 	<!--

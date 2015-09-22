@@ -29439,6 +29439,230 @@
 		<own>yes</own>
 		<notes>Gift from Monsis101 on Reddit. Played 9/20 and beat after 4.4 hours. Quite good story, graphics, and play.</notes>
 	</game>
+	<game id="2051" electronic="true">
+		<title>Mystery Masters: Psycho Train Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.24</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2052" electronic="true">
+		<title>Ghost Pirates of Vooju Island</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2053" electronic="true">
+		<title>House of 1,000 Doors: Family Secrets</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2054" electronic="true">
+		<title>House of 1,000 Doors: The Palm of Zoroaster CE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2055" electronic="true">
+		<title>Nearwood – Collector’s Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2056" electronic="true">
+		<title>Brink of Consciousness: Dorian Gray Syndrome CE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2057" electronic="true">
+		<title>Brink of Consciousness: The Lonely Hearts Murders</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2058" electronic="true">
+		<title>Space Legends: At the Edge of the Universe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>0.25</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Enigma Bundle, which was 8 games for $1.99.</notes>
+	</game>
+	<game id="2059" electronic="true">
+		<title>Ittle Dew</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.32</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2060" electronic="true">
+		<title>Lethal RPG: War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2061" electronic="true">
+		<title>Forest of Doom, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2062" electronic="true">
+		<title>Deep Dungeons of Doom</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2063" electronic="true">
+		<title>Before the Echo</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2064" electronic="true">
+		<title>Hoven the Sages Spinel</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2065" electronic="true">
+		<title>Heroes of Loot</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
+	<game id="2066" electronic="true">
+		<title>Deity Quest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-21</date>
+			<price>0.31</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

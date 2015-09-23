@@ -6130,7 +6130,7 @@
 		<own>yes</own>
 		<notes>PSOne Classic. While I have physical copies, I'm voting with my wallet. Was just released on the PSN today.</notes>
 	</game>
-	<game id="406">
+	<game id="406" used="true">
 		<title>Armored Core 4</title>
 		<system>
 			<console>Xbox</console>
@@ -6142,7 +6142,7 @@
 			<place>GameStop, Grandview Center, 1001 Mutual Way, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Have heard about when I was looking at the 'new' Front Mission game reviews.</notes>
+		<notes>Have heard about when I was looking at the 'new' Front Mission game reviews.</notes>
 	</game>
 	<game id="407" electronic="true" beat="true">
 		<title>3rd Birthday, The</title>
@@ -28272,7 +28272,10 @@
 			<place>ebay (retro_saikou)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 8/13/2015. Japanese version.</notes>
+		<notes>
+			Received 8/13/2015. Japanese version.
+			Bought strategy guide, which is for US release as Tales of Destiny II, on 9/20/2105 for $29.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="1968" used="true">
 		<title>Persona</title>
@@ -29663,6 +29666,20 @@
 		<own>yes</own>
 		<notes>Part of the RPG Champions Bundle 2, which was $2.49 for 8 games.</notes>
 	</game>
+	<game id="2067" used="true">
+		<title>Armored Core: For Answer</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-09-20</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Figure it's worth a try.</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -29672,6 +29689,8 @@
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
+	Disgaea D2: A Brighter Darkness hardcover strategy guide picked up 9/20/2015 for $15.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't have the game yet, but the guide seems to be in great condition.
+	
 	-->
 	<!--
 		Free for PlayStation Plus. Normally $9.99.

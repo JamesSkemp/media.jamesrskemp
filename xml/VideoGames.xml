@@ -1657,6 +1657,34 @@
 			<own>yes</own>
 			<notes>Received 9/20/2015. Got another one for my Raspberry Pi.</notes>
 		</item>
+		<item id="122">
+			<name>PlayStation Multitap</name>
+			<system>
+				<console>PlayStation</console>
+				<version>1</version>
+			</system>
+			<purchase>
+				<date>2015-09-20</date>
+				<price>3.99</price>
+				<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Has 4-slots.</notes>
+		</item>
+		<item id="123">
+			<name>Classic Controller for Super NES</name>
+			<system>
+				<console>Super Nintendo Entertainment System (SNES)</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2015-09-20</date>
+				<price>3.99</price>
+				<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+			</purchase>
+			<own>yes</own>
+			<notes>TTX Tech brand, that has a nice d-pad, although the buttons seem a little off, but they work.</notes>
+		</item>
 	</hardware>
 <!--
 -->

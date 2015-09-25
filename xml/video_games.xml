@@ -29680,6 +29680,118 @@
 		<own>yes</own>
 		<notes>Figure it's worth a try.</notes>
 	</game>
+	<game id="2068" electronic="true">
+		<title>Shadowgate (2014)</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.40</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2069" electronic="true">
+		<title>Shadowgate: MacVenture Series</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2070" electronic="true">
+		<title>Déjà Vu: MacVenture Series</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2071" electronic="true">
+		<title>Déjà Vu II: MacVenture Series</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2072" electronic="true">
+		<title>Uninvited: MacVenture Series</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2073" electronic="true">
+		<title>Sherlock Holmes: The Case of the Mummy's Curse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2074" electronic="true">
+		<title>Sherlock Holmes: The Case of the Mystified Murderess</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2075" electronic="true">
+		<title>Sherlock Holmes: The Case of the Tin Soldier</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>0.37</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

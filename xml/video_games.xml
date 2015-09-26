@@ -29409,7 +29409,10 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $39.99 but on sale as part of an Animation Deals flash sale this weekend.</notes>
+		<notes>
+			Normally $39.99 but on sale as part of an Animation Deals flash sale this weekend.
+			Beat official mode 9/25/2015 at 16 hours and 22 minutes.
+		</notes>
 	</game>
 	<game id="2049" electronic="true" addOn="true">
 		<title>DYNASTY WARRIORS: Gundam Reborn Complete Bundle</title>

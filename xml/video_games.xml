@@ -28771,7 +28771,7 @@
 		<title>Devilman</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28785,7 +28785,7 @@
 		<title>Dewprism (Threads of Fate)</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28799,7 +28799,7 @@
 		<title>Dragon Ball Final Bout</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28813,7 +28813,7 @@
 		<title>Dragon Ball Z Ultimate Battle 22</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28827,7 +28827,7 @@
 		<title>Dragon Quest VII</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28841,7 +28841,7 @@
 		<title>Goemon</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28855,7 +28855,7 @@
 		<title>I.Q. Intelligent Qube</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28869,7 +28869,7 @@
 		<title>Legend of Mana</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28883,7 +28883,7 @@
 		<title>Minna no Golf (Hot Shots Golf)</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28897,7 +28897,7 @@
 		<title>Parappa The Rapper</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28911,7 +28911,7 @@
 		<title>Parasite Eve</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28925,7 +28925,7 @@
 		<title>Policenauts</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28939,7 +28939,7 @@
 		<title>Psychic Force 2</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28953,7 +28953,7 @@
 		<title>Rurouni Kenshin</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28967,7 +28967,7 @@
 		<title>Saga Frontier</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28981,7 +28981,7 @@
 		<title>Star Ocean The Second Story</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -28995,7 +28995,7 @@
 		<title>Tales of Destiny</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -29009,7 +29009,7 @@
 		<title>Game of Life DX, The</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -29023,7 +29023,7 @@
 		<title>Valkyrie Profile</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -29037,7 +29037,7 @@
 		<title>Xenogears</title>
 		<system>
 			<console>PlayStation</console>
-			<version>1</version>
+			<version>1 (Japanese)</version>
 		</system>
 		<purchase>
 			<date>2015-09-02</date>
@@ -29794,6 +29794,146 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the Sleuth Bundle, which was $2.99 for 8 games.</notes>
+	</game>
+	<game id="2076" used="true">
+		<title>Breath of Fire III</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>14.99</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit. This was one of them.</notes>
+	</game>
+	<game id="2077" used="true">
+		<title>Cowboy Bebop</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>21.60</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+	</game>
+	<game id="2078" used="true">
+		<title>Wild Arms 2nd Ignition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>10.60</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit. Japanese version of Wild Arms 2.</notes>
+	</game>
+	<game id="2079" used="true">
+		<title>Vandal Hearts</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>11.40</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+	</game>
+	<game id="2080" used="true">
+		<title>Culdcept Expansion</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>7.99</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+	</game>
+	<game id="2081" used="true">
+		<title>Kisetsu wo Dakishimete</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>11.90</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+	</game>
+	<game id="2082" used="true">
+		<title>Sampaguita</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-05</date>
+			<price>9.99</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+	</game>
+	<game id="2083" used="true">
+		<title>Sengoku Basara 3 Utage</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>17.79</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 9/24/2015.</notes>
+	</game>
+	<game id="2084" used="true">
+		<title>Mobile Suit Gundam Side Stories</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-09-18</date>
+			<price>22.48</price>
+			<place>ebay (retro_saikou)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 9/24/2015. Having a blast with Gundam Reborn, so going to try this one.</notes>
+	</game>
+	<game id="2085" electronic="true">
+		<title>Nexus: The Jupiter Incident</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-26</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. TotalBiscuit had good things to say about it, but warned it starts slow.</notes>
 	</game>
 	<!--
 	-->

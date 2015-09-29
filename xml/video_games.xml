@@ -29935,6 +29935,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99. TotalBiscuit had good things to say about it, but warned it starts slow.</notes>
 	</game>
+	<game id="2086" used="true">
+		<title>Yukiwari no Hana</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1 (Japanese)</version>
+		</system>
+		<purchase>
+			<date>2015-09-24</date>
+			<price>18.95</price>
+			<place>ebay (labellaanthony)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Fourth game in the Production I.G Yarudora series. Received 9/28/2015.</notes>
+	</game>
+	<game id="2087" electronic="true" addOn="true">
+		<title>Cities: Skylines - After Dark</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-09-28</date>
+			<price>11.55</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but saved $3.44 (23%) with coupon.</notes>
+	</game>
 	<!--
 	-->
 	<!--

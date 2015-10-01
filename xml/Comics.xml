@@ -9866,9 +9866,21 @@
     <Quantity>1</Quantity>
     <Notes>Received 7/16/2015.</Notes>
   </Comic>
+  <Comic>
+    <AutoNumber>630</AutoNumber>
+    <DescriptiveName>Teenage Mutant Ninja Turtles Adventures Volume 10</DescriptiveName>
+    <Series>Teenage Mutant Ninja Turtles Adventures</Series>
+    <Publisher>IDW</Publisher>
+    <Price/>
+    <BoughtAt>Amazon.com</BoughtAt>
+    <BoughtDate>2015.06.21</BoughtDate>
+    <BoughtPrice>14.99</BoughtPrice>
+    <Quantity>1</Quantity>
+    <Notes>Received 9/30/2015.</Notes>
+  </Comic>
   <!--
   -->
-  <!-- Next number: 630 -->
+  <!-- Next number: 631 -->
   <!--
 	2015.02.02 pre-ordered at Amazon.com
 Teenage Mutant Ninja Turtles Classics Volume 10	15.47
@@ -9877,5 +9889,7 @@ Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6  44.99
 
   Keep an eye open for:
 Tales of the Teenage Mutant Ninja Turtles Volume 8
+Teenage Mutant Ninja Turtles Classics Volume 11
+Teenage Mutant Ninja Turtles Adventures Volume 11
   -->
 </ArrayOfComic>

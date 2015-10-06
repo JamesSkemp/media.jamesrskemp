@@ -29963,6 +29963,51 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but saved $3.44 (23%) with coupon.</notes>
 	</game>
+	<game id="2088">
+		<title>Disgaea D2: A Brighter Darkness</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-10-02</date>
+			<price>25.50</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Received 10/4/2015.
+			Disgaea D2: A Brighter Darkness hardcover strategy guide picked up 9/20/2015 for $15.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't have the game yet, but the guide seems to be in great condition.
+		</notes>
+	</game>
+	<game id="2089" electronic="true">
+		<title>Chroma Squad</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-05</date>
+			<price>9.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but weekly sale.</notes>
+	</game>
+	<game id="2090" electronic="true">
+		<title>Space Rangers HD: A War Apart</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-05</date>
+			<price>3.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but weekly sale. Came recommended on Reddit as being similar to SPAZ.</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -29972,8 +30017,6 @@
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 	Lunar: Silver Star Story Complete strategy guide picked up 5/13/2014 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Dirt cheap, for some reason, and has a distinctive look to it.
-	Disgaea D2: A Brighter Darkness hardcover strategy guide picked up 9/20/2015 for $15.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't have the game yet, but the guide seems to be in great condition.
-	
 	-->
 	<!--
 		Free for PlayStation Plus. Normally $9.99.

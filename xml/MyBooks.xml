@@ -11011,4 +11011,40 @@
 		<buy date="2015-09-15" place="O'Reilly.com" price="17.99"/>
 		<notes>Electronic version. Normally $35.99 but saved 50% with coupon.</notes>
 	</book>
+	<book id="1096">
+		<title>Running Man, The</title>
+		<authors>
+			<author>Stephen King</author>
+		</authors>
+		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="1.98"/>
+		<notes>Older copy, with movie-related cover.</notes>
+	</book>
+	<book id="1097">
+		<title>Haunter of the Ring &amp; Other Tales, The</title>
+		<authors>
+			<author>Robert E. Howard</author>
+		</authors>
+		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="4.99"/>
+	</book>
+	<book id="1098">
+		<title>Power of Darkness, The - Tales of Terror</title>
+		<authors>
+			<author>Edith Nesbit</author>
+		</authors>
+		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="4.99"/>
+	</book>
+	<book id="1099">
+		<title>Night Shivers: The Ghost Stoires of J.H. Riddell</title>
+		<authors>
+			<author>J.H. Riddell</author>
+		</authors>
+		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="4.99"/>
+	</book>
+	<book id="1100">
+		<title>Dead of Night, The: The Ghost Stories of Oliver Onions</title>
+		<authors>
+			<author>Oliver Onions</author>
+		</authors>
+		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="4.99"/>
+	</book>
 </books>

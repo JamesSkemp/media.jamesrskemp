@@ -30008,6 +30008,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but weekly sale. Came recommended on Reddit as being similar to SPAZ.</notes>
 	</game>
+	<game id="2091" electronic="true">
+		<title>Planetary Annihilation: Titans</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-09</date>
+			<price>13.60</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but saved 66% since I had the original version.</notes>
+	</game>
+	<game id="2092" electronic="true">
+		<title>Omikron: The Nomad Soul</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-09</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale this weekend.</notes>
+	</game>
+	<game id="2093" electronic="true">
+		<title>Anachronox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-09</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale this weekend. Recommended all over, including in Top 10 Cyberpunk Video Games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

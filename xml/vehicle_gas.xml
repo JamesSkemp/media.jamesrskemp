@@ -3072,6 +3072,15 @@
 				<costTotal>25.56</costTotal>
 				<notes>Paid $2.119/gallon thanks to $0.16/gallon savings from card.</notes>
 			</fillup>
+			<fillup id="274">
+				<date>2015-10-14</date>
+				<milesCar>58909</milesCar>
+				<milesDriven>276.2</milesDriven>
+				<gallons>11.437</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>26.98</costTotal>
+				<notes>Was cold enough this morning I need to gently scrap my window off.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

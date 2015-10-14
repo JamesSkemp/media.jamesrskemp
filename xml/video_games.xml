@@ -30050,11 +30050,25 @@
 		<own>yes</own>
 		<notes>Normally $5.99, but on sale this weekend. Recommended all over, including in Top 10 Cyberpunk Video Games.</notes>
 	</game>
+	<game id="2094">
+		<title>Bloodborne</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-10-09</date>
+			<price>19.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/13/2015. On sale, and saved an additional $5 with Gamers Club Unlocked.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 = -$47.60 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 = -$52.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

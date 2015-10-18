@@ -10939,6 +10939,9 @@
 			<author>Harlan Ellison</author>
 		</authors>
 		<buy date="2015-05-06" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="0.75"/>
+		<readings finished="true">
+			<read time="1" start="2015-06-20" finish="2015-10-17"/>
+		</readings>
 	</book>
 	<book id="1086">
 		<title>Unity in Action</title>

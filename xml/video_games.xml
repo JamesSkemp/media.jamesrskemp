@@ -30162,6 +30162,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but Flash Sale this weekend.</notes>
 	</game>
+	<game id="2102">
+		<title>Samurai Warriors 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-10-16</date>
+			<price>28.69</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/18/2015.</notes>
+	</game>
 	<!--
 	-->
 	<!--

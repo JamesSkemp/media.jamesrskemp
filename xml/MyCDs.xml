@@ -5959,6 +5959,16 @@
 		</purchase>
 		<notes>Release date. Paid $2 less than this (so $5.99) due to promotional discounts (slow shipping).</notes>
 	</album>
+	<album id="665">
+		<title>Liberman (Deluxe)</title>
+		<artist>Vanessa Carlton</artist>
+		<purchase>
+			<date>2015-10-23</date>
+			<place>Amazon.com</place>
+			<price>13.49</price>
+		</purchase>
+		<notes>Release date.</notes>
+	</album>
 	<!--
 		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.
 		Skeletons From the Closest, The Grateful Dead	0.49	Savers, East Madison	Tape.

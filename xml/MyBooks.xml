@@ -11050,4 +11050,11 @@
 		</authors>
 		<buy date="2015-10-07" place="Half Price Books #014, 626 South Whitney Way, Madison WI 53711" price="4.99"/>
 	</book>
+	<book id="1101">
+		<title>Interphase #1</title>
+		<buy date="2015-10-11" place="Gumroad.com" price="30.00" />
+		<readings finished="true">
+			<read time="1" finish="2015-10-22"/>
+		</readings>
+	</book>
 </books>

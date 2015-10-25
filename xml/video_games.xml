@@ -28765,7 +28765,10 @@
 			<place>ebay (4chilipeppers)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>First game in the Production I.G Yarudora series. Received 9/5/2015. Complete.</notes>
+		<notes>
+			First game in the Production I.G Yarudora series. Received 9/5/2015. Complete.
+			Bought Official Guide Book 9/24/2015 for $6.51 from ebay (japan-ssdyuk), which was shipped 9/26, and I received 10/23/2015. Missing fold out poster.
+		</notes>
 	</game>
 	<game id="2003" used="true">
 		<title>Devilman</title>
@@ -29877,7 +29880,10 @@
 			<place>ebay (retro_saikou)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Second game in the Production I.G Yarudora series. Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+		<notes>
+			Second game in the Production I.G Yarudora series. Received 9/8/2015, but package, and a few game cases, were damaged in transit.
+			Bought Official Guide Book 9/24/2015 for $6.51 from ebay (japan-ssdyuk), which was shipped 9/26, and I received 10/23/2015.
+		</notes>
 	</game>
 	<game id="2082" used="true">
 		<title>Sampaguita</title>
@@ -29891,7 +29897,10 @@
 			<place>ebay (retro_saikou)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Third game in the Production I.G Yarudora series. Received 9/8/2015, but package, and a few game cases, were damaged in transit.</notes>
+		<notes>
+			Third game in the Production I.G Yarudora series. Received 9/8/2015, but package, and a few game cases, were damaged in transit.
+			Bought Official Guide Book 9/24/2015 for $10.50 from ebay (japan-ssdyuk), which was shipped 9/26, and I received 10/23/2015.
+		</notes>
 	</game>
 	<game id="2083" used="true">
 		<title>Sengoku Basara 3 Utage</title>
@@ -29947,7 +29956,10 @@
 			<place>ebay (labellaanthony)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Fourth game in the Production I.G Yarudora series. Received 9/28/2015.</notes>
+		<notes>
+			Fourth game in the Production I.G Yarudora series. Received 9/28/2015.
+			Bought Official Guide Book 9/24/2015 for $6.51 from ebay (japan-ssdyuk), which was shipped 9/26, and I received 10/23/2015.
+		</notes>
 	</game>
 	<game id="2087" electronic="true" addOn="true">
 		<title>Cities: Skylines - After Dark</title>
@@ -30206,6 +30218,149 @@
 			Pre-ordered, received release date on 10/20/2015. Saved $12 with Gamers Club Unlocked.
 			Purchased Collector's Edition strategy guide 9/13/2015 from BestBuy.com for $25.49, which was $14.50 off since I purchased with the game, and it was on sale for $10 off. Received 10/20/2015.
 		</notes>
+	</game>
+	<game id="2105" electronic="true">
+		<title>Strider</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2106" electronic="true">
+		<title>Resident Evil Revelations 2 - Episode 1: Penal Colony</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2107" electronic="true">
+		<title>Lost Planet 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2108" electronic="true">
+		<title>Bionic Commando: Rearmed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2109" electronic="true">
+		<title>Resident Evil Revelations</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2110" electronic="true">
+		<title>Resident Evil 4</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2111" electronic="true">
+		<title>Resident Evil 5</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2112" electronic="true">
+		<title>DmC: Devil May Cry</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-13</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Capcom Bundle, which I paid $7.50 to beat the average for 8 games (had Remember Me already).</notes>
+	</game>
+	<game id="2113" electronic="true">
+		<title>Warlock 2: The Exiled</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-20</date>
+			<price>9.99</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Purchased as part of the Warlock Complete Bundle, for $9.99. Included first game and DLC for the second game.
+			DLC: Warlock 2: Wrath of the Nagas DLC; Warlock 2: The Thrilling Trio DLC; Warlock 2: The Good, the Bad, &amp; the Muddy DLC; Warlock 2: Three Mighty Mages DLC; Warlock 2: Spectacular Spell Pack DLC; Warlock I and II: Soundtrack DLC; Warlock 2 E-book: The Great Mage Game DLC.
+		</notes>
+	</game>
+	<game id="2114" electronic="true">
+		<title>Foul Play</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-24</date>
+			<price>2.92</price>
+			<place>Green Man Gaming</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was $14.99, but on sale for $3.74, and then saved 22% ($0.82) with voucher. Brian was interested in playing it together.</notes>
 	</game>
 	<!--
 	-->

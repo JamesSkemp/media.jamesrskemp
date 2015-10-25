@@ -11057,4 +11057,16 @@
 			<read time="1" finish="2015-10-22"/>
 		</readings>
 	</book>
+	<book id="1102">
+		<title>A Guide to the Phaser Scale Manager</title>
+		<buy date="2015-10-24" place="Leanpub.com" price="2.99"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<book id="1103">
+		<title>A Guide to the Phaser Tween Manager (The Book + Code)</title>
+		<buy date="2015-10-24" place="Leanpub.com" price="10.00"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<!--
+	-->
 </books>

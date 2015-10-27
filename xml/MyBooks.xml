@@ -11067,6 +11067,21 @@
 		<buy date="2015-10-24" place="Leanpub.com" price="10.00"/>
 		<notes>Electronic version.</notes>
 	</book>
+	<book id="1104">
+		<title>HTML 5 Shoot 'em Up in an Afternoon</title>
+		<buy date="2015-10-24" place="Leanpub.com" price="9.99"/>
+		<notes>Electronic version. Downloaded the free sample initially, but after getting a little over half way through (afternoon 5), decided to purchase the book.</notes>
+	</book>
+	<book id="1105">
+		<title>Developing an HTML5 Brick-breaker Game With Phaser</title>
+		<buy date="2015-10-24" place="Leanpub.com" price="6.99"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<book id="1106">
+		<title>Making Your First HTML5 Game with Phaser</title>
+		<buy date="2015-10-24" place="Leanpub.com" price="4.99"/>
+		<notes>Electronic version.</notes>
+	</book>
 	<!--
 	-->
 </books>

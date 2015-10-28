@@ -30362,6 +30362,20 @@
 		<own>yes</own>
 		<notes>Was $14.99, but on sale for $3.74, and then saved 22% ($0.82) with voucher. Brian was interested in playing it together.</notes>
 	</game>
+	<game id="2115" electronic="true">
+		<title>Sanitarium</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-28</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale for weekend/Halloween promo. Recommended from Another Top 10 Scary Video Games (WatchMojo) and players seem to like it.</notes>
+	</game>
 	<!--
 	-->
 	<!--

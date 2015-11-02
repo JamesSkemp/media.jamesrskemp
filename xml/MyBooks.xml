@@ -11073,6 +11073,9 @@
 	<book id="1104">
 		<title>HTML 5 Shoot 'em Up in an Afternoon</title>
 		<buy date="2015-10-24" place="Leanpub.com" price="9.99"/>
+		<readings finished="true">
+			<read time="1" start="2015-10-24" finish="2015-10-27"/>
+		</readings>
 		<notes>Electronic version. Downloaded the free sample initially, but after getting a little over half way through (afternoon 5), decided to purchase the book.</notes>
 	</book>
 	<book id="1105">

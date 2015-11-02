@@ -11002,6 +11002,9 @@
 			<author>Stephen King</author>
 		</authors>
 		<buy date="2015-09-06" place="Frugal Muse, 235 Junction Road, Madison WI 53717" price="4.79"/>
+		<readings finished="true">
+			<read time="1" start="2015-10-17" finish="2015-11-02"/>
+		</readings>
 		<notes>Softcover, but old school cover that I think mom had.</notes>
 	</book>
 	<book id="1094">

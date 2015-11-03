@@ -30390,6 +30390,48 @@
 		<own>yes</own>
 		<notes>Looked good, and reviews generally seemed good. Worth a try.</notes>
 	</game>
+	<game id="2117" used="true">
+		<title>Way of the Samurai</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-10-31</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth a go, since I have the third one.</notes>
+	</game>
+	<game id="2118" used="true">
+		<title>Wild Arms 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-10-31</date>
+			<price>7.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap enough it was worth picking up a second copy. When I started it up to test the disc on 11/2 it prompted to load my save from 10/2005, which was suprising.</notes>
+	</game>
+	<game id="2119" used="true">
+		<title>Thing, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-10-31</date>
+			<price>2.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap and supposed to be fairly good. Unfortunately when I was testing it out I only got less than 10 minutes in before feeling a bit sick. Might just be because it's late.</notes>
+	</game>
 	<!--
 	-->
 	<!--

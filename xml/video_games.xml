@@ -30432,6 +30432,48 @@
 		<own>yes</own>
 		<notes>Cheap and supposed to be fairly good. Unfortunately when I was testing it out I only got less than 10 minutes in before feeling a bit sick. Might just be because it's late.</notes>
 	</game>
+	<game id="2120" electronic="true">
+		<title>Master of Magic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-04</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but part of Fall Sale. Supposed to be quite good.</notes>
+	</game>
+	<game id="2121" electronic="true">
+		<title>Master of Orion 1+2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-04</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but part of Fall Sale.</notes>
+	</game>
+	<game id="2122" electronic="true">
+		<title>Space Colony HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-04</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but part of Fall Sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

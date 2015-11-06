@@ -30477,6 +30477,20 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but part of Fall Sale.</notes>
 	</game>
+	<game id="2123" electronic="true">
+		<title>System Shock 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-04</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I spent $5 or more on the GOG Fall Sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

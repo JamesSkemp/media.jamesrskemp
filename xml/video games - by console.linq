@@ -37,6 +37,8 @@ output
 	//.Where (g => g.System.Contains("PlayStation 2 (")) //PlayStation Portable
 	.Where (g => g.System == "PlayStation 3")
 	.Dump();
-	
+
 var consoles = output.GroupBy (g => g.System).Select (g => new { g.Key, Count = g.Count() }).OrderBy (g => g.Key);
+
+"Games that aren't electronic:".Dump();
 consoles.Dump();

@@ -3081,6 +3081,15 @@
 				<costTotal>26.98</costTotal>
 				<notes>Was cold enough this morning I need to gently scrap my window off.</notes>
 			</fillup>
+			<fillup id="275">
+				<date>2015-11-09</date>
+				<milesCar>59158</milesCar>
+				<milesDriven>248.5</milesDriven>
+				<gallons>10.825</gallons>
+				<costGallon>2.329</costGallon>
+				<costTotal>24.56</costTotal>
+				<notes>Paid $2.269/gallon thanks to $0.06/gallon savings from card. Had about 1/4 of a tank left. Getting cold enough I had frost on my windows this morning.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

@@ -30491,6 +30491,20 @@
 		<own>yes</own>
 		<notes>Free since I spent $5 or more on the GOG Fall Sale.</notes>
 	</game>
+	<game id="2124" electronic="true">
+		<title>Divinity: Original Sin - Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-10-27</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I owned the original release.</notes>
+	</game>
 	<!--
 	-->
 	<!--

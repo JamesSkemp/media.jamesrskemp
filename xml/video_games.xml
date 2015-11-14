@@ -30505,6 +30505,118 @@
 		<own>yes</own>
 		<notes>Free since I owned the original release.</notes>
 	</game>
+	<game id="2125" electronic="true">
+		<title>Baldur's Gate: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>6.66</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $19.99.</notes>
+	</game>
+	<game id="2126" electronic="true">
+		<title>Baldur's Gate II: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>6.66</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $19.99.</notes>
+	</game>
+	<game id="2127" electronic="true">
+		<title>Icewind Dale: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>6.66</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $19.99.</notes>
+	</game>
+	<game id="2128" electronic="true">
+		<title>Anno 1503 A.D.</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $5.99.</notes>
+	</game>
+	<game id="2129" electronic="true">
+		<title>Anno 1602 A.D.</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>3.29</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $9.99.</notes>
+	</game>
+	<game id="2130" electronic="true">
+		<title>Anno 1701 A.D.</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>4.29</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Last day of the Fall sale. Normally $12.99.</notes>
+	</game>
+	<game id="2131" electronic="true">
+		<title>Chronicles of Riddick: Assault on Dark Athena, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I spent over $15 during the Fall sale.</notes>
+	</game>
+	<game id="2132" electronic="true">
+		<title>Banished</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-13</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I spent over $30 during the Fall sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

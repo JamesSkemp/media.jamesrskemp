@@ -30631,6 +30631,34 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Gold.</notes>
 	</game>
+	<game id="2134" used="true">
+		<title>Spectral Force: Genesis</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2015-11-17</date>
+			<price>4.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own></own>
+		<notes>Game only. Saved $0.50 with PowerUp card.</notes>
+	</game>
+	<game id="2135" used="true">
+		<title>Mario &amp; Luigi: Bowser's Inside Story</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2015-11-17</date>
+			<price>13.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Game only. Saved $1.50 with PowerUp card.</notes>
+	</game>
 	<!--
 	-->
 	<!--

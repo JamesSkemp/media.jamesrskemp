@@ -11088,6 +11088,14 @@
 		<buy date="2015-10-24" place="Leanpub.com" price="4.99"/>
 		<notes>Electronic version.</notes>
 	</book>
+	<book id="1107">
+		<title>Mastering TypeScript</title>
+		<authors>
+			<author>Nathan Rozentals</author>
+		</authors>
+		<buy date="2015-11-21" place="Packtpub.com" price="5.00"/>
+		<notes>Electronic version. Normally $20, but completed an easy survey to get any ebook of my choice for $5.</notes>
+	</book>
 	<!--
 	-->
 </books>

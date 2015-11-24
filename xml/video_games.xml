@@ -30698,8 +30698,21 @@
 		<own>yes</own>
 		<notes>Received 11/22/2015. On sale for $20 off.</notes>
 	</game>
+	<game id="2138">
+		<title>Tokyo Twilight Ghost Hunters</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-11-20</date>
+			<price>19.98</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 11/23/2015. Since I started on Steins;Gate, decided to pick this up, especially since it was on sale.</notes>
+	</game>
 	<!--
-		Tokyo Twilight Ghost Hunters	19.98	11/20
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

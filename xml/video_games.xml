@@ -30712,11 +30712,53 @@
 		<own>yes</own>
 		<notes>Received 11/23/2015. Since I started on Steins;Gate, decided to pick this up, especially since it was on sale.</notes>
 	</game>
+	<game id="2139">
+		<title>Far Cry 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-23</date>
+			<price>11.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 11/25/2015. Was on sale for Black Friday and saved $3 more because of GCU.</notes>
+	</game>
+	<game id="2140" used="true">
+		<title>Dynasty Warriors Gundam 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-11-17</date>
+			<price>22.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $2.50 with PowerUp Card. Had a 360 version too, but wanted to stick with PS.</notes>
+	</game>
+	<game id="2141" used="true">
+		<title>Samurai Warriors 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-11-17</date>
+			<price>4.49</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.50 with PowerUp Card. So cheap, and complete, that I just had to buy it.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 = -$64.60 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 - 3 = -$67.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

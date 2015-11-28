@@ -30810,6 +30810,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale for holiday sale.</notes>
 	</game>
+	<game id="2146" electronic="true">
+		<title>Playroom, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Technically had as part of PS4, but on this date 'purchased' free DLC; Toy Maker, Ninja Bots, AR Studio, and My Alien Buddy.</notes>
+	</game>
 	<!--
 	-->
 	<!--

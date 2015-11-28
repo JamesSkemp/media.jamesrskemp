@@ -30754,11 +30754,67 @@
 		<own>yes</own>
 		<notes>Saved $0.50 with PowerUp Card. So cheap, and complete, that I just had to buy it.</notes>
 	</game>
+	<game id="2142">
+		<title>Samurai Warriors 4-II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-23</date>
+			<price>27.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $7 with GCU, I think. Received 11/27/2015, and may end up being free since they think I returned it? Called in and not sure what happened.</notes>
+	</game>
+	<game id="2143" electronic="true">
+		<title>Saints Row: Gat out of Hell</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>5.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale for holiday sale.</notes>
+	</game>
+	<game id="2144" electronic="true">
+		<title>Recettear: An Item Shop's Tale</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale for holiday sale.</notes>
+	</game>
+	<game id="2145" electronic="true">
+		<title>Aarklash: Legacy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale for holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 - 3 = -$67.60 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 - 3 - 7 = -$74.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

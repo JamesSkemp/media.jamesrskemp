@@ -30824,6 +30824,48 @@
 		<own>yes</own>
 		<notes>Technically had as part of PS4, but on this date 'purchased' free DLC; Toy Maker, Ninja Bots, AR Studio, and My Alien Buddy.</notes>
 	</game>
+	<game id="2147" electronic="true">
+		<title>Dungeon Siege III</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2148" electronic="true">
+		<title>Pneuma: Breath of Life</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2149" electronic="true">
+		<title>Knight Squad</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -7392,7 +7392,7 @@
 		<notes>Comes with Forza 2, which I decided was worth the additional $2-3.</notes>
 	</game>
 	<game id="494">
-		<title>Forza 2 Motorsport</title>
+		<title>Forza Motorsport 2</title>
 		<system>
 			<console>Xbox</console>
 			<version>360</version>
@@ -31131,6 +31131,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of Tier 3 (7 games for $2 more) of the Microids Mega Bundle 30th Anniversary, which was 25 games for $6.99, but owned 6.</notes>
+	</game>
+	<game id="2169" used="true">
+		<title>Forza Motorsport 5</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>22.49</price>
+			<place>GameStop, State Street Mall, 640 State Street, Madison WI 53703</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $2.50 with PowerUp card. The complete edition supposedly isn't complete, so recommendation was to buy the original used.</notes>
+	</game>
+	<game id="2170" used="true">
+		<title>Knack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>8.99</price>
+			<place>GameStop, State Street Mall, 640 State Street, Madison WI 53703</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $1.00 with PowerUp card. Purchased more because then I could take advantage of the buy two get one free deal, and it was cheap enough to try it.</notes>
 	</game>
 	<!--
 	-->

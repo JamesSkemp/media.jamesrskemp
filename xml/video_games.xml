@@ -31160,6 +31160,20 @@
 		<own>yes</own>
 		<notes>Saved $1.00 with PowerUp card. Purchased more because then I could take advantage of the buy two get one free deal, and it was cheap enough to try it.</notes>
 	</game>
+	<game id="2171" used="true">
+		<title>Rage</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>0.00</price>
+			<place>GameStop, State Street Mall, 640 State Street, Madison WI 53703</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since it was a buy two get one free deal. Normally $4.99 and I couldn't find anything else. And it was complete.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -31174,6 +31174,34 @@
 		<own>yes</own>
 		<notes>Free since it was a buy two get one free deal. Normally $4.99 and I couldn't find anything else. And it was complete.</notes>
 	</game>
+	<game id="2172">
+		<title>Diablo III: Ultimate Evil Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-27</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 11/30/2015. On sale for Black Friday weekend. Includes base game and Reaper of Souls expansion.</notes>
+	</game>
+	<game id="2173">
+		<title>Witcher 3, The: Wild Hunt</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-28</date>
+			<price>24.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 11/30/2015. On sale (normally $49.99) and saved $5 due to it being a Lightning Deal.</notes>
+	</game>
 	<!--
 	-->
 	<!--

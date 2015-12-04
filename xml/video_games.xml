@@ -11289,7 +11289,7 @@
 		<notes>Saved $6 this weekend. Have/had it physically as well, but ...</notes>
 	</game>
 	<game id="766" electronic="true">
-		<title>Syberia 2</title>
+		<title>Syberia II</title>
 		<system>
 			<console>PC</console>
 			<version/>
@@ -31201,6 +31201,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 11/30/2015. On sale (normally $49.99) and saved $5 due to it being a Lightning Deal.</notes>
+	</game>
+	<game id="2174" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-12-01</date>
+			<price>2.99</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week.</notes>
+	</game>
+	<game id="2175" electronic="true">
+		<title>Syberia II</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-12-01</date>
+			<price>2.99</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this week.</notes>
+	</game>
+	<game id="2176" electronic="true">
+		<title>Life is Strange Complete Season</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-03</date>
+			<price>10.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off for Games Awards sale.</notes>
 	</game>
 	<!--
 	-->

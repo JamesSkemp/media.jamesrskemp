@@ -22531,7 +22531,7 @@
 		<notes>Part of the Far Cry Franchise Pack, which was $9.99, but is normally $39.99. This is normally $9.99, but was marked down to $2.49.</notes>
 	</game>
 	<game id="1561" electronic="true">
-		<title>Far Cry 3 - Blood Dragon</title>
+		<title>Far Cry 3 Blood Dragon</title>
 		<system>
 			<console>PC</console>
 			<version/>
@@ -31243,6 +31243,118 @@
 		</purchase>
 		<own>yes</own>
 		<notes>50% off for Games Awards sale.</notes>
+	</game>
+	<game id="2177">
+		<title>Xenoblade Chronicles X: Special Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2015-11-02</date>
+			<price>71.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $89.99, but saved $18 with GCU. Will be released 12/4, and should receive in the mail on that day. Received 12/4/2015. Art book is pretty cool.</notes>
+	</game>
+	<game id="2178" electronic="true">
+		<title>Final Fantasy VII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>10.87</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $15.99 but on sale today, which is also its release day. Just a release of the Steam version.</notes>
+	</game>
+	<game id="2179" electronic="true">
+		<title>Gauntlet: Slayer Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2180" electronic="true">
+		<title>King's Quest - Chapter 1: A Knight to Remember</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2181" electronic="true">
+		<title>Far Cry 3 Blood Dragon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2182" electronic="true">
+		<title>SSX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2183" electronic="true">
+		<title>Freedom Wars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2184" electronic="true">
+		<title>Rocketbirds: Hardboiled Chicken</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-12-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
 	<!--
 	-->

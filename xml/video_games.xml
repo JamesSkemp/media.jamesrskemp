@@ -12049,7 +12049,10 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free for PlayStation Plus members. Normally $14.99.</notes>
+		<notes>
+			Free for PlayStation Plus members. Normally $14.99.
+			'Purchased' another free copy 12/8/2015, and it didn't warn me about PS+ only.
+		</notes>
 	</game>
 	<game id="819">
 		<title>Killer is Dead</title>
@@ -31356,11 +31359,131 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2185" electronic="true">
+		<title>Yakuza 5</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-10-17</date>
+			<price>33.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Released 12/8/2015. Normally $39.99, but pre-order discount.</notes>
+	</game>
+	<game id="2186">
+		<title>Earth Defense Force 4.1: The Shadow of New Despair</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-11-21</date>
+			<price>39.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Normally $49.99 but saved $10 with Gamers Club Unlocked.
+			Will be released 12/8, and should receive in the mail on that day (I did).
+			Used half of a $20 gift card (rewards) to pay for this.
+		</notes>
+	</game>
+	<game id="2187">
+		<title>Earth Defense Force 2: Invaders from Planet Space</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-11-21</date>
+			<price>23.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Normally $29.99 but saved $6 with Gamers Club Unlocked.
+			Will be released 12/8, and should receive in the mail on that day (I did).
+			Used half of a $20 gift card (rewards) to pay for this.
+		</notes>
+	</game>
+	<game id="2188" electronic="true">
+		<title>RESOGUN</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2015-12-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason (maybe because I owned the PS4 version, but it was also marked as free today). Holiday Sale going on as well.</notes>
+	</game>
+	<game id="2189" electronic="true">
+		<title>RESOGUN</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2015-12-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason (maybe because I owned the PS4 version, but it was also marked as free today). Holiday Sale going on as well.</notes>
+	</game>
+	<game id="2190" electronic="true">
+		<title>Journey</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free, probably because I own the PS3 version.</notes>
+	</game>
+	<game id="2191" electronic="true">
+		<title>Tales from the Borderlands - Season Pass</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-08</date>
+			<price>3.75</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of week 1 of a holiday sale. Normally $14.99. Heard it was quite good.</notes>
+	</game>
+	<game id="2192" electronic="true">
+		<title>Super Stardust Ultra</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-08</date>
+			<price>5.19</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of week 1 of a holiday sale. Normally $12.99. Probably would have been cheaper in the future, but ...</notes>
+	</game>
 	<!--
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:
-		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 - 3 - 7 = -$74.60 remaining to pay for itself.
+		$30 - 12 - 12 - 8 - 8 - 6 - 2.60 - 20 - 3 - 6 - 5 - 12 - 3 - 7 - 10 - 6 = -$90.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

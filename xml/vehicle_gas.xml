@@ -3090,6 +3090,15 @@
 				<costTotal>24.56</costTotal>
 				<notes>Paid $2.269/gallon thanks to $0.06/gallon savings from card. Had about 1/4 of a tank left. Getting cold enough I had frost on my windows this morning.</notes>
 			</fillup>
+			<fillup id="276">
+				<date>2015-12-10</date>
+				<milesCar>59401</milesCar>
+				<milesDriven>243.6</milesDriven>
+				<gallons>10.629</gallons>
+				<costGallon>1.859</costGallon>
+				<costTotal>19.76</costTotal>
+				<notes>Pump handle wasn't cooperating at first, but I think I filled up the tank. Low price like this for at least a couple days before.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

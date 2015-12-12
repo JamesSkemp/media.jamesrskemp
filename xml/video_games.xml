@@ -770,7 +770,7 @@
 			<place/>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Purchased Prima Games 'Greatest Hits' strategy guide 12/11/2015 for $19.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</game>
 	<game id="48" beat="true">
 		<title>Final Fantasy XII</title>
@@ -31478,6 +31478,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of week 1 of a holiday sale. Normally $12.99. Probably would have been cheaper in the future, but ...</notes>
+	</game>
+	<game id="2193" electronic="true">
+		<title>One Piece: Pirate Warriors 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2015-12-07</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>50% off today. Received 12/11/2015.</notes>
+	</game>
+	<game id="2194" used="true">
+		<title>Fatal Fury: Battle Archives Volume 1</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-12-11</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Contains Fatal Fury 1, 2, Special, and 3. Worth it, for that price.</notes>
+	</game>
+	<game id="2195" used="true">
+		<title>Samurai Warriors 2: Extreme Legends</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-12-11</date>
+			<price>9.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>While I have the other SW2 games for the 360, worth picking up at this price in case I find a copy of SW2 later.</notes>
 	</game>
 	<!--
 	-->

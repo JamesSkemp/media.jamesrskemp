@@ -1699,6 +1699,33 @@
 			<own>yes</own>
 			<notes>Received 11/25/2015. Was on sale for 50% off.</notes>
 		</item>
+		<item id="125">
+			<name>New Nintendo 3DS XL Black</name>
+			<system>
+				<console>Nintendo</console>
+				<version>3DS (New)</version>
+			</system>
+			<purchase>
+				<date>2015-12-07</date>
+				<price>174.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>$25 off today. Received 12/9/2015.</notes>
+		</item>
+		<item id="126">
+			<name>AmazonBasics Carrying Case for Nintendo - New 3DS XL, 3DS XL - Black</name>
+			<system>
+				<console>Nintendo</console>
+			</system>
+			<purchase>
+				<date>2015-12-07</date>
+				<price>10.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/9/2015. For my new 3DS.</notes>
+		</item>
 	</hardware>
 <!--
 -->

@@ -31538,6 +31538,48 @@
 		<own>yes</own>
 		<notes>Free for holiday sale. Actually saw a copy later that day for PS2, used.</notes>
 	</game>
+	<game id="2197" electronic="true">
+		<title>Holy Potatoes! A Weapon Shop?! - DLC Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-12-22</date>
+			<price>8.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes 2 items: Holy Potatoes! A Weapon Shop?!, Holy Potatoes! A Weapon Shop?! - Spud Tales: Journey to Olympus. Normally $16.99.</notes>
+	</game>
+	<game id="2198" electronic="true">
+		<title>Pillars of Eternity - Champion Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-12-22</date>
+			<price>23.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99.</notes>
+	</game>
+	<game id="2199" used="true">
+		<title>Magna Carta: Tears of Blood</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2015-12-27</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Had a Japanese version, but first time I've seen the original in years.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -11096,6 +11096,11 @@
 		<buy date="2015-11-21" place="Packtpub.com" price="5.00"/>
 		<notes>Electronic version. Normally $20, but completed an easy survey to get any ebook of my choice for $5.</notes>
 	</book>
+	<book id="1108">
+		<title>Getting MEAN with Mongo, Express, Angular, and Node</title>
+		<buy date="2015-12-24" place="Manning.com" price="17.99"/>
+		<notes>Electronic version. Saved 50% with daily deal (half off anything).</notes>
+	</book>
 	<!--
 	-->
 </books>

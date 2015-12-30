@@ -11030,7 +11030,10 @@
 			<place>Play-Asia.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Japanese version. Shipped 5/12, delivered to office 5/14 and picked up 5/15. Paid $15 shipping.</notes>
+		<notes>
+			Japanese version. Shipped 5/12, delivered to office 5/14 and picked up 5/15. Paid $15 shipping.
+			Purchased Nier Complete Guide Material Collection GRIMOIRE (Japanese) 12/7/2015 for $29.70 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="748" addOn="true" electronic="true">
 		<title>Enslaved: Odyssey to the West Pigsy's Perfect 10</title>
@@ -13980,7 +13983,10 @@
 			<place>Square-Enix online</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 5/20/2014 (release day). One of 5000 copies.</notes>
+		<notes>
+			Received 5/20/2014 (release day). One of 5000 copies.
+			Purchased Drakengard 3 Drag-On Dragoon Official First Guide (Japanese) 12/7/2015 for $10.50 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="954">
 		<title>Drakengard 3</title>
@@ -22360,6 +22366,7 @@
 		<notes>
 			Got part two and three in a bundle for $35.99 and $2.99 shipping. Received 12/22/2014.
 			Bought Official Complete Guide (Japanese) 11/30/2014 for $16.56 and $9.60 shipping from ebay (japan-ssdyuk). Received 12/24/2014.
+			Purchased Shadow Hearts II Official Navigation Guide (Japanese) 12/7/2015 for $11.34 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
 		</notes>
 	</game>
 	<game id="1549" used="true">
@@ -22419,7 +22426,11 @@
 			<place>ebay (tamayura-japan)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.</notes>
+		<notes>
+			Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.
+			Purchased Drakengard Drag-On Dragoon Guide Book: First-Edition (Japanese) 12/7/2015 for $9.00 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+			Purchased Drakengard Drag-On Dragoon Guide Book: Complete-Edition (Japanese) 12/7/2015 for $13.50 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="1553" used="true">
 		<title>Drag-On Dragoon 2 (Japanese)</title>
@@ -22433,7 +22444,10 @@
 			<place>ebay (tamayura-japan)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.</notes>
+		<notes>
+			Part of bundle of the first and second games ($26.39). Paid $4.00 shipping and received 12/26/2014.
+			Purchased Drakengard 2 Drag-On Dragoon Official Complete Guide (Japanese) 12/7/2015 for $12.00 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="1554" used="true">
 		<title>Ryu ga Gotoku (Japanese)</title>
@@ -28749,7 +28763,10 @@
 			<place>ebay (doberneck1980)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 9/3/2015. Paid $1 shipping and handling. Listing was for Front Mission 2 and 3.</notes>
+		<notes>
+			Received 9/3/2015. Paid $1 shipping and handling. Listing was for Front Mission 2 and 3.
+			Purchased Front Mission 2 Guide Book Wanzers of the Elite (Japanese) 12/7/2015 for $11.34 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="2001" used="true">
 		<title>Front Mission 3</title>
@@ -29051,7 +29068,10 @@
 			<place>ebay (neojapanvideo)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of 20 game bundle for $64.55, from Puerto Rico.</notes>
+		<notes>
+			Part of 20 game bundle for $64.55, from Puerto Rico.
+			Purchased Valkyrie Profile Complete Guide (Japanese) 12/7/2015 for $10.50 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
+		</notes>
 	</game>
 	<game id="2022" used="true">
 		<title>Xenogears</title>
@@ -31579,6 +31599,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Had a Japanese version, but first time I've seen the original in years.</notes>
+	</game>
+	<game id="2200" electronic="true">
+		<title>Sacred 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2015-12-28</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2201" electronic="true">
+		<title>Thief</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2015-12-28</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Gold.</notes>
 	</game>
 	<!--
 	-->

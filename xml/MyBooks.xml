@@ -11101,6 +11101,22 @@
 		<buy date="2015-12-24" place="Manning.com" price="17.99"/>
 		<notes>Electronic version. Saved 50% with daily deal (half off anything).</notes>
 	</book>
+	<book id="1109">
+		<title>Fix-It and Forget-It: 5-Ingredient Favorites</title>
+		<authors>
+			<author>Phyllis Pellman Good</author>
+		</authors>
+		<buy date="2015-12-25" place="Gift (mom)" price="0.00"/>
+		<notes>Christmas gift from mom, to go with my crockpot.</notes>
+	</book>
+	<book id="1110">
+		<title>Biggest Book of Slow Cooker Recipes</title>
+		<authors>
+			<author>Better Homes and Gardens</author>
+		</authors>
+		<buy date="2015-12-27" place="Gift (mom)" price="0.00"/>
+		<notes>Mom was going to give it away. Gave to me to give it a look.</notes>
+	</book>
 	<!--
 	-->
 </books>

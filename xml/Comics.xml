@@ -9902,21 +9902,31 @@
     <Quantity>1</Quantity>
     <Notes>Received 12/20/2015.</Notes>
   </Comic>
-  <!--
+	<Comic>
+		<AutoNumber>633</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles: The Ultimate Collection</Series>
+		<Publisher>IDW</Publisher>
+		<Price/>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2015.04.05</BoughtDate>
+		<BoughtPrice>34.35</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 1/5/2016, but picked up from the office 1/6/2016.</Notes>
+	</Comic>
+	<!--
   -->
-  <!-- Next number: 633 -->
   <!--
 	2015.12.03 pre-ordered at Amazon.com
-Teenage Mutant Ninja Turtles Adventures Volume 12	15.77
-	2015.04.05 at Amazon.com
-Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6  44.99
+Teenage Mutant Ninja Turtles Adventures Volume 11	15.77
 	2015.12.21 at Amazon.com
 Tales Of The Teenage Mutant Ninja Turtles Volume 8	19.99
 
   Keep an eye open for:
 Tales of the Teenage Mutant Ninja Turtles Volume 9
-Teenage Mutant Ninja Turtles Adventures Volume 13
+Teenage Mutant Ninja Turtles Adventures Volume 12
 Teenage Mutant Ninja Turtles Classics Volume 11
+Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7
 Teenage Mutant Ninja Turtles: The Works Volume 5
   -->
 </ArrayOfComic>

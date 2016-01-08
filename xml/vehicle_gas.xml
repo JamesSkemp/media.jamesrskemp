@@ -3099,6 +3099,15 @@
 				<costTotal>19.76</costTotal>
 				<notes>Pump handle wasn't cooperating at first, but I think I filled up the tank. Low price like this for at least a couple days before.</notes>
 			</fillup>
+			<fillup id="277">
+				<date>2016-01-07</date>
+				<milesCar>59642</milesCar>
+				<milesDriven>240.7</milesDriven>
+				<gallons>11.182</gallons>
+				<costGallon>1.839</costGallon>
+				<costTotal>20.56</costTotal>
+				<notes>Added Heet. Was 33 degrees and fairly nice this morning when I filled up.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

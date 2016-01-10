@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/video_games.xslt"?>
 <games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="../xsd/2013/11/VideoGames.xsd">
+ xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/2013/11/VideoGames.xsd">
 	<game id="1">
 		<title>MotorStorm</title>
 		<system>
@@ -31630,6 +31630,398 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Gold.</notes>
+	</game>
+	<game id="2202" electronic="true">
+		<title>Dungeon of the Endless - Pixel Edition</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>4.07</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99. Winter sale.</notes>
+	</game>
+	<game id="2203" electronic="true">
+		<title>Grim Fandango Remastered</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Winter sale.</notes>
+	</game>
+	<game id="2204" electronic="true">
+		<title>Dungeons &amp; Dragons: Chronicles of Mystara</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>4.94</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Winter sale.</notes>
+	</game>
+	<game id="2205" electronic="true">
+		<title>Dungeons 2</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99. Included A Clash of Pumpkins DLC. Winter sale.</notes>
+	</game>
+	<game id="2206" electronic="true">
+		<title>Original War</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Winter sale.</notes>
+	</game>
+	<game id="2207" electronic="true" addOn="true">
+		<title>Loren the Amazon Princess - Bonus Content</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>0.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99. Wallpapers and soundtrack, which sounds good. Winter sale.</notes>
+	</game>
+	<game id="2208" electronic="true" addOn="true">
+		<title>Dungeons 2 - A Song of Sand Fire</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99. Winter sale.</notes>
+	</game>
+	<game id="2209" electronic="true" addOn="true">
+		<title>Dungeons 2 - A Chance of Dragons</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99. Winter sale.</notes>
+	</game>
+	<game id="2210" electronic="true">
+		<title>Suikoden III (PS2 Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-01-02</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="2211" electronic="true">
+		<title>Tomb Raider I</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Square Enix Bundle 3, in the $1.00 tier, which is the only one I purchased. Included two other games that I gave away.</notes>
+	</game>
+	<game id="2212" electronic="true">
+		<title>Tomb Raider II</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Square Enix Bundle 3, in the $1.00 tier, which is the only one I purchased. Included two other games that I gave away.</notes>
+	</game>
+	<game id="2213" electronic="true">
+		<title>Tomb Raider III</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Square Enix Bundle 3, in the $1.00 tier, which is the only one I purchased. Included two other games that I gave away.</notes>
+	</game>
+	<game id="2214" electronic="true">
+		<title>Murdered: Soul Suspect</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Square Enix Bundle 3, in the $1.00 tier, which is the only one I purchased. Included two other games that I gave away. This was primarily the game I was interested in at this tier.</notes>
+	</game>
+	<game id="2215" electronic="true">
+		<title>Deed, The</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99. Winter sale. Bought a second gift copy for Dan, since I enjoyed it enough.</notes>
+	</game>
+	<game id="2216" electronic="true">
+		<title>Fairy Fencer F</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Winter sale.</notes>
+	</game>
+	<game id="2217" electronic="true">
+		<title>Breath of Death VII</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cthulhu Saves the World &amp; Breath of Death VII Double Pack, which is normally $2.99. Winter sale.</notes>
+	</game>
+	<game id="2218" electronic="true">
+		<title>Cthulhu Saves the World</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.25</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Cthulhu Saves the World &amp; Breath of Death VII Double Pack, which is normally $2.99. Winter sale.</notes>
+	</game>
+	<game id="2219" electronic="true">
+		<title>Ghost Master</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-03</date>
+			<price>0.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Winter sale.</notes>
+	</game>
+	<game id="2220" electronic="true">
+		<title>Tom Clancy's Rainbow Six®</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2221" electronic="true">
+		<title>Tom Clancy's Rainbow Six® 3 Gold</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2222" electronic="true">
+		<title>Tom Clancy's Rainbow Six® Vegas</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2223" electronic="true">
+		<title>Tom Clancy's Splinter Cell Chaos Theory®</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2224" electronic="true">
+		<title>Tom Clancy's Ghost Recon®</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2225" electronic="true">
+		<title>Tom Clancy's Rainbow Six® Vegas 2</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2226" electronic="true">
+		<title>Tom Clancy's Splinter Cell Conviction™ Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2227" electronic="true">
+		<title>Tom Clancy's Splinter Cell®</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2228" electronic="true">
+		<title>Tom Clancy's Ghost Recon: Future Soldier™</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
+	</game>
+	<game id="2229" electronic="true">
+		<title>Tom Clancy's Splinter Cell® Blacklist™</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-07</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
 	</game>
 	<!--
 	-->

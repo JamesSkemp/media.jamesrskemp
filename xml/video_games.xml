@@ -787,6 +787,7 @@
 		<notes>
 			She paid $49.99.
 			Bought strategy guide 8/27/2013 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+			Bought limited edition strategy guide, with artbook, 1/10/2016 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
 		</notes>
 	</game>
 	<game id="49">
@@ -20340,7 +20341,10 @@
 			<place>Video Game Xchange, 3002 Atwood Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Included box and manual.</notes>
+		<notes>
+			Included box and manual.
+			Bought strategy guide 1/10/2016 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Really good shape.
+		</notes>
 	</game>
 	<game id="1408" used="true">
 		<title>Breath of Fire II</title>
@@ -32023,6 +32027,76 @@
 		<own>yes</own>
 		<notes>Part of the Humble Weekly Bundle Tom Clancy Encore, which was $10 for 10 games, and which Brian Dell was interested in/had purchased during the first showing.</notes>
 	</game>
+	<game id="2230" used="true">
+		<title>Warriors Orochi</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-01-10</date>
+			<price>3.59</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.40 with PowerUp card. Have on PS2, but wanted this version. Included two manuals for some reason.</notes>
+	</game>
+	<game id="2231" used="true">
+		<title>Dragon's Dogma</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-01-10</date>
+			<price>6.29</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $0.70 with PowerUp card. Wanted the base copy so that I could get the unlocks in Dark Arisen.</notes>
+	</game>
+	<game id="2232" used="true">
+		<title>Dragon's Dogma: Dark Arisen</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-01-10</date>
+			<price>16.19</price>
+			<place>GameStop, Prairie Towne Ctr(F), 8118 Mineral Point Road, Madison WI 53719</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $1.80 with PowerUp card. Seemingly didn't get this free on PS+ years ago, so forced to purchase.</notes>
+	</game>
+	<game id="2233" electronic="true">
+		<title>DiRT Showdown</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-01-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally 14.99, but free with Gold.</notes>
+	</game>
+	<game id="2234" electronic="true">
+		<title>Killer Instinct: Ultra Edition Add-On</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-01-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -32036,7 +32110,7 @@
 	<!--
 		Free for PlayStation Plus. Normally $9.99.
 		Free with Gold. Normally $.99.
-		Bought strategy guide /2015 for $ from .
+		Bought strategy guide /2016 for $ from .
 	-->
 	<!--
 	RPG Maker VX Ace and XP, along with DLC Bundles and Game Character Hub, purchased 5/31/2014 from Humble Bundle. Games that were part of the bundle are included above.

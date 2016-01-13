@@ -32097,6 +32097,104 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Gold.</notes>
 	</game>
+	<game id="2235" eletronic="true">
+		<title>Hardware: Rivals</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2236" eletronic="true">
+		<title>Grim Fandango Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2237" eletronic="true">
+		<title>Grim Fandango Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2238" eletronic="true">
+		<title>Dragon Age: Origins</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2239" eletronic="true">
+		<title>Medal of Honor Warfighter</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2240" eletronic="true">
+		<title>Nihilumbra</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2241" eletronic="true">
+		<title>History Legends of War: Patton</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-01-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

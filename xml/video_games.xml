@@ -32209,6 +32209,20 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but saved $10 with Gamers Club Unlocked. Picked up from west side location 1/17/2016.</notes>
 	</game>
+	<game id="2243" eletronic="true">
+		<title>Omikron: The Nomad Soul</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-01-15</date>
+			<price>0.00</price>
+			<place>Square-Enix online</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free in memory of David Bowie, as he provided the soundtrack.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/MyBooks.xslt"?>
 <books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://media.jamesrskemp.com/xsd/MyBooks.xsd">
 	<information>
@@ -11116,6 +11116,14 @@
 		</authors>
 		<buy date="2015-12-27" place="Gift (mom)" price="0.00"/>
 		<notes>Mom was going to give it away. Gave to me to give it a look.</notes>
+	</book>
+	<book id="1111">
+		<title>Color of Magic, The (Discworld Book 1)</title>
+		<authors>
+			<author>Terry Pratchett</author>
+		</authors>
+		<buy date="2016-01-07" place="Amazon.com" price="0.99"/>
+		<notes>Kindle version. On sale for some reason.</notes>
 	</book>
 	<!--
 	-->

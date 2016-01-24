@@ -32251,6 +32251,220 @@
 		<own>yes</own>
 		<notes>Received 1/21/2016.</notes>
 	</game>
+	<game id="2246" electronic="true">
+		<title>7th Guest, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 7th Guest + 11th Hour Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2247" electronic="true">
+		<title>11th Guest, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 7th Guest + 11th Hour Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2248" electronic="true">
+		<title>Tex Murphy: Martian Memorandum</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Tex Murphy Complete Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2249" electronic="true">
+		<title>Tex Murphy: Mean Streets</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Tex Murphy Complete Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2250" electronic="true">
+		<title>Tex Murphy: Overseer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Tex Murphy Complete Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2251" electronic="true">
+		<title>Tex Murphy: The Pandora Directive</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Tex Murphy Complete Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2252" electronic="true">
+		<title>Tex Murphy: Under a Killing Moon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.05</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Tex Murphy Complete Pack. Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2253" electronic="true">
+		<title>MISSING: An Interactive Thriller - Episode One</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2254" electronic="true">
+		<title>Roundabout</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>2.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.</notes>
+	</game>
+	<game id="2255" electronic="true" beat="true">
+		<title>Her Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2015-01-16</date>
+			<price>2.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Part of the Humble Weekly Bundle: Full Motion Video, which was $5 for 10 games.
+			Started 1/22/2016 and finished 1/23/2016 after about 5 hours of play.
+			Enjoyed it (4.5 stars). Probably best to just sit through and play it in one session (4 hours) and then clean-up (1 hour).
+		</notes>
+	</game>
+	<game id="2256" electronic="true">
+		<title>Front Mission Evolved</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-22</date>
+			<price>2.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="2257" electronic="true">
+		<title>Dungeon Hearts</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-22</date>
+			<price>0.44</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99.</notes>
+	</game>
+	<game id="2258" electronic="true">
+		<title>Total Annihilation: Commander Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99.</notes>
+	</game>
+	<game id="2259" electronic="true">
+		<title>Total Annihilation: Kingdoms + Iron Plague</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99.</notes>
+	</game>
+	<game id="2260" electronic="true">
+		<title>Mad Max</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-01-22</date>
+			<price>19.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for $25 off, and then saved $5 with Gamers Club Unlocked. Picked up from west Madison location on 1/23/2016, and started playing it almost immediately.</notes>
+	</game>
 	<!--
 	-->
 	<!--

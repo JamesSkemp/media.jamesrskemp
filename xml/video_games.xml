@@ -32097,7 +32097,7 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Gold.</notes>
 	</game>
-	<game id="2235" eletronic="true">
+	<game id="2235" electronic="true">
 		<title>Hardware: Rivals</title>
 		<system>
 			<console>PlayStation</console>
@@ -32111,7 +32111,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2236" eletronic="true">
+	<game id="2236" electronic="true">
 		<title>Grim Fandango Remastered</title>
 		<system>
 			<console>PlayStation</console>
@@ -32125,7 +32125,7 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2237" eletronic="true">
+	<game id="2237" electronic="true">
 		<title>Grim Fandango Remastered</title>
 		<system>
 			<console>PlayStation</console>
@@ -32139,7 +32139,7 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2238" eletronic="true">
+	<game id="2238" electronic="true">
 		<title>Dragon Age: Origins</title>
 		<system>
 			<console>PlayStation</console>
@@ -32153,7 +32153,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2239" eletronic="true">
+	<game id="2239" electronic="true">
 		<title>Medal of Honor Warfighter</title>
 		<system>
 			<console>PlayStation</console>
@@ -32167,7 +32167,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2240" eletronic="true">
+	<game id="2240" electronic="true">
 		<title>Nihilumbra</title>
 		<system>
 			<console>PlayStation</console>
@@ -32181,7 +32181,7 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
-	<game id="2241" eletronic="true">
+	<game id="2241" electronic="true">
 		<title>History Legends of War: Patton</title>
 		<system>
 			<console>PlayStation</console>
@@ -32209,7 +32209,7 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but saved $10 with Gamers Club Unlocked. Picked up from west side location 1/17/2016.</notes>
 	</game>
-	<game id="2243" eletronic="true">
+	<game id="2243" electronic="true">
 		<title>Omikron: The Nomad Soul</title>
 		<system>
 			<console>PC</console>

@@ -3108,6 +3108,15 @@
 				<costTotal>20.56</costTotal>
 				<notes>Added Heet. Was 33 degrees and fairly nice this morning when I filled up.</notes>
 			</fillup>
+			<fillup id="278">
+				<date>2016-01-27</date>
+				<milesCar>59812</milesCar>
+				<milesDriven>170.2</milesDriven>
+				<gallons>9.085</gallons>
+				<costGallon>1.619</costGallon>
+				<costTotal>14.71</costTotal>
+				<notes>Was feeling warm-ish so I filled up. Think I was at less than a half a tank of gas.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

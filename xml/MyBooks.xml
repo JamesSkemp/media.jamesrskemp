@@ -11133,6 +11133,9 @@
 	<book id="1113">
 		<title>Star Trek: Harlan Ellison's City on the Edge of Forever</title>
 		<buy date="2016-01-27" place="Amazon.com" price="0.00"/>
+		<readings finished="true">
+			<read time="1" start="2016-01-29" finish="2016-01-29"/>
+		</readings>
 		<notes>Kindle version. Was $1.99, but for some reason ended up being free. I might have had some credits available? Or it was purchase of other book.</notes>
 	</book>
 	<!--

@@ -788,6 +788,7 @@
 			She paid $49.99.
 			Bought strategy guide 8/27/2013 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
 			Bought limited edition strategy guide, with artbook, 1/10/2016 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+			Bought strategy guide, complete, 2/1/2016 for $9.99 from Half Price Books #014, 626 South Whitney Way, Madison WI 53711, since I wasn't sure if I had a complete copy yet.
 		</notes>
 	</game>
 	<game id="49">
@@ -32464,6 +32465,272 @@
 		</purchase>
 		<own>yes</own>
 		<notes>On sale for $25 off, and then saved $5 with Gamers Club Unlocked. Picked up from west Madison location on 1/23/2016, and started playing it almost immediately.</notes>
+	</game>
+	<game id="2261" used="true">
+		<title>Wild Arms</title>
+		<system>
+			<console>PlayStation</console>
+			<version>1</version>
+		</system>
+		<purchase>
+			<date>2016-02-01</date>
+			<price>19.99</price>
+			<place>Half Price Books #014, 626 South Whitney Way, Madison WI 53711</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Seems to be in good shape. Surprised to find this, since I almost didn't even walk in.</notes>
+	</game>
+	<game id="2262" electronic="true">
+		<title>Mars: War Logs</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2263" electronic="true">
+		<title>Space Run</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2264" electronic="true">
+		<title>Pix the Cat</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2265" electronic="true">
+		<title>Yesterday</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2266" electronic="true">
+		<title>Final Exam</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2267" electronic="true">
+		<title>Wargame: European Escalation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2268" electronic="true">
+		<title>Contrast: Collector's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2269" electronic="true">
+		<title>Game of Thrones</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2270" electronic="true">
+		<title>Bound By Flame</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2271" electronic="true">
+		<title>Etherium</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-28</date>
+			<price>0.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Weekly Bundle: Focus Home Interactive 2 which was 10 games for $6.27.</notes>
+	</game>
+	<game id="2272" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Hot Springs Set</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2273" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Swimwear Set</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2274" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Additional Fairy Pack</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2275" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Surpass Your Limits Set</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2276" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Ultimate Armor Pack</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2277" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Weapon Change Accessory Set</title>
+		<system>
+			<console>PC</console>
+			<verison/>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.99 but daily deal.</notes>
+	</game>
+	<game id="2278" electronic="true">
+		<title>Deus Ex: Human Revolution</title>
+		<system>
+			<console>Xbox</console>
+			<verison>360</verison>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $14.99.</notes>
+	</game>
+	<game id="2279" electronic="true">
+		<title>Zheros</title>
+		<system>
+			<console>Xbox</console>
+			<verison>One</verison>
+		</system>
+		<purchase>
+			<date>2016-01-31</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $19.99. Supposedly not very good.</notes>
 	</game>
 	<!--
 	-->

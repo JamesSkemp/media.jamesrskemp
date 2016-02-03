@@ -32732,6 +32732,20 @@
 		<own>yes</own>
 		<notes>Free with Gold. Normally $19.99. Supposedly not very good.</notes>
 	</game>
+	<game id="2280" electronic="true">
+		<title>Sword Art Online Re: Hollow Fragment</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-02-02</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

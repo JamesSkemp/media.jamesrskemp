@@ -1726,6 +1726,33 @@
 			<own>yes</own>
 			<notes>Received 12/9/2015. For my new 3DS.</notes>
 		</item>
+		<item id="127">
+			<name>Alienware Steam Machine ASM100-4980BLK Desktop Console (Intel Core i5, 8 GB RAM, 1 TB HDD) NVIDIA GeForce GTX GPU</name>
+			<system>
+				<console>PC</console>
+				<version>SteamOS</version>
+			</system>
+			<purchase>
+				<date>2016-01-29</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Free with Amazon Vine.</notes>
+		</item>
+		<item id="128">
+			<name>Steam Controller</name>
+			<system>
+				<console>PC</console>
+			</system>
+			<purchase>
+				<date>2016-01-29</date>
+				<price>0.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Free with Amazon Vine. Came with Steam Machine.</notes>
+		</item>
 	</hardware>
 <!--
 -->

@@ -2431,7 +2431,7 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes/>
+		<notes>Strategy guide purchased 2/6/2016 for $5.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.</notes>
 	</game>
 	<game id="153" electronic="true">
 		<title>WipEout HD</title>
@@ -2981,7 +2981,10 @@
 			<place>Best Buy #59, 2452 E Springs Dr, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Was 59.99, with 10% (6.00) off, then 11.25 in reward zone certificates.</notes>
+		<notes>
+			Was 59.99, with 10% (6.00) off, then 11.25 in reward zone certificates.
+			Strategy guide purchased 2/6/2016 for $8.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
+		</notes>
 	</game>
 	<game id="190" beat="true">
 		<title>Lego Star Wars: The Complete Saga</title>

@@ -30758,7 +30758,7 @@
 		<notes>Received 11/25/2015. Was on sale for Black Friday and saved $3 more because of GCU.</notes>
 	</game>
 	<game id="2140" used="true">
-		<title>Dynasty Warriors Gundam 3</title>
+		<title>Dynasty Warriors: Gundam 3</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -32627,7 +32627,7 @@
 		<title>Fairy Fencer F: Hot Springs Set</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32641,7 +32641,7 @@
 		<title>Fairy Fencer F: Swimwear Set</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32655,7 +32655,7 @@
 		<title>Fairy Fencer F: Additional Fairy Pack</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32669,7 +32669,7 @@
 		<title>Fairy Fencer F: Surpass Your Limits Set</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32683,7 +32683,7 @@
 		<title>Fairy Fencer F: Ultimate Armor Pack</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32697,7 +32697,7 @@
 		<title>Fairy Fencer F: Weapon Change Accessory Set</title>
 		<system>
 			<console>PC</console>
-			<verison/>
+			<version/>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32711,7 +32711,7 @@
 		<title>Deus Ex: Human Revolution</title>
 		<system>
 			<console>Xbox</console>
-			<verison>360</verison>
+			<version>360</version>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32725,7 +32725,7 @@
 		<title>Zheros</title>
 		<system>
 			<console>Xbox</console>
-			<verison>One</verison>
+			<version>One</version>
 		</system>
 		<purchase>
 			<date>2016-01-31</date>
@@ -32748,6 +32748,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99 but on sale.</notes>
+	</game>
+	<game id="2281">
+		<title>Gravity Rush Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-02-05</date>
+			<price>23.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $6 thanks to Amazon Prime discount. Received 2/7/2016.</notes>
+	</game>
+	<game id="2282" used="true">
+		<title>Dynasty Warriors: Gundam</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-02-06</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>First time I've seen a used copy complete.</notes>
+	</game>
+	<game id="2283" used="true">
+		<title>Dynasty Warriors: Gundam 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-02-06</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>First copy was cracked in center, so exchanged for another. Have two manuals because I decided to hold off on returning it, just in case.</notes>
+	</game>
+	<game id="2284" used="true">
+		<title>Dynasty Warriors: Gundam 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-02-06</date>
+			<price>29.99</price>
+			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Since I was picking up the first and second, figured I might as well get the third on this system too.</notes>
+	</game>
+	<game id="2285" electronic="true">
+		<title>Sacred Citadel</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-02-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $9.99.</notes>
+	</game>
+	<game id="2286" electronic="true">
+		<title>Hand of Fate</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-02-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $19.99.</notes>
 	</game>
 	<!--
 	-->

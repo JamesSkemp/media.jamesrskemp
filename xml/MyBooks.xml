@@ -11138,6 +11138,79 @@
 		</readings>
 		<notes>Kindle version. Was $1.99, but for some reason ended up being free. I might have had some credits available? Or it was purchase of other book.</notes>
 	</book>
+	<book id="1114">
+		<title>HG 101 Digest Vol 1 - Strider and Bionic Commando</title>
+		<authors>
+			<author>Kurt Kalata</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1115">
+		<title>Exp. Negatives (StoryBundle Exclusive!)</title>
+		<authors>
+			<author>Mathew Kumar</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1116">
+		<title>Videogames for Humans</title>
+		<editors>
+			<editor>Merritt Kopas</editor>
+		</editors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1117">
+		<title>Kobold Guide to Board Game Design</title>
+		<authors>
+			<author>Mike Selinker</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1118">
+		<title>Second Quest</title>
+		<authors>
+			<author>David Hellman</author>
+			<author>Tevis Thompson</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1119">
+		<title>Boss Fight Books: Shadow of the Colossus</title>
+		<authors>
+			<author>Nick Suttner</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1120">
+		<title>@Play - Exploring Roguelike Games (StoryBundle Exclusive!)</title>
+		<authors>
+			<author>John Harris</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1121">
+		<title>Untold History of Japanese Game Developers, The: Volume 1</title>
+		<authors>
+			<author>John Szczepaniak</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="0.75"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
+	<book id="1122">
+		<title>Untold History of Japanese Game Developers, The: Volume 2</title>
+		<authors>
+			<author>John Szczepaniak</author>
+		</authors>
+		<buy date="2016-02-14" place="StoryBundle.com" price="0.75"/>
+		<notes>Electronic version. Collection of 9 books for $12.</notes>
+	</book>
 	<!--
 	-->
 </books>

@@ -32833,6 +32833,188 @@
 		<own>yes</own>
 		<notes>Free with Gold. Normally $19.99.</notes>
 	</game>
+	<game id="2287" electronic="true">
+		<title>Call of Juarez: Gunslinger</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-11</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell.</notes>
+	</game>
+	<game id="2288" electronic="true">
+		<title>Kaiju-A-GoGo</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2289" electronic="true">
+		<title>Cally's Caves 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2290" electronic="true">
+		<title>Flock, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2291" electronic="true">
+		<title>Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2292" electronic="true">
+		<title>Gryphon Knight Epic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2293" electronic="true">
+		<title>Unity of Command: Stalingrad Campaign</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2294" electronic="true">
+		<title>Our Nation's Miner</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2295" electronic="true">
+		<title>Neverending Nightmares</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-15</date>
+			<price>0.50</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Must Play Bundle - $3.99 for 10 games, but had two.</notes>
+	</game>
+	<game id="2296" electronic="true">
+		<title>PAYDAY 2: GOTY Edition 2015</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-29</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Alienware Steam Machine.</notes>
+	</game>
+	<game id="2297" electronic="true">
+		<title>Brawlhalla</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-29</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Alienware Steam Machine.</notes>
+	</game>
+	<game id="2298" electronic="true">
+		<title>Robot Roller-Derby Disco Dodgeball</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-29</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Alienware Steam Machine.</notes>
+	</game>
+	<game id="2299" electronic="true" addOn="true">
+		<title>War Thunder - Alienware Bundle Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-01-29</date>
+			<price>0.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Alienware Steam Machine. DLC for a free-to-play game.</notes>
+	</game>
 	<!--
 	-->
 	<!--

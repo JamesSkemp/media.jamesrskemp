@@ -3117,6 +3117,15 @@
 				<costTotal>14.71</costTotal>
 				<notes>Was feeling warm-ish so I filled up. Think I was at less than a half a tank of gas.</notes>
 			</fillup>
+			<fillup id="279">
+				<date>2016-02-18</date>
+				<milesCar>60065</milesCar>
+				<milesDriven>252.3</milesDriven>
+				<gallons>10.865</gallons>
+				<costGallon>1.599</costGallon>
+				<costTotal>17.37</costTotal>
+				<notes>Warm again. About 1/4 left.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

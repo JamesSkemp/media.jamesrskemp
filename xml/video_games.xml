@@ -33015,6 +33015,48 @@
 		<own>yes</own>
 		<notes>Free with Alienware Steam Machine. DLC for a free-to-play game.</notes>
 	</game>
+	<game id="2300">
+		<title>Fire Emblem Fates: Conquest</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2016-02-07</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Saved $8 thanks to Gamers Club Unlocked. Picked up from west side location 2/19/2016 (release day).</notes>
+	</game>
+	<game id="2301">
+		<title>Fire Emblem Fates: Birthright</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2016-02-07</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Saved $8 thanks to Gamers Club Unlocked. Picked up from west side location 2/19/2016 (release day).</notes>
+	</game>
+	<game id="2302">
+		<title>Project X Zone 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2016-02-09</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Saved $8 thanks to Gamers Club Unlocked. Picked up from west side location 2/19/2016 (released on the 16th).</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -33023,13 +33065,13 @@
 		-20
 		-12 * 3
 		-10 * 2
-		-8 * 2
+		-8 * 5
 		-7
 		-6 * 3
 		-5
 		-3 * 2
 		-2.60
-		= -$100.60 remaining to pay for itself.
+		= -$124.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

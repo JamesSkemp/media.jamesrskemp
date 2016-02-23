@@ -23119,7 +23119,7 @@
 		<notes>Part of the Fully Loaded Bundle, which was $4.99 for 10 games.</notes>
 	</game>
 	<game id="1601" electronic="true">
-		<title>TACTICS OGRE: Let Us Cling Together</title>
+		<title>Tactics Ogre: Let Us Cling Together</title>
 		<system>
 			<console>PlayStation</console>
 			<version>Portable</version>
@@ -33056,6 +33056,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Pre-ordered. Saved $8 thanks to Gamers Club Unlocked. Picked up from west side location 2/19/2016 (released on the 16th).</notes>
+	</game>
+	<game id="2303" used="true">
+		<title>Tactics Ogre: Let Us Cling Together</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-02-20</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Picked up because it was in good shape and I wanted the manual.</notes>
+	</game>
+	<game id="2304" used="true">
+		<title>Wild Arms XF</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-02-20</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Haven't seen this around before, and it's complete, with manual in okay shape.</notes>
 	</game>
 	<!--
 	-->

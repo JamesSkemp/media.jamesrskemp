@@ -1753,6 +1753,20 @@
 			<own>yes</own>
 			<notes>Free with Amazon Vine. Came with Steam Machine.</notes>
 		</item>
+		<item id="129">
+			<name>PlayStation Portable AV Cable</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Portable</version>
+			</system>
+			<purchase>
+				<date>2016-02-20</date>
+				<price>8.24</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 2/23/2016. Red, white, and yellow only, since component cables were more expensive, and this was a whim purchase.</notes>
+		</item>
 	</hardware>
 <!--
 -->

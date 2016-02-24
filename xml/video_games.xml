@@ -33085,6 +33085,20 @@
 		<own>yes</own>
 		<notes>Haven't seen this around before, and it's complete, with manual in okay shape.</notes>
 	</game>
+	<game id="2305" electronic="true">
+		<title>Call of Juarez</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>0.00</price>
+			<place>Gift</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free from Brian Dell.</notes>
+	</game>
 	<!--
 	-->
 	<!--

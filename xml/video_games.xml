@@ -33141,6 +33141,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but was part of the Grotesque Tactics Complete Pack which was on sale for $3.99.</notes>
 	</game>
+	<game id="2309" electronic="true">
+		<title>Divinity: Dragon Commander Imperial Edition</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2016-02-24</date>
+			<price>6.74</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $44.99.</notes>
+	</game>
+	<game id="2310" electronic="true">
+		<title>Styx: Master of Shadows</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-02-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

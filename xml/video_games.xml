@@ -33169,6 +33169,174 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Gold.</notes>
 	</game>
+	<game id="2311" electronic="true">
+		<title>Enigmatis: The Ghosts of Maple Creek</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2312" electronic="true">
+		<title>Enigmatis 2: The Mists of Ravenwood</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2313" electronic="true">
+		<title>Dark Heritage: Guardians of Hope</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2314" electronic="true">
+		<title>Fairy Tale Mysteries 2: The Beanstalk</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.36</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2315" electronic="true">
+		<title>Time Mysteries 2: The Ancient Spectres</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2316" electronic="true">
+		<title>Time Mysteries 3: The Final Enigma</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2317" electronic="true">
+		<title>Demon Hunter: Chronicles from Beyond</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+	</game>
+	<game id="2318" electronic="true">
+		<title>Mind Snares: Alice's Journey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.50</price>
+			<place>Daily Indie Game</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
+	</game>
+	<game id="2319" electronic="true">
+		<title>9 Clues: The Secret of Serpent Creek</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.50</price>
+			<place>Daily Indie Game</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
+	</game>
+	<game id="2320" electronic="true">
+		<title>Dark Arcana: The Carnival</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.50</price>
+			<place>Daily Indie Game</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
+	</game>
+	<game id="2321" electronic="true">
+		<title>Left in the Dark: No One on Board</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.50</price>
+			<place>Daily Indie Game</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
+	</game>
+	<game id="2322" electronic="true">
+		<title>Nightmares from the Deep 2: The Siren's Call</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-29</date>
+			<price>0.49</price>
+			<place>Daily Indie Game</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
+	</game>
 	<!--
 	-->
 	<!--

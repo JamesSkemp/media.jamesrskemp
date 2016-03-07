@@ -33337,7 +33337,261 @@
 		<own>yes</own>
 		<notes>Part of the DIG ARTIFEX Bundle, which was $1.49 for 6 games, but I owned one.</notes>
 	</game>
+	<game id="2323" electronic="true">
+		<title>Retro City Rampage DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2324" electronic="true">
+		<title>Outlast</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2325" electronic="true">
+		<title>Never Alone + Foxtales DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2326" electronic="true">
+		<title>Trine 3: The Artifacts of Power</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2327" electronic="true">
+		<title>Door Kickers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2328" electronic="true">
+		<title>Duet</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2329" electronic="true">
+		<title>Else Heart.Break()</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2330" electronic="true">
+		<title>Sunless Sea</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-02-23</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Indie Bundle 16, which was 8 games for $8.16.</notes>
+	</game>
+	<game id="2331" electronic="true">
+		<title>Star Wars Rebellion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-03-01</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle 2 $1.00 tier, since I had most in other two tiers.</notes>
+	</game>
+	<game id="2332" electronic="true">
+		<title>Star Wars: X-Wing Alliance</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-03-01</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle 2 $1.00 tier, since I had most in other two tiers.</notes>
+	</game>
+	<game id="2333" electronic="true">
+		<title>Star Wars: X-Wing vs TIE Fighter - Balance of Power Campaigns</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-03-01</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle 2 $1.00 tier, since I had most in other two tiers.</notes>
+	</game>
+	<game id="2334" electronic="true">
+		<title>Star Wars Galactic Battlegrounds Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-03-01</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Star Wars Humble Bundle 2 $1.00 tier, since I had most in other two tiers.</notes>
+	</game>
+	<game id="2335" electronic="true">
+		<title>Broforce</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-03-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
+	</game>
+	<game id="2336" electronic="true">
+		<title>Galak-Z</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-03-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $19.99.</notes>
+	</game>
+	<game id="2337" electronic="true">
+		<title>Flame Over</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-03-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="2338" electronic="true">
+		<title>Last Guy, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-03-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $9.99.</notes>
+	</game>
+	<game id="2339" electronic="true">
+		<title>Reality Fighters</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-03-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for PlayStation Plus. Normally $13.49.</notes>
+	</game>
 	<!--
+	-->
+	<!--
+	<game id="">
+		<title></title>
+		<system>
+			<console></console>
+			<version></version>
+		</system>
+		<purchase>
+			<date></date>
+			<price></price>
+			<place></place>
+		</purchase>
+		<own>yes</own>
+		<notes></notes>
+	</game>
 	-->
 	<!--
 		Gamers Club Unlocked, 3/8/15:

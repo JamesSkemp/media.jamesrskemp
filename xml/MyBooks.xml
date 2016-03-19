@@ -11211,6 +11211,14 @@
 		<buy date="2016-02-14" place="StoryBundle.com" price="0.75"/>
 		<notes>Electronic version. Collection of 9 books for $12.</notes>
 	</book>
+	<book id="1123">
+		<title>Stray Dog of Anime: The Films of Mamoru Oshii: Second Edition</title>
+		<authors>
+			<author>Brian Ruh</author>
+		</authors>
+		<buy date="2016-03-19" place="Amazon.com" price="15.50"/>
+		<notes>Kindle Edition. $3.50 cheaper than print, which might have just been the first edition, and I had $1 promotion.</notes>
+	</book>
 	<!--
 	-->
 </books>

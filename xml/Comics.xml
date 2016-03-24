@@ -9914,11 +9914,21 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 1/5/2016, but picked up from the office 1/6/2016.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>634</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Adventures Volume 11</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Adventures</Series>
+		<Publisher>IDW</Publisher>
+		<Price>19.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2015.12.03</BoughtDate>
+		<BoughtPrice>15.77</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 3/20/2016.</Notes>
+	</Comic>
 	<!--
   -->
   <!--
-	2015.12.03 pre-ordered at Amazon.com
-Teenage Mutant Ninja Turtles Adventures Volume 11	15.77
 	2015.12.21 at Amazon.com
 Tales Of The Teenage Mutant Ninja Turtles Volume 8	19.99
 

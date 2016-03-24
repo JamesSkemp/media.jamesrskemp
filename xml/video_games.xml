@@ -21348,7 +21348,10 @@
 			<place>The Exchange, 1524 N Milwaukee Ave, Chicago IL 60622</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Cheapest I've seen it. Includes special alternate cover.</notes>
+		<notes>
+			Cheapest I've seen it. Includes special alternate cover.
+			Bought strategy guide 3/22/2016 for $13.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.
+		</notes>
 	</game>
 	<game id="1477" used="true">
 		<title>Breath of Fire</title>
@@ -33784,6 +33787,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the BTA tier, which was an additional $5.11 for four games, but I had one.</notes>
+	</game>
+	<game id="2355" used="true">
+		<title>Adventures to Go!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>3.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap and looked pretty basic. Actually kind of simple fun.</notes>
+	</game>
+	<game id="2356" used="true">
+		<title>Dungeon Siege: Throne of Agony</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cheap enough to give it a go.</notes>
+	</game>
+	<game id="2357" used="true">
+		<title>Lord of Arcana</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>7.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Square-Enix game, so worth a try.</notes>
+	</game>
+	<game id="2358" used="true">
+		<title>Phantasy Star Portable</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>11.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>High review rating on Amazon.</notes>
+	</game>
+	<game id="2359" used="true">
+		<title>Puzzle Quest: Challenge of the Warlords</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>6.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Worth a try.</notes>
+	</game>
+	<game id="2360" used="true">
+		<title>SNK Arcade Classic Vol. 1</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>19.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes>About what it would cost new. Has the first Metal Slug, among other interesting games, so worth a try.</notes>
 	</game>
 	<!--
 	-->

@@ -5969,6 +5969,16 @@
 		</purchase>
 		<notes>Release date.</notes>
 	</album>
+	<album id="666">
+		<title>BabyMetal</title>
+		<artist>BabyMetal</artist>
+		<purchase>
+			<date>2016-03-19</date>
+			<place>Amazon.com</place>
+			<price>8.99</price>
+		</purchase>
+		<notes>Received 3/21/2016. Purchased since it was $1 cheaper than just buying the digital version (which I got for free).</notes>
+	</album>
 	<!--
 		Bella Donna, Stevie Nicks	0.49	Savers, East Madison	Tape.
 		Skeletons From the Closest, The Grateful Dead	0.49	Savers, East Madison	Tape.

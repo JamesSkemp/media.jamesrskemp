@@ -11217,6 +11217,9 @@
 			<author>Brian Ruh</author>
 		</authors>
 		<buy date="2016-03-19" place="Amazon.com" price="15.50"/>
+		<readings finished="true">
+			<read time="1" finish="2016-03-27"/>
+		</readings>
 		<notes>Kindle Edition. $3.50 cheaper than print, which might have just been the first edition, and I had $1 promotion.</notes>
 	</book>
 	<!--

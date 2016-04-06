@@ -11222,6 +11222,14 @@
 		</readings>
 		<notes>Kindle Edition. $3.50 cheaper than print, which might have just been the first edition, and I had $1 promotion.</notes>
 	</book>
+	<book id="1124">
+		<title>Drawing on the Right Side of the Brain: The Definitive, 4th Edition</title>
+		<authors>
+			<author>Betty Edwards</author>
+		</authors>
+		<buy date="2016-03-30" place="Amazon.com" price="11.27"/>
+		<notes>Received 4/1/2016. Heard from April that Elizabeth recommends it.</notes>
+	</book>
 	<!--
 	-->
 </books>

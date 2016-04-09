@@ -6507,6 +6507,7 @@
 			price="14.40"/>
 		<readings finished="true">
 			<read time="1" start="2003-12-16" finish="2004-01-16"/>
+			<read time="2" start="2016-04-09" finish="2016-04-09"/>
 		</readings>
 		<keywords>
 			<keyword>philosophy</keyword>

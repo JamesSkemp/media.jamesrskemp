@@ -33872,6 +33872,20 @@
 		<own>yes</own>
 		<notes>About what it would cost new. Has the first Metal Slug, among other interesting games, so worth a try.</notes>
 	</game>
+	<game id="2361" electronic="true">
+		<title>Garry's Mod</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 75% off today, and the group was purchasing.</notes>
+	</game>
 	<!--
 	-->
 	<!--

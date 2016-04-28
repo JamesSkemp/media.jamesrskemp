@@ -9902,16 +9902,16 @@
 		<Notes>Received 12/20/2015.</Notes>
 	</Comic>
 	<Comic>
-			<AutoNumber>633</AutoNumber>
-			<DescriptiveName>Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6</DescriptiveName>
-			<Series>Teenage Mutant Ninja Turtles: The Ultimate Collection</Series>
-			<Publisher>IDW</Publisher>
-			<Price/>
-			<BoughtAt>Amazon.com</BoughtAt>
-			<BoughtDate>2015.04.05</BoughtDate>
-			<BoughtPrice>34.35</BoughtPrice>
-			<Quantity>1</Quantity>
-			<Notes>Received 1/5/2016, but picked up from the office 1/6/2016.</Notes>
+		<AutoNumber>633</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 6</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles: The Ultimate Collection</Series>
+		<Publisher>IDW</Publisher>
+		<Price/>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2015.04.05</BoughtDate>
+		<BoughtPrice>34.35</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 1/5/2016, but picked up from the office 1/6/2016.</Notes>
 	</Comic>
 	<Comic>
 			<AutoNumber>634</AutoNumber>
@@ -9926,19 +9926,31 @@
 			<Notes>Received 3/20/2016.</Notes>
 	</Comic>
 	<Comic>
-			<AutoNumber>635</AutoNumber>
-			<DescriptiveName>Ghost in the Shell: Dark Horse Comics Trade Paperback</DescriptiveName>
-			<Series>Ghost in the Shell</Series>
-			<Publisher>Dark Horse Comics</Publisher>
-			<Price>24.95</Price>
-			<BoughtAt>ebay.com (thehiddentreasurecorner)</BoughtAt>
-			<BoughtDate>2016-03-22</BoughtDate>
-			<BoughtPrice>19.99</BoughtPrice>
-			<Quantity>1</Quantity>
-			<Notes>
-					Received 3/24/2016. Paid $5 shipping. First Edition.
-					Started and finished 4/12/2016. Technically I had read a dozen or so pages a few weeks ago, but didn't get far.
-			</Notes>
+		<AutoNumber>635</AutoNumber>
+		<DescriptiveName>Ghost in the Shell: Dark Horse Comics Trade Paperback</DescriptiveName>
+		<Series>Ghost in the Shell</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>24.95</Price>
+		<BoughtAt>ebay.com (thehiddentreasurecorner)</BoughtAt>
+		<BoughtDate>2016-03-22</BoughtDate>
+		<BoughtPrice>19.99</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>
+				Received 3/24/2016. Paid $5 shipping. First Edition.
+				Started and finished 4/12/2016. Technically I had read a dozen or so pages a few weeks ago, but didn't get far.
+		</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>636</AutoNumber>
+		<DescriptiveName>Tales of the Teenage Mutant Ninja Turtles Volume 8</DescriptiveName>
+		<Series>Tales of the Teenage Mutant Ninja Turtles</Series>
+		<Publisher>IDW</Publisher>
+		<Price>19.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2015.12.21</BoughtDate>
+		<BoughtPrice>19.99</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 4/24/2016.</Notes>
 	</Comic>
 	<!--
 	-->

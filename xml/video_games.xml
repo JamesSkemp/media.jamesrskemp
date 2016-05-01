@@ -33887,6 +33887,202 @@
 		<own>yes</own>
 		<notes>On sale for 75% off today, and the group was purchasing.</notes>
 	</game>
+	<game id="2362" electronic="true">
+		<title>Level 22: Gary’s Misadventure - 2016 Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>3016-05-01</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free upgrade from the last month or so since I had the original.</notes>
+	</game>
+	<game id="2363" electronic="true">
+		<title>Dead Space</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="2364" electronic="true">
+		<title>Lords of the Fallen</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Gold.</notes>
+	</game>
+	<game id="2365" electronic="true">
+		<title>Wolf Among Us, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Gold.</notes>
+	</game>
+	<game id="2366" electronic="true">
+		<title>Dead Star</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="2367" electronic="true">
+		<title>Shutshimi</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2368" electronic="true">
+		<title>Shutshimi</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2369" electronic="true">
+		<title>ZOMBI</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="2370" electronic="true">
+		<title>I Am Alive</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus.</notes>
+	</game>
+	<game id="2371" electronic="true">
+		<title>Savage Moon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2372" electronic="true">
+		<title>A Virus Named TOM</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-04-13</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2373" electronic="true">
+		<title>Rogue Galaxy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-04-23</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but flash sale.</notes>
+	</game>
+	<game id="2374" electronic="true">
+		<title>Defense Grid 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-05-01</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="2375" electronic="true">
+		<title>GRID 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-05-01</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

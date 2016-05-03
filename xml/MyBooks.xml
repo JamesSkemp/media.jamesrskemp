@@ -11251,6 +11251,11 @@
 		<buy date="2015-05-28" place="PacktPub.com" price="0.00"/>
 		<notes>Electronic version.</notes>
 	</book>
+	<book id="1129">
+		<title>LaTex Beginner's Guide</title>
+		<buy date="2015-03-04" place="PacktPub.com" price="0.00"/>
+		<notes>Electronic version.</notes>
+	</book>
 	<!--
 	-->
 </books>

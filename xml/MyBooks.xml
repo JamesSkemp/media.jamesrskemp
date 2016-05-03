@@ -11231,6 +11231,26 @@
 		<buy date="2016-03-30" place="Amazon.com" price="11.27"/>
 		<notes>Received 4/1/2016. Heard from April that Elizabeth recommends it.</notes>
 	</book>
+	<book id="1125">
+		<title>COCOS2d-X by Example Beginner's Guide</title>
+		<buy date="2015-05-14" place="PacktPub.com" price="0.00"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<book id="1126">
+		<title>LÖVE for Lua Game Programming</title>
+		<buy date="2015-05-15" place="PacktPub.com" price="0.00"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<book id="1127">
+		<title>HTML5 Games Development by Example: Beginner’s Guide</title>
+		<buy date="2015-05-16" place="PacktPub.com" price="0.00"/>
+		<notes>Electronic version.</notes>
+	</book>
+	<book id="1128">
+		<title>Node Web Development - Second Edition</title>
+		<buy date="2015-05-28" place="PacktPub.com" price="0.00"/>
+		<notes>Electronic version.</notes>
+	</book>
 	<!--
 	-->
 </books>

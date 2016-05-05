@@ -34083,6 +34083,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Gold.</notes>
 	</game>
+	<game id="2376">
+		<title>Bravely Second: End Layer</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2016-05-01</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Picked up 5/3/2016. Saved $8 thanks to Gamers Club Unlocked, and then used $25 in reward certificates ($5 for birthday), so only paid $6.99 total.</notes>
+	</game>
 	<!--
 	-->
 	<!--
@@ -34107,13 +34121,13 @@
 		-20
 		-12 * 3
 		-10 * 2
-		-8 * 5
+		-8 * 6
 		-7
 		-6 * 3
 		-5
 		-3 * 2
 		-2.60
-		= -$124.60 remaining to pay for itself.
+		= -$132.60 remaining to pay for itself.
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

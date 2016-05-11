@@ -11256,6 +11256,14 @@
 		<buy date="2015-03-04" place="PacktPub.com" price="0.00"/>
 		<notes>Electronic version.</notes>
 	</book>
+	<book id="1130">
+		<title>Worry Trick, The: How Your Brain Tricks You into Expecting the Worth and What You Can Do About It</title>
+		<authors>
+			<author>David A. Carbonell</author>
+		</authors>
+		<buy date="2016-05-10" place="Amazon.com" price="9.91"/>
+		<notes>Kindle Edition. Found the author's web site to be helpful, and the reviews for this book were favorable.</notes>
+	</book>
 	<!--
 	-->
 </books>

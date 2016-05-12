@@ -3153,6 +3153,15 @@
 				<costTotal>21.60</costTotal>
 				<notes>Little less than 3/4s of a tank. Nice temps outside.</notes>
 			</fillup>
+			<fillup id="283">
+				<date>2016-05-12</date>
+				<milesCar>60905</milesCar>
+				<milesDriven>191.2</milesDriven>
+				<gallons>8.456</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>17.75</costTotal>
+				<notes>Less than half a tank remaining.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

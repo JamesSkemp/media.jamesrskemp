@@ -11129,7 +11129,10 @@
 	<book id="1112">
 		<title>Game of Thrones, A: A Song of Ice and Fire, Book 1</title>
 		<buy date="2016-01-27" place="Amazon.com" price="6.99"/>
-		<notes>Kindle version.</notes>
+		<notes>
+			Kindle version.
+			Finally started in May due to April's recommendation to read before watching the series.
+		</notes>
 	</book>
 	<book id="1113">
 		<title>Star Trek: Harlan Ellison's City on the Edge of Forever</title>
@@ -11262,6 +11265,9 @@
 			<author>David A. Carbonell</author>
 		</authors>
 		<buy date="2016-05-10" place="Amazon.com" price="9.91"/>
+		<readings finished="true">
+			<read time="1" start="2016-05-10" finish="2016-05-11"/>
+		</readings>
 		<notes>Kindle Edition. Found the author's web site to be helpful, and the reviews for this book were favorable.</notes>
 	</book>
 	<!--

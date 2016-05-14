@@ -11273,6 +11273,16 @@
 		</readings>
 		<notes>Kindle Edition. Found the author's web site to be helpful, and the reviews for this book were favorable.</notes>
 	</book>
+	<book id="1131">
+		<title>Clash of Kings, A: A Song of Ice and Fire, Book 2</title>
+		<buy date="2016-05-13" place="Amazon.com" price="9.99"/>
+		<readings>
+			<read time="1" start="2016-05-14" />
+		</readings>
+		<notes>
+			Kindle version.
+		</notes>
+	</book>
 	<!--
 	-->
 </books>

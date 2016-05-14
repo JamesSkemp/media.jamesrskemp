@@ -11129,6 +11129,9 @@
 	<book id="1112">
 		<title>Game of Thrones, A: A Song of Ice and Fire, Book 1</title>
 		<buy date="2016-01-27" place="Amazon.com" price="6.99"/>
+		<readings finished="true">
+			<read time="1" start="2016-05-11" finish="2016-05-13"/>
+		</readings>
 		<notes>
 			Kindle version.
 			Finally started in May due to April's recommendation to read before watching the series.

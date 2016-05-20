@@ -11286,6 +11286,9 @@
 	<book id="1132">
 		<title>Storm of Swords, A: A Song of Ice and Fire, Book 3</title>
 		<buy date="2016-05-15" place="Amazon.com" price="9.99"/>
+		<readings>
+			<read time="1" start="2016-05-19" />
+		</readings
 		<notes>
 			Kindle version.
 			Purchased with gift card balance from birthday gift from April.

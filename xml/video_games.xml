@@ -34097,6 +34097,20 @@
 		<own>yes</own>
 		<notes>Picked up 5/3/2016. Saved $8 thanks to Gamers Club Unlocked, and then used $25 in reward certificates ($5 for birthday), so only paid $6.99 total.</notes>
 	</game>
+	<game id="2377" used="true">
+		<title>Silver</title>
+		<system>
+			<console>Sega</console>
+			<version>Dreamcast</version>
+		</system>
+		<purchase>
+			<date>2016-03-22</date>
+			<price>13.99</price>
+			<place>Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!--
 	-->
 	<!--

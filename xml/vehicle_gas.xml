@@ -3162,6 +3162,15 @@
 				<costTotal>17.75</costTotal>
 				<notes>Less than half a tank remaining.</notes>
 			</fillup>
+			<fillup id="284">
+				<date>2016-05-26</date>
+				<milesCar>61194</milesCar>
+				<milesDriven>288.1</milesDriven>
+				<gallons>11.205</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>23.86</costTotal>
+				<notes>Saved $0.17/gallon with rewards. Think it was this trip mileage.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

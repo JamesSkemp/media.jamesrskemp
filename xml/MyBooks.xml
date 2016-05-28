@@ -11288,10 +11288,20 @@
 		<buy date="2016-05-15" place="Amazon.com" price="9.99"/>
 		<readings>
 			<read time="1" start="2016-05-19" />
-		</readings
+		</readings>
 		<notes>
 			Kindle version.
 			Purchased with gift card balance from birthday gift from April.
+		</notes>
+	</book>
+	<book id="1133">
+		<title>Feast for Crows, A: A Song of Ice and Fire, Book 4</title>
+		<buy date="2016-05-27" place="Amazon.com" price="9.99"/>
+		<readings>
+		</readings>
+		<notes>
+			Kindle version.
+			Purchased with remaining half of gift card balance from birthday gift from April.
 		</notes>
 	</book>
 	<!--

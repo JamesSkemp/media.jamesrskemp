@@ -11128,6 +11128,9 @@
 	</book>
 	<book id="1112">
 		<title>Game of Thrones, A: A Song of Ice and Fire, Book 1</title>
+		<authors>
+			<author>George R. R. Martin</author>
+		</authors>
 		<buy date="2016-01-27" place="Amazon.com" price="6.99"/>
 		<readings finished="true">
 			<read time="1" start="2016-05-11" finish="2016-05-13"/>
@@ -11275,6 +11278,9 @@
 	</book>
 	<book id="1131">
 		<title>Clash of Kings, A: A Song of Ice and Fire, Book 2</title>
+		<authors>
+			<author>George R. R. Martin</author>
+		</authors>
 		<buy date="2016-05-13" place="Amazon.com" price="9.99"/>
 		<readings>
 			<read time="1" start="2016-05-14" finish="2016-05-18" />
@@ -11285,6 +11291,9 @@
 	</book>
 	<book id="1132">
 		<title>Storm of Swords, A: A Song of Ice and Fire, Book 3</title>
+		<authors>
+			<author>George R. R. Martin</author>
+		</authors>
 		<buy date="2016-05-15" place="Amazon.com" price="9.99"/>
 		<readings>
 			<read time="1" start="2016-05-19" finish="2016-05-29" />
@@ -11296,9 +11305,10 @@
 	</book>
 	<book id="1133">
 		<title>Feast for Crows, A: A Song of Ice and Fire, Book 4</title>
+		<authors>
+			<author>George R. R. Martin</author>
+		</authors>
 		<buy date="2016-05-27" place="Amazon.com" price="9.99"/>
-		<readings>
-		</readings>
 		<notes>
 			Kindle version.
 			Purchased with remaining half of gift card balance from birthday gift from April.

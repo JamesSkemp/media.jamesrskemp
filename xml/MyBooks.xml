@@ -11314,6 +11314,28 @@
 			Purchased with remaining half of gift card balance from birthday gift from April.
 		</notes>
 	</book>
+	<book id="1134">
+		<title>Fragments of Horror</title>
+		<authors>
+			<author>Junji Ito</author>
+		</authors>
+		<buy date="2016-05-30" place="Amazon.com" price="7.99" />
+		<notes>
+			Kindle/comiXology version.
+			Purchased with part of $50 from Connie.
+		</notes>
+	</book>
+	<book id="1135">
+		<title>Satoshi Kon's Opus</title>
+		<authors>
+			<author>Satoshi Kon</author>
+		</authors>
+		<buy date="2016-05-30" place="Amazon.com" price="9.99" />
+		<notes>
+			Kindle/comiXology version.
+			Purchased with part of $50 from Connie.
+		</notes>
+	</book>
 	<!--
 	-->
 </books>

@@ -11309,6 +11309,9 @@
 			<author>George R. R. Martin</author>
 		</authors>
 		<buy date="2016-05-27" place="Amazon.com" price="9.99"/>
+		<readings>
+			<read time="1" start="2016-05-30" />
+		</readings>
 		<notes>
 			Kindle version.
 			Purchased with remaining half of gift card balance from birthday gift from April.
@@ -11320,6 +11323,9 @@
 			<author>Junji Ito</author>
 		</authors>
 		<buy date="2016-05-30" place="Amazon.com" price="7.99" />
+		<readings finished="true">
+			<read time="1" start="2016-05-30" finish="2016-05-30"/>
+		</readings>
 		<notes>
 			Kindle/comiXology version.
 			Purchased with part of $50 from Connie.

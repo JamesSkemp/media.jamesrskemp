@@ -11309,8 +11309,8 @@
 			<author>George R. R. Martin</author>
 		</authors>
 		<buy date="2016-05-27" place="Amazon.com" price="9.99"/>
-		<readings>
-			<read time="1" start="2016-05-30" />
+		<readings finished="true">
+			<read time="1" start="2016-05-30" finish="2016-06-05" />
 		</readings>
 		<notes>
 			Kindle version.
@@ -11343,6 +11343,17 @@
 		<notes>
 			Kindle/comiXology version.
 			Purchased with part of $50 from Connie.
+		</notes>
+	</book>
+	<book id="1136">
+		<title>Dance with Dragons, A: A Song of Ice and Fire, Book 5</title>
+		<authors>
+			<author>George R. R. Martin</author>
+		</authors>
+		<buy date="2016-06-05" place="Amazon.com" price="9.99"/>
+		<notes>
+			Kindle version.
+			Purchased with part of gift card from Connie.
 		</notes>
 	</book>
 	<!--

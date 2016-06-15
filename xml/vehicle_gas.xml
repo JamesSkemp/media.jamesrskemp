@@ -3171,6 +3171,15 @@
 				<costTotal>23.86</costTotal>
 				<notes>Saved $0.17/gallon with rewards. Think it was this trip mileage.</notes>
 			</fillup>
+			<fillup id="285">
+				<date>2016-06-14</date>
+				<milesCar>61430</milesCar>
+				<milesDriven>235.7</milesDriven>
+				<gallons>9.970</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>23.92</costTotal>
+				<notes>Had need to turn on air conditioner a few times.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

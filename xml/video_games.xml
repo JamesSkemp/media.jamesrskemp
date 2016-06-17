@@ -34273,6 +34273,132 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $14.99.</notes>
 	</game>
+	<game id="2389" electronic="true">
+		<title>Imperium Romanum: Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-07</date>
+			<price>0.00</price>
+			<place>Kalypso</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received for free for being on mailing list.</notes>
+	</game>
+	<game id="2390" electronic="true">
+		<title>Heroes of Annihilated Empires</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.56</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2391" electronic="true">
+		<title>Hoard Complete Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.49. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2392" electronic="true">
+		<title>Prophour23</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2393" electronic="true">
+		<title>Planets Under Attack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2394" electronic="true">
+		<title>Meridian: New World</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2395" electronic="true">
+		<title>Militia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2396" electronic="true">
+		<title>Nightmare Cooperative, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
+	<game id="2397" electronic="true">
+		<title>Stronghold 3 Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.49</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

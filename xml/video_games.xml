@@ -34399,6 +34399,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99. Part of build your own strategy bundle; 8 games for $3.99.</notes>
 	</game>
+	<game id="2398" electronic="true">
+		<title>Hugo Trilogy, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but summer sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

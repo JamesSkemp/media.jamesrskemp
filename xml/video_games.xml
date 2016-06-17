@@ -34413,6 +34413,20 @@
 		<own>yes</own>
 		<notes>Normally $5.99, but summer sale.</notes>
 	</game>
+	<game id="2399" electronic="true">
+		<title>Spelunky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-17</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for getting experience during summer sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

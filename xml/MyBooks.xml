@@ -11351,9 +11351,13 @@
 			<author>George R. R. Martin</author>
 		</authors>
 		<buy date="2016-06-05" place="Amazon.com" price="9.99"/>
+		<readings finished="true">
+			<read time="1" start="2016-06-05" finish="2016-06-25" />
+		</readings>
 		<notes>
 			Kindle version.
 			Purchased with part of gift card from Connie.
+			Think this was my start date.
 		</notes>
 	</book>
 	<!--

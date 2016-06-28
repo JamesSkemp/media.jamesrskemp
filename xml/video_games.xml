@@ -34427,6 +34427,48 @@
 		<own>yes</own>
 		<notes>Free for getting experience during summer sale.</notes>
 	</game>
+	<game id="2400" electronic="true">
+		<title>Pocket Arcade Story</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-27</date>
+			<price>4.99</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Used Google Rewards money so was effectively free.</notes>
+	</game>
+	<game id="2401" electronic="true">
+		<title>Game Corp DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-27</date>
+			<price>1.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Endless Loop Management bundle, which was on sale as part of the summer sale.</notes>
+	</game>
+	<game id="2402" electronic="true">
+		<title>Blueprint Tycoon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-27</date>
+			<price>2.23</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Endless Loop Management bundle, which was on sale as part of the summer sale. This was the game I was most interested in.</notes>
+	</game>
 	<!--
 	-->
 	<!--

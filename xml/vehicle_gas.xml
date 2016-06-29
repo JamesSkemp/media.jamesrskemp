@@ -3180,6 +3180,15 @@
 				<costTotal>23.92</costTotal>
 				<notes>Had need to turn on air conditioner a few times.</notes>
 			</fillup>
+			<fillup id="286">
+				<date>2016-06-27</date>
+				<milesCar>61661</milesCar>
+				<milesDriven>231.0</milesDriven>
+				<gallons>9.669</gallons>
+				<costGallon>2.179</costGallon>
+				<costTotal>21.07</costTotal>
+				<notes>About 1/4 of a tank left.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

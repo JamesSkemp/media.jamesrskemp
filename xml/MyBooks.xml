@@ -11350,7 +11350,7 @@
 		<authors>
 			<author>George R. R. Martin</author>
 		</authors>
-		<buy date="2016-06-05" place="Amazon.com" price="9.99"/>
+		<buy date="2016-06-05" place="Amazon.com" price="9.99" />
 		<readings finished="true">
 			<read time="1" start="2016-06-05" finish="2016-06-25" />
 		</readings>
@@ -11359,6 +11359,14 @@
 			Purchased with part of gift card from Connie.
 			Think this was my start date.
 		</notes>
+	</book>
+	<book id="1137">
+		<title>Complete Collection Of H. P. Lovecraft - 150 eBooks With 100+ Audiobooks (Complete Collection Of Lovecraft's Fiction, Juvenilia, Poems, Essays And Collaborations)</title>
+		<authors>
+			<author>H.P. Lovecraft</author>
+		</authors>
+		<buy date="2016-06-25" place="Amazon.com" price="0.99" />
+		<notes>Kindle version.</notes>
 	</book>
 	<!--
 	-->

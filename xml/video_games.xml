@@ -4843,7 +4843,7 @@
 			Received 11/4/2010, with PSP.
 			Started 11/5/2010 and beat 11/17/2010, with a time of around 27:04:42.
 			Purchased strategy guide 10/17/2013 for $5.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689. Didn't include poster.
-			Purchased second strategy guide 2/28/2015 for $6.99 from Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704. Included poster. 
+			Purchased second strategy guide 2/28/2015 for $6.99 from Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704. Included poster.
 		</notes>
 	</game>
 	<game id="317" addOn="true" electronic="true">
@@ -10442,7 +10442,8 @@
 		<own>yes</own>
 		<notes>
 			$35 off, and Amazon is selling for $35, so such a good deal, I bought both console versions.
-			This one had to be shipped to the store, and I finally was able to pick it up 2/21.</notes>
+			This one had to be shipped to the store, and I finally was able to pick it up 2/21.
+		</notes>
 	</game>
 	<game id="707" electronic="true" beat="true">
 		<title>Walking Dead - Season Pass (Episodes 1-5), The</title>
@@ -10556,7 +10557,8 @@
 		<own>yes</own>
 		<notes>
 			Free for PlayStation Plus members this week, normally either $39.99 or $29.99, depending upon what page of the store you're on.
-			Heard it's a squad-based shooter with a great story.</notes>
+			Heard it's a squad-based shooter with a great story.
+		</notes>
 	</game>
 	<game id="715">
 		<title>Tomb Raider</title>
@@ -20181,7 +20183,7 @@
 		<own>yes</own>
 		<notes>
 			After playing PAYDAY, decided to try this. Saved 10% with PowerUp card.
-			Bought Collector's Edition strategy guide 11/8/2014 for $2.00 from St Vincent de Paul (West), 940 Hansen Rd, Green Bay WI 54304. Really good shape. 
+			Bought Collector's Edition strategy guide 11/8/2014 for $2.00 from St Vincent de Paul (West), 940 Hansen Rd, Green Bay WI 54304. Really good shape.
 		</notes>
 	</game>
 	<game id="1396" used="true">
@@ -26298,7 +26300,6 @@
 		<own>yes</own>
 		<notes>Normally $19.99. Steam Summer Sale daily deal.</notes>
 	</game>
-	
 	<game id="1825" electronic="true">
 		<title>Dungeon Keeper Gold</title>
 		<system>
@@ -27297,8 +27298,7 @@
 		<notes>Came with PSOne/LCD/controllers bundle. Case is cracked and game seems to have been circular scratched twice, but plays fine.</notes>
 	</game>
 	<game id="1896" electronic="true" addOn="true">
-		<title>Last of Us, The - Double Map Pack Bundle
-		</title>
+		<title>Last of Us, The - Double Map Pack Bundle</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>

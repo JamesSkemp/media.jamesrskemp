@@ -34498,6 +34498,342 @@
 		<own>yes</own>
 		<notes>Normally $29.99 but free with Gold.</notes>
 	</game>
+	<game id="2405" electronic="true">
+		<title>Lords of Xulima - Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>7.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale for the summer sale.</notes>
+	</game>
+	<game id="2406" electronic="true">
+		<title>Helen's Mysterious Castle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>1.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but on sale for the summer sale.</notes>
+	</game>
+	<game id="2407" electronic="true">
+		<title>SanctuaryRPG: Black Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>1.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but on sale for the summer sale.</notes>
+	</game>
+	<game id="2408" electronic="true">
+		<title>Sins Of The Demon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2409" electronic="true">
+		<title>Labyronia RPG 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2410" electronic="true">
+		<title>The Chosen RPG</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2411" electronic="true">
+		<title>Labyronia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.36</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2412" electronic="true">
+		<title>Out There Somewhere</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2413" electronic="true">
+		<title>The Howler</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2414" electronic="true">
+		<title>Rolling Sun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2415" electronic="true">
+		<title>Waveform</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2416" electronic="true">
+		<title>Morphopolis</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2417" electronic="true">
+		<title>Legend of Mysteria</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2418" electronic="true">
+		<title>Airscape: The Fall of Gravity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2419" electronic="true">
+		<title>Saviors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2420" electronic="true">
+		<title>Revolution Ace</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2421" electronic="true">
+		<title>Polarity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2422" electronic="true">
+		<title>PARTICLE MACE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2423" electronic="true">
+		<title>The Hat Man: Shadow Ward</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2424" electronic="true">
+		<title>Storm of Spears</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2425" electronic="true">
+		<title>Battle Ranch</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2426" electronic="true">
+		<title>Intergalactic Bubbles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2427" electronic="true">
+		<title>Gun Rocket</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
+	<game id="2428" electronic="true">
+		<title>Spaceport Hope</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-06-30</date>
+			<price>0.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
+	</game>
 	<!--
 	-->
 	<!--

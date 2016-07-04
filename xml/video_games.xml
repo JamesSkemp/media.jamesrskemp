@@ -34834,6 +34834,20 @@
 		<own>yes</own>
 		<notes>Part of The Big One bundle, which was 21 games for $4.36.</notes>
 	</game>
+	<game id="2429" electronic="true">
+		<title>Epic Astro Story</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-03</date>
+			<price>4.99</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!--
 	-->
 	<!--

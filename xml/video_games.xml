@@ -34876,6 +34876,76 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="2432" electronic="true">
+		<title>Triple Town</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="2433" electronic="true">
+		<title>Craft the World</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>3.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $18.99.</notes>
+	</game>
+	<game id="2434" electronic="true">
+		<title>War for the Overworld</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>12.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99.</notes>
+	</game>
+	<game id="2435" electronic="true">
+		<title>Tormentum: Dark Sorrow</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>7.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99.</notes>
+	</game>
+	<game id="2436" electronic="true">
+		<title>Victor Vran</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

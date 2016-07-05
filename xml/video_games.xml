@@ -34848,6 +34848,34 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="2430" electronic="true">
+		<title>Game Dev Story</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>2.50</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="2431" electronic="true">
+		<title>10000000</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-07-04</date>
+			<price>2.89</price>
+			<place>Google Play</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!--
 	-->
 	<!--

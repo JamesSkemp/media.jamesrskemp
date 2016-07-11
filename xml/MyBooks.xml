@@ -11368,6 +11368,51 @@
 		<buy date="2016-06-25" place="Amazon.com" price="0.99" />
 		<notes>Kindle version.</notes>
 	</book>
+	<book id="1138">
+		<title>Surviving the Game Industry: A Wasteland Guide (StoryBundle Exclusive)</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1139">
+		<title>How to Talk About Videogames</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1140">
+		<title>Playing at the World</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1141">
+		<title>Psychogeography of Games, A</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1142">
+		<title>Boss Fight Books: Spelunky</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1143">
+		<title>GameMaker Language</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1144">
+		<title>So You Want to Play Go?</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
+	<book id="1145">
+		<title>HG101 Presents: Taito Arcade Classics</title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
 	<!--
+	<book id="113">
+		<title></title>
+		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
+		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+	</book>
 	-->
 </books>

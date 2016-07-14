@@ -11408,11 +11408,19 @@
 		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
 		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
 	</book>
+	<book id="1146">
+		<title>Discover. Act. Engage.: A 60-Day Catalyst Guide on Accomplishing Your Someday Goals</title>
+		<authors>
+			<author>Megan Watt</author>
+		</authors>
+		<buy date="2016-07-11" place="Amazon.com" price="2.99"/>
+		<notes>Kindle version.</notes>
+	</book>
 	<!--
-	<book id="113">
+	<book id="">
 		<title></title>
-		<buy date="2016-07-10" place="StoryBundle.com" price="1.50"/>
-		<notes>Electronic version. Part of the Giga Games Bundle, which was 8 books for $12.</notes>
+		<buy date="2016-07-" place="" price=""/>
+		<notes></notes>
 	</book>
 	-->
 </books>

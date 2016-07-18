@@ -3189,6 +3189,15 @@
 				<costTotal>21.07</costTotal>
 				<notes>About 1/4 of a tank left.</notes>
 			</fillup>
+			<fillup id="287">
+				<date>2016-07-17</date>
+				<milesCar>61863</milesCar>
+				<milesDriven>202.4</milesDriven>
+				<gallons>9.043</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>18.98</costTotal>
+				<notes/>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

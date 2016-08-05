@@ -35072,6 +35072,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="2446" electronic="true">
+		<title>WARRIORS OROCHI 3 Ultimate</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-08-05</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $59.99.</notes>
+	</game>
+	<game id="2447" electronic="true">
+		<title>Spelunky</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-08-05</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $14.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

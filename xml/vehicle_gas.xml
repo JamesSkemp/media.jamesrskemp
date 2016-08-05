@@ -3198,6 +3198,15 @@
 				<costTotal>18.98</costTotal>
 				<notes/>
 			</fillup>
+			<fillup id="288">
+				<date>2016-08-05</date>
+				<milesCar>62065</milesCar>
+				<milesDriven>201.4</milesDriven>
+				<gallons>9.086</gallons>
+				<costGallon>2.029</costGallon>
+				<costTotal>18.44</costTotal>
+				<notes/>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

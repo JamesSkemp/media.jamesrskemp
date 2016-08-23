@@ -35100,7 +35100,7 @@
 		<own>yes</own>
 		<notes>Free with Gold. Normally $14.99.</notes>
 	</game>
-	<game id="2448">
+	<game id="2448" electronic="true">
 		<title>Tricky Towers</title>
 		<system>
 			<console>PlayStation</console>
@@ -35114,7 +35114,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $14.99.</notes>
 	</game>
-	<game id="2449">
+	<game id="2449" electronic="true">
 		<title>Rebel Galaxy</title>
 		<system>
 			<console>PlayStation</console>
@@ -35128,7 +35128,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $19.99.</notes>
 	</game>
-	<game id="2450">
+	<game id="2450" electronic="true">
 		<title>Ultratron</title>
 		<system>
 			<console>PlayStation</console>
@@ -35142,7 +35142,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $9.99.</notes>
 	</game>
-	<game id="2451">
+	<game id="2451" electronic="true">
 		<title>Ultratron</title>
 		<system>
 			<console>PlayStation</console>
@@ -35156,7 +35156,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $9.99.</notes>
 	</game>
-	<game id="2452">
+	<game id="2452" electronic="true">
 		<title>Ultratron</title>
 		<system>
 			<console>PlayStation</console>
@@ -35170,7 +35170,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $9.99.</notes>
 	</game>
-	<game id="2453">
+	<game id="2453" electronic="true">
 		<title>Retro/Grade</title>
 		<system>
 			<console>PlayStation</console>
@@ -35184,7 +35184,7 @@
 		<own>yes</own>
 		<notes>Free with PlayStation Plus. Normally $9.99.</notes>
 	</game>
-	<game id="2454">
+	<game id="2454" electronic="true">
 		<title>Patapon 3</title>
 		<system>
 			<console>PlayStation</console>

@@ -11416,6 +11416,14 @@
 		<buy date="2016-07-11" place="Amazon.com" price="2.99"/>
 		<notes>Kindle version.</notes>
 	</book>
+	<book id="1147">
+		<title>Miss Peregrine's Home for Peculiar Children</title>
+		<buy date="2016-08-26" place="Amazon.com" price="10.99"/>
+		<readings finished="true">
+			<read time="1" start="2016-08-26" finish="2016-08-27" />
+		</readings>
+		<notes>Kindle version. April recommendation since we're going to see the movie when it comes out.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

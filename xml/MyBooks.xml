@@ -11424,11 +11424,23 @@
 		</readings>
 		<notes>Kindle version. April recommendation since we're going to see the movie when it comes out.</notes>
 	</book>
+	<book id="1148">
+		<title>Harry Potter and the Sorcerer's Stone</title>
+		<authors>
+			<author>J.K. Rowling</author>
+		</authors>
+		<readings finished="true">
+			<read time="1" start="2016-09-12" finish="2016-09-13" />
+		</readings>
+		<notes>Read April's hardcover copy.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>
 		<buy date="2016-07-" place="" price=""/>
 		<notes></notes>
 	</book>
+	-->
+	<!--
 	-->
 </books>

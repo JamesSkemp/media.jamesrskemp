@@ -35366,6 +35366,76 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2467" electronic="true">
+		<title>Uncanny Valley</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-18</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble GameMaker Bundle.</notes>
+	</game>
+	<game id="2468" electronic="true">
+		<title>Cook, Serve, Delicious!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-18</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble GameMaker Bundle.</notes>
+	</game>
+	<game id="2469" electronic="true">
+		<title>INK</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-18</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble GameMaker Bundle.</notes>
+	</game>
+	<game id="2470" electronic="true">
+		<title>Solstice</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-18</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble GameMaker Bundle.</notes>
+	</game>
+	<game id="2471" electronic="true">
+		<title>Home</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-18</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble GameMaker Bundle.</notes>
+	</game>
 	<!--
 	-->
 	<!--

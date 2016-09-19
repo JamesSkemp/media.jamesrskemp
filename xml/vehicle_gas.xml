@@ -3216,6 +3216,15 @@
 				<costTotal>22.32</costTotal>
 				<notes>Drove to Devil's Lake the previous weekend.</notes>
 			</fillup>
+			<fillup id="290">
+				<date>2016-09-17</date>
+				<milesCar>62504</milesCar>
+				<milesDriven>183.9</milesDriven>
+				<gallons>8.178</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>17.17</costTotal>
+				<notes>At about half a tank, I believe.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

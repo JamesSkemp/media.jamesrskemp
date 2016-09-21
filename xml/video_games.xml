@@ -35450,6 +35450,34 @@
 		<own>yes</own>
 		<notes>Ordered online and picked up 9/17/2016. Saved $4 with Gamers Club Unlocked.</notes>
 	</game>
+	<game id="2473" electronic="true">
+		<title>Assassin's Creed Chronicles: China</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-09-21</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Gold.</notes>
+	</game>
+	<game id="2474" electronic="true">
+		<title>Mirror's Edge</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-09-21</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

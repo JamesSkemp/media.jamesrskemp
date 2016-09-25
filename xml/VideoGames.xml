@@ -1767,6 +1767,16 @@
 			<own>yes</own>
 			<notes>Received 2/23/2016. Red, white, and yellow only, since component cables were more expensive, and this was a whim purchase.</notes>
 		</item>
+		<item id="130">
+			<name>Buffalo Classic USB Gamepad for PC</name>
+			<purchase>
+				<date>2016-09-18</date>
+				<price>12.30</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 9/21/2016. Got another one for my Raspberry Pi 3.</notes>
+		</item>
 	</hardware>
 <!--
 -->

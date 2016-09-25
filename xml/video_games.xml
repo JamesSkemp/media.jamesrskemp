@@ -35478,6 +35478,118 @@
 		<own>yes</own>
 		<notes>Normally $14.99 but free with Gold.</notes>
 	</game>
+	<game id="2475" electronic="true">
+		<title>Fairy Fencer F: Advent Dark Force</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>23.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but flash sale.</notes>
+	</game>
+	<game id="2476" electronic="true">
+		<title>Shin Megami Tensei: Digital Devil Saga</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but flash sale. For PlayStation 3, as a PS2 Classic.</notes>
+	</game>
+	<game id="2477" electronic="true">
+		<title>Shin Megami Tensei: Digital Devil Saga 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but flash sale. For PlayStation 3, as a PS2 Classic.</notes>
+	</game>
+	<game id="2478" electronic="true">
+		<title>Day of the Tentacle Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>3.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but flash sale.</notes>
+	</game>
+	<game id="2479" electronic="true">
+		<title>Day of the Tentacle Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PS Vita version.</notes>
+	</game>
+	<game id="2480" electronic="true">
+		<title>Atelier Rorona Plus: The Alchemist of Arland</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>10.66</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Arland Atelier Trilogy Plus bundle. Normally $79.99, but paid $31.99 because of a flash sale.</notes>
+	</game>
+	<game id="2481" electronic="true">
+		<title>Atelier Totori Plus: The Adventurer of Arland</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>10.66</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Arland Atelier Trilogy Plus bundle. Normally $79.99, but paid $31.99 because of a flash sale.</notes>
+	</game>
+	<game id="2482" electronic="true">
+		<title>Atelier Meruru Plus: The Apprentice of Arland</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-09-25</date>
+			<price>10.67</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of The Arland Atelier Trilogy Plus bundle. Normally $79.99, but paid $31.99 because of a flash sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

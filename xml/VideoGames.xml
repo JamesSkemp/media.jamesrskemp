@@ -1777,6 +1777,20 @@
 			<own>yes</own>
 			<notes>Received 9/21/2016. Got another one for my Raspberry Pi 3.</notes>
 		</item>
+		<item id="131">
+			<name>PlayStation Vita 32 GB Memory Card</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Vita</version>
+			</system>
+			<purchase>
+				<date>2016-09-26</date>
+				<price>78.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 9/28/2016.</notes>
+		</item>
 	</hardware>
 <!--
 -->

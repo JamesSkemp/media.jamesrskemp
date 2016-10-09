@@ -35613,6 +35613,174 @@
 		<own>yes</own>
 		<notes>Bought Versus Books Official Perfect Guide 9/25/2016 for $7.99 from Mega Media Xchange, 7610 Mineral Point Rd, Madison WI 53719-1689.</notes>
 	</game>
+	<game id="2484" used="true">
+		<title>Master of Illusion</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2016-10-01</date>
+			<price>0.00</price>
+			<place>Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Given to me by Connie; was Grandma's but she seemingly never played it.</notes>
+	</game>
+	<game id="2485" electronic="true">
+		<title>Resident Evil</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2486" electronic="true">
+		<title>Transformers: Devastation</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2487" electronic="true" beat="true">
+		<title>Actual Sunlight</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2488" electronic="true">
+		<title>Code: Realize ~Guardian of Rebirth~</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2489" electronic="true">
+		<title>From Dust</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2490">
+		<title>LittleBigPlanet 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>15.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Shipped to store and picked up at west Madison location. Saved $4 with Gamer's Club Unlocked.</notes>
+	</game>
+	<game id="2491">
+		<title>God Eater 2: Rage Burst Day One Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Shipped to store and picked up at west Madison location. Saved $8 with Gamer's Club Unlocked. Included Resurrection for free.</notes>
+	</game>
+	<game id="2492" electronic="true">
+		<title>God Eater Resurrection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-05</date>
+			<price>0.00</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Included for free with God Eater 2.</notes>
+	</game>
+	<game id="2493">
+		<title>Uncharted: The Nathan Drake Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-07</date>
+			<price>15.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Picked up at west Madison location. Saved $4 with Gamer's Club Unlocked.</notes>
+	</game>
+	<game id="2494" electronic="true">
+		<title>Super Mega Baseball: Extra Innings</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-10-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Games with Gold.</notes>
+	</game>
+	<game id="2495" electronic="true">
+		<title>MX vs ATV Reflex</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-10-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but free with Games with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

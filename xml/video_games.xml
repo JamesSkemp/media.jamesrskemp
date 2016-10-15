@@ -35781,6 +35781,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99 but free with Games with Gold.</notes>
 	</game>
+	<game id="2496" used="true">
+		<title>BeatDown: Fists of Vengeance</title>
+		<system>
+			<console>PlayStation</console>
+			<version>2</version>
+		</system>
+		<purchase>
+			<date>2016-10-02</date>
+			<price>8.95</price>
+			<place>ebay (respawn_games)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Paid $2.99 shipping. Received 10/06/2016. Purchased because cavia had something to do with it.</notes>
+	</game>
 	<!--
 	-->
 	<!--

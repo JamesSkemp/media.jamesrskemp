@@ -35795,6 +35795,34 @@
 		<own>yes</own>
 		<notes>Paid $2.99 shipping. Received 10/06/2016. Purchased because cavia had something to do with it.</notes>
 	</game>
+	<game id="2497" electronic="true">
+		<title>Escapists, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-10-16</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2498" electronic="true">
+		<title>I Am Alive</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-10-16</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

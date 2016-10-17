@@ -11434,6 +11434,11 @@
 		</readings>
 		<notes>Read April's hardcover copy.</notes>
 	</book>
+	<book id="1149">
+		<title>Raspberry Pi User Guide, 4th Edition</title>
+		<buy date="2016-10-16" place="Amazon Vine" price="0.00"/>
+		<notes>Amazon Vine book.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

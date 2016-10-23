@@ -11437,6 +11437,9 @@
 	<book id="1149">
 		<title>Raspberry Pi User Guide, 4th Edition</title>
 		<buy date="2016-10-16" place="Amazon Vine" price="0.00"/>
+		<readings finished="true">
+			<read time="1" start="2016-10" finish="2016-10-22" />
+		</readings>
 		<notes>Amazon Vine book.</notes>
 	</book>
 	<!--

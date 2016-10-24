@@ -35823,6 +35823,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="2499" used="true">
+		<title>Operation Darkness</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-10-19</date>
+			<price>15.90</price>
+			<place>ebay (jacksele2006)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/24. Was on YouTube video as an average game.</notes>
+	</game>
+	<game id="2500">
+		<title>Nights of Azure</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-22</date>
+			<price>25.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/23/2016.</notes>
+	</game>
+	<game id="2501">
+		<title>Dragon Age Inquisition: Game of the Year Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-10-22</date>
+			<price>39.88</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/24/2016.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -9988,15 +9988,27 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 8/29/2016, due to shipping/mail forwarding issues</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>640</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Adventures Volume 12</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Adventures</Series>
+		<Publisher>IDW</Publisher>
+		<Price>19.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2016.10.22</BoughtDate>
+		<BoughtPrice>17.78</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 10/23/2016.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--
 
   Keep an eye open for:
 Tales of the Teenage Mutant Ninja Turtles Volume 9
-Teenage Mutant Ninja Turtles Adventures Volume 12
+Teenage Mutant Ninja Turtles Adventures Volume 13
 Teenage Mutant Ninja Turtles Classics Volume 11
 Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7
-Teenage Mutant Ninja Turtles: The Works Volume 5
+Teenage Mutant Ninja Turtles: The Works Volume 6
 	-->
 </ArrayOfComic>

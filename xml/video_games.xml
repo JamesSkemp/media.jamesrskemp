@@ -19518,6 +19518,7 @@
 		<notes>
 			Part of the Humble Weekly Bundle Nordic Games 2 bundle. Paid $5.45 for 8 games. Part of BTA tier.
 			Includes Titan Quest and Titan Quest - Immortal Throne.
+			Received Titan Quest Anniversary Edition for free later because of this.
 		</notes>
 	</game>
 	<game id="1348" electronic="true">
@@ -35864,6 +35865,37 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 10/24/2016.</notes>
+	</game>
+	<game id="2502" electronic="true">
+		<title>Technobabylon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-30</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Gems Bundle, which I paid $1 for three games (owned one already).</notes>
+	</game>
+	<game id="2503" electronic="true">
+		<title>Odallus: The Dark Call</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-30</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Part of the Humble Gems Bundle, which I paid $1 for three games (owned one already).
+			This is the game I was most interested in from the bundle. Was in some review as a good Metroidvania game.
+		</notes>
 	</game>
 	<!--
 	-->

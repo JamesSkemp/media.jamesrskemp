@@ -36217,6 +36217,20 @@
 			Included the following add-ons: Endless Legend - Classic Edition to Emperor Edition Upgrade, Endless Legend - Guardians, Endless Legend - Shadows, Endless Legend - The Lost Tales, Endless Legend - Echoes of Auriga, and Endless Legend - Shifters.
 		</notes>
 	</game>
+	<game id="2526" electronic="true" addOn="true">
+		<title>Dungeon of the Endless - Deep Freeze Add-on</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-30</date>
+			<price>0.44</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but on sale for $0.49, but purchased bundle where it was the only thing I needed, and saved an additional five cents.</notes>
+	</game>
 	<!--
 	-->
 	<!--

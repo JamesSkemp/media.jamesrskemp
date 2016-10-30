@@ -33228,7 +33228,10 @@
 			<place>Bundle Stars</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.</notes>
+		<notes>
+			Normally $9.99. Part of the Artifex Mundi: Enigmatis Bundle, which was $2.49 for 8 games, but I owned one.
+			Got Android version 9/30/2016 from The Humble Artifex Mundi PC &amp; Mobile Bundle.
+		</notes>
 	</game>
 	<game id="2314" electronic="true">
 		<title>Fairy Tale Mysteries 2: The Beanstalk</title>
@@ -35896,6 +35899,132 @@
 			Part of the Humble Gems Bundle, which I paid $1 for three games (owned one already).
 			This is the game I was most interested in from the bundle. Was in some review as a good Metroidvania game.
 		</notes>
+	</game>
+	<game id="2504" electronic="true">
+		<title>Vampire Legends: The True Story of Kisilova</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2505" electronic="true">
+		<title>The Secret Order 2: Masked Intent</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price></price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2506" electronic="true">
+		<title>Crime Secrets: Crimson Lilly</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.56</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2507" electronic="true">
+		<title>Eventide: Slavic Fable</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.56</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2508" electronic="true">
+		<title>The Secret Order 3: Ancient Times</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.56</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2509" electronic="true">
+		<title>Grim Legends: The Forsaken Bride</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.56</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2510" electronic="true">
+		<title>Grim Legends 2: Song of the Dark Swan</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.56</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2511" electronic="true">
+		<title>Grim Legends 3: The Dark City</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.6</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
+	</game>
+	<game id="2512" electronic="true">
+		<title>Mythic Wonders: The Philosopher's Stone</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.6</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
 	</game>
 	<!--
 	-->

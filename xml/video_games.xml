@@ -31669,11 +31669,14 @@
 		</system>
 		<purchase>
 			<date>2016-01-02</date>
-			<price>4.07</price>
+			<price>6.00</price>
 			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $11.99. Winter sale.</notes>
+		<notes>
+			Paid $4.07 (normally $11.99) for the Pixel Edition on 1/2/2016 as part of the Winter sale.
+			Paid $1.93 10/13/2016 for the Pixel Edition to Crystal Edition upgrade as part of the Amplitude Endless Pack.
+		</notes>
 	</game>
 	<game id="2203" electronic="true">
 		<title>Grim Fandango Remastered</title>
@@ -36168,6 +36171,51 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the $15 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2523" electronic="true" addOn="true">
+		<title>Endless Space - Disharmony</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-13</date>
+			<price>1.90</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Amplitude Endless Pack, which was $19.05 for 10 items.</notes>
+	</game>
+	<game id="2524" electronic="true" addOn="true">
+		<title>Dungeon of the Endless - Rescue Team Add-on</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-13</date>
+			<price>1.90</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Amplitude Endless Pack, which was $19.05 for 10 items.</notes>
+	</game>
+	<game id="2525" electronic="true">
+		<title>Endless Legend - Emperor Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-10-13</date>
+			<price>13.32</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>
+			Part of the Amplitude Endless Pack, which was $19.05 for 10 items.
+			Included the following add-ons: Endless Legend - Classic Edition to Emperor Edition Upgrade, Endless Legend - Guardians, Endless Legend - Shadows, Endless Legend - The Lost Tales, Endless Legend - Echoes of Auriga, and Endless Legend - Shifters.
+		</notes>
 	</game>
 	<!--
 	-->

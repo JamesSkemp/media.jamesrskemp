@@ -35529,7 +35529,7 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but flash sale. For PlayStation 3, as a PS2 Classic.</notes>
 	</game>
-	<game id="2478" electronic="true">
+	<game id="2478" electronic="true" beat="true">
 		<title>Day of the Tentacle Remastered</title>
 		<system>
 			<console>PlayStation</console>
@@ -35541,7 +35541,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $14.99, but flash sale.</notes>
+		<notes>Normally $14.99, but flash sale. Started and finished 10/29/2016. 31st platinum.</notes>
 	</game>
 	<game id="2479" electronic="true">
 		<title>Day of the Tentacle Remastered</title>

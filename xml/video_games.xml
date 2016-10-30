@@ -36029,6 +36029,146 @@
 		<own>yes</own>
 		<notes>Part of the Humble Artifex Mundi PC &amp; Mobile Bundle, which was 10 games (PC and Android) for $5.</notes>
 	</game>
+	<game id="2513" electronic="true">
+		<title>Oniken</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2514" electronic="true">
+		<title>Plantera</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2515" electronic="true">
+		<title>Tick Tock Isle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2516" electronic="true">
+		<title>Necromonads</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Clickteam Fusion 2.5 Bundle. Included source code.</notes>
+	</game>
+	<game id="2517" electronic="true">
+		<title>Yawhg, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $7 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2518" electronic="true">
+		<title>Five Nights at Freddy's 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $7 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2519" electronic="true">
+		<title>Quadle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $7 tier of The Humble Clickteam Fusion 2.5 Bundle. Included source code.</notes>
+	</game>
+	<game id="2520" electronic="true">
+		<title>room13</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $7 tier of The Humble Clickteam Fusion 2.5 Bundle. Included source code.</notes>
+	</game>
+	<game id="2521" electronic="true">
+		<title>Concrete Jungle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
+	<game id="2522" electronic="true">
+		<title>Environmental Station Alpha</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-09-30</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of The Humble Clickteam Fusion 2.5 Bundle.</notes>
+	</game>
 	<!--
 	-->
 	<!--

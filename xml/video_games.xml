@@ -17724,7 +17724,10 @@
 			<place>GameFly</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $39.99, but then on sale for $13.59 (66%) for Quakecon, minus 20% with coupon. Heard that the mods will get you to play, even if you failed before.</notes>
+		<notes>
+			Normally $39.99, but then on sale for $13.59 (66%) for Quakecon, minus 20% with coupon. Heard that the mods will get you to play, even if you failed before.
+			Received free upgrade to special edition sometime in 2016.
+		</notes>
 	</game>
 	<game id="1221" electronic="true">
 		<title>Thief Gold</title>

@@ -3243,6 +3243,15 @@
 				<costTotal>17.76</costTotal>
 				<notes/>
 			</fillup>
+			<fillup id="293">
+				<date>2016-10-31</date>
+				<milesCar>63078</milesCar>
+				<milesDriven>147.2</milesDriven>
+				<gallons>6.744</gallons>
+				<costGallon>2.079</costGallon>
+				<costTotal>14.02</costTotal>
+				<notes>About half a tank. Starting to get cold.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

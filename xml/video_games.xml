@@ -36371,6 +36371,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free as part of PlayStation Plus.</notes>
 	</game>
+	<game id="2537" electronic="true">
+		<title>Secret of Monkey Island, The: Special Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $9.99.</notes>
+	</game>
+	<game id="2538" electronic="true">
+		<title>Super Dungeon Bros</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Gold. Normally $19.99. Seems to have very poor reviews.</notes>
+	</game>
 	<!--
 	-->
 	<!--

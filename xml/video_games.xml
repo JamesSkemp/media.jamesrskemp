@@ -36245,6 +36245,132 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but on sale for week one of 10th anniversary sale.</notes>
 	</game>
+	<game id="2528" electronic="true">
+		<title>Everybody's Gone to the Rapture</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2529" electronic="true">
+		<title>Letter Quest Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2530" electronic="true">
+		<title>Letter Quest Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2531" electronic="true">
+		<title>Pumped BMX+</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2532" electronic="true">
+		<title>Pumped BMX+</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2533" electronic="true">
+		<title>Pumped BMX+</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2534" electronic="true">
+		<title>Deadly Tower of Monsters, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2535" electronic="true">
+		<title>Costume Quest 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free as part of PlayStation Plus.</notes>
+	</game>
+	<game id="2536" electronic="true">
+		<title>DIRT 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free as part of PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

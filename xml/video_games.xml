@@ -36231,6 +36231,20 @@
 		<own>yes</own>
 		<notes>Normally $1.99, but on sale for $0.49, but purchased bundle where it was the only thing I needed, and saved an additional five cents.</notes>
 	</game>
+	<game id="2527" electronic="true">
+		<title>Metal Slug Anthology</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-08</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale for week one of 10th anniversary sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

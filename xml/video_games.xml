@@ -36399,6 +36399,48 @@
 		<own>yes</own>
 		<notes>Free with Gold. Normally $19.99. Seems to have very poor reviews.</notes>
 	</game>
+	<game id="2539" electronic="true">
+		<title>Divine Divinity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-09</date>
+			<price>0.89</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but on sale.</notes>
+	</game>
+	<game id="2540" electronic="true">
+		<title>Shantae: Risky's Revenge - Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-09</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but on sale.</notes>
+	</game>
+	<game id="2541">
+		<title>Super Smash Bros for Wii U</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2016-11-10</date>
+			<price>37.99</price>
+			<place>Target.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, possibly pre-Black Friday. Picked up from Hilldale location.</notes>
+	</game>
 	<!--
 	-->
 	<!--

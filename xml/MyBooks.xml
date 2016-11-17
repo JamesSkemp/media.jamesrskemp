@@ -11442,6 +11442,71 @@
 		</readings>
 		<notes>Amazon Vine book.</notes>
 	</book>
+	<book id="1150">
+		<title>PICO-8 Zine #1</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1151">
+		<title>PICO-8 Zine #2</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1152">
+		<title>PICO-8 Zine #3</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1153">
+		<title>PICO-8 Zine #4</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1154">
+		<title>Dungeons &amp; Dreamers</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1155">
+		<title>Complete Kobold Guide to Game Design</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1156">
+		<title>Everybody Shake! The Making of Spaceteam</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1157">
+		<title>Boss Fight Books: Super Mario Bros. 3</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1158">
+		<title>HG101 Presents - The 200 Best Video Games of All Time</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1159">
+		<title>Fighting Game Fundamentals</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1160">
+		<title>Fighting Game Fundamentals - Training Mode Handbook</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1161">
+		<title>Anything But Sports - The Making of FTL</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
+	<book id="1162">
+		<title>Souls of Darkness</title>
+		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
+		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

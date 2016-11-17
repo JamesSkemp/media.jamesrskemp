@@ -36441,6 +36441,146 @@
 		<own>yes</own>
 		<notes>On sale, possibly pre-Black Friday. Picked up from Hilldale location.</notes>
 	</game>
+	<game id="2542" electronic="true">
+		<title>Expeditions: Conquistador</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free because of XP I gained during sale.</notes>
+	</game>
+	<game id="2543" electronic="true">
+		<title>Divinity 2: Developer’s Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="2544" electronic="true">
+		<title>Stronghold HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale.</notes>
+	</game>
+	<game id="2545" electronic="true">
+		<title>Stronghold Crusader HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="2546" electronic="true">
+		<title>Moto Racer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I own it on Steam.</notes>
+	</game>
+	<game id="2547" electronic="true">
+		<title>Moto Racer 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I own it on Steam.</notes>
+	</game>
+	<game id="2548" electronic="true">
+		<title>Moto Racer 3 Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I own it on Steam.</notes>
+	</game>
+	<game id="2549" electronic="true">
+		<title>Risk of Rain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I own it on Steam.</notes>
+	</game>
+	<game id="2550" electronic="true">
+		<title>Vangers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I own it on Steam.</notes>
+	</game>
+	<game id="2551" electronic="true">
+		<title>Dex</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-11</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free because of XP I gained during sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -3252,6 +3252,15 @@
 				<costTotal>14.02</costTotal>
 				<notes>About half a tank. Starting to get cold.</notes>
 			</fillup>
+			<fillup id="294">
+				<date>2016-11-16</date>
+				<milesCar>63255</milesCar>
+				<milesDriven>177.8</milesDriven>
+				<gallons>7.530</gallons>
+				<costGallon>1.959</costGallon>
+				<costTotal>14.75</costTotal>
+				<notes>About half a tank. Still trying to get cold.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

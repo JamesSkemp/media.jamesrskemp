@@ -3261,6 +3261,15 @@
 				<costTotal>14.75</costTotal>
 				<notes>About half a tank. Still trying to get cold.</notes>
 			</fillup>
+			<fillup id="295">
+				<date>2016-12-04</date>
+				<milesCar>63411</milesCar>
+				<milesDriven>155.3</milesDriven>
+				<gallons>7.306</gallons>
+				<costGallon>1.999</costGallon>
+				<costTotal>14.60</costTotal>
+				<notes>About half a tank. First real snow today, and gas is supposedly going to increase in price soon.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

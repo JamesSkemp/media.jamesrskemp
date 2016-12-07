@@ -36581,6 +36581,132 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free because of XP I gained during sale.</notes>
 	</game>
+	<game id="2552" electronic="true">
+		<title>Psychonauts</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-17</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but on sale as part of week two of 10th Anniversary sale.</notes>
+	</game>
+	<game id="2553" electronic="true">
+		<title>Arc the Lad: Twilight of the Spirits</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-17</date>
+			<price>4.94</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale as part of week two of 10th Anniversary sale.</notes>
+	</game>
+	<game id="2554" electronic="true">
+		<title>Dark Cloud</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-17</date>
+			<price>4.94</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale as part of week two of 10th Anniversary sale.</notes>
+	</game>
+	<game id="2555" electronic="true">
+		<title>Dark Cloud 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-11-17</date>
+			<price>4.94</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale as part of week two of 10th Anniversary sale.</notes>
+	</game>
+	<game id="2556" electronic="true">
+		<title>Murdered: Soul Suspect</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-11-21</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Gold.</notes>
+	</game>
+	<game id="2557" electronic="true">
+		<title>Volume</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-23</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Staff Picks Bundle: Nick, which was $1.02 for three games.</notes>
+	</game>
+	<game id="2558" electronic="true">
+		<title>TIS-100</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-23</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Staff Picks Bundle: Nick, which was $1.02 for three games.</notes>
+	</game>
+	<game id="2559" electronic="true">
+		<title>Legend of Grimrock 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-23</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Staff Picks Bundle: Nick, which was $1.02 for three games. This was the game I wanted.</notes>
+	</game>
+	<game id="2560" electronic="true">
+		<title>Final Fantasy IX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-23</date>
+			<price>6.30</price>
+			<place>Square-Enix online</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $20.99 but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

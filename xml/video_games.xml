@@ -37169,21 +37169,399 @@
 		<own>yes</own>
 		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
 	</game>
-	<!--
-	<game id="259" electronic="true">
-		<title></title>
+	<game id="2594">
+		<title>Final Fantasy XV: Day One Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-04</date>
+			<price>0.00</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased online. Part of buy two get one free deal.</notes>
+	</game>
+	<game id="2595">
+		<title>Attack on Titan</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-04</date>
+			<price>47.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased online. Part of buy two get one free deal. Saved $12 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2596">
+		<title>Rise of the Tomb Raider: 20 Year Celebration Digibook Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-04</date>
+			<price>47.99</price>
+			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased online. Part of buy two get one free deal. Saved $12 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2597" electronic="true">
+		<title>Etherlords</title>
 		<system>
 			<console>PC</console>
 			<version/>
 		</system>
 		<purchase>
-			<date>2016-11-29</date>
-			<price>0.33</price>
-			<place>Bundle Stars</place>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+		<notes>Free with GOG Connect.</notes>
 	</game>
+	<game id="2598" electronic="true">
+		<title>Etherlords 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2599" electronic="true">
+		<title>Gorky 17</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2600" electronic="true">
+		<title>PixelJunk Shooter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2601" electronic="true">
+		<title>Still Life</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2602" electronic="true">
+		<title>Tropico Reloaded</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2603" electronic="true">
+		<title>Tropico 3 Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-06</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with GOG Connect.</notes>
+	</game>
+	<game id="2604" electronic="true">
+		<title>Shadow Warrior Classic Redux</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-07</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Unlocked as part of Winter Sale.</notes>
+	</game>
+	<game id="2605" electronic="true">
+		<title>Lands of Lore: The Throne of Chaos</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.44</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the LANDS OF LORE™ 1+2 bundle, which is normally$5.99 but on sale for $0.89.</notes>
+	</game>
+	<game id="2606" electronic="true">
+		<title>Lands of Lore: Guardians of Destiny</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.45</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the LANDS OF LORE™ 1+2 bundle, which is normally$5.99 but on sale for $0.89.</notes>
+	</game>
+	<game id="2607" electronic="true">
+		<title>Disciples: Sacred Lands Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but on sale.</notes>
+	</game>
+	<game id="2608" electronic="true">
+		<title>Disciples II Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but on sale. Includes the original Disciples II: Dark Prophecy and all 3 expansion packs: Guardians of The Light, Servants of The Dark and Rise of The Elves.</notes>
+	</game>
+	<game id="2609" electronic="true">
+		<title>Shadowrun: Dragonfall - Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Unlocked as part of the Winter Sale.</notes>
+	</game>
+	<game id="2610" electronic="true">
+		<title>Divinity: Original Sin - Enhanced Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but on sale.</notes>
+	</game>
+	<game id="2611" electronic="true">
+		<title>Outland</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Live.</notes>
+	</game>
+	<game id="2612" electronic="true">
+		<title>Sleeping Dogs: Definitive Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but free with Live.</notes>
+	</game>
+	<game id="2613" electronic="true">
+		<title>Invisible, Inc. Console Edition	</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Plus.</notes>
+	</game>
+	<game id="2614" electronic="true">
+		<title>Stories: The Path of Destinies</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with Plus.</notes>
+	</game>
+	<game id="2615" electronic="true">
+		<title>Tiny Troopers Joint Ops</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with Plus.</notes>
+	</game>
+	<game id="2616" electronic="true">
+		<title>Tiny Troopers Joint Ops</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with Plus.</notes>
+	</game>
+	<game id="2617" electronic="true">
+		<title>Tiny Troopers Joint Ops</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with Plus.</notes>
+	</game>
+	<game id="2618" electronic="true">
+		<title>Color Guardians</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with Plus.</notes>
+	</game>
+	<game id="2619" electronic="true">
+		<title>Color Guardians</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with Plus.</notes>
+	</game>
+	<game id="2620" electronic="true">
+		<title>Hyper Void</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="2621" electronic="true">
+		<title>VVVVVV</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-12-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with Plus.</notes>
+	</game>
+	<!--
 	-->
 	<!--
 	<game id="">

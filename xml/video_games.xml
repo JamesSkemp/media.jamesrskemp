@@ -36707,7 +36707,483 @@
 		<own>yes</own>
 		<notes>Normally $20.99 but on sale.</notes>
 	</game>
+	<game id="2561" electronic="true">
+		<title>1941 Frozen Front</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2562" electronic="true">
+		<title>Aces of the Luftwaffe</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2563" electronic="true">
+		<title>Aporkalypse</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2564" electronic="true">
+		<title>Clouds &amp; Sheep</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2565" electronic="true">
+		<title>Guns'n'Glory WW2</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2566" electronic="true">
+		<title>Rocket Island</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2567" electronic="true">
+		<title>Ninja Hero Cats</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2568" electronic="true">
+		<title>Guns'n'Glory Zombies</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2569" electronic="true">
+		<title>Stage Dive Legends</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2570" electronic="true">
+		<title>Devils &amp; Demons</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.24</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2571" electronic="true">
+		<title>Super Dynamite Fishing</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2572" electronic="true">
+		<title>Save the Puppies</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2573" electronic="true">
+		<title>1944 Burning Bridges</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2574" electronic="true">
+		<title>Cyberlords</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.22</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2575" electronic="true">
+		<title>1942 Pacific Front</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2576" electronic="true">
+		<title>Clouds &amp; Sheep 2</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2577" electronic="true">
+		<title>Townsmen</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2578" electronic="true">
+		<title>Guns'n'Glory Heroes</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2579" electronic="true">
+		<title>Dynamite Fishing - World Games</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of Humble Mobile Bundle: Handy Games.</notes>
+	</game>
+	<game id="2580" electronic="true">
+		<title>Train Simulator 2016</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2581" electronic="true">
+		<title>RollerCoaster Tycoon: Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.34</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2582" electronic="true">
+		<title>Out of the Park Baseball 17</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2583" electronic="true">
+		<title>Democracy 3 Collector's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($4.33) tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2584" electronic="true">
+		<title>Car Mechanic Simulator 2015</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($4.33) tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2585" electronic="true">
+		<title>Big Pharma</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($4.33) tier of The Humble Tycoon Simulator Bundle.</notes>
+	</game>
+	<game id="2586" electronic="true">
+		<title>RymdResa</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2587" electronic="true">
+		<title>Press X to Not Die</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2588" electronic="true">
+		<title>Blacksea Odyssey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.35</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2589" electronic="true">
+		<title>Sandbox, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2590" electronic="true">
+		<title>Asdivine Hearts</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2591" electronic="true">
+		<title>Reign of Bullets</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2592" electronic="true">
+		<title>Disposable Heroes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
+	<game id="2593" electronic="true">
+		<title>Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
 	<!--
+	<game id="259" electronic="true">
+		<title></title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-11-29</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Spectre Bundle, which was $2.66 for 10 games, but I already had two.</notes>
+	</game>
 	-->
 	<!--
 	<game id="">

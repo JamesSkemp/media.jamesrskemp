@@ -1791,7 +1791,91 @@
 			<own>yes</own>
 			<notes>Received 9/28/2016.</notes>
 		</item>
+		<item id="132">
+			<name>Wii U Fit Meter</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2016-12-10</date>
+				<price>6.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/12/2016.</notes>
+		</item>
+		<item id="133">
+			<name>Wii Balance Board</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii</version>
+			</system>
+			<purchase>
+				<date>2016-12-10</date>
+				<price>10.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/13/2016. Works with Wii U, and part of Wii Fit U w/Wii Balance Board accessory and Fit Meter bundle.</notes>
+		</item>
+		<item id="134">
+			<name>Wii U Fit Meter</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2016-12-10</date>
+				<price>4.80</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/13/2016. Part of Wii Fit U w/Wii Balance Board accessory and Fit Meter bundle.</notes>
+		</item>
+		<item id="135">
+			<name>Super Smash Bros. GameCube Adapter for Wii U</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2016-12-15</date>
+				<price>19.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/16/2016.</notes>
+		</item>
+		<!--<item id="136">
+			<name>Nintendo Super Smash Bros. White Classic GameCube Controller</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2016-12-15</date>
+				<price>26.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes></notes>
+		</item>-->
+	<!--
+		<item id="">
+			<name></name>
+			<system>
+				<console></console>
+				<version></version>
+			</system>
+			<purchase>
+				<date></date>
+				<price></price>
+				<place></place>
+			</purchase>
+			<own>yes</own>
+			<notes></notes>
+		</item>
+	-->
 	</hardware>
-<!--
--->
 </videoGames>

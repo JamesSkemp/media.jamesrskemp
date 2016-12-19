@@ -37561,6 +37561,48 @@
 		<own>yes</own>
 		<notes>Normally $7.99 but free with Plus.</notes>
 	</game>
+	<game id="2622">
+		<title>Your Shape: Fitness Evolved 2013</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2016-12-10</date>
+			<price>9.49</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/12/2016.</notes>
+	</game>
+	<game id="2623">
+		<title>Wii Fit U</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2016-12-10</date>
+			<price>10.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/13/2016. Part of Wii Fit U w/Wii Balance Board accessory and Fit Meter bundle.</notes>
+	</game>
+	<game id="2624" electronic="true">
+		<title>Lost Odyssey</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-12-14</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free due to the launch of Lost Odyssey and Blue Dragon on Live, and for play on Xbox One.</notes>
+	</game>
 	<!--
 	-->
 	<!--

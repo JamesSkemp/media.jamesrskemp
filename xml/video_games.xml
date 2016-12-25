@@ -37603,6 +37603,90 @@
 		<own>yes</own>
 		<notes>Free due to the launch of Lost Odyssey and Blue Dragon on Live, and for play on Xbox One.</notes>
 	</game>
+	<game id="2625" electronic="true">
+		<title>Minion Masters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2016-12-22</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Brian since he had an extra key.</notes>
+	</game>
+	<game id="2626" electronic="true">
+		<title>PSYCHO-PASS: Mandatory Happiness</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2016-12-22</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale as part of week 3 of Winter Sale.</notes>
+	</game>
+	<game id="2627">
+		<title>Uncharted 4: A Thief's End</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-18</date>
+			<price>23.99</price>
+			<place>Best Buy (online)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/21/2016. On sale and saved $6 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2628">
+		<title>Star Ocean: Integrity and Faithlessness</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2016-12-18</date>
+			<price>23.99</price>
+			<place>Best Buy (online)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/21/2016. On sale and saved $6 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2629" electronic="true">
+		<title>Burnout Paradise</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2016-12-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="2630" electronic="true">
+		<title>Outlast</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2016-12-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

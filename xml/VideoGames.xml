@@ -1861,6 +1861,20 @@
 			<own>yes</own>
 			<notes>Received 12/20/2016.</notes>
 		</item>
+		<item id="137">
+			<name>Wii U Pro Controller (Black, Japanese version)</name>
+			<system>
+				<console>Wii</console>
+				<version>U</version>
+			</system>
+			<purchase>
+				<date>2016-12-30</date>
+				<price>42.90</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 12/31/2016..</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

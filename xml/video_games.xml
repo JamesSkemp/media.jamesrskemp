@@ -37687,6 +37687,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="2631" electronic="true">
+		<title>Dungeon Journey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-01-01</date>
+			<price>0.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but discounted for Winter sale.</notes>
+	</game>
+	<game id="2632" electronic="true">
+		<title>Might and Magic: Clash of Heroes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-01-01</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but discounted for Winter sale.</notes>
+	</game>
+	<game id="2633" electronic="true">
+		<title>Tomb of Tyrants</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-01-01</date>
+			<price>3.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but discounted for Winter sale.</notes>
+	</game>
+	<game id="2634" electronic="true">
+		<title>Knights of Pen and Paper 2: Deluxist Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-01-01</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but discounted for Winter sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

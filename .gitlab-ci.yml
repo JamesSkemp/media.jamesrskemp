@@ -3,6 +3,8 @@ pages:
   script:
   - mkdir .public
   - cp -r * .public
+  # Use this when creating a new letsencrypt cert, this since jekyll adds .html to the file and letsencrypd does not expect a .html extension
+  - cp ./public/.well-known/acme-challenge/TUbcXH-Wo2fkEMDAs_TyeBQeX_HSIPJMBvoaJgxe7So.html ./public/.well-known/acme-challenge/TUbcXH-Wo2fkEMDAs_TyeBQeX_HSIPJMBvoaJgxe7So
   - mv .public public
   artifacts:
     paths:

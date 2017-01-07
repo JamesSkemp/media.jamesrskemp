@@ -18143,7 +18143,7 @@
 		</system>
 		<purchase>
 			<date>2014-07-29</date>
-			<price>1.99st</price>
+			<price>1.99</price>
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
@@ -37784,6 +37784,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Since April said she really like Super Mario Bros. 2, had to finally pick up. Nintendo Selects version. Was $19.99 but saved $4 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2638" electronic="true">
+		<title>World of Van Helsing: Deathtrap</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2639" electronic="true">
+		<title>Cave, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
 	<!--
 	-->

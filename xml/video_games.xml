@@ -37813,6 +37813,132 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="2640" electronic="true">
+		<title>Azkend 2: The World Beneath</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2641" electronic="true">
+		<title>Azkend 2: The World Beneath</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2642" electronic="true">
+		<title>Swindle, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2643" electronic="true">
+		<title>Swindle, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2644" electronic="true">
+		<title>Swindle, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2645" electronic="true">
+		<title>This War of Mine: The Little Ones</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2646" electronic="true">
+		<title>Titan Souls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2647" electronic="true">
+		<title>Titan Souls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2648" electronic="true">
+		<title>BlazeRush</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-01-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -1889,6 +1889,34 @@
 			<own>yes</own>
 			<notes>Received 1/3/2017. Works with Wii U, which is why I purchased it.</notes>
 		</item>
+		<item id="139">
+			<name>Wii U Fit Meter</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2017-01-15</date>
+				<price>7.09</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/17/2017. Needed a replacement for the one I lost.</notes>
+		</item>
+		<item id="139">
+			<name>Wii U Fit Meter (Green &amp; White)</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2017-01-15</date>
+				<price>5.39</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/17/2017. Bulk packaging.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

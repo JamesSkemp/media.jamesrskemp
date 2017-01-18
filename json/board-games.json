@@ -213,6 +213,22 @@
 			"notes": ""
 		},
 		{
+			"name": "Boss Monster",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "30m",
+			"notes": "Purchased 1/16/2017 from Amazon.com for $20.95."
+		},
+		{
 			"name": "Canasta Caliente",
 			"players": [
 				{
@@ -1848,6 +1864,16 @@
 			],
 			"time": "30m",
 			"notes": "Picked up new from Craigslist, as part of 6 game bundle."
+		},
+		{
+			"name": "Patchwork",
+			"players": [
+				{
+					"player": 2
+				}
+			],
+			"time": "30m",
+			"notes": "Purchased 1/16/2017 from Amazon.com for $22.50. Sounds like it might be a good two player game."
 		},
 		{
 			"name": "Pathfinder Adventure Card Game",

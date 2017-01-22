@@ -1704,6 +1704,22 @@
 			"notes": "Have Hidden Signs expansion."
 		},
 		{
+			"name": "Mystic Vale",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "45m",
+			"notes": "Free from Amazon Vine. Received 1/21/2017."
+		},
+		{
 			"name": "Nerdy Inventions",
 			"players": [
 				{

@@ -3288,6 +3288,15 @@
 				<costTotal>24.05</costTotal>
 				<notes>Has been really cold recently, and April has been starting my car early. A bit over 1/4 of a tank left.</notes>
 			</fillup>
+			<fillup id="298">
+				<date>2017-01-24</date>
+				<milesCar>63957</milesCar>
+				<milesDriven>133.8</milesDriven>
+				<gallons>7.175</gallons>
+				<costGallon>2.219</costGallon>
+				<costTotal>15.92</costTotal>
+				<notes>Almost down to half a tank. Wanted to put some in because it will be snowing 4 to 6 inches or so tomorrow.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

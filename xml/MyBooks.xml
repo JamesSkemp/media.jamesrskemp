@@ -11507,6 +11507,14 @@
 		<buy date="2016-11-15" place="StoryBundle.com" price="1.00"/>
 		<notes>Part of The Pico Game Bundle, which was 13 books and PICO-8 for $15.</notes>
 	</book>
+	<book id="1163">
+		<title>Grammar For People Who Hate Rules</title>
+		<authors>
+			<author>Kathleen A. Watson, M.S.</author>
+		</authors>
+		<buy date="2017-01-24" place="Amazon.com" price="8.95"/>
+		<notes>Received 1/27/2017.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

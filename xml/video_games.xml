@@ -37981,6 +37981,76 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="2652" electronic="true">
+		<title>Adventures of Mana</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-01-28</date>
+			<price>8.39</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend. Normally $13.99.</notes>
+	</game>
+	<game id="2653" electronic="true">
+		<title>Way of the Samurai 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-01-28</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend. Normally $19.99.</notes>
+	</game>
+	<game id="2654" electronic="true">
+		<title>Wild Arms 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-28</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend. Normally $14.99.</notes>
+	</game>
+	<game id="2655" electronic="true">
+		<title>Axiom Verge</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-28</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale this weekend. Normally $9.99.</notes>
+	</game>
+	<game id="2656" electronic="true">
+		<title>Axiom Verge</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-01-28</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with PS4 version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

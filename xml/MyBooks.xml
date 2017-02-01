@@ -11515,6 +11515,15 @@
 		<buy date="2017-01-24" place="Amazon.com" price="8.95"/>
 		<notes>Received 1/27/2017.</notes>
 	</book>
+	<book id="1164">
+		<title>Enjoy Learning Japanese Kanji: Discover their Hidden Meanings</title>
+		<authors>
+			<author>Kun Ho Park</author>
+			<author>Kyung Yong Kong</author>
+		</authors>
+		<buy date="2017-01-27" place="Amazon Vine" price="0.00"/>
+		<notes>Received 1/31/2017.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

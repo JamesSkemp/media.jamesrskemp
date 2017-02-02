@@ -38121,6 +38121,34 @@
 		<own>yes</own>
 		<notes>Don't own the base game, but grabbing the DLC in case it's a limited time offer.</notes>
 	</game>
+	<game id="2662">
+		<title>Ryu ga Gotoku: Kiwami (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-30</date>
+			<price>49.36</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/1/2017.</notes>
+	</game>
+	<game id="2663">
+		<title>Sengoku Basara Yukimura Sanada Den (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-01-30</date>
+			<price>24.96</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/1/2017. Relatively cheap, and seemingly pretty straight forward.</notes>
+	</game>
 	<!--
 	-->
 	<!--

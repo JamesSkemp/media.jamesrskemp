@@ -38191,6 +38191,132 @@
 		<own>yes</own>
 		<notes>Normally $.99, but free with Gold.</notes>
 	</game>
+	<game id="2667" electronic="true">
+		<title>LittleBigPlanet 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2668" electronic="true">
+		<title>Not A Hero</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2669" electronic="true">
+		<title>Anna - Extended Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2670" electronic="true">
+		<title>Starwhal</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2671" electronic="true">
+		<title>Starwhal</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2672" electronic="true">
+		<title>Ninja Senki DX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2673" electronic="true">
+		<title>Ninja Senki DX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2674" electronic="true">
+		<title>TorqueL</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2675" electronic="true">
+		<title>TorqueL</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

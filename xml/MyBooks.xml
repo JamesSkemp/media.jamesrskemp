@@ -11524,10 +11524,20 @@
 		<buy date="2017-01-27" place="Amazon Vine" price="0.00"/>
 		<notes>Received 1/31/2017.</notes>
 	</book>
+	<book id="1165">
+		<title>Learning Japanese Hiragana and Katakana: A Workbook for Self-Study</title>
+		<buy date="2017-02-10" place="Amazon.com" price="9.42"/>
+		<notes>Received 2/12/2017.</notes>
+	</book>
+	<book id="1166">
+		<title>Japanese Hiragana &amp; Katakana for Beginners</title>
+		<buy date="2017-02-10" place="Amazon.com" price="12.53"/>
+		<notes>Received 2/12/2017.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>
-		<buy date="2016-07-" place="" price=""/>
+		<buy date="2017-02-" place="" price=""/>
 		<notes></notes>
 	</book>
 	-->

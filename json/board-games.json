@@ -1622,6 +1622,22 @@
 			"notes": ""
 		},
 		{
+			"name": "Monarch",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "45m",
+			"notes": "Ordered 2/10/2017 from Amazon.com for $29.00. Received 2/12/2017."
+		},
+		{
 			"name": "Monster Factory",
 			"players": [
 				{

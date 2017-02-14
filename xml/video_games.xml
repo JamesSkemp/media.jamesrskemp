@@ -38317,6 +38317,314 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2676" electronic="true">
+		<title>PAC-MAN 256</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2677" electronic="true">
+		<title>Ace Combat Assault Horizon Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2678" electronic="true">
+		<title>Tales of Zestiria</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>2.58</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2679" electronic="true" addOn="true">
+		<title>Project CARS On-Demand Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>2.57</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2680" electronic="true">
+		<title>Warhammer 40,000: Eternal Crusade</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2681" electronic="true">
+		<title>Project CARS</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2682" electronic="true">
+		<title>NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2683" electronic="true">
+		<title>Attractio</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2.</notes>
+	</game>
+	<game id="2684" electronic="true">
+		<title>ARCADE GAME SERIES: DIG DUG</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2, and ARCADE GAME SERIES 3-in-1 Pack.</notes>
+	</game>
+	<game id="2685" electronic="true">
+		<title>ARCADE GAME SERIES: GALAGA</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2, and ARCADE GAME SERIES 3-in-1 Pack.</notes>
+	</game>
+	<game id="2686" electronic="true">
+		<title>ARCADE GAME SERIES: PAC-MAN</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>1.77</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the beat the average ($9.85) tier of the Humble BANDAI NAMCO Bundle 2, and ARCADE GAME SERIES 3-in-1 Pack.</notes>
+	</game>
+	<game id="2687" electronic="true">
+		<title>12 is Better Than 6</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2688" electronic="true">
+		<title>Precursors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.34</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2689" electronic="true">
+		<title>Tricky Towers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.33</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2690" electronic="true">
+		<title>Convoy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>2.00</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $6.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2691" electronic="true">
+		<title>I am Bread</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2692" electronic="true">
+		<title>Catlateral Damage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2693" electronic="true">
+		<title>CASE: Animatronics</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2694" electronic="true">
+		<title>Grappledrome</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2695" electronic="true">
+		<title>Starward Rogue</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2696" electronic="true">
+		<title>Shu</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
+	<game id="2697" electronic="true">
+		<title>Dungelot: Shattered Lands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-02-13</date>
+			<price>0.57</price>
+			<place>Bundle Stars</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
+	</game>
 	<!--
 	-->
 	<!--

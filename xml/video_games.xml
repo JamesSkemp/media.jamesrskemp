@@ -38625,6 +38625,20 @@
 		<own>yes</own>
 		<notes>Part of the $4.99 tier of the Chaos Bundle.</notes>
 	</game>
+	<game id="2698">
+		<title>Sengoku Basara 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-01-30</date>
+			<price>21.03</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/15/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

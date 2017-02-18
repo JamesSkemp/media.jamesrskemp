@@ -3297,6 +3297,15 @@
 				<costTotal>15.92</costTotal>
 				<notes>Almost down to half a tank. Wanted to put some in because it will be snowing 4 to 6 inches or so tomorrow.</notes>
 			</fillup>
+			<fillup id="299">
+				<date>2017-02-18</date>
+				<milesCar>64146</milesCar>
+				<milesDriven>188.9</milesDriven>
+				<gallons>8.308</gallons>
+				<costGallon>2.239</costGallon>
+				<costTotal>18.60</costTotal>
+				<notes>In the 60s. Down to under a half a tank of gas.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

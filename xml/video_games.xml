@@ -38639,6 +38639,160 @@
 		<own>yes</own>
 		<notes>Japanese version. Received 2/15/2017.</notes>
 	</game>
+	<game id="2699" electronic="true">
+		<title>Oddworld: New 'n' Tasty</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="2700" electronic="true">
+		<title>Oddworld: New 'n' Tasty</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="2701" electronic="true">
+		<title>Hyperdimension Neptunia U: Action Unleashed</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but flash sale.</notes>
+	</game>
+	<game id="2702" electronic="true">
+		<title>La-Mulana EX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but flash sale.</notes>
+	</game>
+	<game id="2703" electronic="true">
+		<title>Of Orcs and Men</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but flash sale.</notes>
+	</game>
+	<game id="2704" electronic="true">
+		<title>Realms of Ancient War</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but flash sale.</notes>
+	</game>
+	<game id="2705" electronic="true">
+		<title>Sky Force Anniversary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but flash sale. Included Vita, PS3, and PS4 versions.</notes>
+	</game>
+	<game id="2706" electronic="true">
+		<title>Sky Force Anniversary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but flash sale. Included Vita, PS3, and PS4 versions.</notes>
+	</game>
+	<game id="2707" electronic="true">
+		<title>Sky Force Anniversary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but flash sale. Included Vita, PS3, and PS4 versions.</notes>
+	</game>
+	<game id="2708" electronic="true">
+		<title>Three Fourths Home: Extended Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>1.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99 but flash sale.</notes>
+	</game>
+	<game id="2709" electronic="true">
+		<title>Three Fourths Home: Extended Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99 but flash sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

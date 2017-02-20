@@ -38793,6 +38793,20 @@
 		<own>yes</own>
 		<notes>Normally $4.99 but flash sale.</notes>
 	</game>
+	<game id="2710">
+		<title>Ryu ga Gotoku Zero</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-16</date>
+			<price>53.31</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/20/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

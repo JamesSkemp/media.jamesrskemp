@@ -1986,6 +1986,28 @@
 			"notes": ""
 		},
 		{
+			"name": "Quests of Valeria",
+			"players": [
+				{
+					"player": 1
+				},
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				}
+			],
+			"time": "45m",
+			"notes": "Kickstarter Edition. Received 2/22/2017."
+		},
+		{
 			"name": "Race For the Galaxy",
 			"players": [
 				{

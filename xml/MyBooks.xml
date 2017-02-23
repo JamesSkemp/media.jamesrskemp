@@ -11534,6 +11534,14 @@
 		<buy date="2017-02-10" place="Amazon.com" price="12.53"/>
 		<notes>Received 2/12/2017.</notes>
 	</book>
+	<book id="1167">
+		<title>Art of Game Design, The: A Book of Lenses: Second Edition</title>
+		<authors>
+			<author>Jesse Schell</author>
+		</authors>
+		<buy date="2017-02-20" place="Amazon.com" price="44.53"/>
+		<notes>Received 2/22/2017.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

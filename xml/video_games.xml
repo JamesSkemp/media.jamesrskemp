@@ -38835,6 +38835,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Gold.</notes>
 	</game>
+	<game id="2713" electronic="true">
+		<title>Blue Dragon</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-02-22</date>
+			<price>9.99</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale with Deals with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

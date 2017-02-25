@@ -38849,6 +38849,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but on sale with Deals with Gold.</notes>
 	</game>
+	<game id="2714" electronic="true">
+		<title>Witcher 3, The: Wild Hunt - Complete Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>24.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale as part of Critics' Choice sale.</notes>
+	</game>
+	<game id="2715" electronic="true">
+		<title>Batman: Return to Arkham - Arkham Asylum</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>In bundle which was normally $49.99, but on sale for $29.99 as part of Critics' Choice sale.</notes>
+	</game>
+	<game id="2716" electronic="true">
+		<title>Batman: Return to Arkham - Arkham City</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>15.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>In bundle which was normally $49.99, but on sale for $29.99 as part of Critics' Choice sale.</notes>
+	</game>
+	<game id="2717" electronic="true">
+		<title>Metal Gear Solid V: The Definitive Experience</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>24.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale as part of Critics' Choice sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

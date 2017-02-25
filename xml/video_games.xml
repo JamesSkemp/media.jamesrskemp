@@ -38905,6 +38905,20 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but on sale as part of Critics' Choice sale.</notes>
 	</game>
+	<game id="2718" electronic="true" addOn="true">
+		<title>Yakuza: Dead Souls - The Densetsu Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for some reason, and may have always been.</notes>
+	</game>
 	<!--
 	-->
 	<!--

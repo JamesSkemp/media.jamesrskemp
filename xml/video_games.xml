@@ -38919,6 +38919,48 @@
 		<own>yes</own>
 		<notes>Free for some reason, and may have always been.</notes>
 	</game>
+	<game id="2719" electronic="true">
+		<title>Citizens of Earth</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-26</date>
+			<price>4.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
+	<game id="2720" electronic="true">
+		<title>Lost Dimension</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-26</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but on sale.</notes>
+	</game>
+	<game id="2721" electronic="true">
+		<title>AeternoBlade</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-26</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

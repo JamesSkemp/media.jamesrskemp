@@ -936,6 +936,16 @@
 			"notes": ""
 		},
 		{
+			"name": "Four Tribes: Second Edition",
+			"players": [
+				{
+					"player": 2
+				}
+			],
+			"time": "30m",
+			"notes": "Paid $20.91 on 1/24/2017 from The Game Crafter. Received 2/27/2017."
+		},
+		{
 			"name": "Fury of Dracula",
 			"players": [
 				{
@@ -1961,6 +1971,22 @@
 			],
 			"time": "30 to 60m",
 			"notes": ""
+		},
+		{
+			"name": "Plague",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "20m",
+			"notes": "Paid $14.69 on 1/24/2017 from The Game Crafter as part of Four Tribes second edition printing. Received 2/27/2017."
 		},
 		{
 			"name": "Pod-X",

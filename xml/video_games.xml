@@ -38961,6 +38961,34 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but on sale.</notes>
 	</game>
+	<game id="2722">
+		<title>Zero Time Dilemma</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>18.93</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 2/27/2017.</notes>
+	</game>
+	<game id="2723">
+		<title>Steins;Gate 0</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-02-25</date>
+			<price>25.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 2/27/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

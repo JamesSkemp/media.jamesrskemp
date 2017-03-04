@@ -1333,6 +1333,25 @@
 			"notes": ""
 		},
 		{
+			"name": "Ktizo",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				}
+			],
+			"time": "30m",
+			"notes": "Backed on Kickstarter for $20 in July 2016, and finally received 3/3/2017."
+		},
+		{
 			"name": "Labyrinth",
 			"players": [
 				{

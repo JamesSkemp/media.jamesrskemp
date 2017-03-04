@@ -39017,6 +39017,20 @@
 		<own>yes</own>
 		<notes>Free today, but possibly has been free, or is for a period of time?</notes>
 	</game>
+	<game id="2726">
+		<title>Ryu ga Gotoku Ishin! (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-02-16</date>
+			<price>47.79</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/4/2017 from Japan. Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

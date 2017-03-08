@@ -39015,7 +39015,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Free today, but possibly has been free, or is for a period of time?</notes>
+		<notes>Free for the month of March.</notes>
 	</game>
 	<game id="2726">
 		<title>Ryu ga Gotoku Ishin! (Japanese)</title>
@@ -39044,6 +39044,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Day One Edition. Received on release date, 3/7/2017.</notes>
+	</game>
+	<game id="2728" electronic="true">
+		<title>A King's Tale: Final Fantasy XV</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-03-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for the month of March.</notes>
+	</game>
+	<game id="2729" electronic="true">
+		<title>Layers of Fear</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-03-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Gold.</notes>
+	</game>
+	<game id="2730" electronic="true">
+		<title>Borderlands 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-03-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Gold.</notes>
 	</game>
 	<!--
 	-->

@@ -39185,6 +39185,160 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2738" electronic="true">
+		<title>Epic War TD 2</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2739" electronic="true">
+		<title>MechCom 1</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2740" electronic="true">
+		<title>MechCom 2</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2741" electronic="true">
+		<title>Age of Civilizations</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2742" electronic="true">
+		<title>Anomaly Defenders</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2743" electronic="true">
+		<title>Anomaly 2</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2744" electronic="true">
+		<title>Kingdom Rush Origins</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2745" electronic="true">
+		<title>Kingdom Rush Frontiers</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2746" electronic="true">
+		<title>Hero Generations</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>0.40</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $3 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
+	<game id="2747" electronic="true">
+		<title>Guild of Dungeoneering</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of the Humble Mobile Bundle: Best of Strategy. Game I was most interested in getting.</notes>
+	</game>
+	<game id="2748" electronic="true">
+		<title>Worms 4</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-03-13</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $5 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
+	</game>
 	<!--
 	-->
 	<!--

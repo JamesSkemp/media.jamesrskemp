@@ -3306,6 +3306,15 @@
 				<costTotal>18.60</costTotal>
 				<notes>In the 60s. Down to under a half a tank of gas.</notes>
 			</fillup>
+			<fillup id="300">
+				<date>2017-03-21</date>
+				<milesCar>64397</milesCar>
+				<milesDriven>251.2</milesDriven>
+				<gallons>11.983</gallons>
+				<costGallon>2.139</costGallon>
+				<costTotal>25.63</costTotal>
+				<notes>Almost in the red.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

@@ -39395,6 +39395,34 @@
 		<own>yes</own>
 		<notes>Effectively free since I got $15 back from spending money last month.</notes>
 	</game>
+	<game id="2753" electronic="true">
+		<title>Croixleur Sigma</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes PS4 and Vita versions.</notes>
+	</game>
+	<game id="2754" electronic="true">
+		<title>Croixleur Sigma</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes PS4 and Vita versions.</notes>
+	</game>
 	<!--
 	-->
 	<!--

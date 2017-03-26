@@ -39339,6 +39339,62 @@
 		<own>yes</own>
 		<notes>Part of the $5 tier of the Humble Mobile Bundle: Best of Strategy.</notes>
 	</game>
+	<game id="2749" electronic="true">
+		<title>Heavy Weapon</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Gold.</notes>
+	</game>
+	<game id="2750" electronic="true">
+		<title>Final Fight: Double Impact</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but flash sale. Includes two games.</notes>
+	</game>
+	<game id="2751" electronic="true">
+		<title>Capcom Classics Collection Reloaded</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but flash sale.</notes>
+	</game>
+	<game id="2752" electronic="true">
+		<title>Phantom Breaker Battlegrounds Overdrive</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Effectively free since I got $15 back from spending money last month.</notes>
+	</game>
 	<!--
 	-->
 	<!--

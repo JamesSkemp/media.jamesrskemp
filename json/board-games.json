@@ -1816,7 +1816,7 @@
 				}
 			],
 			"time": "45m",
-			"notes": "Free from Amazon Vine. Received 1/21/2017."
+			"notes": "Free from Amazon Vine. Received 1/21/2017. Purchased Vale of Magic expansion from Amazon."
 		},
 		{
 			"name": "Nerdy Inventions",
@@ -2161,6 +2161,25 @@
 			],
 			"time": "",
 			"notes": "Base, Rook City, and Infernal Relics"
+		},
+		{
+			"name": "Sheigo, Keito, Memory Discs, Turnover, Switch 'N Win",
+			"players": [
+				{
+					"player": 1
+				},
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "",
+			"notes": "Purchased from Just Between Friends 3/25/2017 for $3."
 		},
 		{
 			"name": "Siege of Sunfall",

@@ -39423,6 +39423,20 @@
 		<own>yes</own>
 		<notes>Includes PS4 and Vita versions.</notes>
 	</game>
+	<game id="2755">
+		<title>Kingdom Hearts HD 2.8: Final Chapter Prologue</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-03-26</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/28/2017. Part of bundle to save more money.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -5933,7 +5933,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Was $9.99, but PlayStaiton Plus members save 50%. Started 8/2, finished story 8/4, and 100% on 8/5. A lot of fun.</notes>
+		<notes>Was $9.99, but PlayStation Plus members save 50%. Started 8/2, finished story 8/4, and 100% on 8/5. A lot of fun.</notes>
 	</game>
 	<game id="392" used="true" beat="true">
 		<title>Terminator Salvation</title>
@@ -39450,6 +39450,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 4/3/2017, but was supposed to receive on Friday. Part of bundle to save more money. Used some of $20 GC to pay.</notes>
+	</game>
+	<game id="2757">
+		<title>Persona 5</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-03-17</date>
+			<price>47.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/4/2017. SteelBook edition. Saved $12 for pre-ordering and having Prime.</notes>
 	</game>
 	<!--
 	-->

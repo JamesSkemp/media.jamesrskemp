@@ -39678,6 +39678,20 @@
 		<own>yes</own>
 		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
 	</game>
+	<game id="2774">
+		<title>Exist Archive: The Other Side of the Sky</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-06</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/7/2017. On sale for $40 off. tri-Ace played a part, and it sounds like it's relatively easy, but enjoyable.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

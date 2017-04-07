@@ -39465,8 +39465,219 @@
 		<own>yes</own>
 		<notes>Received 4/4/2017. SteelBook edition. Saved $12 for pre-ordering and having Prime.</notes>
 	</game>
+	<game id="2758" electronic="true">
+		<title>Book of Unwritten Tales 2, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2759" electronic="true">
+		<title>Red Faction</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2760" electronic="true">
+		<title>Super Dungeon Bros.</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2761" electronic="true">
+		<title>Deponia</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2762" electronic="true">
+		<title>Battle Worlds Kronos</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>2.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $12/bta tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2763" electronic="true">
+		<title>Destroy All Humans!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>2.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $12/bta tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2764" electronic="true">
+		<title>Destroy All Humans! 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>2.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $12/bta tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2765" electronic="true">
+		<title>Legend of Kay Anniversary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>2.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $12/bta tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2766" electronic="true">
+		<title>Legend of Kay Anniversary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>2.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $12/bta tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2767" electronic="true">
+		<title>MX vs. ATV Supercross</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2768" electronic="true">
+		<title>Darksiders</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2769" electronic="true">
+		<title>Darksiders II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
 	<!--
+ (PS4),  (PS4),  (PS4)
 	-->
+	<game id="2770" electronic="true">
+		<title>MX vs. ATV Supercross Encore</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2771" electronic="true">
+		<title>Darksiders Warmastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
+	<game id="2772" electronic="true">
+		<title>Darksiders II: Deathinitive Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-07</date>
+			<price>0.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

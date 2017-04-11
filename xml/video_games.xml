@@ -39633,9 +39633,6 @@
 		<own>yes</own>
 		<notes>Part of the $15 tier of the Humble THQ Nordic PlayStation Bundle.</notes>
 	</game>
-	<!--
- (PS4),  (PS4),  (PS4)
-	-->
 	<game id="2770" electronic="true">
 		<title>MX vs. ATV Supercross Encore</title>
 		<system>
@@ -39692,6 +39689,36 @@
 		<own>yes</own>
 		<notes>Received 4/7/2017. On sale for $40 off. tri-Ace played a part, and it sounds like it's relatively easy, but enjoyable.</notes>
 	</game>
+	<game id="2775" electronic="true">
+		<title>Ryse: Son of Rome</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-04-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2776" electronic="true">
+		<title>Darksiders</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-04-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<!--
+	-->
 	<!--
 	<game id="">
 		<title></title>

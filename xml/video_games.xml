@@ -39731,6 +39731,104 @@
 		<own>yes</own>
 		<notes>Normally $29.99 but part of a Flash sale this weekend. Includes both Harry Potter: Years 1-4 and Years 5-7.</notes>
 	</game>
+	<game id="2778" electronic="true">
+		<title>Lovers in a Dangerous Spacetime</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2779" electronic="true">
+		<title>Curses 'N Chaos</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2780" electronic="true">
+		<title>10 Second Ninja X</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2781" electronic="true">
+		<title>Alien Rage</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2782" electronic="true">
+		<title>inviZimals: The Lost Kingdom</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2783" electronic="true">
+		<title>10 Second Ninja X</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2784" electronic="true">
+		<title>Curses 'N Chaos</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-04-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

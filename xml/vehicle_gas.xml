@@ -3315,6 +3315,15 @@
 				<costTotal>25.63</costTotal>
 				<notes>Almost in the red.</notes>
 			</fillup>
+			<fillup id="301">
+				<date>2017-05-01</date>
+				<milesCar>64638</milesCar>
+				<milesDriven>241.0</milesDriven>
+				<gallons>11.567</gallons>
+				<costGallon>2.239</costGallon>
+				<costTotal>25.90</costTotal>
+				<notes>Little less than a quarter of a tank left.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

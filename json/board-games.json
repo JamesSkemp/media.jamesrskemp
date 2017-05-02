@@ -671,6 +671,28 @@
 			"notes": ""
 		},
 		{
+			"name": "Drakon",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				},
+				{
+					"player": 6
+				}
+			],
+			"time": "20 to 60m",
+			"notes": "Purchased from Amazon.com 4/30/2017 for $22.32. Received 5/20/2017."
+		},
+		{
 			"name": "Dungeon of Fortune",
 			"players": [
 				{

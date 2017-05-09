@@ -39857,6 +39857,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but free with Gold.</notes>
 	</game>
+	<game id="2787" electronic="true">
+		<title>Atelier Sophie ~The Alchemist of the Mysterious Book~</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-05-08</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale as part of Golden Week Sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

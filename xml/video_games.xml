@@ -39899,6 +39899,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Games with Gold.</notes>
 	</game>
+	<game id="2790" electronic="true">
+		<title>Hidden Folks</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-05-13</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Playable on Mac as well. Purchased since it was on a list of top 5 highest rated games, and it looks really nice.</notes>
+	</game>
 	<!--
 	-->
 	<!--

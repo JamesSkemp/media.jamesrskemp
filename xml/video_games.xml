@@ -39927,6 +39927,104 @@
 		<own>yes</own>
 		<notes>Picked up from West Madison location (technically ordered 5/14). Used Gift Card so it was 'free.'</notes>
 	</game>
+	<game id="2792" electronic="true">
+		<title>Puzzle Quest: Challenge of the Warlords</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>2.49</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, along with other backwards compatible games.</notes>
+	</game>
+	<game id="2793" electronic="true">
+		<title>Puzzle Quest 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>3.74</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, along with other backwards compatible games.</notes>
+	</game>
+	<game id="2794" electronic="true">
+		<title>Might &amp; Magic Clash of Heroes</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>3.74</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, along with other backwards compatible games.</notes>
+	</game>
+	<game id="2795" electronic="true">
+		<title>Torchlight</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>3.74</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, along with other backwards compatible games.</notes>
+	</game>
+	<game id="2796" electronic="true">
+		<title>Lara Croft and the Temple of Osiris</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Games with Gold.</notes>
+	</game>
+	<game id="2797" electronic="true">
+		<title>Lego Star Wars: The Complete Saga</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Games with Gold.</notes>
+	</game>
+	<game id="2798" electronic="true">
+		<title>Witcher 2, The: Assassins of Kings Enhanced Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>4.99</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale, along with other backwards compatible games.</notes>
+	</game>
 	<!--
 	-->
 	<!--

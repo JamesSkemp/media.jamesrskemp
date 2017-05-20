@@ -40039,6 +40039,104 @@
 		<own>yes</own>
 		<notes>On sale, along with other backwards compatible games.</notes>
 	</game>
+	<game id="2800" electronic="true">
+		<title>Abzu</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2801" electronic="true">
+		<title>Laser Disco Defenders</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2802" electronic="true">
+		<title>Laser Disco Defenders</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2803" electronic="true">
+		<title>Type:Rider</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2804" electronic="true">
+		<title>Type:Rider</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2805" electronic="true">
+		<title>Blood Knights</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2806" electronic="true">
+		<title>Port Royale 3 Pirates &amp; Merchants</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-05-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

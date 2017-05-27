@@ -40137,6 +40137,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2807" electronic="true">
+		<title>Bloodborne: Complete Edition Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-26</date>
+			<price>17.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99, but on sale. Heard the DLC, which is $19.99, is worth the price.</notes>
+	</game>
+	<game id="2808" electronic="true">
+		<title>Saints Row IV: Re-Elected</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-26</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Already played it twice, but might as well have another copy to play at this price.</notes>
+	</game>
 	<!--
 	-->
 	<!--

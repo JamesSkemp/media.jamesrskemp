@@ -135,6 +135,22 @@
 			"notes": ""
 		},
 		{
+			"name": "Battlecruisers",
+			"players": [
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				}
+			],
+			"time": "20m",
+			"notes": "Purchased 5/30/2017 for $17.22 from Amazon.com."
+		},
+		{
 			"name": "Battletech: Introductory Box Set",
 			"players": [
 				{
@@ -741,10 +757,13 @@
 				},
 				{
 					"player": 4
+				},
+				{
+					"player": 5
 				}
 			],
 			"time": "45m",
-			"notes": "Have Exotica expansion."
+			"notes": "Have Exotica and Escalation (5/30/2017 from Amazon for $15.94) expansions."
 		},
 		{
 			"name": "Eminent Domain Microcosm",

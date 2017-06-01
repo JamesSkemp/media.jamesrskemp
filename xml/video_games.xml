@@ -40165,6 +40165,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale. Already played it twice, but might as well have another copy to play at this price.</notes>
 	</game>
+	<game id="2809" electronic="true">
+		<title>Breath of Fire III</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2017-05-31</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but part of Capcom sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

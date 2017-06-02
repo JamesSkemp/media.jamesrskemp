@@ -471,6 +471,16 @@
 			"notes": ""
 		},
 		{
+			"name": "Coup",
+			"players": [
+				{
+					"player": "2 to 10"
+				}
+			],
+			"time": "15m",
+			"notes": "Bought 5/31/2017 from Amazon for $8.03, and Reformation expansion for $11.06."
+		},
+		{
 			"name": "Cribbage",
 			"players": [
 				{
@@ -1563,11 +1573,11 @@
 			"name": "Lords of Waterdeep",
 			"players": [
 				{
-					"player": "2 to 5"
+					"player": "2 to 6"
 				}
 			],
 			"time": "60m",
-			"notes": ""
+			"notes": "Bought Scoundrels of Skullport expansion 5/31/2017 from Amazon for $29.51."
 		},
 		{
 			"name": "Love Letter",

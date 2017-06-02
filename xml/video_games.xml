@@ -40179,6 +40179,20 @@
 		<own>yes</own>
 		<notes>Normally $9.99 but part of Capcom sale.</notes>
 	</game>
+	<game id="2810">
+		<title>PSYCHO-PASS: Mandatory Happiness - Limited Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-05-31</date>
+			<price>$39.22</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but on sale. Received 6/2/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

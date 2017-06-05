@@ -3324,6 +3324,15 @@
 				<costTotal>25.90</costTotal>
 				<notes>Little less than a quarter of a tank left.</notes>
 			</fillup>
+			<fillup id="302">
+				<date>2017-06-05</date>
+				<milesCar>64881</milesCar>
+				<milesDriven>242.7</milesDriven>
+				<gallons>11.665</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>21.80</costTotal>
+				<notes>Used $0.33 in rewards to spend only $1.869/gallon. Less than a quarter of a tank left.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

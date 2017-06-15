@@ -40249,6 +40249,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Games with Gold.</notes>
 	</game>
+	<game id="2815">
+		<title>Horizon Zero Dawn</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-06-11</date>
+			<price>31.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was $20 off, and saved $8 with Gamer's Club Unlocked. Received 6/14/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

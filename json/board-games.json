@@ -1,6 +1,25 @@
 {
 	"games": [
 		{
+			"name": "10 Minute Heist: The Wizard's Tower",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				}
+			],
+			"time": "10m",
+			"notes": "Kickstarter edition, which I pledged $16 for. Received 6/17/2017."
+		},
+		{
 			"name": "13 Dead End Drive",
 			"players": [
 				{

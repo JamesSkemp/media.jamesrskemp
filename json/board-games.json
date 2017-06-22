@@ -1781,6 +1781,16 @@
 			"notes": ""
 		},
 		{
+			"name": "Mint Works",
+			"players": [
+				{
+					"player": "1 to 4"
+				}
+			],
+			"time": "10 to 20m",
+			"notes": "Purchased 6/18/2017 from Amazon.com for $14.95. Received 6/20/2017."
+		},
+		{
 			"name": "Mission I.S.S.",
 			"players": [
 				{
@@ -1908,7 +1918,7 @@
 				}
 			],
 			"time": "45m",
-			"notes": "Free from Amazon Vine. Received 1/21/2017. Purchased Vale of Magic expansion from Amazon."
+			"notes": "Free from Amazon Vine. Received 1/21/2017. Purchased Vale of Magic expansion from Amazon. Purchased Vale of the Wild expansion 6/18/2017 from Amazon for $23.33."
 		},
 		{
 			"name": "Nerdy Inventions",
@@ -1960,6 +1970,19 @@
 			],
 			"time": "30m",
 			"notes": "Includes Kickstarter Promo Pack."
+		},
+		{
+			"name": "One Deck Dungeon",
+			"players": [
+				{
+					"player": 1
+				},
+				{
+					"player": 2
+				}
+			],
+			"time": "30m",
+			"notes": "Purchased 6/18/2017 from Amazon.com for $18.83. Received 6/20/2017."
 		},
 		{
 			"name": "One Night Ultimate Alien",
@@ -2680,6 +2703,16 @@
 			],
 			"time": "30 to 90m",
 			"notes": ""
+		},
+		{
+			"name": "Ultra-Tiny Epic Kingdoms",
+			"players": [
+				{
+					"player": "1 to 5"
+				}
+			],
+			"time": "30 to 45m",
+			"notes": "Purchased 6/18/2017 from Amazon.com for $9.90. Received 6/20/2017."
 		},
 		{
 			"name": "Uno",

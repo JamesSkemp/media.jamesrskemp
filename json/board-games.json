@@ -2773,6 +2773,22 @@
 			"notes": "Deluxe edition, with Expansion 1 and 2, and Kickstarter bonus cards."
 		},
 		{
+			"name": "Virgin Seas",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "20-40m",
+			"notes": "Have Red Beard's Booty expansion as well. Paid $18 on Kickstarter, and received 6/23/2017."
+		},
+		{
 			"name": "Warehouse 51",
 			"players": [
 				{

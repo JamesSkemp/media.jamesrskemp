@@ -3333,6 +3333,15 @@
 				<costTotal>21.80</costTotal>
 				<notes>Used $0.33 in rewards to spend only $1.869/gallon. Less than a quarter of a tank left.</notes>
 			</fillup>
+			<fillup id="303">
+				<date>2017-06-27</date>
+				<milesCar>65192</milesCar>
+				<milesDriven>311.6</milesDriven>
+				<gallons>12.137</gallons>
+				<costGallon>2.119</costGallon>
+				<costTotal>25.72</costTotal>
+				<notes>Less than a quarter of a tank left. Drove up to Milwaukee this last weekend.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

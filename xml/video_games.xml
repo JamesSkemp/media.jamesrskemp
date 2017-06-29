@@ -40530,7 +40530,7 @@
 		<notes>Free.</notes>
 	</game>
 	<game id="2835">
-		<title>Valkyria Revolution</title>
+		<title>Valkyria Revolution (Vanargand Edition)</title>
 		<system>
 			<console>PlayStation</console>
 			<version>4</version>
@@ -40542,6 +40542,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Pre-ordered and received 6/27/2017.</notes>
+	</game>
+	<game id="2836" used="true">
+		<title>Kurohyo 2: Ryu ga Gotoku Ashura hen</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2017-06-17</date>
+			<price>18.74</price>
+			<place>ebay.com (jwheadphones-jetwing)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version, complete. Received 6/28/2017. Spin-off from Yakuza series.</notes>
 	</game>
 	<!--
 	-->

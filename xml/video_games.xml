@@ -40557,6 +40557,20 @@
 		<own>yes</own>
 		<notes>Japanese version, complete. Received 6/28/2017. Spin-off from Yakuza series.</notes>
 	</game>
+	<game id="2837" electronic="true">
+		<title>Divinity: Original Sin 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-07-01</date>
+			<price>26.00</price>
+			<place>Kickstarter</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Backed on Kickstarter. Activated on Steam.</notes>
+	</game>
 	<!--
 	-->
 	<!--

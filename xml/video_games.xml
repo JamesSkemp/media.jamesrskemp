@@ -40571,6 +40571,20 @@
 		<own>yes</own>
 		<notes>Backed on Kickstarter. Activated on Steam.</notes>
 	</game>
+	<game id="2838">
+		<title>Zero Escape: The Nonary Games</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-07-01</date>
+			<price>39.97</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 7/3/2017. Includes Nine Hours, Nine Persons, Nine Doors (999) and Virtue's Last Reward.</notes>
+	</game>
 	<!--
 	-->
 	<!--

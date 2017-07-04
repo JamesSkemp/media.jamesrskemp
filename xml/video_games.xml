@@ -40585,6 +40585,62 @@
 		<own>yes</own>
 		<notes>Received 7/3/2017. Includes Nine Hours, Nine Persons, Nine Doors (999) and Virtue's Last Reward.</notes>
 	</game>
+	<game id="2839" electronic="true">
+		<title>Tabletop Simulator</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-07-04</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but part of the Summer Sale.</notes>
+	</game>
+	<game id="2840" electronic="true">
+		<title>Tales of Maj'Eyal</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-07-04</date>
+			<price>2.37</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but part of the Summer Sale.</notes>
+	</game>
+	<game id="2841" electronic="true">
+		<title>Pictopix</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-07-04</date>
+			<price>5.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but part of the Summer Sale.</notes>
+	</game>
+	<game id="2842" electronic="true" addOn="true">
+		<title>City: Skylines - Relaxation Station</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-07-04</date>
+			<price>2.67</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but part of the Summer Sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

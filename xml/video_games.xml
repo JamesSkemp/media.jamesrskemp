@@ -40669,6 +40669,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="2845">
+		<title>Berserk and the Band of the Hawk</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-07-11</date>
+			<price>34.86</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Prime Day Lightning Deal. Received 7/14/2017.</notes>
+	</game>
 	<!--
 	-->
 	<!--

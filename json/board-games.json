@@ -232,6 +232,22 @@
 			"notes": ""
 		},
 		{
+			"name": "Blood Rage",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "60 to 90m",
+			"notes": "Purchased from Amazon.com 7/15/2017 for $54.99 and received 7/16/2017."
+		},
+		{
 			"name": "Bloodsuckers",
 			"players": [
 				{
@@ -2289,6 +2305,16 @@
 			"time": "30m",
 			"notes": ""
 		},
+		{
+			"name": "Revolver: The Wild West Gunfighting Game",
+			"players": [
+				{
+					"player": 2
+				}
+			],
+			"time": "45m",
+			"notes": "Purchased from Amazon.com 7/15/2017 for $13.00 and received 7/16/2017."
+		}
 		{
 			"name": "Saboteur",
 			"players": [

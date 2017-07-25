@@ -1530,7 +1530,7 @@
 				}
 			],
 			"time": "30 to 60m",
-			"notes": "Purchased 7/1/2017 from Amazon.com for $43.49. Played 7/2/2017 with my mom and April, when I got it, and both liked it enough to play it twice. Purchased Dark City expansion 7/16/2017 from Amazon.com for $37.49 and received 7/18/2017."
+			"notes": "Purchased 7/1/2017 from Amazon.com for $43.49. Played 7/2/2017 with my mom and April, when I got it, and both liked it enough to play it twice. Purchased Dark City expansion 7/16/2017 from Amazon.com for $37.49 and received 7/18/2017. Purchased Fantastic Four expansion, which is out of print, 7/22/2017 from Amazon.com for $22.71 and received 7/23/2017. Purchased Paint the Town Red expansion 7/22/2017 from Amazon.com for $19.99 and received 7/23/2017."
 		}
 		{
 			"name": "Legendary Encounters",
@@ -1991,6 +1991,28 @@
 			"notes": ""
 		},
 		{
+			"name": "New York Slice",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				},
+				{
+					"player": 6
+				}
+			],
+			"time": "30m",
+			"notes": "Received as part of Amazon Vine program, 7/23/2017."
+		},
+		{
 			"name": "Of Dungeons Deep",
 			"players": [
 				{
@@ -2142,6 +2164,16 @@
 			],
 			"time": "30m",
 			"notes": "Picked up new from Craigslist, as part of 6 game bundle."
+		},
+		{
+			"name": "Pass the Pigs",
+			"players": [
+				{
+					"player": "2 or more"
+				}
+			],
+			"time": "",
+			"notes": "Played with Ilsa and Megan last weekend, and wanted to pick up a copy for Tiffany and us. Purchased 7/22/2017 from Amazon.com for $11.44 and received 7/23/2017."
 		},
 		{
 			"name": "Patchwork",

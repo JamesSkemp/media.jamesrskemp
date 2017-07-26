@@ -40837,6 +40837,104 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but free with Gold.</notes>
 	</game>
+	<game id="2857" electronic="true">
+		<title>That's You!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Plus.</notes>
+	</game>
+	<game id="2858" electronic="true">
+		<title>Until Dawn</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Plus.</notes>
+	</game>
+	<game id="2859" electronic="true">
+		<title>Darkstalkers Resurrection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with Plus.</notes>
+	</game>
+	<game id="2860" electronic="true">
+		<title>Element4l</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="2861" electronic="true">
+		<title>Don't Die, Mr. Robot!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99 but free with Plus.</notes>
+	</game>
+	<game id="2862" electronic="true">
+		<title>Don't Die, Mr. Robot!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99 but free with Plus.</notes>
+	</game>
+	<game id="2863" electronic="true">
+		<title>Games of Thrones - Season Pass</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-07-26</date>
+			<price>0.00</price>
+			<place>PlayStation Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes Seasons 1 through 6. Normally $19.99 but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

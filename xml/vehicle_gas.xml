@@ -3342,6 +3342,15 @@
 				<costTotal>25.72</costTotal>
 				<notes>Less than a quarter of a tank left. Drove up to Milwaukee this last weekend.</notes>
 			</fillup>
+			<fillup id="304">
+				<date>2017-08-03</date>
+				<milesCar>65425</milesCar>
+				<milesDriven>232.8</milesDriven>
+				<gallons>9.884</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>21.73</costTotal>
+				<notes>Less than a quarter tank remaining.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

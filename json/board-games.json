@@ -1105,6 +1105,22 @@
 			"notes": "Amazon Vine game."
 		},
 		{
+			"name": "Gearworld: The Borderlands",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				}
+			],
+			"time": "1 to 2h",
+			"notes": "Purchased 8/5/2017 from Amazon.com for $12.99, and received 8/7/2017. Normally $49.99."
+		}
+		{
 			"name": "Ginnykub",
 			"players": [
 				{
@@ -1530,7 +1546,7 @@
 				}
 			],
 			"time": "30 to 60m",
-			"notes": "Purchased 7/1/2017 from Amazon.com for $43.49. Played 7/2/2017 with my mom and April, when I got it, and both liked it enough to play it twice. Purchased Dark City expansion 7/16/2017 from Amazon.com for $37.49 and received 7/18/2017. Purchased Fantastic Four expansion, which is out of print, 7/22/2017 from Amazon.com for $22.71 and received 7/23/2017. Purchased Paint the Town Red expansion 7/22/2017 from Amazon.com for $19.99 and received 7/23/2017."
+			"notes": "Purchased 7/1/2017 from Amazon.com for $43.49. Played 7/2/2017 with my mom and April, when I got it, and both liked it enough to play it twice. Purchased Dark City expansion 7/16/2017 from Amazon.com for $37.49 and received 7/18/2017. Purchased Fantastic Four expansion, which is out of print, 7/22/2017 from Amazon.com for $22.71 and received 7/23/2017. Purchased Paint the Town Red expansion 7/22/2017 from Amazon.com for $19.99 and received 7/23/2017. Purchased Guardians of the Galaxy expansion 8/6/2017 from Amazon.com for $14.69 and received 8/8/2017."
 		}
 		{
 			"name": "Legendary Encounters",

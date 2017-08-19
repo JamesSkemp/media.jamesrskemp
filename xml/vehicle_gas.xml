@@ -3351,6 +3351,15 @@
 				<costTotal>21.73</costTotal>
 				<notes>Less than a quarter tank remaining.</notes>
 			</fillup>
+			<fillup id="305">
+				<date>2017-08-19</date>
+				<milesCar>65736</milesCar>
+				<milesDriven>310.6</milesDriven>
+				<gallons>11.594</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>25.50</costTotal>
+				<notes>Less than a quarter tank remaining.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

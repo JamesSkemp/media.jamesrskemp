@@ -1,6 +1,25 @@
 {
 	"games": [
 		{
+			"name": "5-Minute Dungeon",
+			"players": [
+				{
+					"player": 2
+				},
+				{
+					"player": 3
+				},
+				{
+					"player": 4
+				},
+				{
+					"player": 5
+				}
+			],
+			"time": "5m",
+			"notes": "Received as part of Amazon Vine, 8/19/2017."
+		},
+		{
 			"name": "10 Minute Heist: The Wizard's Tower",
 			"players": [
 				{

@@ -3360,6 +3360,24 @@
 				<costTotal>25.50</costTotal>
 				<notes>Less than a quarter tank remaining.</notes>
 			</fillup>
+			<fillup id="306">
+				<date>2017-08-25</date>
+				<milesCar>65850</milesCar>
+				<milesDriven>114.1</milesDriven>
+				<gallons>4.619</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>10.43</costTotal>
+				<notes>Beloit WI, before heading to Chicago.</notes>
+			</fillup>
+			<fillup id="307">
+				<date>2017-08-27</date>
+				<milesCar>66078</milesCar>
+				<milesDriven>228.1</milesDriven>
+				<gallons>8.414</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>19.01</costTotal>
+				<notes>Beloit WI, after leaving Chicago.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

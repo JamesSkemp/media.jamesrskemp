@@ -41103,6 +41103,48 @@
 		<own>yes</own>
 		<notes>Normally $6.99 but free with Plus.</notes>
 	</game>
+	<game id="2876" electronic="true">
+		<title>Moon Diver</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-08-27</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $9.99.</notes>
+	</game>
+	<game id="2877" electronic="true">
+		<title>Talisman: Digital Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-08-27</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $29.99.</notes>
+	</game>
+	<game id="2878" electronic="true">
+		<title>Talisman: Digital Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-08-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Flash sale. Normally $29.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

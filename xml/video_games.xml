@@ -41145,6 +41145,20 @@
 		<own>yes</own>
 		<notes>Flash sale. Normally $29.99.</notes>
 	</game>
+	<game id="2879">
+		<title>Yakuza Kiwami: Steelbook Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-04-12</date>
+			<price>23.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Yakuza 1 remastered. Received 8/28/2017, one day before official launch.</notes>
+	</game>
 	<!--
 	-->
 	<!--

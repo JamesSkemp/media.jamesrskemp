@@ -10012,6 +10012,30 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 8/1/2017.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>642</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Artisan Edition</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Artisan Edition</Series>
+		<Publisher>IDW</Publisher>
+		<Price>60.00</Price>
+		<BoughtAt>Indiegogo</BoughtAt>
+		<BoughtDate>2017.08.16</BoughtDate>
+		<BoughtPrice>60.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 8/28/2017. Limited Eastman signed edition.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>643</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Universe #8</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Universe</Series>
+		<Publisher>IDW</Publisher>
+		<Price>0.00</Price>
+		<BoughtAt>Indiegogo</BoughtAt>
+		<BoughtDate>2017.08.16</BoughtDate>
+		<BoughtPrice>0.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 8/28/2017. Re-cover freebie as part of the Artisan Edition purchase.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--

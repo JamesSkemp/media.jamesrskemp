@@ -264,7 +264,7 @@
 				}
 			],
 			"time": "60 to 90m",
-			"notes": "Purchased from Amazon.com 7/15/2017 for $54.99 and received 7/16/2017."
+			"notes": "Purchased from Amazon.com 7/15/2017 for $54.99 and received 7/16/2017. Purchased Mystics of Midgard expansion 9/8/2017 from Amazon.com for $19.79."
 		},
 		{
 			"name": "Bloodsuckers",
@@ -3156,6 +3156,12 @@
 			"players": "1-4",
 			"time": "30-60m",
 			"notes": "Purchased 9/3/2017 from Amazon.com for $27.75."
+		},
+		{
+			"name": "DungeonQuest: Revised Edition",
+			"players": "1-4",
+			"time": "60m",
+			"notes": "Purchased 9/8/2017 from Amazon.com for $57.95. Received 9/9/2017."
 		}
 	]
 }

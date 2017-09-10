@@ -41159,8 +41159,216 @@
 		<own>yes</own>
 		<notes>Yakuza 1 remastered. Received 8/28/2017, one day before official launch.</notes>
 	</game>
-	<!--
-	-->
+	<game id="2880" electronic="true">
+		<title>HunieCam Studio</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2881" electronic="true">
+		<title>Sakura Agent</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2882" electronic="true">
+		<title>Sakura Fantasy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2883" electronic="true">
+		<title>Sakura Beach</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2884" electronic="true">
+		<title>Sakura Beach 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2885" electronic="true">
+		<title>Sakura Angels</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2886" electronic="true">
+		<title>Sakura Spirit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.98</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2887" electronic="true">
+		<title>HuniePop</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2888" electronic="true">
+		<title>Sakura Swim Club</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2889" electronic="true">
+		<title>Sakura Nova</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2890" electronic="true">
+		<title>Sakura Space</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2891" electronic="true">
+		<title>Sakura Shrine Girls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2892" electronic="true">
+		<title>Sakura Magical Girls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2893" electronic="true">
+		<title>Sakura Santa</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>0.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($7.08) tier (7 games) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
+	<game id="2894" electronic="true">
+		<title>Sakura Dungeon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-09</date>
+			<price>2.93</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $10 tier (1 game) in the Humble Hunie Sakura Bundle.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

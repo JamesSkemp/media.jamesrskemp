@@ -41565,6 +41565,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="2909">
+		<title>Legend of Heroes, The: Trails of Cold Steel II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-09-22</date>
+			<price>19.97</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/24/2017.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

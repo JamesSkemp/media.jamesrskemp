@@ -41579,6 +41579,20 @@
 		<own>yes</own>
 		<notes>Received 9/24/2017.</notes>
 	</game>
+	<game id="2910" electronic="true">
+		<title>Minecraft for Windows 10</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-09-26</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free since I had purchased the Java/PC version back in 2010.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -3378,6 +3378,15 @@
 				<costTotal>19.01</costTotal>
 				<notes>Beloit WI, after leaving Chicago.</notes>
 			</fillup>
+			<fillup id="308">
+				<date>2017-09-29</date>
+				<milesCar>66306</milesCar>
+				<milesDriven>228.2</milesDriven>
+				<gallons>101.141</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>23.31</costTotal>
+				<notes>Less than a quarter of a tank.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

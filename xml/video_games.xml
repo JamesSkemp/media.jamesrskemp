@@ -41621,6 +41621,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Games with Gold.</notes>
 	</game>
+	<game id="2913">
+		<title>Uncharted: The Lost Legacy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-10-08</date>
+			<price>29.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/10/2017.</notes>
+	</game>
+	<game id="2914">
+		<title>Warriors Orochi 3 Hyper</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-10-08</date>
+			<price>29.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/10/2017.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

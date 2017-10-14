@@ -11550,6 +11550,11 @@
 		<buy date="2017-09-14" place="Amazon.com" price="39.99"/>
 		<notes>Received 9/16/2017. Going to be the book I read at the hospital during labor.</notes>
 	</book>
+	<book id="1169">
+		<title>Nightmares &amp; Dreamscapes (Kindle)</title>
+		<buy date="2017-10-13" place="Amazon.com" price="6.99"/>
+		<notes>Bought while waiting at the hospital, and read The Moving Finger aloud to April there and when we got home.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

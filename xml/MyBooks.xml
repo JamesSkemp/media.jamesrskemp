@@ -11555,6 +11555,14 @@
 		<buy date="2017-10-13" place="Amazon.com" price="6.99"/>
 		<notes>Bought while waiting at the hospital, and read The Moving Finger aloud to April there and when we got home.</notes>
 	</book>
+	<book id="1170">
+		<title>Pro Git</title>
+		<buy date="2017-10-12" place="Amazon.com" price="45.36"/>
+		<authors>
+			<author>Scott Chacon</author>
+		</authors>
+		<notes>While available online for free, purchased to support the author.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

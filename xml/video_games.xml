@@ -41649,6 +41649,118 @@
 		<own>yes</own>
 		<notes>Received 10/10/2017.</notes>
 	</game>
+	<game id="2915" electronic="true">
+		<title>Medal of Honor Airborne</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2916" electronic="true">
+		<title>Turing Test, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="2917" electronic="true">
+		<title>Metal Gear Solid V: The Phantom Pain</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="2918" electronic="true">
+		<title>Amnesia: Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="2919" electronic="true">
+		<title>Hue</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus.</notes>
+	</game>
+	<game id="2920" electronic="true">
+		<title>Monster Jam Battlegrounds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2921" electronic="true">
+		<title>Hustle Kings</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="2922" electronic="true">
+		<title>Hue</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

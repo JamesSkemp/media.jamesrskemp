@@ -1350,11 +1350,11 @@
 			"name": "Hero Realms",
 			"players": [
 				{
-					"player": "1 to ?"
+					"player": "1 to 6"
 				}
 			],
-			"time": "20 to 30m",
-			"notes": "Base game, 5 character packs, Kickstarter stretch goals, promo cards. Will have campaign starter deck and 2 boss decks in the future."
+			"time": "20 to 30 to 90m",
+			"notes": "Base game, 5 character packs, Kickstarter stretch goals, promo cards, The Ruin of Thandar campaign deck, and boss decks: Dragon and Lich."
 		},
 		{
 			"name": "Hoax",
@@ -2698,7 +2698,7 @@
 				}
 			],
 			"time": "30m",
-			"notes": "Have two sets plus Colony Wars expansion, and packs 1-4 of 'United' boosters."
+			"notes": "Have two sets plus Colony Wars expansion, and packs 1-4 of 'United' boosters. Also have Season 5-8 Promos (Year 2)."
 		},
 		{
 			"name": "Start Player",
@@ -3210,6 +3210,12 @@
 			"players": "",
 			"time": "",
 			"notes": "Purchased 10/6/2017 from Half Price Books #014, 626 South Whitney Way, Madison WI 53711 for $6.99."
+		},
+		{
+			"name": "Milestone Mayhem",
+			"players": "",
+			"time": "",
+			"notes": "Purchased 10/16/2017 from sitepen.com for $14.95. Was on Hacker News and looked interesting/all too close too work."
 		}
 	]
 }

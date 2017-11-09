@@ -41761,6 +41761,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Plus.</notes>
 	</game>
+	<game id="2923">
+		<title>Gears of War 4</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-11-05</date>
+			<price>20.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Best Buy had it on sale for $1 less. Received 11/9/2017.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -11548,7 +11548,7 @@
 	<book id="1168">
 		<title>Empires of EVE: A History of the Great Wars of EVE Online</title>
 		<buy date="2017-09-14" place="Amazon.com" price="39.99"/>
-		<notes>Received 9/16/2017. Going to be the book I read at the hospital during labor.</notes>
+		<notes>Received 9/16/2017. Going to be the book I read at the hospital during labor. Didn't really read at the hospital. Finished 11/10/2017.</notes>
 	</book>
 	<book id="1169">
 		<title>Nightmares &amp; Dreamscapes (Kindle)</title>
@@ -11562,6 +11562,11 @@
 			<author>Scott Chacon</author>
 		</authors>
 		<notes>While available online for free, purchased to support the author.</notes>
+	</book>
+	<book id="1171">
+		<title>Ghost in the Shell README: 1995-2017</title>
+		<buy date="2017-10-27" place="Amazon Vine" price="0.00"/>
+		<notes/>
 	</book>
 	<!--
 	<book id="">

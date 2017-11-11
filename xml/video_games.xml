@@ -41775,6 +41775,146 @@
 		<own>yes</own>
 		<notes>Best Buy had it on sale for $1 less. Received 11/9/2017.</notes>
 	</game>
+	<game id="2924" electronic="true">
+		<title>Trackmania Turbo</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but free with Gold.</notes>
+	</game>
+	<game id="2925" electronic="true">
+		<title>NiGHTS into dreams...</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Gold.</notes>
+	</game>
+	<game id="2926" electronic="true">
+		<title>Grey Goo Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2927" electronic="true">
+		<title>Epistory - Typing Chronicles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2928" electronic="true">
+		<title>Oddworld New 'n' Tasty</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2929" electronic="true">
+		<title>Prototype 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2930" electronic="true">
+		<title>Kingdom: New Lands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>1.02</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2931" electronic="true">
+		<title>How to Survive 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2932" electronic="true">
+		<title>Bard's Tale, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
+	<game id="2933" electronic="true">
+		<title>Tormentor X Punisher</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-11</date>
+			<price>0.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

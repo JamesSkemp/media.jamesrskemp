@@ -42153,6 +42153,118 @@
 		<own>yes</own>
 		<notes>Bundle of Extended Edition plus Deluxe Edition upgrade, which is normally $23.98, but holiday sale.</notes>
 	</game>
+	<game id="2951" electronic="true">
+		<title>Bound</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2952" electronic="true">
+		<title>Until Dawn: Rush of Blood</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>VR game. Normally $19.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2953" electronic="true">
+		<title>Worms Battlegrounds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2954" electronic="true">
+		<title>Dungeon Punks</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2955" electronic="true">
+		<title>Dungeon Punks</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2956" electronic="true">
+		<title>R-Type Dimensions</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2957" electronic="true">
+		<title>Broken Sword 5 The Serpent's Curse: Episode 1</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $16.99 but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2958" electronic="true">
+		<title>Broken Sword 5 The Serpent's Curse: Episode 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $16.99 but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

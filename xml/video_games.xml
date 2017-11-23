@@ -42055,6 +42055,104 @@
 		<own>yes</own>
 		<notes>Normally free.</notes>
 	</game>
+	<game id="2944" electronic="true">
+		<title>MDK</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-21</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday give away.</notes>
+	</game>
+	<game id="2945" electronic="true">
+		<title>Brutal Legend</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-21</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free as part of holiday sale.</notes>
+	</game>
+	<game id="2946" electronic="true">
+		<title>Killer is Dead</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-16</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free as part of holiday sale.</notes>
+	</game>
+	<game id="2947" electronic="true">
+		<title>Ember</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but holiday sale.</notes>
+	</game>
+	<game id="2948" electronic="true">
+		<title>Ara Fell</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but holiday sale.</notes>
+	</game>
+	<game id="2949" electronic="true">
+		<title>Bastard Bonds</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>5.43</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $15.99, but holiday sale.</notes>
+	</game>
+	<game id="2950" electronic="true">
+		<title>Shadowrun: Hong Kong - Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>3.98</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundle of Extended Edition plus Deluxe Edition upgrade, which is normally $23.98, but holiday sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

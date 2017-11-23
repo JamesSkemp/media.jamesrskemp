@@ -41915,6 +41915,146 @@
 		<own>yes</own>
 		<notes>Part of the BTA tier of the Humble Jumbo Bundle 10.</notes>
 	</game>
+	<game id="2934" electronic="true">
+		<title>Might and Magic 7: For Blood and Honor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.89</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2935" electronic="true">
+		<title>Might and Magic 8: Day of the Destroyer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.89</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2936" electronic="true">
+		<title>Might and Magic 9</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.89</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2937" electronic="true">
+		<title>Ultima 1+2+3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2938" electronic="true">
+		<title>SimCity 3000 Unlimited</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2939" electronic="true">
+		<title>Challenge of the Five Realms</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2940" electronic="true">
+		<title>Ultima Underworld 1+2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2941" electronic="true">
+		<title>Ultima 9: Ascension</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>1.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but Thanksgiving sale.</notes>
+	</game>
+	<game id="2942" electronic="true">
+		<title>Worlds of Ultima: The Savage Empire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally free.</notes>
+	</game>
+	<game id="2943" electronic="true">
+		<title>Ultima Worlds of Adventure 2: Martian Dreams</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally free.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

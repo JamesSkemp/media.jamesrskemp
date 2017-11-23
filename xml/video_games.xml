@@ -42265,6 +42265,34 @@
 		<own>yes</own>
 		<notes>Normally $16.99 but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2959" electronic="true">
+		<title>Tales from the Borderlands Complete Season (Episodes 1-5)</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="2960" electronic="true">
+		<title>Deadfall Adventures</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-11-23</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Gold.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

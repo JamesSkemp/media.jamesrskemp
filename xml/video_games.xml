@@ -42293,6 +42293,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Gold.</notes>
 	</game>
+	<game id="2961" electronic="true">
+		<title>Star Ocean 4: The Last Hope - Day One Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-11-30</date>
+			<price>18.89</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Saved $2.10 by purchasing close to release date, which was just the other day.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -42307,6 +42307,20 @@
 		<own>yes</own>
 		<notes>Saved $2.10 by purchasing close to release date, which was just the other day.</notes>
 	</game>
+	<game id="2962">
+		<title>Xenoblade Chronicles 2 Special Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2017-10-20</date>
+			<price>82.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Received 12/1/2017.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

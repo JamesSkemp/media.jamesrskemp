@@ -42321,6 +42321,34 @@
 		<own>yes</own>
 		<notes>Pre-ordered. Received 12/1/2017.</notes>
 	</game>
+	<game id="2963">
+		<title>Dragon's Dogma: Dark Arisen</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-03</date>
+			<price>23.99</price>
+			<place>Best Buy</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Ordered online and picked up at west Madison location. Saved $6.00 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="2964">
+		<title>Samurai Warriors: Spirit of Sanada</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-03</date>
+			<price>15.99</price>
+			<place>Best Buy</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Ordered online and picked up at west Madison location. Saved $4 with Gamers Club Unlocked.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

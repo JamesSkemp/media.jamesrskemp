@@ -10036,6 +10036,78 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 8/28/2017. Re-cover freebie as part of the Artisan Edition purchase.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>644</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 1 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.50</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>645</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 2 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.95</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>646</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 3 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.50</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>647</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 4 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.50</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>648</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 5 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.50</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>649</AutoNumber>
+		<DescriptiveName>Hellhounds: Panzer Cops 6 of 6</DescriptiveName>
+		<Series>Hellhounds: Panzer Cops</Series>
+		<Publisher>Dark Horse Comics</Publisher>
+		<Price>2.50</Price>
+		<BoughtAt>ebay (ultimateetrigan)</BoughtAt>
+		<BoughtDate>2017.12.02</BoughtDate>
+		<BoughtPrice>3.00</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--
@@ -10046,5 +10118,18 @@ Teenage Mutant Ninja Turtles Adventures Volume 14
 Teenage Mutant Ninja Turtles Classics Volume 11
 Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7
 Teenage Mutant Ninja Turtles: The Works Volume 6
+
+	<Comic>
+		<AutoNumber>6</AutoNumber>
+		<DescriptiveName></DescriptiveName>
+		<Series></Series>
+		<Publisher></Publisher>
+		<Price></Price>
+		<BoughtAt></BoughtAt>
+		<BoughtDate></BoughtDate>
+		<BoughtPrice></BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes></Notes>
+	</Comic>
 	-->
 </ArrayOfComic>

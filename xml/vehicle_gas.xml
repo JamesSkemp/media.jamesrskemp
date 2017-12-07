@@ -3382,10 +3382,19 @@
 				<date>2017-09-29</date>
 				<milesCar>66306</milesCar>
 				<milesDriven>228.2</milesDriven>
-				<gallons>101.141</gallons>
+				<gallons>10.141</gallons>
 				<costGallon>2.299</costGallon>
 				<costTotal>23.31</costTotal>
 				<notes>Less than a quarter of a tank.</notes>
+			</fillup>
+			<fillup id="309">
+				<date>2017-12-07</date>
+				<milesCar>66499</milesCar>
+				<milesDriven>193.0</milesDriven>
+				<gallons>9.305</gallons>
+				<costGallon>2.239</costGallon>
+				<costTotal>20.83</costTotal>
+				<notes>Less than half a tank. At home mostly with son.</notes>
 			</fillup>
 		</fillups>
 	</vehicle>

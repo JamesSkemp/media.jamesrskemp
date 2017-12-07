@@ -1917,6 +1917,34 @@
 			<own>yes</own>
 			<notes>Received 1/17/2017. Bulk packaging.</notes>
 		</item>
+		<item id="140">
+			<name>Steam Controller</name>
+			<system>
+				<console>PC</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2017-11-22</date>
+				<price>30.14</price>
+				<place>Steam</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale bundle. Delivered 12/7/2017.</notes>
+		</item>
+		<item id="141">
+			<name>Steam Link</name>
+			<system>
+				<console>PC</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2017-11-22</date>
+				<price>4.49</price>
+				<place>Steam</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale bundle. Delivered 12/7/2017.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

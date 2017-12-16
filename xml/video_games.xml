@@ -42489,6 +42489,118 @@
 		<own>yes</own>
 		<notes>Normally $11.99, but free with PS Plus.</notes>
 	</game>
+	<game id="2975" electronic="true">
+		<title>Castlevania: Harmony of Despair</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>3.74</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $14.99. Has been in my wishlist for a while.</notes>
+	</game>
+	<game id="2976" electronic="true">
+		<title>Suikoden IV (PS2 Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $9.99.</notes>
+	</game>
+	<game id="2977" electronic="true">
+		<title>Tokyo Twilight Ghost Hunters Daybreak: Special Gigs</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $49.99.</notes>
+	</game>
+	<game id="2978" electronic="true">
+		<title>Dark Rose Valkyrie</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $49.99.</notes>
+	</game>
+	<game id="2979" electronic="true">
+		<title>Aegis of Earth: Protonovus Assault</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $39.99.</notes>
+	</game>
+	<game id="2980" electronic="true">
+		<title>Record of Agarest War</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Part of Record of Agarest Series War Bundle which is normally $39.99.</notes>
+	</game>
+	<game id="2981" electronic="true">
+		<title>Record of Agarest War 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>4.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Part of Record of Agarest Series War Bundle which is normally $39.99.</notes>
+	</game>
+	<game id="2982" electronic="true">
+		<title>Record of Agarest War Zero</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>4.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Part of Record of Agarest Series War Bundle which is normally $39.99.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

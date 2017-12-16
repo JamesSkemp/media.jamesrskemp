@@ -42419,6 +42419,76 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="2970" electronic="true">
+		<title>Kung Fu Panda: Showdown of Legendary Legends</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PS Plus.</notes>
+	</game>
+	<game id="2971" electronic="true">
+		<title>forma.8</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PS Plus.</notes>
+	</game>
+	<game id="2972" electronic="true">
+		<title>forma.8</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PS Plus.</notes>
+	</game>
+	<game id="2973" electronic="true">
+		<title>XBlaze Lost: Memories</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PS Plus.</notes>
+	</game>
+	<game id="2974" electronic="true">
+		<title>Wanted Corp.</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2017-12-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but free with PS Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

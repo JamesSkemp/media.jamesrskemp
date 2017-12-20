@@ -42615,6 +42615,20 @@
 		<own>yes</own>
 		<notes>Normally $20.99 but week 2 of holiday sale.</notes>
 	</game>
+	<game id="2984" electronic="true">
+		<title>DEAD OR ALIVE 5 Last Round</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-20</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but week 2 of holiday sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -42601,6 +42601,20 @@
 		<own>yes</own>
 		<notes>Holiday sale. Part of Record of Agarest Series War Bundle which is normally $39.99.</notes>
 	</game>
+	<game id="2983" electronic="true">
+		<title>Star Ocean Till the End of Time</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-20</date>
+			<price>12.59</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $20.99 but week 2 of holiday sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

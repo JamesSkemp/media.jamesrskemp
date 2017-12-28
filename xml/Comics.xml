@@ -10108,13 +10108,25 @@
 		<Quantity>1</Quantity>
 		<Notes>Part of bundle of all six issues. Received 12/6/2017.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>650</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Adventures Volume 14</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Adventures</Series>
+		<Publisher>IDW</Publisher>
+		<Price>19.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2017.09.01</BoughtDate>
+		<BoughtPrice>13.38</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 12/26/2017.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--
 
   Keep an eye open for:
 Tales of the Teenage Mutant Ninja Turtles Volume 9
-Teenage Mutant Ninja Turtles Adventures Volume 14
+Teenage Mutant Ninja Turtles Adventures Volume 15
 Teenage Mutant Ninja Turtles Classics Volume 11
 Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7
 Teenage Mutant Ninja Turtles: The Works Volume 6

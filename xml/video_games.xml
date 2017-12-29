@@ -42629,6 +42629,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but week 2 of holiday sale.</notes>
 	</game>
+	<game id="2985" used="true">
+		<title>Dead or Alive 4</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2017-12-26</date>
+			<price>12.74</price>
+			<place>ebay.com (greenfoxgoods)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/29/2017.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

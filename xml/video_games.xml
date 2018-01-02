@@ -38161,7 +38161,7 @@
 			<place>Best Buy #208, 7357 W Towne Way, Madison WI 53719-1028</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Purchased online and picked up. Had gift card that I used for balance, but was on sale and had Gamers Club Unlocked discount.</notes>
+		<notes>Purchased online and picked up. Had gift card that I used for balance, but was on sale and had Gamers Club Unlocked discount. Purchased game guide 12/29/2017 from BestBuy.com for $3.99.</notes>
 	</game>
 	<game id="2665" electronic="true">
 		<title>Lovers in a Dangerous Spacetime</title>
@@ -42642,6 +42642,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 12/29/2017.</notes>
+	</game>
+	<game id="2986">
+		<title>Okami HD</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2017-12-30</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/2/2018.</notes>
 	</game>
 	<!--
 	<game id="">

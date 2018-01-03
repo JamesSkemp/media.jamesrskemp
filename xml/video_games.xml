@@ -42657,6 +42657,76 @@
 		<own>yes</own>
 		<notes>Received 1/2/2018.</notes>
 	</game>
+	<game id="2987" electronic="true">
+		<title>Myth Seekers, The: The Legacy of Vulcan</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-01-03</date>
+			<price>0.69</price>
+			<place>Indie Gala</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
+	</game>
+	<game id="2988" electronic="true">
+		<title>Tiny Tales: Heart of the Forest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-01-03</date>
+			<price>0.70</price>
+			<place>Indie Gala</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
+	</game>
+	<game id="2989" electronic="true">
+		<title>Eventide 2: The Sorcerers Mirror</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-01-03</date>
+			<price>0.70</price>
+			<place>Indie Gala</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
+	</game>
+	<game id="2990" electronic="true">
+		<title>Tibetan Quest: Beyond the World's End</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-01-03</date>
+			<price>0.70</price>
+			<place>Indie Gala</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
+	</game>
+	<game id="2991" electronic="true">
+		<title>Fairy Tale Mysteries: The Puppet Thief</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-01-03</date>
+			<price>0.70</price>
+			<place>Indie Gala</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

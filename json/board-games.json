@@ -468,44 +468,6 @@
 			"notes": ""
 		},
 		{
-			"name": "Clank",
-			"players": [
-				{
-					"player": 2
-				},
-				{
-					"player": 3
-				},
-				{
-					"player": 4
-				}
-			],
-			"time": "30 to 60m",
-			"notes": "Purchased used copy 8/19/2017 from I'm Board Games in Middleton WI for $48.44. Included Sunken Treasures expansion."
-		},
-		{
-			"name": "Clue: Supernatural",
-			"players": [
-				{
-					"player": 2
-				},
-				{
-					"player": 3
-				},
-				{
-					"player": 4
-				},
-				{
-					"player": 5
-				},
-				{
-					"player": 6
-				}
-			],
-			"time": "",
-			"notes": "Purchased 8/12/2017 from Board Game Barrister, Greenfield WI, for $40.00. Played it for the first time that night."
-		},
-		{
 			"name": "Codenames",
 			"players": [
 				{
@@ -560,16 +522,6 @@
 			],
 			"time": "60 to 120m",
 			"notes": ""
-		},
-		{
-			"name": "Coup",
-			"players": [
-				{
-					"player": "2 to 10"
-				}
-			],
-			"time": "15m",
-			"notes": "Bought 5/31/2017 from Amazon for $8.03, and Reformation expansion for $11.06."
 		},
 		{
 			"name": "Cribbage",

@@ -42727,6 +42727,76 @@
 		<own>yes</own>
 		<notes>Part of the Artifex Mundi 8 Bundle, which was $3.49 for ten games, although I owned a number already.</notes>
 	</game>
+	<game id="2992" electronic="true">
+		<title>Disgaea 5: Alliance of Vengeance</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but on sale during Winter sale.</notes>
+	</game>
+	<game id="2993" electronic="true">
+		<title>Deus Ex: Mankind Divided</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2994" electronic="true">
+		<title>PSYCHO-PASS: Mandatory Happiness</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2995" electronic="true">
+		<title>Sacred 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="2996" electronic="true">
+		<title>Book of Unwritten Tales 2, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

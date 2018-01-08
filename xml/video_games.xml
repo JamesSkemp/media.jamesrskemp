@@ -42797,6 +42797,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="2997" electronic="true">
+		<title>Incredible Adventures of Van Helsing III, The</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="2998" electronic="true">
+		<title>Tomb Raider Underworld</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-01-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -42825,6 +42825,90 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="2999" electronic="true">
+		<title>Wild Guns Reloaded</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but week five of holiday sale.</notes>
+	</game>
+	<game id="3000" electronic="true">
+		<title>DmC Devil May Cry: Definitive Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but week five of holiday sale.</notes>
+	</game>
+	<game id="3001" electronic="true">
+		<title>Momodora: Reverie Under the Moonlight</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but week five of holiday sale.</notes>
+	</game>
+	<game id="3002" electronic="true">
+		<title>Fallen Legion: Sins of an Empire</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>17.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Fallen Legion Bundle, which is normally $29.99, but week five of holiday sale.</notes>
+	</game>
+	<game id="3003" electronic="true">
+		<title>Fallen Legion: Flames of Rebellion</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Fallen Legion Bundle, which is normally $29.99, but week five of holiday sale.</notes>
+	</game>
+	<game id="3004" electronic="true">
+		<title>Fallen Legion: Flames of Rebellion</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-01-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Fallen Legion Bundle, which is normally $29.99, but week five of holiday sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

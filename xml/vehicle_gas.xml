@@ -3396,6 +3396,15 @@
 				<costTotal>20.83</costTotal>
 				<notes>Less than half a tank. At home mostly with son.</notes>
 			</fillup>
+			<fillup id="310">
+				<date>2018-01-15</date>
+				<milesCar>66715</milesCar>
+				<milesDriven>215.2</milesDriven>
+				<gallons>9.500</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>22.79</costTotal>
+				<notes>Less than quarter of a tank. First real snow today too.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

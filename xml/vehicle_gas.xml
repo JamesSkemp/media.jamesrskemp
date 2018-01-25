@@ -3405,6 +3405,15 @@
 				<costTotal>22.79</costTotal>
 				<notes>Less than quarter of a tank. First real snow today too.</notes>
 			</fillup>
+			<fillup id="311">
+				<date>2018-01-24</date>
+				<milesCar>66963</milesCar>
+				<milesDriven>248.8</milesDriven>
+				<gallons>11.108</gallons>
+				<costGallon>2.419</costGallon>
+				<costTotal>26.87</costTotal>
+				<notes>Less than quarter of a tank. Wauwatosa trip this last weekend and date night mini-golfing tonight.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

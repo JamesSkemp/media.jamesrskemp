@@ -42993,6 +42993,132 @@
 		<own>yes</own>
 		<notes>Normally $12.99, but free with Plus.</notes>
 	</game>
+	<game id="3011" electronic="true">
+		<title>Shadow Warrior</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Live.</notes>
+	</game>
+	<game id="3012" electronic="true">
+		<title>Split/Second</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Live.</notes>
+	</game>
+	<game id="3013" electronic="true">
+		<title>Knack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3014" electronic="true">
+		<title>RIME</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3015" electronic="true">
+		<title>Grand Kingdom</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3016" electronic="true">
+		<title>Grand Kingdom</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3017" electronic="true">
+		<title>Spelunker HD</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3018" electronic="true">
+		<title>Mugen Souls Z</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with PS Plus.</notes>
+	</game>
+	<game id="3019" electronic="true">
+		<title>Exile's End</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-02-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with PS Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

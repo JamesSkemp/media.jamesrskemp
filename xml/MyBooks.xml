@@ -11568,6 +11568,11 @@
 		<buy date="2017-10-27" place="Amazon Vine" price="0.00"/>
 		<notes/>
 	</book>
+	<book id="1172">
+		<title>World as Will and Representation, The: Volume 1 (The Cambridge Edition of the Works of Schopenhauer)</title>
+		<buy date="2018-02-10" place="Amazon.com" price="40.99"/>
+		<notes>Received 2/13/2018.</notes>
+	</book>
 	<!--
 	<book id="">
 		<title></title>

@@ -3414,6 +3414,15 @@
 				<costTotal>26.87</costTotal>
 				<notes>Less than quarter of a tank. Wauwatosa trip this last weekend and date night mini-golfing tonight.</notes>
 			</fillup>
+			<fillup id="312">
+				<date>2018-02-19</date>
+				<milesCar>67214</milesCar>
+				<milesDriven>250.1</milesDriven>
+				<gallons>11.808</gallons>
+				<costGallon>2.359</costGallon>
+				<costTotal>27.86</costTotal>
+				<notes>Less than quarter of a tank.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

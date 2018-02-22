@@ -43175,8 +43175,21 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Live.</notes>
 	</game>
+	<game id="3024">
+		<title>Dragon Quest Heroes 2: Explorer's Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-02-18</date>
+			<price>19.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Paid $3.99 shipping and received 2/22/2018.</notes>
+	</game>
 	<!--
-	Dragon Quest Heroes 2: Explorer Edition, 4, 2/18/2018, 19.99, 3.99 shipping
 	<game id="">
 		<title></title>
 		<system>

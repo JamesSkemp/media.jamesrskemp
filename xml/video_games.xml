@@ -43147,6 +43147,34 @@
 		<own>yes</own>
 		<notes>Picked up 2/21/2018.</notes>
 	</game>
+	<game id="3022" electronic="true">
+		<title>Assassin's Creed Chronicles: India</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-02-21</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Live.</notes>
+	</game>
+	<game id="3023" electronic="true">
+		<title>Crazy Taxi</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-02-21</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Live.</notes>
+	</game>
 	<!--
 	Dragon Quest Heroes 2: Explorer Edition, 4, 2/18/2018, 19.99, 3.99 shipping
 	<game id="">

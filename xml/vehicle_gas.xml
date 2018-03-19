@@ -3423,6 +3423,15 @@
 				<costTotal>27.86</costTotal>
 				<notes>Less than quarter of a tank.</notes>
 			</fillup>
+			<fillup id="313">
+				<date>2018-03-19</date>
+				<milesCar>67452</milesCar>
+				<milesDriven>238.1</milesDriven>
+				<gallons>10.255</gallons>
+				<costGallon>2.459</costGallon>
+				<costTotal>25.22</costTotal>
+				<notes>About a quarter of a tank.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

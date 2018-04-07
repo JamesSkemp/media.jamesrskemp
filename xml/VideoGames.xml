@@ -1945,6 +1945,20 @@
 			<own>yes</own>
 			<notes>On sale bundle. Delivered 12/7/2017.</notes>
 		</item>
+		<item id="142">
+			<name>Super NES Classic Edition</name>
+			<system>
+				<console>Super Nintendo Entertainment System (SNES)</console>
+				<version>Classic Edition</version>
+			</system>
+			<purchase>
+				<date>2018-04-06</date>
+				<price>79.99</price>
+				<place>BestBuy.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Finally in stock, and picked up same day.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

@@ -1957,7 +1957,21 @@
 				<place>BestBuy.com</place>
 			</purchase>
 			<own>yes</own>
-			<notes>Finally in stock, and picked up same day.</notes>
+			<notes>Finally in stock, and picked up same day. Bought some extension cables for $9.99 from Amazon same day.</notes>
+		</item>
+		<item id="143">
+			<name>Super NES Classic Edition Deluxe Carrying Case</name>
+			<system>
+				<console>Super Nintendo Entertainment System (SNES)</console>
+				<version>Classic Edition</version>
+			</system>
+			<purchase>
+				<date>2018-04-06</date>
+				<price>19.79</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes/>
 		</item>
 	<!--
 		<item id="">

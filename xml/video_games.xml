@@ -43378,7 +43378,7 @@
 			<version>One</version>
 		</system>
 		<purchase>
-			<date>2016-04-13</date>
+			<date>2018-04-13</date>
 			<price>0.00</price>
 			<place>Xbox Live</place>
 		</purchase>
@@ -43392,12 +43392,54 @@
 			<version>360</version>
 		</system>
 		<purchase>
-			<date>2016-04-13</date>
+			<date>2018-04-13</date>
 			<price>0.00</price>
 			<place>Xbox Live</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99 but free with Gold.</notes>
+	</game>
+	<game id="3040" electronic="true">
+		<title>Deception IV: The Nightmare Princess</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-04-13</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale.</notes>
+	</game>
+	<game id="3041" electronic="true">
+		<title>Trillion: God of Destruction</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-04-13</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3042" electronic="true">
+		<title>MegaTagmension Blanc + Neptune VS Zombies</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-04-13</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
 	</game>
 	<!--
 	<game id="">

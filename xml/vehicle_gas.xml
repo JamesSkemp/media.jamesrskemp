@@ -3432,6 +3432,15 @@
 				<costTotal>25.22</costTotal>
 				<notes>About a quarter of a tank.</notes>
 			</fillup>
+			<fillup id="314">
+				<date>2018-04-17</date>
+				<milesCar>67686</milesCar>
+				<milesDriven>233.8</milesDriven>
+				<gallons>10.423</gallons>
+				<costGallon>2.459</costGallon>
+				<costTotal>25.63</costTotal>
+				<notes>Due to machine issue, prepaid $15 on 4/15 and then finished it off two days later.</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

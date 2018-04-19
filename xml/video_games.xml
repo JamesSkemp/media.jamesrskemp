@@ -43455,6 +43455,20 @@
 		<own>yes</own>
 		<notes>Saved $18 with Prime savings. Received 4/17/2018.</notes>
 	</game>
+	<game id="3044" electronic="true">
+		<title>Satellite Reign</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2018-04-19</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free for a limited time.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

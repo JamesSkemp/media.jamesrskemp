@@ -43469,6 +43469,34 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free for a limited time.</notes>
 	</game>
+	<game id="3045" electronic="true">
+		<title>Assassin's Creed Syndicate</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Gold.</notes>
+	</game>
+	<game id="3046" electronic="true">
+		<title>Dead Space 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

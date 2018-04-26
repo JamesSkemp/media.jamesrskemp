@@ -43497,6 +43497,146 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3047" electronic="true">
+		<title>Mad Max</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but free with Plus.</notes>
+	</game>
+	<game id="3048" electronic="true">
+		<title>99Vidas</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3049" electronic="true">
+		<title>99Vidas</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3050" electronic="true">
+		<title>99Vidas</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3051" electronic="true">
+		<title>In Space We Brawl</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99 but free with Plus.</notes>
+	</game>
+	<game id="3052" electronic="true">
+		<title>In Space We Brawl</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99 but free with Plus.</notes>
+	</game>
+	<game id="3053" electronic="true">
+		<title>Toy Home</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3054" electronic="true">
+		<title>Q*Bert: Rebooted</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3055" electronic="true">
+		<title>Q*Bert: Rebooted</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
+	<game id="3056" electronic="true">
+		<title>Q*Bert: Rebooted</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-04-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

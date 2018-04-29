@@ -1,0 +1,323 @@
+digraph {
+	/*
+	On Mac, with Graphviz installed via brew, run the following:
+	dot -Tpng warriors-all-stars.dot -o warriors-all-stars.png
+	*/
+	hero_training [label="Hero Training"]
+
+	subgraph cluster_0 {
+		label = "Tamaki's Story";
+		style=filled;
+		color=lightpink;
+		node [style=filled,color=white];
+		a_throne_contested [label="A Throne Contested"]
+		the_rightful_king [label="The Rightful King"]
+		a_shocking_truth_a [label="A Shocking Truth ( A )"]
+		a_shocking_truth_b [label="A Shocking Truth ( B )"]
+		the_indifferent_prince [label="The Indifferent Prince"]
+		the_path_to_rulership [label="The Path to Rulership"]
+		truth_and_memories [label="Truth & Memories"]
+		the_monsters_identity [label="The Monster’s Identity"]
+		true_intentions [label="True Intentions"]
+		prepared_for_the_inevitable [label="Prepared for the Inevitable"]
+		the_mysterious_priestess [label="The Mysterious Priestess"]
+		facing_new_challenges [label="Facing New Challenges"]
+		the_demon_of_the_battlefield [label="The Demon of the Battlefield"]
+
+		a_throne_contested -> the_rightful_king
+		the_rightful_king -> a_shocking_truth_a
+		the_indifferent_prince -> a_shocking_truth_a
+		true_intentions -> a_shocking_truth_b [label="Stay with Tamaki"]
+		the_monsters_identity -> a_shocking_truth_b [label="Stay with Tamaki"]
+		a_throne_contested -> the_indifferent_prince
+		// A Shocking Truth -> the_path_to_rulership
+		the_indifferent_prince -> the_path_to_rulership
+		a_throne_contested -> truth_and_memories
+		truth_and_memories -> the_monsters_identity
+		// Wang Yuanji, Sophie, Oka
+		the_rightful_king -> true_intentions
+		// Wang Yuanji, Oka, Sophie
+		the_monsters_identity -> prepared_for_the_inevitable
+		// A Shocking Truth
+		truth_and_memories -> the_mysterious_priestess
+		a_throne_contested -> facing_new_challenges
+		a_throne_contested -> the_demon_of_the_battlefield [label="Clear 10 battles with Lu Bu as the leader and defeat 10,000 enemies."]
+	}
+
+	subgraph cluster_1 {
+		label = "Shiki's Story";
+		style = filled;
+		color = lightgrey;
+		node [style=filled,color=white];
+		fighting_for_ones_beliefs [label="Fighting for One’s Beliefs"]
+		a_mask_of_indifference [label="A Mask of Indifference"]
+		the_demon_leaders_plan [label="The Demon Leader’s Plan"]
+		cold_silence [label="Cold Silence"]
+		flowers_on_the_battlefield [label="Flowers on the Battlefield"]
+		monument_of_the_dawn [label="Monument of the Dawn"]
+		a_new_path_forward [label="A New Path Forward"]
+		in_desire_of_a_new_world [label="In Desire of a New World"]
+		protecting_what_matters [label="Protecting What Matters"]
+		unwavering_resolve [label="Unwavering Resolve"]
+		the_kunoichis_trials [label="The Kunoichi’s Trials"]
+		a_true_hero [label="A True Hero"]
+		operating_in_secret [label="Operating in Secret"]
+
+		fighting_for_ones_beliefs -> a_mask_of_indifference
+		a_mask_of_indifference -> the_demon_leaders_plan
+		fighting_for_ones_beliefs -> cold_silence
+		cold_silence -> flowers_on_the_battlefield
+		a_mask_of_indifference -> monument_of_the_dawn
+		cold_silence -> monument_of_the_dawn
+		monument_of_the_dawn -> a_new_path_forward
+		a_new_path_forward -> in_desire_of_a_new_world
+		flowers_on_the_battlefield -> the_kunoichis_trials
+		monument_of_the_dawn -> a_true_hero
+		monument_of_the_dawn -> operating_in_secret
+	}
+
+	subgraph cluster_2 {
+		label = "Setsuna's Story";
+		style=filled;
+		color=lightblue;
+		node [style=filled,color=white];
+		a_struggle_for_the_throne [label="A Struggle for the Throne"]
+		judgment_time [label="Judgment Time"]
+		the_benevolent_princess [label="The Benevolent Princess"]
+		untold_intentions [label="Untold Intentions"]
+		bonds_of_friendship [label="Bonds of Friendship"]
+		towards_a_better_future [label="Towards a Better Future"]
+		a_light_worth_protecting [label="A Light Worth Protecting"]
+		conflicting_ideals [label="Conflicting Ideals"]
+		the_devils_daughter_and_the_clockwork_princess [label="The Devil's Daughter & The Clockwork Princess"]
+		one_who_knows_the_truth [label="One Who Knows the Truth"]
+		the_great_devils_descent [label="The Great Devil's Descent"]
+		otherworldly_idols_1 [label="Otherworldly Idols?!"]
+		otherworldly_idols_2 [label="Otherworldly Idols!!"]
+
+		a_struggle_for_the_throne -> judgment_time
+		a_struggle_for_the_throne -> the_benevolent_princess
+		a_struggle_for_the_throne -> untold_intentions
+		a_struggle_for_the_throne -> otherworldly_idols_1
+		judgment_time -> bonds_of_friendship
+		judgment_time -> the_devils_daughter_and_the_clockwork_princess
+		the_benevolent_princess -> bonds_of_friendship
+		untold_intentions -> bonds_of_friendship
+		untold_intentions -> one_who_knows_the_truth
+		bonds_of_friendship -> towards_a_better_future
+		bonds_of_friendship -> a_light_worth_protecting
+
+		a_light_worth_protecting
+		the_devils_daughter_and_the_clockwork_princess
+		one_who_knows_the_truth -> the_great_devils_descent
+
+		otherworldly_idols_1 -> otherworldly_idols_2 [label="Sure thing."]
+	}
+
+	subgraph cluster_3 {
+		label = "Yomi's Story";
+		style=filled;
+		color=purple
+		node [style=filled,color=white];
+		an_awakened_evil [label="An Awakened Evil"]
+		in_pursuit_of_yomi_tamaki_shiki [label="In Pursuit of Yomi - Tamaki & Shiki"]
+		in_pursuit_of_yomi_setsuna [label="In Pursuit of Yomi - Setsuna"]
+		a_formidable_threat [label="A Formidable Threat"]
+		monument_fragment_blessing [label="Monument Fragment - Blessing"]
+		monument_fragment_immaculate_strength [label="Monument Fragment - Immaculate Strength"]
+		monument_fragment_sealed_away [label="Monument Fragment - Sealed Away"]
+		monument_fragment_a_hidden_history [label="Monument Fragment - A Hidden History"]
+		monument_fragment_the_sad_truth [label="Monument Fragment - The Sad Truth"]
+		monument_fragment_an_erstwhile_wish [label="Monument Fragment - An Erstwhile Wish"]
+		purification_kind_light [label="Purification - Kind Light"]
+		purification_a_cruel_spirit [label="Purification - A Cruel Spell"]
+		purification_reclaimed_resolve [label="Purification - Reclaimed Resolve"]
+		wicked_sorcery [label="Wicked Sorcery"]
+		controlled_by_unseen_forces [label="Controlled By Unseen Forces"]
+		a_hidden_history [label="A Hidden History"]
+		the_sad_truth [label="The Sad Truth"]
+		an_erstwhile_truth [label="An Erstwhile Truth"]
+		darkness_revisited [label="Darkness Revisited"]
+		total_darkness [label="Total Darkness"]
+		monsters_heroes [label="Monsters & Heroes"]
+	}
+
+	subgraph cluster_4 {
+		label = "Hero Battle"
+		virtuous_young_dragon [label="Virtuous Young Dragon"]
+		war_of_a_fierce_god [label="War of a Fierce God"]
+		sharp_witted_beauty [label="Sharp-witted Beauty"]
+		a_girl_amidst_the_ruins [label="A Girl amidst the Ruins"]
+		calm_cool_and_collected [label="Calm, Cool & Collected"]
+		dedicated_slayer [label="Dedicated Slayer"]
+		stranger_from_a_faraway_land [label="Stranger from a Faraway Land"]
+		machina_with_a_heros_heart [label="Machina with a Hero’s Heart"]
+		kunoichi_of_destiny [label="Kunoichi of Destiny"]
+		wicked_lil_servant [label="Wicked Lil’ Servant"]
+		super_secret_fighter_chick [label="Super Secret Fighter Chick"]
+		violence_splendor_and_humiliation [label="Violence, Splendor & Humiliation"]
+		clockwork_princess [label="Clockwork Princess"]
+		the_ultimate_ninja [label="The Ultimate Ninja"]
+		the_killer_kunoichi [label="The Killer Kunoichi"]
+		goddess_of_victory [label="Goddess of Victory"]
+		knight_who_faces_the_night [label="Knight Who Faces the Night"]
+		angel_and_demon_concerto [label="Angel & Demon Concerto"]
+		japans_greatest_warrior [label="Japan’s Greatest Warrior"]
+		resourceful_tactician [label="Resourceful Tactician"]
+		beautiful_ruler_of_the_ii_clan [label="Beautiful Ruler of the Ii Clan"]
+		captain_of_the_elite_squad [label="Captain of the Elite Squad"]
+		leader_of_the_demon_clan [label="Leader of the Demon Clan"]
+		fastest_man_in_the_land [label="Fastest Man in the Land"]
+		blond_haired_samurai [label="Blond-haired Samurai"]
+
+		the_killer_kunoichi -> the_ultimate_ninja
+		beautiful_ruler_of_the_ii_clan -> the_killer_kunoichi
+		captain_of_the_elite_squad -> leader_of_the_demon_clan
+	}
+
+	subgraph cluster_5 {
+		label = "Dramatic Battle"
+		a_difficult_request [label="A Difficult Request"]
+		demons_slayers [label="Demons & Slayers"]
+		the_demon_the_samurai [label="The Demon & the Samurai"]
+		a_heated_mock_battle [label="A Heated Mock Battle"]
+		just_a_normal_girl [label="Just a Normal Girl"]
+		in_search_of_lost_memories [label="In Search of Lost Memories"]
+		lost_and_found [label="Lost & Found"]
+		beautiful_flower [label="Beautiful Flowers"]
+		timenoids_and_humans [label="Timenoids & Humans"]
+		the_ultimate_evil [label="The Ultimate Evil"]
+	}
+	// All start from Hero Training
+	hero_training -> a_throne_contested
+	hero_training -> fighting_for_ones_beliefs
+	hero_training -> a_struggle_for_the_throne
+
+	// Takami to Yomi
+	// defeat monster on a shocking truth battlefield -> an_awakened_evil
+	// Shiki to Yomi
+	the_demon_leaders_plan -> an_awakened_evil
+	flowers_on_the_battlefield -> an_awakened_evil
+	monument_of_the_dawn -> an_awakened_evil
+	// Setsuna to Yomi
+	bonds_of_friendship -> an_awakened_evil [label="Quickly rescue Setsuna"]
+	one_who_knows_the_truth -> an_awakened_evil
+
+
+	// Tamaki to Hero Battle
+	sharp_witted_beauty -> the_rightful_king
+	stranger_from_a_faraway_land -> truth_and_memories
+	calm_cool_and_collected -> truth_and_memories
+	// Shiki to Hero Battle
+	beautiful_ruler_of_the_ii_clan -> flowers_on_the_battlefield
+	fighting_for_ones_beliefs -> sharp_witted_beauty
+	fighting_for_ones_beliefs -> calm_cool_and_collected
+	a_mask_of_indifference -> calm_cool_and_collected
+	fighting_for_ones_beliefs -> stranger_from_a_faraway_land
+	leader_of_the_demon_clan -> stranger_from_a_faraway_land
+	fighting_for_ones_beliefs -> the_ultimate_ninja
+	fighting_for_ones_beliefs -> the_killer_kunoichi
+	fighting_for_ones_beliefs -> captain_of_the_elite_squad
+	fighting_for_ones_beliefs -> leader_of_the_demon_clan
+	// Setsuna to Hero Battle
+	a_struggle_for_the_throne -> sharp_witted_beauty
+	a_struggle_for_the_throne -> calm_cool_and_collected
+	a_struggle_for_the_throne -> stranger_from_a_faraway_land
+	a_struggle_for_the_throne -> kunoichi_of_destiny
+	bonds_of_friendship -> wicked_lil_servant
+	a_struggle_for_the_throne -> super_secret_fighter_chick
+	untold_intentions -> goddess_of_victory
+	a_struggle_for_the_throne -> knight_who_faces_the_night
+	a_struggle_for_the_throne -> angel_and_demon_concerto
+	a_struggle_for_the_throne -> resourceful_tactician
+	a_struggle_for_the_throne -> leader_of_the_demon_clan
+	goddess_of_victory -> blond_haired_samurai
+
+	// Hero Battle to Takami
+	a_throne_contested -> a_girl_amidst_the_ruins
+	a_throne_contested -> dedicated_slayer
+	virtuous_young_dragon -> dedicated_slayer
+	//the_indifferent_prince ->
+	//dedicated_slayer ->
+	//stranger_from_a_faraway_land ->
+	a_throne_contested -> stranger_from_a_faraway_land
+	leader_of_the_demon_clan -> stranger_from_a_faraway_land
+	truth_and_memories -> super_secret_fighter_chick
+	the_monsters_identity -> clockwork_princess
+	true_intentions -> goddess_of_victory
+	a_throne_contested -> resourceful_tactician
+	calm_cool_and_collected -> resourceful_tactician
+	a_throne_contested -> leader_of_the_demon_clan
+	// Oka -> leader_of_the_demon_clan
+
+	// Hero Battle to Shiki
+	resourceful_tactician -> a_mask_of_indifference
+	leader_of_the_demon_clan -> the_demon_leaders_plan
+	captain_of_the_elite_squad -> cold_silence
+	the_killer_kunoichi -> flowers_on_the_battlefield
+	the_ultimate_ninja -> monument_of_the_dawn
+	the_killer_kunoichi -> a_new_path_forward
+	resourceful_tactician -> a_true_hero
+	leader_of_the_demon_clan -> a_true_hero
+	captain_of_the_elite_squad -> a_true_hero
+	blond_haired_samurai -> operating_in_secret
+	japans_greatest_warrior -> operating_in_secret
+	the_ultimate_ninja -> operating_in_secret
+
+	// Hero Battle to Setsuna
+	violence_splendor_and_humiliation -> judgment_time
+	clockwork_princess -> judgment_time
+	angel_and_demon_concerto -> judgment_time
+	kunoichi_of_destiny -> untold_intentions
+	knight_who_faces_the_night -> bonds_of_friendship
+	wicked_lil_servant -> otherworldly_idols_1
+	super_secret_fighter_chick -> otherworldly_idols_1
+	goddess_of_victory -> otherworldly_idols_1
+
+	// To Dramatic Battle
+	resourceful_tactician -> a_difficult_request
+	captain_of_the_elite_squad -> a_difficult_request
+}
+
+/*
+
+
+(following three are possible ???)
+Petal of a Fallen Flower?
+Great Devil of the 6th Heaven?
+
+
+
+Tamaki
+Zhao Yun (represents Dynasty Warriors) - Virtuous Young Dragon
+Wang Yuanji (Dynasty Warriors) - Sharp-witted Beauty
+Zhou Cang (Dynasty Warriors)- Fastest Man in the Land
+Lu Bu (Dynasty Warriors) - War of a Fierce God
+Oka (Toukiden) - Dedicated Slayer
+Horo (Toukiden) - Stranger from a Faraway Land
+Tokitsugu (Toukiden) - Machina with a Hero’s Heart
+Opoona (Opoona; preorder exclusive)
+Sophie (Atelier Sophie) - A Girl amidst the Ruins
+Plachta (Atelier) - Calm, Cool & Collected
+
+Shiki
+Yukimura Sanada (Samurai Warriors) - Japan’s Greatest Warrior
+Mitsunari Ishida (Samurai Warriors) - Resourceful Tactician
+Naotora Ii (Samurai Warriors) - Beautiful Ruler of the Ii Clan
+Hajime Arima (Haruka: Beyond the Stream of Time) - Captain of the Elite Squad
+Darius (Haruka: Beyond the Stream of Time) - Leader of the Demon Clan
+William Adams (Nioh) - Blond-haired Samurai
+Ryu Hanabusa (Ninja Gaiden) - The Ultimate Ninja
+Ayane (Ninja Gaiden) - The Killer Kunoichi
+
+Setsuna
+Nobunyaga Oda (Nobunyaga's Ambition) - Great Devil of 6th Heaven
+Kasumi (Dead or Alive) - Kunoichi of Destiny
+Marie Rose (Dead or Alive) - Wicked Lil’ Servant
+Honoka (Dead or Alive) - Super Secret Fighter Chick
+Millennia (Deception) - Clockwork Princess
+Laegrinna (Deception) - Violence, Splendor & Humiliation
+Rio (Rio) - Goddess of Victory
+Arnice (Nights of Azure) - Knight Who Faces the Night
+Christophorus (Nights of Azure) - Angel & Demon Concerto
+*/

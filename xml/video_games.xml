@@ -43721,6 +43721,132 @@
 		<own>yes</own>
 		<notes>Flash sale, normally $19.99.</notes>
 	</game>
+	<game id="3063" electronic="true">
+		<title>Metal Gear Solid V: The Phantom Pain</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="3064" electronic="true">
+		<title>Vanquish</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="3065" electronic="true">
+		<title>BEYOND: Two Souls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3066" electronic="true">
+		<title>Rayman Legends</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3067" electronic="true">
+		<title>Risen 3: Titan Lords</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus.</notes>
+	</game>
+	<game id="3068" electronic="true">
+		<title>Furmins Full Game + Bonus World</title>
+		<system>
+			<console>PlayStation</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.49, but free with Plus.</notes>
+	</game>
+	<game id="3069" electronic="true">
+		<title>King Oddball</title>
+		<system>
+			<console>PlayStation</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with Plus.</notes>
+	</game>
+	<game id="3070" electronic="true">
+		<title>King Oddball</title>
+		<system>
+			<console>PlayStation</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with Plus.</notes>
+	</game>
+	<game id="3071" electronic="true">
+		<title>King Oddball</title>
+		<system>
+			<console>PlayStation</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2018-05-26</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but free with Plus.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

@@ -43848,6 +43848,34 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but free with Plus.</notes>
 	</game>
+	<game id="3072">
+		<title>Sega Genesis Classics</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-05-27</date>
+			<price>25.99</price>
+			<place>Best Buy, West Madison</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Ordered online and picked up 5/31/2018. Normally $29.99, but saved a bit with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="3073">
+		<title>Agents of Mayhem: Day One Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-05-31</date>
+			<price>15.99</price>
+			<place>Best Buy, West Madison</place>
+		</purchase>
+		<own>yes</own>
+		<notes>$19.99, but saved $4 with Gamers Club Unlocked.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

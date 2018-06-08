@@ -43876,6 +43876,20 @@
 		<own>yes</own>
 		<notes>$19.99, but saved $4 with Gamers Club Unlocked.</notes>
 	</game>
+	<game id="3074">
+		<title>Elder Scrolls V, The: Skyrim VR</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-06-08</date>
+			<price>0.00</price>
+			<place>Best Buy, West Madison</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came with PlayStation VR Bundle.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

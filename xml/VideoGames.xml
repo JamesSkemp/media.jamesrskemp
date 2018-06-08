@@ -1987,6 +1987,20 @@
 			<own>yes</own>
 			<notes>Received 4/18/2018. Purchased as my official adapter had a bit of the plastic around the cord torn due to how it was stored.</notes>
 		</item>
+		<item id="145">
+			<name>PlayStation VR Bundle: Skyrim</name>
+			<system>
+				<console>PlayStation</console>
+				<version>VR</version>
+			</system>
+			<purchase>
+				<date>2018-06-08</date>
+				<price>249.99</price>
+				<place>Best Buy, West Madison</place>
+			</purchase>
+			<own>yes</own>
+			<notes>On sale as part of the Days of Play.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

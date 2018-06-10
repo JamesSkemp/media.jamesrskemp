@@ -43890,6 +43890,20 @@
 		<own>yes</own>
 		<notes>Came with PlayStation VR Bundle.</notes>
 	</game>
+	<game id="3075" electronic="true">
+		<title>Thumper</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-06-09</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was one of the games on the PS VR Demo, and April really enjoyed it/was good at it, so picked up the full version.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

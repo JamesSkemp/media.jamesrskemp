@@ -3,6 +3,7 @@ digraph {
 	On Mac, with Graphviz installed via brew, run the following:
 	dot -Tpng warriors-all-stars.dot -o warriors-all-stars.png
 	*/
+	graph [rankdir=LR];
 	hero_training [label="Hero Training"]
 
 	subgraph cluster_0 {
@@ -170,6 +171,8 @@ digraph {
 		fastest_man_in_the_land [label="Fastest Man in the Land"]
 		blond_haired_samurai [label="Blond-haired Samurai"]
 
+		a_girl_amidst_the_ruins -> virtuous_young_dragon
+		resourceful_tactician -> virtuous_young_dragon
 		the_killer_kunoichi -> the_ultimate_ninja
 		beautiful_ruler_of_the_ii_clan -> the_killer_kunoichi
 		captain_of_the_elite_squad -> leader_of_the_demon_clan
@@ -209,6 +212,7 @@ digraph {
 	stranger_from_a_faraway_land -> truth_and_memories
 	calm_cool_and_collected -> truth_and_memories
 	// Shiki to Hero Battle
+	a_throne_contested -> virtuous_young_dragon
 	beautiful_ruler_of_the_ii_clan -> flowers_on_the_battlefield
 	fighting_for_ones_beliefs -> sharp_witted_beauty
 	fighting_for_ones_beliefs -> calm_cool_and_collected
@@ -283,7 +287,6 @@ digraph {
 
 
 (following three are possible ???)
-Petal of a Fallen Flower?
 Great Devil of the 6th Heaven?
 
 

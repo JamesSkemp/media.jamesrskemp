@@ -43932,6 +43932,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Gold.</notes>
 	</game>
+	<game id="3078" electronic="true">
+		<title>Battle Chasers: Nightwar</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-06-17</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale for E3.</notes>
+	</game>
+	<game id="3079" electronic="true">
+		<title>Dark Souls III - Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-06-17</date>
+			<price>21.24</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $84.99 but on sale for E3.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

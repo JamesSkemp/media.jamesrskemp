@@ -43960,6 +43960,20 @@
 		<own>yes</own>
 		<notes>Normally $84.99 but on sale for E3.</notes>
 	</game>
+	<game id="3080">
+		<title>PlayStation VR Worlds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-06-17</date>
+			<price>6.99</price>
+			<place>Best Buy, West Madison</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was on sale for $7.99, and then saved $1 by switching from shipping to pick up in store. Picked up 6/18/2018.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

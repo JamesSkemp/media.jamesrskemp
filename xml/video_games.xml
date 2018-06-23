@@ -44114,6 +44114,48 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but free with PlayStation Plus.</notes>
 	</game>
+	<game id="3091" electronic="true">
+		<title>Bullet Witch</title>
+		<system>
+			<console>PC</console>
+			<version />
+		</system>
+		<purchase>
+			<date>2018-06-23</date>
+			<price>9.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer Sale. Normally $14.99.</notes>
+	</game>
+	<game id="3092" electronic="true" addOn="true">
+		<title>Cities: Skylines - Snowfall</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-06-23</date>
+			<price>5.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer Sale.</notes>
+	</game>
+	<game id="3093" electronic="true" addOn="true">
+		<title>Cities: Skylines - Natural Disasters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-06-23</date>
+			<price>6.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer Sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

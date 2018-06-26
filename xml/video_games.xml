@@ -44170,6 +44170,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3095" electronic="true" addOn="true">
+		<title>Cities: Skylines - Mass Transit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-06-26</date>
+			<price>6.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but Steam summer sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

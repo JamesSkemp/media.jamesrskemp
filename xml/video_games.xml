@@ -44184,6 +44184,20 @@
 		<own>yes</own>
 		<notes>Normally $12.99, but Steam summer sale.</notes>
 	</game>
+	<game id="3096" electronic="true">
+		<title>Silver Case, The: The Deluxe Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-06-28</date>
+			<price>14.73</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes The Silver Case and The Extra Contents. Normally $34.98, but Steam sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

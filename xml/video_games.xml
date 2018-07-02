@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" standalone="no"?>
-<?xml-stylesheet type="text/xsl" href="../xslt/video_games.xslt"?>
+<!--<?xml-stylesheet type="text/xsl" href="../xslt/video_games.xslt"?>-->
 <games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:noNamespaceSchemaLocation="../xsd/2013/11/VideoGames.xsd">
 	<game id="1">

@@ -2001,6 +2001,34 @@
 			<own>yes</own>
 			<notes>On sale as part of the Days of Play.</notes>
 		</item>
+		<item id="146">
+			<name>Super NES Classic Edition Deluxe Carrying Case</name>
+			<system>
+				<console>Nintendo Entertainment System (NES)</console>
+				<version>Classic Edition</version>
+			</system>
+			<purchase>
+				<date>2018-06-30</date>
+				<price>19.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes/>
+		</item>
+		<item id="147">
+			<name>NES Classic Edition</name>
+			<system>
+				<console>Nintendo Entertainment System (NES)</console>
+				<version>Classic Edition</version>
+			</system>
+			<purchase>
+				<date>2018-06-26</date>
+				<price>59.99</price>
+				<place>Best Buy, West Towne Madison WI</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Picked up 7/2/2018.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

@@ -44212,6 +44212,76 @@
 		<own>yes</own>
 		<notes>On sale as part of the Steam Summer Sale.</notes>
 	</game>
+	<game id="3098" electronic="true">
+		<title>Keep Talking and Nobody Explodes</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-07</date>
+			<price>7.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
+	<game id="3099" electronic="true">
+		<title>CRIMINAL GIRLS: Invite Only</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-07-07</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3100" electronic="true">
+		<title>Full Throttle Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-07</date>
+			<price>4.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
+	<game id="3101" electronic="true">
+		<title>Full Throttle Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-07-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3102" electronic="true">
+		<title>Demon Gaze</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-07-07</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

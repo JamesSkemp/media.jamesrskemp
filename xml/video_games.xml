@@ -44282,6 +44282,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="3103" electronic="true">
+		<title>Zero Escape: Zero Time Dilemma</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-07-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with PlayStation Plus.</notes>
+	</game>
+	<game id="3104" electronic="true">
+		<title>Hyperdimension Neptunia mk2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-07-08</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but mid-year sale.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>

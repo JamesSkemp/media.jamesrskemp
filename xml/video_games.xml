@@ -44310,6 +44310,48 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but mid-year sale.</notes>
 	</game>
+	<game id="3105" electronic="true">
+		<title>Assault Android Cactus</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-07-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="3106" electronic="true">
+		<title>SMITE Gold Bundle</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-07-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $99.99, but free with Gold.</notes>
+	</game>
+	<game id="3107" electronic="true">
+		<title>Virtua Fighter 5 Final Showdown</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-07-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
 	<!--
 	<game id="">
 		<title></title>
@@ -44325,6 +44367,9 @@
 		<own>yes</own>
 		<notes></notes>
 	</game>
+	-->
+	<!--
+	https://www.xbox.com/en-US/live/games-with-gold
 	-->
 	<!--
 	Haunted House (Atari) - Purchased manual 11/23/2013 for $1.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.

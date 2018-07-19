@@ -44240,7 +44240,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
-	<game id="3100" electronic="true">
+	<game id="3100" electronic="true" beat="true">
 		<title>Full Throttle Remastered</title>
 		<system>
 			<console>PlayStation</console>
@@ -44252,9 +44252,9 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $14.99, but on sale.</notes>
+		<notes>Normally $14.99, but on sale. Started and finished 7/14/2018 on Vita.</notes>
 	</game>
-	<game id="3101" electronic="true">
+	<game id="3101" electronic="true" beat="true">
 		<title>Full Throttle Remastered</title>
 		<system>
 			<console>PlayStation</console>
@@ -44266,7 +44266,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Cross-buy.</notes>
+		<notes>Cross-buy. Started and finished 7/14/2018.</notes>
 	</game>
 	<game id="3102" electronic="true">
 		<title>Demon Gaze</title>
@@ -44365,6 +44365,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $29.99, but mid-year sale.</notes>
+	</game>
+	<game id="3109">
+		<title>Quantum Break</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-07-16</date>
+			<price>18.79</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I think Prime Day sale. Includes Alan Wake.</notes>
+	</game>
+	<game id="3110">
+		<title>Recore: Definitive Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-07-16</date>
+			<price>9.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>I think a Prime Day sale, and was an add-on item.</notes>
+	</game>
+	<game id="3111" electronic="true">
+		<title>Alan Wake</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-07-18</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with purchase of Quantum Break. I believe it includes add-on DLC.</notes>
 	</game>
 	<!--
 	<game id="">

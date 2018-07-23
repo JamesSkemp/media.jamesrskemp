@@ -44408,6 +44408,106 @@
 		<own>yes</own>
 		<notes>Free with purchase of Quantum Break. I believe it includes add-on DLC.</notes>
 	</game>
+	<game id="3112" electronic="true">
+		<title>Heavy Rain</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3113" electronic="true">
+		<title>Absolver</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3114" electronic="true">
+		<title>Extreme Exorcism</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but free with Plus.</notes>
+	</game>
+	<game id="3115" electronic="true">
+		<title>Extreme Exorcism</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but free with Plus.</notes>
+	</game>
+	<game id="3116" electronic="true">
+		<title>Space Overlords</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but free with Plus.</notes>
+	</game>
+	<game id="3117" electronic="true">
+		<title>Space Overlords</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but free with Plus.</notes>
+	</game>
+	<game id="3118" electronic="true">
+		<title>Rayman 3 HD</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-07-22</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<!--
+	-->
 	<!--
 	<game id="">
 		<title></title>

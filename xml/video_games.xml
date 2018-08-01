@@ -44534,6 +44534,118 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3121" electronic="true">
+		<title>Yakuza 0</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-06-11</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Released 8/1/2018.</notes>
+	</game>
+	<game id="3122" electronic="true">
+		<title>Hellblade: Senua’s Sacrifice</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>17.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale.</notes>
+	</game>
+	<game id="3123" electronic="true">
+		<title>Coma, The: Recut</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>4.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
+	<game id="3124" electronic="true">
+		<title>Nightmares from the Deep: The Cursed Heart</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>4.79</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nightmares from the Deep Collection, which was $14.39 instead of the usual $35.99.</notes>
+	</game>
+	<game id="3125" electronic="true">
+		<title>Nightmares from the Deep 2: The Siren's Call</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>4.79</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nightmares from the Deep Collection, which was $14.39 instead of the usual $35.99.</notes>
+	</game>
+	<game id="3126" electronic="true">
+		<title>Nightmares from the Deep 3: Davy Jones</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>4.81</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nightmares from the Deep Collection, which was $14.39 instead of the usual $35.99.</notes>
+	</game>
+	<game id="3127" electronic="true">
+		<title>Monster Monpiece</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but on sale.</notes>
+	</game>
+	<game id="3128" electronic="true">
+		<title>Torment: Tides of Numenera</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-01</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

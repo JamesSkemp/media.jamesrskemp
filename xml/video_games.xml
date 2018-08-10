@@ -44646,6 +44646,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but on sale.</notes>
 	</game>
+	<game id="3129" electronic="true">
+		<title>Forza Horizon 2 Standard - 10th Anniversary Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-08-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="3130" electronic="true">
+		<title>Dead Space 3</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-08-09</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
 	-->
 	<!--

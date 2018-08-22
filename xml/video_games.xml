@@ -44674,6 +44674,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3131">
+		<title>Shenmue I &amp; II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-05-18</date>
+			<price>23.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Received 8/21/2018.</notes>
+	</game>
 	<!--
 	-->
 	<!--

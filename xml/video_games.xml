@@ -44814,6 +44814,202 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3141">
+		<title>Yakuza Kiwami 2: Steelbook Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-03-18</date>
+			<price>49.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 8/28/2018.</notes>
+	</game>
+	<game id="3142" electronic="true">
+		<title>Sentinels of the Multiverse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3143" electronic="true">
+		<title>Ticket to Ride - Complete Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3144" electronic="true">
+		<title>Mysterium: A Psychic Clue Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3145" electronic="true">
+		<title>Ticket to Ride</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3146" electronic="true">
+		<title>Mysterium: A Psychic Clue Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3147" electronic="true">
+		<title>Pathfinder Adventures</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3148" electronic="true">
+		<title>Talisman: Digital Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3149" electronic="true" addOn="true">
+		<title>Talisman - The Dungeon Expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3150" electronic="true" addOn="true">
+		<title>Talisman - The Highland Expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3151" electronic="true">
+		<title>Carcassonne - Tiles &amp; Tactics</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3152" electronic="true" addOn="true">
+		<title>Sentinels of the Multiverse - Shattered Timelines</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3153" electronic="true">
+		<title>Talisman: Digital Edition</title>
+		<system>
+			<console>Android</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>0.68</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the pay more than the average tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
+	<game id="3154" electronic="true">
+		<title>Armello</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>4.24</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $10 tier of the Humble Digital Tabletop Bundle.</notes>
+	</game>
 	<!--
 	-->
 	<!--

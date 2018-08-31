@@ -45010,6 +45010,20 @@
 		<own>yes</own>
 		<notes>Part of the $10 tier of the Humble Digital Tabletop Bundle.</notes>
 	</game>
+	<game id="3155">
+		<title>Ryu ga Gotoku: Kiwami 2 (Japanese)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-08-28</date>
+			<price>44.86</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 8/31/2018.</notes>
+	</game>
 	<!--
 	-->
 	<!--

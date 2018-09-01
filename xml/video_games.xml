@@ -45024,6 +45024,48 @@
 		<own>yes</own>
 		<notes>Japanese version. Received 8/31/2018.</notes>
 	</game>
+	<game id="3156" electronic="true">
+		<title>Devil May Cry 4: Special Edition: Demon Hunter Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-09-01</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $35.99, but on sale for PAX.</notes>
+	</game>
+	<game id="3157" electronic="true">
+		<title>Phantom Breaker Battlegrounds Overdrive: Frau Additional Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-09-01</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3158" electronic="true">
+		<title>God Hand (PS2 Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-09-01</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale for PAX.</notes>
+	</game>
 	<!--
 	-->
 	<!--

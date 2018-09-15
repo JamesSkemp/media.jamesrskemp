@@ -45093,7 +45093,50 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99 but free with Gold.</notes>
-	</game>	<!--
+	</game>
+	<game id="3161" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth 1</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-09-15</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3162" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-09-15</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3163" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth 3: V Generation</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-09-15</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale.</notes>
+	</game>
+	<!--
 	-->
 	<!--
 	<game id="">

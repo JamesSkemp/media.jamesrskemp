@@ -45332,6 +45332,20 @@
 		<own>yes</own>
 		<notes>Normally $7.99, but free with Plus.</notes>
 	</game>
+	<game id="3178">
+		<title>Sengoku Basara 4 Sumeragi (Best Price)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-09-23</date>
+			<price>36.75</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/25/2018. Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

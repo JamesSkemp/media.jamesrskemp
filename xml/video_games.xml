@@ -45360,6 +45360,174 @@
 		<own>yes</own>
 		<notes>Received 10/2/2018, date of launch. Pre-ordered to support Ryu Ga Gotoku Studio.</notes>
 	</game>
+	<game id="3180" electronic="true">
+		<title>Overcooked!</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $16.99, but free with Gold.</notes>
+	</game>
+	<game id="3181" electronic="true">
+		<title>Stuntman: Ignition</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="3182" electronic="true">
+		<title>Friday the 13th: The Game</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus</notes>
+	</game>
+	<game id="3183" electronic="true">
+		<title>Laser League</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus</notes>
+	</game>
+	<game id="3184" electronic="true">
+		<title>2064: Read Only Memories</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus</notes>
+	</game>
+	<game id="3185" electronic="true">
+		<title>2064: Read Only Memories</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus</notes>
+	</game>
+	<game id="3186" electronic="true">
+		<title>Rocketbirds 2: Evolution</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus</notes>
+	</game>
+	<game id="3187" electronic="true">
+		<title>Rocketbirds 2: Evolution</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus</notes>
+	</game>
+	<game id="3188" electronic="true">
+		<title>Bridge, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus</notes>
+	</game>
+	<game id="3189" electronic="true">
+		<title>Bridge, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus</notes>
+	</game>
+	<game id="3190" electronic="true">
+		<title>Bridge, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus</notes>
+	</game>
+	<game id="3191" electronic="true">
+		<title>Master Reboot</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-10-07</date>
+			<price>0.00</price>
+			<place>Playstation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but free with Plus</notes>
+	</game>
 	<!--
 	-->
 	<!--

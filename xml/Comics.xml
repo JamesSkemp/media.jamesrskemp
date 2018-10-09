@@ -10120,15 +10120,38 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 12/26/2017.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>651</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Adventures Volume 15</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles Adventures</Series>
+		<Publisher>IDW</Publisher>
+		<Price>19.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2018.07.20</BoughtDate>
+		<BoughtPrice>19.99</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 7/21/2018.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>652</AutoNumber>
+		<DescriptiveName>Usagi Yojimbo/Teenage Mutant Ninja Turtles: The Complete Collection</DescriptiveName>
+		<Series>Usagi Yojimbo/Teenage Mutant Ninja Turtles: The Complete Collection</Series>
+		<Publisher>Dark Horse Books</Publisher>
+		<Price>17.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2018.09.27</BoughtDate>
+		<BoughtPrice>12.18</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 10/9/2018.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--
-
   Keep an eye open for:
 Tales of the Teenage Mutant Ninja Turtles Volume 9
-Teenage Mutant Ninja Turtles Adventures Volume 15
+Teenage Mutant Ninja Turtles Adventures Volume 16 (pre-ordered)
 Teenage Mutant Ninja Turtles Classics Volume 11
-Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7
+Teenage Mutant Ninja Turtles: The Ultimate Collection Volume 7 (pre-ordered)
 Teenage Mutant Ninja Turtles: The Works Volume 6
 
 	<Comic>

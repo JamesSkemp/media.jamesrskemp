@@ -45528,6 +45528,34 @@
 		<own>yes</own>
 		<notes>Normally $6.99, but free with Plus</notes>
 	</game>
+	<game id="3192" electronic="true">
+		<title>I Expect You To Die</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-12</date>
+			<price>12.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>VR game. Normally $24.99, but on sale. Recommended by Kedar.</notes>
+	</game>
+	<game id="3193" electronic="true">
+		<title>Donut County</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-12</date>
+			<price>9.74</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

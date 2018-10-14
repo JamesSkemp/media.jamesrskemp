@@ -45556,6 +45556,20 @@
 		<own>yes</own>
 		<notes>Normally $12.99, but on sale.</notes>
 	</game>
+	<game id="3194" electronic="true">
+		<title>Fat Princess Adventures</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-10-14</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale. Sounds like it might be fun for April and I to play?</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -1,0 +1,60 @@
+{
+	// Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"New default video game": {
+		"scope": "xml",
+		"prefix": "game",
+		"body": [
+			"<game id=\"$1\">",
+			"\t<title></title>",
+			"\t<system>",
+			"\t\t<console></console>",
+			"\t\t<version></version>",
+			"\t</system>",
+			"\t<purchase>",
+			"\t\t<date></date>",
+			"\t\t<price></price>",
+			"\t\t<place></place>",
+			"\t</purchase>",
+			"\t<own>yes</own>",
+			"\t<notes></notes>",
+			"</game>"
+		],
+		"description": "Adds structure for a new video game."
+	},
+	"New electronic video game": {
+		"scope": "xml",
+		"prefix": "gameElec",
+		"body": [
+			"<game id=\"$1\" electronic=\"true\">",
+			"\t<title></title>",
+			"\t<system>",
+			"\t\t<console></console>",
+			"\t\t<version></version>",
+			"\t</system>",
+			"\t<purchase>",
+			"\t\t<date></date>",
+			"\t\t<price></price>",
+			"\t\t<place></place>",
+			"\t</purchase>",
+			"\t<own>yes</own>",
+			"\t<notes></notes>",
+			"</game>"
+		],
+		"description": "Adds structure for a new electronic video game."
+	}
+}

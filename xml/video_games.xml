@@ -45612,6 +45612,34 @@
 		<own>yes</own>
 		<notes>Received 10/28/2018. VR game that I played the demo for and enjoyed well enough.</notes>
 	</game>
+	<game id="3198" electronic="true">
+		<title>Burly Men at Sea</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-11-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="3199" electronic="true">
+		<title>Burly Men at Sea</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-11-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

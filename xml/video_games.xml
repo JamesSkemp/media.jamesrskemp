@@ -45626,7 +45626,7 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Plus.</notes>
 	</game>
-	<game id="3199" electronic="true">
+	<game id="3199" electronic="true" beat="true">
 		<title>Burly Men at Sea</title>
 		<system>
 			<console>PlayStation</console>
@@ -45639,6 +45639,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="3200" electronic="true">
+		<title>Battlefield 1</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2018-11-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Gold.</notes>
+	</game>
+	<game id="3201" electronic="true">
+		<title>Assassin's Creed</title>
+		<system>
+			<console>PlayStation</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2018-11-11</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
 	<!--
 	-->

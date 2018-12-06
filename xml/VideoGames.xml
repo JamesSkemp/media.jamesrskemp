@@ -2029,6 +2029,20 @@
 			<own>yes</own>
 			<notes>Picked up 7/2/2018.</notes>
 		</item>
+		<item id="148">
+			<name>PlayStation Classic Console</name>
+			<system>
+				<console>PlayStation</console>
+				<version>Clasic</version>
+			</system>
+			<purchase>
+				<date>2018-09-18</date>
+				<price>99.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Pre-ordered. Received 12/3/2018.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

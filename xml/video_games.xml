@@ -45850,6 +45850,202 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3215" electronic="true">
+		<title>Burnout Paradise Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3216" electronic="true">
+		<title>Sleeping Dogs: Definitive Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>4.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3217" electronic="true">
+		<title>Hyperdimension Neptunia: Producing Perfection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3218" electronic="true">
+		<title>Murdered: Soul Suspect</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3219" electronic="true">
+		<title>Helldivers Super-Earth Ultimate Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3220" electronic="true">
+		<title>Helldivers Super-Earth Ultimate Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3221" electronic="true">
+		<title>Helldivers Super-Earth Ultimate Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>15.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3222" electronic="true">
+		<title>Darkest Dungeon: Crimson Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>9.89</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but week 1 of holiday sale. Includes DLC.</notes>
+	</game>
+	<game id="3223" electronic="true">
+		<title>Darkest Dungeon: Crimson Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3224" electronic="true" addOn="true">
+		<title>Darkest Dungeon: The Musketeer</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes PS4 and Vita version.</notes>
+	</game>
+	<game id="3225" electronic="true" addOn="true">
+		<title>Darkest Dungeon: The Shieldbreaker</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but week 1 of holiday sale. Includes PS4 and Vita version.</notes>
+	</game>
+	<game id="3226" electronic="true">
+		<title>Senran Kagura Estival Versus</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but week 1 of holiday sale.</notes>
+	</game>
+	<game id="3227" electronic="true">
+		<title>Senran Kagura Estival Versus - Free DLC Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes Vita and PS4 support.</notes>
+	</game>
+	<game id="3228" electronic="true">
+		<title>Senran Kagura Estival Versus - Dual Blooming Hearts</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-17</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but week 1 of holiday sale. Includes Vita and PS4 support.</notes>
+	</game>
 	<!--
 	-->
 	<!--

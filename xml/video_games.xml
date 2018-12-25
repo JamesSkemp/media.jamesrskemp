@@ -46046,6 +46046,90 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but week 1 of holiday sale. Includes Vita and PS4 support.</notes>
 	</game>
+	<game id="3229" electronic="true">
+		<title>Soma</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but free with Plus.</notes>
+	</game>
+	<game id="3230" electronic="true">
+		<title>Onrush Standard Digital Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version></version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="3231" electronic="true">
+		<title>SteinsGate</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3232" electronic="true">
+		<title>Steredenn: Classic</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but free with Plus.</notes>
+	</game>
+	<game id="3233" electronic="true">
+		<title>Iconoclasts</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3234" electronic="true">
+		<title>Papers, Please</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

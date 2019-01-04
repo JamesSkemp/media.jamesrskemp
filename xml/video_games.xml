@@ -46186,6 +46186,76 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3239" electronic="true">
+		<title>Pic-a-Pix Color</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>4.79</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but on sale as part of holiday sale.</notes>
+	</game>
+	<game id="3240">
+		<title>Dark Souls Trilogy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-01-01</date>
+			<price>47.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/4/2018. Normally $79.99, but $20 and then saved $12 with Gamers Club Unlocked.</notes>
+	</game>
+	<game id="3241" electronic="true">
+		<title>Diablo III: Rise of the Necromancer</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-01-04</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale as part of a holiday sale.</notes>
+	</game>
+	<game id="3242" electronic="true">
+		<title>Resonance of Fate 4K/HD Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-01-04</date>
+			<price>24.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99, but on sale as part of a holiday sale.</notes>
+	</game>
+	<game id="3243" electronic="true">
+		<title>Shadow of the Colossus</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-01-04</date>
+			<price>13.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale as part of a holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

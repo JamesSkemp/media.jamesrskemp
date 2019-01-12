@@ -46004,7 +46004,7 @@
 		<own>yes</own>
 		<notes>Normally $3.99, but week 1 of holiday sale. Includes PS4 and Vita version.</notes>
 	</game>
-	<game id="3226" electronic="true">
+	<game id="3226" electronic="true" beat="true">
 		<title>Senran Kagura Estival Versus</title>
 		<system>
 			<console>PlayStation</console>
@@ -46269,6 +46269,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
+	</game>
+	<game id="3245">
+		<title>Valkyria Chronicles 4: Launch Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-01-10</date>
+			<price>26.24</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
 	</game>
 	<!--
 	-->

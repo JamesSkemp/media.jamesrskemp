@@ -46284,6 +46284,20 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but on sale.</notes>
 	</game>
+	<game id="3246" electronic="true">
+		<title>Stranger of Sword City</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-01-13</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

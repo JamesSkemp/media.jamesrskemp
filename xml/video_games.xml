@@ -46298,7 +46298,54 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but holiday sale.</notes>
 	</game>
+	<game id="3247" electronic="true">
+		<title>Celeste</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-01-22</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="3248" electronic="true">
+		<title>WRC 6 FIA World Rally Championship</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-01-22</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Gold. Supposedly not very good.</notes>
+	</game>
+	<game id="3249" electronic="true">
+		<title>Far Cry 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2019-01-22</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
 	<!--
+	1/20/2019, Amazon.com
+	Fire Emblem Warriors, 3DS, 20.90
+	Dragon Quest IV: Chapters of the Choosen, DS, 32.00
+	Dragon Quest V: Hand of the Heavenly Bride, DS, 38.00
+	Fire Emblem Echoes: Shadows of Valentia, 3DS, 22.00
 	-->
 	<!--
 	<game id="">

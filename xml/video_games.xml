@@ -46340,11 +46340,50 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Gold.</notes>
 	</game>
+	<game id="3250">
+		<title>Fire Emblem Warriors</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2019-01-20</date>
+			<price>20.90</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/22/2019. On sale.</notes>
+	</game>
+	<game id="3251">
+		<title>Dragon Quest IV: Chapters of the Choosen</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2019-01-20</date>
+			<price>32.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/22/2019. Worth picking it up while I still can.</notes>
+	</game>
+	<game id="3252">
+		<title>Dragon Quest V: Hand of the Heavenly Bride</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2019-01-20</date>
+			<price>38.00</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/22/2019. Worth picking it up while I still can.</notes>
+	</game>
 	<!--
 	1/20/2019, Amazon.com
-	Fire Emblem Warriors, 3DS, 20.90
-	Dragon Quest IV: Chapters of the Choosen, DS, 32.00
-	Dragon Quest V: Hand of the Heavenly Bride, DS, 38.00
 	Fire Emblem Echoes: Shadows of Valentia, 3DS, 22.00
 	-->
 	<!--

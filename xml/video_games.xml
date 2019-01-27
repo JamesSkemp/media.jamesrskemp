@@ -46396,9 +46396,21 @@
 		<own>yes</own>
 		<notes>Received 1/26/2019.</notes>
 	</game>
+	<game id="3254" electronic="true">
+		<title>Dragon Cliff</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-01-27</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but on sale. Had it in my wishlist for some reason; idle with some complexity.</notes>
+	</game>
 	<!--
-	1/20/2019, Amazon.com
-	Fire Emblem Echoes: Shadows of Valentia, 3DS, 22.00
 	-->
 	<!--
 	<game id="">

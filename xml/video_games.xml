@@ -32153,7 +32153,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $14.99, but free with PlayStation Plus.</notes>
+		<notes>Normally $14.99, but free with PlayStation Plus. May have also received a copy 2/2/2019 from Humble Bundle.</notes>
 	</game>
 	<game id="2237" electronic="true">
 		<title>Grim Fandango Remastered</title>
@@ -46479,6 +46479,146 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
+	<game id="3260" electronic="true">
+		<title>InnerSpace</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Indie PlayStation Bundle 2019.</notes>
+	</game>
+	<game id="3261" electronic="true">
+		<title>Bard's Tale, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3262" electronic="true">
+		<title>Bard's Tale, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3263" electronic="true">
+		<title>Bard's Tale, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3264" electronic="true">
+		<title>Layers of Fear</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.54</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019.</notes>
+	</game>
+	<game id="3265" electronic="true">
+		<title>Wasteland 2: Director's Cut - Standard Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019.</notes>
+	</game>
+	<game id="3266" electronic="true">
+		<title>Talos Principle, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019.</notes>
+	</game>
+	<game id="3267" electronic="true">
+		<title>Broken Age</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3268" electronic="true">
+		<title>Broken Age</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3269" electronic="true">
+		<title>Broken Age</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-02</date>
+			<price>1.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
 	</game>
 	<!--
 	-->

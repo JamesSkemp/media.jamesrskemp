@@ -14002,7 +14002,7 @@
 		</purchase>
 		<own>yes</own>
 		<notes>
-			Received 5/20/2014 (release day). One of 5000 copies.
+			Received 5/20/2014 (release day). One of 5000 copies. Includes 'One' DLC.
 			Purchased Drakengard 3 Drag-On Dragoon Official First Guide (Japanese) 12/7/2015 for $10.50 (free s/h since I spent over $100) from ebay (japan-ssdyuk), which I received 12/29/2015.
 		</notes>
 	</game>
@@ -46619,6 +46619,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
+	</game>
+	<game id="3270" electronic="true" addOn="true">
+		<title>Drakengard 3 - Sisters Prologue Bundle (Add-On Content)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-03</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>While I already had the One DLC, only a few cents more expense than buying them individually.</notes>
 	</game>
 	<!--
 	-->

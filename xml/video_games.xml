@@ -46690,6 +46690,48 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="3275" used="true">
+		<title>Onechanbara Z Kagura with Nonono!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-01</date>
+			<price>33.99</price>
+			<place>ebay (japanet*store)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/19/2019, but would have been 2/16/2019 had I heard the knock. Paid $5 shipping per item. Included unused DLC code.</notes>
+	</game>
+	<game id="3276" used="true">
+		<title>Drag-On Dragoon 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-01</date>
+			<price>11.87</price>
+			<place>ebay (japanet*store)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/19/2019, but would have been 2/16/2019 had I heard the knock. Paid $5 shipping per item.</notes>
+	</game>
+	<game id="3277" used="true">
+		<title>Heavenly Sword</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-01</date>
+			<price>11.30</price>
+			<place>ebay (japanet*store)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Received 2/19/2019, but would have been 2/16/2019 had I heard the knock. Paid $5 shipping per item.</notes>
+	</game>
 	<!--
 	-->
 	<!--

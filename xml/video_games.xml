@@ -46620,7 +46620,7 @@
 		<own>yes</own>
 		<notes>Part of the BTA ($10.29) tier of the Humble Indie PlayStation Bundle 2019. Cross-buy.</notes>
 	</game>
-	<game id="3270" electronic="true" addOn="true">
+	<game id="3270" electronic="true" addOn="true" beat="true">
 		<title>Drakengard 3 - Sisters Prologue Bundle (Add-On Content)</title>
 		<system>
 			<console>PlayStation</console>
@@ -46666,7 +46666,7 @@
 		<title>Star Wars Jedi Knight: Jedi Academy</title>
 		<system>
 			<console>Xbox</console>
-			<version></version>
+			<version/>
 		</system>
 		<purchase>
 			<date>2019-02-16</date>
@@ -46843,6 +46843,118 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3286" electronic="true">
+		<title>Pic-a-Pix Color</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2018-12-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy with Vita version.</notes>
+	</game>
+	<game id="3287" electronic="true" addOn="true">
+		<title>Onechanbara Z Kagura with Nonono! Aya and Saki</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-02-27</date>
+			<price>12.03</price>
+			<place>PlayStation Network (JPN)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought 1000 Yen card from Play-Asia for $12.99, and this was 926 Yen.</notes>
+	</game>
+	<game id="3288" electronic="true">
+		<title>Adventure Time: Pirates of the Enchiridion</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but free with Gold.</notes>
+	</game>
+	<game id="3289" electronic="true">
+		<title>Star Wars Republic Commando</title>
+		<system>
+			<console>Xbox</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but free with Gold.</notes>
+	</game>
+	<game id="3290" electronic="true">
+		<title>Call of Duty: Modern Warfare Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3291" electronic="true">
+		<title>Witness, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3292" electronic="true">
+		<title>Pic-a-Pix Pieces</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but on sale.</notes>
+	</game>
+	<game id="3293" electronic="true">
+		<title>Pic-a-Pix Pieces</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-08</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
 	</game>
 	<!--
 	-->

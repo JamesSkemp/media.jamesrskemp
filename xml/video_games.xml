@@ -46970,6 +46970,90 @@
 		<own>yes</own>
 		<notes>Free since it's now backwards compatible.</notes>
 	</game>
+	<game id="3295" electronic="true">
+		<title>Fill-a-Pix: Phil's Epic Adventure</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but on sale.</notes>
+	</game>
+	<game id="3296" electronic="true">
+		<title>Word Sudoku by POWGI</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but on sale.</notes>
+	</game>
+	<game id="3297" electronic="true">
+		<title>Word Search by POWGI</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but on sale.</notes>
+	</game>
+	<game id="3298" electronic="true">
+		<title>Fill-a-Pix: Phil's Epic Adventure</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3299" electronic="true">
+		<title>Word Sudoku by POWGI</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3300" electronic="true">
+		<title>Word Search by POWGI</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-03-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Cross-buy.</notes>
+	</game>
 	<!--
 	-->
 	<!--

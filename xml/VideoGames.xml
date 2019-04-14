@@ -2043,6 +2043,34 @@
 			<own>yes</own>
 			<notes>Pre-ordered. Received 12/3/2018.</notes>
 		</item>
+		<item id="149">
+			<name>Nintendo DS (Gray)</name>
+			<system>
+				<console>Nintendo</console>
+				<version>DS</version>
+			</system>
+			<purchase>
+				<date>2019-04-13</date>
+				<price>0.00</price>
+				<place>Mom's apartment</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Picked up a few years ago. Two of them, with one charger and a copy of Brain Age. Finally getting around to recording them now.</notes>
+		</item>
+		<item id="150">
+			<name>Nintendo DS (Gray)</name>
+			<system>
+				<console>Nintendo</console>
+				<version>DS</version>
+			</system>
+			<purchase>
+				<date>2019-04-13</date>
+				<price>0.00</price>
+				<place>Mom's apartment</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Picked up a few years ago. Two of them, with one charger and a copy of Brain Age. Finally getting around to recording them now.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

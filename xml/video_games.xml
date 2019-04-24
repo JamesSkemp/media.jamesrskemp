@@ -20537,7 +20537,7 @@
 			Bought strategy guide 11/24/2014 for $12.95 from People Play Games, 3268 N Clark St, Chicago IL 60657.
 		</notes>
 	</game>
-	<game id="1419" used="true">
+	<game id="1419" used="true" beat="true">
 		<title>Metroid: Zero Mission</title>
 		<system>
 			<console>Nintendo</console>
@@ -20552,6 +20552,7 @@
 		<notes>
 			No manual or box.
 			Bought manual 11/24/2014 for $3.00 from People Play Games, 3268 N Clark St, Chicago IL 60657.
+			Beat approximately 4/20/2019. Got to the final boss with my save, but after starting to get collectibles, used a different save (easier difficulty) to finish the game.
 		</notes>
 	</game>
 	<game id="1420" used="true">

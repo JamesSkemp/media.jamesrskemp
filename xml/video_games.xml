@@ -44087,7 +44087,7 @@
 		<notes>Normally $9.99, but free with PlayStation Plus.</notes>
 	</game>
 	<game id="3089" electronic="true">
-		<title>Tom Clancy's Ghost Recon: Future Solider</title>
+		<title>Tom Clancy's Ghost Recon: Future Soldier</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -47179,6 +47179,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Received 4/19/2019. Was on sale for a low enough price.</notes>
+	</game>
+	<game id="3310" electronic="true">
+		<title>Outcast - Second Contact</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-04-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Gold.</notes>
+	</game>
+	<game id="3311" electronic="true">
+		<title>Tom Clancy's Ghost Recon Advanced Warfighter 2</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2019-04-24</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Gold.</notes>
 	</game>
 	<!--
 	-->

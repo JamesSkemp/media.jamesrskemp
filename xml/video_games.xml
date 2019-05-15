@@ -43959,7 +43959,10 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Normally $84.99 but on sale for E3.</notes>
+		<notes>
+			Normally $84.99 but on sale for E3.
+			Free DLC Dark Souls III: The Ringed City and Dark Souls III: Ashes of Ariandel 5/14/2019.
+		</notes>
 	</game>
 	<game id="3080">
 		<title>PlayStation VR Worlds</title>
@@ -47292,6 +47295,62 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Cross-buy.</notes>
+	</game>
+	<game id="3318" electronic="true">
+		<title>Marooners</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-05-14</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Gold.</notes>
+	</game>
+	<game id="3319" electronic="true">
+		<title>Earth Defense Force: Insect Armageddon</title>
+		<system>
+			<console>Xbox</console>
+			<version>360</version>
+		</system>
+		<purchase>
+			<date>2019-05-14</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Gold.</notes>
+	</game>
+	<game id="3320" electronic="true" addOn="true">
+		<title>Persona 5 Christmas Costume Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-05-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
+	<game id="3321" electronic="true" addOn="true">
+		<title>Persona 5 Maid &amp; Butler Costume Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-05-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
 	</game>
 	<!--
 	-->

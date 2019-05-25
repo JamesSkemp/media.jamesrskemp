@@ -47352,6 +47352,160 @@
 		<own>yes</own>
 		<notes>Free.</notes>
 	</game>
+	<game id="3322" electronic="true">
+		<title>Punch Club</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3323" electronic="true">
+		<title>Final Station, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3324" electronic="true">
+		<title>Diaries of a Spaceport Janitor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3325" electronic="true">
+		<title>SpeedRunners</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>0.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $1 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3326" electronic="true">
+		<title>Hello Neighbor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3327" electronic="true">
+		<title>Streets of Rogue</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3328" electronic="true">
+		<title>ClusterTruck</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3329" electronic="true">
+		<title>Party Hard</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3330" electronic="true" addOn="true">
+		<title>Party Hard: High Crimes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the BTA tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3331" electronic="true">
+		<title>Party Hard 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $13 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
+	<game id="3332" electronic="true">
+		<title>Graveyard Keeper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-05-24</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the $13 tier in the Humble tinyBuild Bundle.</notes>
+	</game>
 	<!--
 	-->
 	<!--

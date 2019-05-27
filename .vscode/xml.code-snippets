@@ -65,7 +65,7 @@
 			"\t<title>${2:title}</title>",
 			"\t<system>",
 			"\t\t<console>PlayStation</console>",
-			"\t\t<version>${3|3,4,Vita|}</version>",
+			"\t\t<version>4</version>",
 			"\t</system>",
 			"\t<purchase>",
 			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",
@@ -77,5 +77,26 @@
 			"</game>"
 		],
 		"description": "Adds structure for a new electronic video game, via PlayStation Plus."
+	},
+	"New electronic video game, Xbox Live": {
+		"scope": "xml",
+		"prefix": "gameElecGold",
+		"body": [
+			"<game id=\"${1:id}\" electronic=\"true\">",
+			"\t<title>${2:title}</title>",
+			"\t<system>",
+			"\t\t<console>Xbox</console>",
+			"\t\t<version>${3|360,One}</version>",
+			"\t</system>",
+			"\t<purchase>",
+			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",
+			"\t\t<price>0.00</price>",
+			"\t\t<place>Xbox Live</place>",
+			"\t</purchase>",
+			"\t<own>yes</own>",
+			"\t<notes>Normally $${notes}, but free with Gold.</notes>",
+			"</game>"
+		],
+		"description": "Adds structure for a new electronic video game, via Xbox Games with Gold."
 	}
 }

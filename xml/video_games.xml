@@ -47562,6 +47562,48 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3337" electronic="true">
+		<title>Borderlands 2: Commander Lilith &amp; the Fight for Sanctuary</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2019-06-10</date>
+			<price>0.00</price>
+			<place>Xbox Live</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free until early July.</notes>
+	</game>
+	<game id="3338" electronic="true">
+		<title>Borderlands 2: Commander Lilith &amp; the Fight for Sanctuary</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-06-10</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free until early July.</notes>
+	</game>
+	<game id="3339" electronic="true">
+		<title>Borderlands 2: Commander Lilith &amp; the Fight for Sanctuary</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2019-06-10</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free until early July.</notes>
+	</game>
 	<!--
 	-->
 	<!--

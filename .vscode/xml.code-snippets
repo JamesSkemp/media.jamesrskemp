@@ -86,7 +86,7 @@
 			"\t<title>${2:title}</title>",
 			"\t<system>",
 			"\t\t<console>Xbox</console>",
-			"\t\t<version>${3|360,One}</version>",
+			"\t\t<version>${3|360,One|}</version>",
 			"\t</system>",
 			"\t<purchase>",
 			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",

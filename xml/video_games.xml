@@ -47632,6 +47632,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="3342" used="true">
+		<title>Ys vs. Sora no Kiseki: Alternative Saga</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2019-06-09</date>
+			<price>14.99</price>
+			<place>ebay (wabitosabi)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 6/20/2019. Japanese version.</notes>
+	</game>
 	<!--
 	-->
 	<!--

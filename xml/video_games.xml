@@ -47716,6 +47716,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Gold.</notes>
 	</game>
+	<game id="3348" electronic="true">
+		<title>Conception II: Children of the Seven Stars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2019-06-23</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Looking for another Vita game.</notes>
+	</game>
 	<!--
 	-->
 	<!--

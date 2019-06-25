@@ -47730,6 +47730,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale. Looking for another Vita game.</notes>
 	</game>
+	<game id="3349">
+		<title>Judgment</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-06-25</date>
+			<price>59.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 6/25/2019, launch day.</notes>
+	</game>
+	<game id="3350" electronic="true">
+		<title>Steins;Gate Elite</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-06-25</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

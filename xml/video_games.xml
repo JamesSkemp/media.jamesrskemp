@@ -45141,7 +45141,7 @@
 		<notes>Normally $29.99, but on sale.</notes>
 	</game>
 	<game id="3164">
-		<title>Ryu ga Gotoku 3</title>
+		<title>Ryu ga Gotoku 3 (Remaster)</title>
 		<system>
 			<console>PlayStation</console>
 			<version>4</version>
@@ -47911,6 +47911,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="3362">
+		<title>Ryu ga Gotoku 4: Densetsu o Tsugumono (Remaster)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-08-31</date>
+			<price>46.99</price>
+			<place>Play-Asia.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Shipped 9/2 and received 9/21/2019.</notes>
+	</game>
+	<game id="3363">
+		<title>Ryu ga Gotoku 5: Yume, Kanaeshi Mono (Remaster)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-08-31</date>
+			<price>37.99</price>
+			<place>Play-Asia.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Japanese version. Shipped 9/2 and received 9/21/2019.</notes>
 	</game>
 	<!--
 	-->

@@ -47940,6 +47940,34 @@
 		<own>yes</own>
 		<notes>Japanese version. Shipped 9/2 and received 9/21/2019.</notes>
 	</game>
+	<game id="3364" electronic="true">
+		<title>Last of Us Remastered, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-10-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3365" electronic="true">
+		<title>MLB The Show 19</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-10-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

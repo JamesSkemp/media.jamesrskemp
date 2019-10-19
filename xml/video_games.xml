@@ -7626,7 +7626,7 @@
 		<notes>Free game.</notes>
 	</game>
 	<game id="509" beat="true">
-		<title>Yakuza Dead Souls</title>
+		<title>Yakuza: Dead Souls</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3</version>
@@ -47967,6 +47967,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3366" electronic="true">
+		<title>Yakuza: Dead Souls - The Patriot Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Appears to just be free DLC.</notes>
+	</game>
+	<game id="3367" electronic="true">
+		<title>Yakuza: Dead Souls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-19</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale as part of Halloween sale. Already have it physically, but picking up since it's cheap, and just in case/for easier access.</notes>
 	</game>
 	<!--
 	-->

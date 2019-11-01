@@ -7,7 +7,7 @@
 		</head>
 		<body>
 		<h1>James Skemp's video game collection</h1>
-		<p>The following is a list of video games owned by <a href="http://jamesrskemp.com">James Skemp</a>.</p>
+		<p>The following is a list of video games owned by <a href="https://jamesrskemp.com">James Skemp</a>.</p>
 		<div style="border:1px dashed #999;margin:.25em;padding:1em;">
 			<xsl:apply-templates select="game">
 				<xsl:sort select="lower-case(title)" data-type="text" />

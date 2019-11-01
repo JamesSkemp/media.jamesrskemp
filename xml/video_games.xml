@@ -47996,7 +47996,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale as part of Halloween sale. Already have it physically, but picking up since it's cheap, and just in case/for easier access.</notes>
 	</game>
-	<game id="3368" electronic="true">
+	<game id="3368" electronic="true" beat="true">
 		<title>Return of the Obra Dinn</title>
 		<system>
 			<console>PlayStation</console>
@@ -48008,7 +48008,63 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Been interested in for a while, so picking up for full price.</notes>
+		<notes>Been interested in for a while, so picking up for full price. Finished 10/25/2019, did use a guide for bits.</notes>
+	</game>
+	<game id="3369" electronic="true" addOn="true">
+		<title>PAIN: Fat Princess Character</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-31</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free. Need a female character for some trophies, which I'm going to try to get at least one of.</notes>
+	</game>
+	<game id="3370" electronic="true" addOn="true">
+		<title>PAIN: PAINaMotion</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-31</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
+	<game id="3371" electronic="true" addOn="true">
+		<title>PAIN: Daxter Character</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-31</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
+	<game id="3372" electronic="true" addOn="true">
+		<title>PAIN: Kato-san Character</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2019-10-31</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
 	</game>
 	<!--
 	-->

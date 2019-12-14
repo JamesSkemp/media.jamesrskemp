@@ -40251,7 +40251,7 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Games with Gold.</notes>
 	</game>
-	<game id="2815">
+	<game id="2815" beat="true">
 		<title>Horizon Zero Dawn</title>
 		<system>
 			<console>PlayStation</console>
@@ -47072,7 +47072,7 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but on sale this weekend.</notes>
 	</game>
-	<game id="3302" electronic="true" addOn="true">
+	<game id="3302" electronic="true" addOn="true" beat="true">
 		<title>Horizon Zero Dawn: The Frozen Wilds</title>
 		<system>
 			<console>PlayStation</console>
@@ -48205,6 +48205,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $39.99, but End of Year sale. Includes all DLC.</notes>
+	</game>
+	<game id="3383" electronic="true" addOn="true">
+		<title>Valkyria Chronicles 4 DLC Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-13</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but End of Year sale. Supposedly quite worth it even at original price.</notes>
 	</game>
 	<!--
 	-->

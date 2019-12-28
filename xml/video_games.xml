@@ -48220,6 +48220,118 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but End of Year sale. Supposedly quite worth it even at original price.</notes>
 	</game>
+	<game id="3384" electronic="true">
+		<title>Megadimension Neptunia VII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $29.99.</notes>
+	</game>
+	<game id="3385" electronic="true">
+		<title>Cyberdimension Neptunia: 4 Goddesses Online</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $39.99.</notes>
+	</game>
+	<game id="3386" electronic="true">
+		<title>Knights of Pen &amp; Paper +1 Deluxier Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>5.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $22.49 for bundle, marked down to $11.24.</notes>
+	</game>
+	<game id="3387" electronic="true">
+		<title>Knights of Pen &amp; Paper 2 Deluxiest Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>6.24</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $22.49, marked down to $11.24.</notes>
+	</game>
+	<game id="3388" electronic="true">
+		<title>Earth Defense Force 4.1: Wingdiver the Shooter</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $19.99.</notes>
+	</game>
+	<game id="3389" electronic="true">
+		<title>Zombie Army Trilogy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $49.99. On the fence, but at this price can't say no.</notes>
+	</game>
+	<game id="3390" electronic="true">
+		<title>Middle-earth: Shadow of War Definitive Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $59.99.</notes>
+	</game>
+	<game id="3391" electronic="true">
+		<title>Final Fantasy VIII Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-12-27</date>
+			<price>13.39</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale. Normally $19.99.</notes>
+	</game>
 	<!--
 	-->
 	<!--

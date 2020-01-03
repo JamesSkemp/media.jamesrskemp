@@ -48346,6 +48346,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but holiday sale.</notes>
 	</game>
+	<game id="3393" electronic="true">
+		<title>River City Girls</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-01-03</date>
+			<price>20.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but Holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

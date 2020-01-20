@@ -3443,4 +3443,218 @@
 			</fillup>
 		</fillups>
 	</vehicle>
+	<vehicle id="3">
+		<make>Chrysler</make>
+		<model>Pacifica Hybrid</model>
+		<year>2017</year>
+		<fillups>
+			<fillup id="1">
+				<date>2018-06-11</date>
+				<milesCar>781</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>9.884</gallons>
+				<costGallon>2.779</costGallon>
+				<costTotal>27.47</costTotal>
+				<notes>Half a tank.</notes>
+			</fillup>
+			<fillup id="2">
+				<date>2018-07-08</date>
+				<milesCar>1439</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>10.880</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>30.02</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="3">
+				<date>2018-07-11</date>
+				<milesCar>1839</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>12.758</gallons>
+				<costGallon>2.899</costGallon>
+				<costTotal>36.99</costTotal>
+				<notes>St. Louis MO</notes>
+			</fillup>
+			<fillup id="4">
+				<date>2018-07-13</date>
+				<milesCar>2088</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.714</gallons>
+				<costGallon>2.759</costGallon>
+				<costTotal>24.04</costTotal>
+				<notes>Road Ranger #140, 2705 E 12th St, Mendota IL 61342</notes>
+			</fillup>
+			<fillup id="5">
+				<date>2018-08-14</date>
+				<milesCar>2691</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.001</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>21.59</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="6">
+				<date>2018-10-04</date>
+				<milesCar>3383</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>0.727</gallons>
+				<costGallon>2.799</costGallon>
+				<costTotal>2.03</costTotal>
+				<notes>Partial, since it wasn't letting me fill it with the pump.</notes>
+			</fillup>
+			<fillup id="7">
+				<date>2018-10-29</date>
+				<milesCar>3764</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>3.352</gallons>
+				<costGallon>2.639</costGallon>
+				<costTotal>8.85</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="8">
+				<date>2018-11-22</date>
+				<milesCar>4174</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>9.599</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>23.99</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="9">
+				<date>2018-12-05</date>
+				<milesCar>4581</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>11.312</gallons>
+				<costGallon>2.259</costGallon>
+				<costTotal>25.55</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="10">
+				<date>2018-12-27</date>
+				<milesCar>4899</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.144</gallons>
+				<costGallon>2.059</costGallon>
+				<costTotal>16.77</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="11">
+				<date>2019-01-22</date>
+				<milesCar>5169</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>7.609</gallons>
+				<costGallon>1.999</costGallon>
+				<costTotal>15.21</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="12">
+				<date>2019-02-04</date>
+				<milesCar>5266</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>5.548</gallons>
+				<costGallon>2.099</costGallon>
+				<costTotal>11.65</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="13">
+				<date>2019-02-14</date>
+				<milesCar>5393</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>5.774</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>12.70</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="14">
+				<date>2019-03-08</date>
+				<milesCar>5618</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>9.496</gallons>
+				<costGallon>2.449</costGallon>
+				<costTotal>23.26</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="15">
+				<date>2019-04-02</date>
+				<milesCar>6000</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>6.611</gallons>
+				<costGallon>2.699</costGallon>
+				<costTotal>17.84</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="16">
+				<date>2019-08-23</date>
+				<milesCar>7528</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>0.834</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>2.13</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="17">
+				<date>2019-08-25</date>
+				<milesCar></milesCar>
+				<milesDriven></milesDriven>
+				<gallons>6.192</gallons>
+				<costGallon>2.559</costGallon>
+				<costTotal>14.73</costTotal>
+				<notes>1/4 from top. Paid $2.379 w/ rewards.</notes>
+			</fillup>
+			<fillup id="18">
+				<date>2019-10-09</date>
+				<milesCar>8453</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.294</gallons>
+				<costGallon>2.819</costGallon>
+				<costTotal>23.38</costTotal>
+				<notes>Citgo 24 Wheaton, 331 Rice Lake SQ, Wheaton IL 60189</notes>
+			</fillup>
+			<fillup id="19">
+				<date>2019-10-12</date>
+				<milesCar>8721</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.313</gallons>
+				<costGallon>2.669</costGallon>
+				<costTotal>22.19</costTotal>
+				<notes>7-Eleven 34712, 2500 Pearl St, Belvidere IL 61008</notes>
+			</fillup>
+			<fillup id="20">
+				<date>2019-10-28</date>
+				<milesCar>9107</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>7.352</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>17.64</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="21">
+				<date>2019-11-29</date>
+				<milesCar>9678</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>12.131</gallons>
+				<costGallon>2.499</costGallon>
+				<costTotal>30.32</costTotal>
+				<notes>Oxford WI</notes>
+			</fillup>
+			<fillup id="22">
+				<date>2019-12-19</date>
+				<milesCar>9948</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>6.366</gallons>
+				<costGallon>2.449</costGallon>
+				<costTotal>15.59</costTotal>
+				<notes></notes>
+			</fillup>
+			<fillup id="23">
+				<date>2020-01-20</date>
+				<milesCar>10280</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>9.336</gallons>
+				<costGallon>2.449</costGallon>
+				<costTotal>22.86</costTotal>
+				<notes></notes>
+			</fillup>
+		</fillups>
+	</vehicle>
 </vehicles>

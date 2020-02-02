@@ -48388,6 +48388,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but holiday sale.</notes>
 	</game>
+	<game id="3396" electronic="true">
+		<title>Uncharted: The Nathan Drake Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-01-30</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3397" electronic="true">
+		<title>Goat Simulator</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-01-30</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

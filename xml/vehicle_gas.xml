@@ -3655,6 +3655,15 @@
 				<costTotal>22.86</costTotal>
 				<notes></notes>
 			</fillup>
+			<fillup id="24">
+				<date>2020-02-11</date>
+				<milesCar>10559</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>6.561</gallons>
+				<costGallon>2.179</costGallon>
+				<costTotal>14.30</costTotal>
+				<notes>Half a tank?</notes>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

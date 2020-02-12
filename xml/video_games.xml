@@ -48416,6 +48416,20 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Plus.</notes>
 	</game>
+	<game id="3398">
+		<title>Yakuza Remastered Collection, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2019-08-30</date>
+			<price>59.96</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Preordered. Received 2/11/2020.</notes>
+	</game>
 	<!--
 	-->
 	<!--

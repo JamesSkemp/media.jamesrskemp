@@ -48444,6 +48444,20 @@
 		<own>yes</own>
 		<notes>Received 2/18/2020, launch day.</notes>
 	</game>
+	<game id="3400" electronic="true">
+		<title>Space Pirates and Zombies 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-02-18</date>
+			<price>4.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

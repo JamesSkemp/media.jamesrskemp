@@ -48500,6 +48500,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3404" electronic="true">
+		<title>Silver Case, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-02-24</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
+	<game id="3405">
+		<title>428: Shibuya Scramble</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-02-24</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale. As good as SteinsGate, Nonary Games, and others.</notes>
+	</game>
 	<!--
 	-->
 	<!--

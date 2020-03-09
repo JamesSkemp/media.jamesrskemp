@@ -48528,6 +48528,48 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but on sale. As good as SteinsGate, Nonary Games, and others.</notes>
 	</game>
+	<game id="3406" electronic="true">
+		<title>Plague Inc: Evolved</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-03-08</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale.</notes>
+	</game>
+	<game id="3407" electronic="true">
+		<title>Phoenix Wright: Ace Attorney Trilogy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-03-08</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3408" electronic="true">
+		<title>SONIC FORCES Digital Standard Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-03-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -48598,6 +48598,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99 but on sale.</notes>
 	</game>
+	<game id="3411" electronic="true">
+		<title>Uncharted 4: A Thief's End</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-04-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3412" electronic="true">
+		<title>DiRT Rally 2.0</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-04-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

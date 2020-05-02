@@ -48668,6 +48668,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but on sale.</notes>
 	</game>
+	<game id="3416" electronic="true">
+		<title>Demon's Crystals</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-02</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99 but on sale.</notes>
+	</game>
+	<game id="3417" electronic="true">
+		<title>Mega Max X Legacy</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-02</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale.</notes>
+	</game>
+	<game id="3418" electronic="true">
+		<title>Anima: Gate of Memories - Arcane Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-02</date>
+			<price>17.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes base game and expansion. Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3419" electronic="true">
+		<title>DRAGON QUEST XI - Digital Edition of Light</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-02</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

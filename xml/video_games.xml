@@ -48428,7 +48428,7 @@
 			<place>Amazon.com</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Preordered. Received 2/11/2020.</notes>
+		<notes>Preordered. Received 2/11/2020. Includes Yakuza 3, Yakuza 4, and Yakuza 5.</notes>
 	</game>
 	<game id="3399">
 		<title>Bayonetta &amp; Vanquish 10th Anniversary Bundle: Launch Edition</title>
@@ -48723,6 +48723,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $59.99 but on sale.</notes>
+	</game>
+	<game id="3420">
+		<title>Attack on Titan 2: Final Battle Standard Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-13</date>
+			<price>24.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On clearance for $24.99, but had a one-day $5 gift card and $10 gift card expiring on 5/16. Opted for $6.99 shipping to get it sooner.</notes>
 	</game>
 	<!--
 	-->

@@ -48738,6 +48738,34 @@
 		<own>yes</own>
 		<notes>On clearance for $24.99, but had a one-day $5 gift card and $10 gift card expiring on 5/16. Opted for $6.99 shipping to get it sooner.</notes>
 	</game>
+	<game id="3421" electronic="true">
+		<title>Farming Simulator 19</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3422" electronic="true">
+		<title>Cities: Skylines - PlayStation 4 Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-05-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

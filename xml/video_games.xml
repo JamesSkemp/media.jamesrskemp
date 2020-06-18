@@ -48766,6 +48766,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="3423" electronic="true">
+		<title>Star Wars Battlefront II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-06-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3424" electronic="true">
+		<title>Call of Duty: WWII</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-06-17</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Appears to be a PlayStation Plus exclusive version. Unclear what that entails.</notes>
+	</game>
 	<!--
 	-->
 	<!--

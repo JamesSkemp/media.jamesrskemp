@@ -48794,6 +48794,34 @@
 		<own>yes</own>
 		<notes>Appears to be a PlayStation Plus exclusive version. Unclear what that entails.</notes>
 	</game>
+	<game id="3425" electronic="true">
+		<title>NBA 2K20</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="3426" electronic="true">
+		<title>Rise of the Tomb Raider: 20 Year Celebration</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

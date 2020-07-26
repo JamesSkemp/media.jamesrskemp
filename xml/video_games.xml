@@ -48822,6 +48822,90 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
 	</game>
+	<game id="3427" electronic="true" addOn="true">
+		<title>Warriors Orochi 4: The Ultimate Upgrade Pack Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>34.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but summer sale.</notes>
+	</game>
+	<game id="3428" electronic="true">
+		<title>LEGO CITY Undercover</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but summer sale.</notes>
+	</game>
+	<game id="3429" electronic="true">
+		<title>Kingdom Hearts III</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>17.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but summer sale.</notes>
+	</game>
+	<game id="3430" electronic="true">
+		<title>Final Fantasy XV Royal Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>17.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99, but summer sale.</notes>
+	</game>
+	<game id="3431" electronic="true">
+		<title>Ni no Kuni II: Revenant Kingdom - Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $79.99, but summer sale.</notes>
+	</game>
+	<game id="3432" electronic="true" addOn="true">
+		<title>Final Fantasy XV: Episode Ardyn</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-07-26</date>
+			<price>2.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but summer sale. Only DLC not part of Royal Edition/season pass.</notes>
+	</game>
 	<!--
 	-->
 	<!--

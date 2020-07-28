@@ -10156,6 +10156,42 @@
 		<Quantity>1</Quantity>
 		<Notes>Received 12/18/2018.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>654</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Color Classics Vol. 1</DescriptiveName>
+		<Series>TMNT Color Classics</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2020.07.28</BoughtDate>
+		<BoughtPrice>29.99</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Recieved 7/27/2020.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>655</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Color Classics Vol. 2</DescriptiveName>
+		<Series>TMNT Color Classics</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2020.07.28</BoughtDate>
+		<BoughtPrice>22.53</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Recieved 7/27/2020.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>656</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles Color Classics Vol. 3</DescriptiveName>
+		<Series>TMNT Color Classics</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2020.07.28</BoughtDate>
+		<BoughtPrice>21.35</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Recieved 7/27/2020. Back cover bent.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--

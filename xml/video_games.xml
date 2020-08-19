@@ -48906,6 +48906,34 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but summer sale. Only DLC not part of Royal Edition/season pass.</notes>
 	</game>
+	<game id="3433" electronic="true">
+		<title>Fall Guys: Ultimate Knockout</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-08-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3434" electronic="true">
+		<title>Call of Duty: Modern Warfare 2 Campaign Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-08-18</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally unknown amount, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

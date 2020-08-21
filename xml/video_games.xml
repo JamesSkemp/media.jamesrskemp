@@ -48934,6 +48934,20 @@
 		<own>yes</own>
 		<notes>Normally unknown amount, but free with Plus.</notes>
 	</game>
+	<game id="3435" electronic="true">
+		<title>Scar of the Doll</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-08-20</date>
+			<price>1.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Was mentioned in Squaresoft Japan Only PS1 Games by ThorHighHeels I watched a few days ago. On sale now, for a few days.</notes>
+	</game>
 	<!--
 	-->
 	<!--

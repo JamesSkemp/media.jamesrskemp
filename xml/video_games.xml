@@ -8197,7 +8197,7 @@
 			<place>PlayStation Network</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Full game and DLC. $7.99, but on sale for PlayStation Plus members.</notes>
+		<notes>Full game and Knives Chau DLC. $7.99, but on sale for PlayStation Plus members.</notes>
 	</game>
 	<game id="549" electronic="true" addOn="true" beat="true">
 		<title>NIER: The World of Recycled Vessel</title>
@@ -48947,6 +48947,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Was mentioned in Squaresoft Japan Only PS1 Games by ThorHighHeels I watched a few days ago. On sale now, for a few days.</notes>
+	</game>
+	<game id="3436">
+		<title>Kunio-kun: The World Classics Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-08-23</date>
+			<price>54.98</price>
+			<place>ebay (sondox)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/1/2020. Chinese + English version.</notes>
 	</game>
 	<!--
 	-->

@@ -48962,6 +48962,62 @@
 		<own>yes</own>
 		<notes>Received 9/1/2020. Chinese + English version.</notes>
 	</game>
+	<game id="3437" electronic="true">
+		<title>Street Fighter V</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3438" electronic="true">
+		<title>Playerunknown's Battlegrounds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3439" electronic="true">
+		<title>Sword Art Online: Fatal Bullet Complete Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-06</date>
+			<price>17.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but on sale. Based upon review looks like it should be good.</notes>
+	</game>
+	<game id="3440" electronic="true">
+		<title>25th Ward, The: The Silver Case</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-06</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

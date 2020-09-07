@@ -49018,6 +49018,76 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but on sale.</notes>
 	</game>
+	<game id="3441" electronic="true">
+		<title>GRIS</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-07</date>
+			<price>6.70</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $16.99, but on sale.</notes>
+	</game>
+	<game id="3442" electronic="true">
+		<title>Punch Club</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-07</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="3443" electronic="true">
+		<title>Riddled Corpses EX</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-07</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="3444" electronic="true">
+		<title>Shiness: The Lightning Kingdom</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-07</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale. For $2 worth trying, even if I dno't like it/can't play it.</notes>
+	</game>
+	<game id="3445" electronic="true">
+		<title>Xenon Valkyrie+</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-07</date>
+			<price>1.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

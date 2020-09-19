@@ -49130,6 +49130,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but on sale.</notes>
 	</game>
+	<game id="3449">
+		<title>Radiant Historia: Perfect Chronology</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2020-09-17</date>
+			<price>48.25</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/19/2020. Read a post on Hacker News that mentioned 3DS no longer being produced and that the price of this game had gone up. Doesn't seem that expensive, but ... may as well get it while I can.</notes>
+	</game>
+	<game id="3450">
+		<title>Langrisser Re: Incarnation - Tensei</title>
+		<system>
+			<console>Nintendo</console>
+			<version>3DS</version>
+		</system>
+		<purchase>
+			<date>2020-09-17</date>
+			<price>17.75</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 9/19/2020. Was looking at other games with Radiant Historia, and decided to take a chance with this one, given price.</notes>
+	</game>
 	<!--
 	-->
 	<!--

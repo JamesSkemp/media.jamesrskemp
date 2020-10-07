@@ -49242,6 +49242,62 @@
 		<own>yes</own>
 		<notes>Normally $29.99.</notes>
 	</game>
+	<game id="3457" electronic="true">
+		<title>Cat Quest II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-06</date>
+			<price>8.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Enjoying the first one enough that I might as well buy the second while it's on sale.</notes>
+	</game>
+	<game id="3458" electronic="true">
+		<title>Ys VIII: Lacrimosa of DANA</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-06</date>
+			<price>24.59</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Has been on my wishlist for a while, and this is as cheap as it's been.</notes>
+	</game>
+	<game id="3459" electronic="true">
+		<title>AI: THE SOMNIUM FILES</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-06</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Zero Escape, etcetera, folks were behind this. Has been in my wishlist for a while.</notes>
+	</game>
+	<game id="3460" electronic="true">
+		<title>Zanki Zero: Last Beginning</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-06</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Popped up when adding AI to my cart. Same developer, but doesn't appear to be related to the Escape games. At that discount, worth a try.</notes>
+	</game>
 	<!--
 	-->
 	<!--

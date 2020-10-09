@@ -49298,6 +49298,48 @@
 		<own>yes</own>
 		<notes>Normally $59.99. Popped up when adding AI to my cart. Same developer, but doesn't appear to be related to the Escape games. At that discount, worth a try.</notes>
 	</game>
+	<game id="3461" electronic="true">
+		<title>Ecolibrium</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2020-10-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free game. Supposedly okay for free trophies.</notes>
+	</game>
+	<game id="3462" electronic="true">
+		<title>Frobisher Says!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2020-10-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free game. Supposedly okay for free trophies.</notes>
+	</game>
+	<game id="3463" electronic="true">
+		<title>No Heroes Allowed: No Puzzles Either!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Vita</version>
+		</system>
+		<purchase>
+			<date>2020-10-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free game. Supposedly okay for free trophies.</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -49340,6 +49340,90 @@
 		<own>yes</own>
 		<notes>Free game. Supposedly okay for free trophies.</notes>
 	</game>
+	<game id="3464" electronic="true">
+		<title>DeathSpank</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchasing while I can still buy PS3 games online.</notes>
+	</game>
+	<game id="3465" electronic="true">
+		<title>DeathSpank: The Baconing</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchasing online while I can. And I've been playing PS3 more recently.</notes>
+	</game>
+	<game id="3466" electronic="true">
+		<title>Black Knight Sword</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>It's only been on sale once, so purchasing while there's still a wishlist and I can purchase it via my computer.</notes>
+	</game>
+	<game id="3467" electronic="true">
+		<title>Witch and the Hundred Knight Wicked Bundle, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>27.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99. Includes both first and second game.</notes>
+	</game>
+	<game id="3468" electronic="true">
+		<title>Need for Speed Payback</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3469" electronic="true">
+		<title>Vampyr</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
 	<!--
 	-->
 	<!--

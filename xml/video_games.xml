@@ -49424,6 +49424,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="3470">
+		<title>Trials of Mana</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-19</date>
+			<price>34.78</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/21/2020. Cheaper than purchasing on PSN.</notes>
+	</game>
+	<game id="3471">
+		<title>Nights of Azure 2: Bride of the New Moon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-10-19</date>
+			<price>31.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/21/2020. Cheaper than purchasing on PSN, and recently came up in a review.</notes>
+	</game>
 	<!--
 	-->
 	<!--

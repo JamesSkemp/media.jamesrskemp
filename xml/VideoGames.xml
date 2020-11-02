@@ -2085,6 +2085,20 @@
 			<own>yes</own>
 			<notes>Recieved 7/30/2020.</notes>
 		</item>
+		<item id="152">
+			<name>Retroid Pocket 2 - 16 bit</name>
+			<system>
+				<console>Android</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2020-08-31</date>
+				<price>80.00</price>
+				<place>goretroid.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Shipped 9/30/2020, and received 10/24/2020. Also got the carrying case for $10, and there was $15 for shipping. Came with 32GB card.</notes>
+		</item>
 	<!--
 		<item id="">
 			<name></name>

@@ -49466,6 +49466,62 @@
 		<own>yes</own>
 		<notes>Pre-ordered. Received 11/10/2020.</notes>
 	</game>
+	<game id="3473" electronic="true">
+		<title>Hollow Knight Voidheart Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-11-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but free with Plus.</notes>
+	</game>
+	<game id="3474" electronic="true">
+		<title>Bugsnax</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2020-11-21</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
+	<game id="3475" electronic="true">
+		<title>Yakuza 6: The Song of Life</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-11-21</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale for Black Friday. Opted to get an electronic copy since it was so cheap.</notes>
+	</game>
+	<game id="3476" electronic="true">
+		<title>Control: Ultimate Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-11-21</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but Black Friday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

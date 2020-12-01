@@ -2099,7 +2099,49 @@
 			<own>yes</own>
 			<notes>Shipped 9/30/2020, and received 10/24/2020. Also got the carrying case for $10, and there was $15 for shipping. Came with 32GB card.</notes>
 		</item>
-	<!--
+		<item id="153">
+			<name>PlayStation 4 Pro 1TB (CUH-7215B)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2020-11-28</date>
+				<price>399.99</price>
+				<place>Sony</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 11/30/2020. Can't purchase one from anyone else.</notes>
+		</item>
+		<item id="154">
+			<name>PlayStation 4 DUALSHOCK 4 Wireless Controller</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2020-11-28</date>
+				<price>0.00</price>
+				<place>Sony</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Included with PS4 Pro.</notes>
+		</item>
+		<item id="155">
+			<name>DUALSHOCK 4 Back Button Attachment</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2020-11-28</date>
+				<price>29.99</price>
+				<place>Sony</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 11/30/2020. Picked up with my PS4 Pro. Not sure I need it, but ...</notes>
+		</item>
+		<!--
 		<item id="">
 			<name></name>
 			<system>
@@ -2114,6 +2156,6 @@
 			<own>yes</own>
 			<notes></notes>
 		</item>
-	-->
+		-->
 	</hardware>
 </videoGames>

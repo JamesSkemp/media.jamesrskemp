@@ -49606,6 +49606,34 @@
 		<own>yes</own>
 		<notes>Whatever. Support the game.</notes>
 	</game>
+	<game id="3483" electronic="true">
+		<title>NieR: Automata 3C3C1D119440927</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-22</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but holiday sale.</notes>
+	</game>
+	<game id="3484" electronic="true">
+		<title>Incredible Adventures of Van Helsing, The: Extended Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-22</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

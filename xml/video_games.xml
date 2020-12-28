@@ -49662,6 +49662,160 @@
 		<own>yes</own>
 		<notes>Normally $21.99, but holiday sale.</notes>
 	</game>
+	<game id="3487" electronic="true">
+		<title>Orcs Must Die!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>1.97</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3488" electronic="true">
+		<title>Orcs Must Die! - Artifacts of Power DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3489" electronic="true">
+		<title>Orcs Must Die! - Lost Adventures DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.58</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3490" electronic="true">
+		<title>Orcs Must Die 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>2.95</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3491" electronic="true">
+		<title>Orcs Must Die! 2 Soundtrack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>1.18</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3492" electronic="true">
+		<title>Orcs Must Die 2 - Fire and Water Booster Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.98</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3493" electronic="true">
+		<title>Orcs Must Die! 2 - Family Ties Booster Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.98</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3494" electronic="true">
+		<title>Orcs Must Die 2 - Are We There Yeti?</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.98</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Orcs Must Die Franchise bundle. Purchased for the second game, so I could play with Vanessa.</notes>
+	</game>
+	<game id="3495" electronic="true">
+		<title>Captain Forever Remix</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale.</notes>
+	</game>
+	<game id="3496" electronic="true">
+		<title>Kingsway</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale.</notes>
+	</game>
+	<game id="3497" electronic="true">
+		<title>Octopath Traveler</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2020-12-27</date>
+			<price>29.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

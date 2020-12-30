@@ -49816,6 +49816,62 @@
 		<own>yes</own>
 		<notes>Holiday sale.</notes>
 	</game>
+	<game id="3498" electronic="true">
+		<title>Final Fantasy VII Remake Digital Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-30</date>
+			<price>39.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $79.99, but on sale.</notes>
+	</game>
+	<game id="3499" electronic="true">
+		<title>Langrisser I &amp; II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-30</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but on sale.</notes>
+	</game>
+	<game id="3500" electronic="true">
+		<title>Unravel Yarny Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-30</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes Unravel and Unravel Two. Normally $29.99, but on sale.</notes>
+	</game>
+	<game id="3501" electronic="true">
+		<title>Cladun Returns: This Is Sengoku!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-12-30</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
 	<!--
 	-->
 	<!--

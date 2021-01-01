@@ -49872,6 +49872,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="3502" electronic="true">
+		<title>Earth Defense Force 4.1 The Shadow of New Despair</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-01-01</date>
+			<price>21.97</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Includes purchasing Mission pack DLC 1 and 2. Steam winter sale. For playing with Vanessa (who I also picked up copies for).</notes>
+	</game>
 	<!--
 	-->
 	<!--

@@ -4995,7 +4995,7 @@
 		<notes><![CDATA[Part of a buy one get one half-off sale. Was $36.60 before discount. Received 12/10/2010. Started 1/1/2011 and beat 1/10/201, with a time of around 42 hours, with arena fights and command completions still needed.]]></notes>
 	</game>
 	<game id="327" electronic="true" beat="true">
-		<title>Grandia</title>
+		<title>Grandia (PSOne Classic)</title>
 		<system>
 			<console>PlayStation</console>
 			<version>1</version>
@@ -23214,7 +23214,7 @@
 		<notes>Free for PlayStation Plus. Normally $14.99.</notes>
 	</game>
 	<game id="1606" electronic="true">
-		<title>Legend of Mana</title>
+		<title>Legend of Mana (PSOne Classic)</title>
 		<system>
 			<console>PlayStation</console>
 			<version>1</version>
@@ -49885,6 +49885,62 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Includes purchasing Mission pack DLC 1 and 2. Steam winter sale. For playing with Vanessa (who I also picked up copies for).</notes>
+	</game>
+	<game id="3503" electronic="true">
+		<title>Misadventures of Tron Bonne, The (PSOne Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3/Vita/Portable</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Based upon the recommendation of a Jeremy Parish review.</notes>
+	</game>
+	<game id="3504" electronic="true">
+		<title>Arc the Lad II (PSOne Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3/Vita/Portable</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3505" electronic="true">
+		<title>Arc the Lad III (PSOne Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3/Vita/Portable</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3504" electronic="true">
+		<title>Arc Area: Monster Tournament (PSOne Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3/Vita/Portable</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
 	</game>
 	<!--
 	-->

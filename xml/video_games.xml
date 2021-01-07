@@ -49928,7 +49928,7 @@
 		<own>yes</own>
 		<notes/>
 	</game>
-	<game id="3504" electronic="true">
+	<game id="3506" electronic="true">
 		<title>Arc Area: Monster Tournament (PSOne Classic)</title>
 		<system>
 			<console>PlayStation</console>
@@ -49941,6 +49941,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes/>
+	</game>
+	<game id="3507" electronic="true">
+		<title>Arc the Lad (PSOne Classic)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3/Vita/Portable</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3508" electronic="true">
+		<title>13 Sentinels: Aegis Rim</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-01-06</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
 	</game>
 	<!--
 	-->

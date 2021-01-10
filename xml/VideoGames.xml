@@ -2169,6 +2169,20 @@
 			<own>yes</own>
 			<notes>Signed up for a free PlayStation VR to PlayStation 5 adapter a little while ago. Purchase date is receive date.</notes>
 		</item>
+		<item id="158">
+			<name>DUALSHOCK 4 Back Button Attachment</name>
+			<system>
+				<console>PlayStation</console>
+				<version>4</version>
+			</system>
+			<purchase>
+				<date>2021-01-05</date>
+				<price>19.96</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/9/2021. Opted to order another, since Amazon was selling them for a good price.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

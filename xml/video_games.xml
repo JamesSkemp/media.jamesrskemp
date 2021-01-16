@@ -49970,6 +49970,20 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but on sale.</notes>
 	</game>
+	<game id="3509" electronic="true">
+		<title>Scott Pilgrim vs. The World: The Game - Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version>UConnect</version>
+		</system>
+		<purchase>
+			<date>2021-01-16</date>
+			<price>13.19</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale. Just released a couple days ago. UConnect.</notes>
+	</game>
 	<!--
 	-->
 	<!--

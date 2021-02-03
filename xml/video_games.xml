@@ -50040,6 +50040,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="3514" electronic="true">
+		<title>Supersonic Acrobatic Rocket-Powered Battle-Cars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-02-03</date>
+			<price>2.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Heard it was a good game for younger kids.</notes>
+	</game>
+	<game id="3515" electronic="true">
+		<title>LittleBigPlanet 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-02-03</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Already have on PS4, but this way we have a couple PS3 options.</notes>
+	</game>
 	<!--
 	-->
 	<!--

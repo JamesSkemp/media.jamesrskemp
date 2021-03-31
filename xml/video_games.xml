@@ -50222,6 +50222,48 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3527" electronic="true">
+		<title>NieR:Automata™ BECOME AS GODS Edition</title>
+		<system>
+			<console>Xbox</console>
+			<version>One</version>
+		</system>
+		<purchase>
+			<date>2021-03-23</date>
+			<price>39.99</price>
+			<place>Microsoft Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Decided to pick it up and dust off my Xbox One.</notes>
+	</game>
+	<game id="3528" electronic="true">
+		<title>Incredible Machine Mega Pack, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-03-30</date>
+			<price>2.49</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Spring sale, normally $9.99. Purchased because Elliott may like it.</notes>
+	</game>
+	<game id="3529" electronic="true">
+		<title>Creatures Village</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-03-30</date>
+			<price>5.99</price>
+			<place>GOG</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased because Elliott may like it.</notes>
+	</game>
 	<!--
 	-->
 	<!--

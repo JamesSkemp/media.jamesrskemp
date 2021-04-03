@@ -1,0 +1,19 @@
+{
+  "name": "media.jamesrskemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build:video_games": "node ./node/video_games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/strivinglife/media.jamesrskemp.git"
+  },
+  "author": "James Skemp <strivinglife@gmail.com> (https://jamesrskemp.com/)",
+  "homepage": "https://gitlab.com/strivinglife/media.jamesrskemp#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}

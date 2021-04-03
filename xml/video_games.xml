@@ -49929,7 +49929,7 @@
 		<notes/>
 	</game>
 	<game id="3506" electronic="true">
-		<title>Arc Area: Monster Tournament (PSOne Classic)</title>
+		<title>Arc Arena: Monster Tournament (PSOne Classic)</title>
 		<system>
 			<console>PlayStation</console>
 			<version>3/Vita/Portable</version>
@@ -50264,6 +50264,9 @@
 		<own>yes</own>
 		<notes>Purchased because Elliott may like it.</notes>
 	</game>
+	<!-- after adding new items run the following from root:
+	npm run build:video_games
+	-->
 	<!--
 	-->
 	<!--

@@ -50264,6 +50264,90 @@
 		<own>yes</own>
 		<notes>Purchased because Elliott may like it.</notes>
 	</game>
+	<game id="3530" used="true">
+		<title>Lego Indiana Jones 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.52</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
+	<game id="3531" used="true">
+		<title>Lego Harry Potter Years 5-7</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.53</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
+	<game id="3532" used="true">
+		<title>Lego Batman</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.52</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
+	<game id="3533" used="true">
+		<title>Lego Batman 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.52</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
+	<game id="3534" used="true">
+		<title>Marvel Super Hero Squad</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.52</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
+	<game id="3535" used="true">
+		<title>Super Scribblenauts</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-03-24</date>
+			<price>5.53</price>
+			<place>ebay (megaalpha)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

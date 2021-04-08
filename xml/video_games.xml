@@ -50348,6 +50348,62 @@
 		<own>yes</own>
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
+	<game id="3536" used="true">
+		<title>Puzzle Quest: Challenge of the Warlords</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>7.28</price>
+			<place>ebay (ending87)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3537" used="true">
+		<title>Puzzle Quest 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>7.28</price>
+			<place>ebay (ending87)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3538" used="true">
+		<title>Puzzle Quest: Galactrix</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>7.29</price>
+			<place>ebay (ending87)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3539" electronic="true">
+		<title>Wild Arms XF</title>
+		<system>
+			<console>PlayStation</console>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2021-04-07</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchasing before the stores shut down.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -50404,6 +50404,20 @@
 		<own>yes</own>
 		<notes>Purchasing before the stores shut down.</notes>
 	</game>
+	<game id="3540" used="true">
+		<title>Lego Batman 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>10.54</price>
+			<place>ebay (spectacularitem)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/8/2021. Second copy so we can play with Elliott.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

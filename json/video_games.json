@@ -135373,6 +135373,44 @@
 				"notes": [
 					"Purchasing before the stores shut down."
 				]
+			},
+			{
+				"$": {
+					"id": "3540",
+					"used": "true"
+				},
+				"title": [
+					"Lego Batman 2"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"10.54"
+						],
+						"place": [
+							"ebay (spectacularitem)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/8/2021. Second copy so we can play with Elliott."
+				]
 			}
 		]
 	}

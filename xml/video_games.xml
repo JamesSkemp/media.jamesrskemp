@@ -50474,6 +50474,48 @@
 		<own>yes</own>
 		<notes>Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended.</notes>
 	</game>
+	<game id="3544" used="true">
+		<title>Marvel Super Hero Squad</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.43</price>
+			<place>ebay (jungledave88)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Second copy so we can play with Elliott.</notes>
+	</game>
+	<game id="3545" used="true">
+		<title>Scribblenauts</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.46</price>
+			<place>ebay (ocelots7)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Included in game bundle.</notes>
+	</game>
+	<game id="3546" used="true">
+		<title>Super Scribblenauts</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.46</price>
+			<place>ebay (ocelots7)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Second copy so we could play with Elliott. Included in game bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -135563,6 +135563,120 @@
 				"notes": [
 					"Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended."
 				]
+			},
+			{
+				"$": {
+					"id": "3544",
+					"used": "true"
+				},
+				"title": [
+					"Marvel Super Hero Squad"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.43"
+						],
+						"place": [
+							"ebay (jungledave88)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Second copy so we can play with Elliott."
+				]
+			},
+			{
+				"$": {
+					"id": "3545",
+					"used": "true"
+				},
+				"title": [
+					"Scribblenauts"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.46"
+						],
+						"place": [
+							"ebay (ocelots7)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Included in game bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3546",
+					"used": "true"
+				},
+				"title": [
+					"Super Scribblenauts"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.46"
+						],
+						"place": [
+							"ebay (ocelots7)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Second copy so we could play with Elliott. Included in game bundle."
+				]
 			}
 		]
 	}

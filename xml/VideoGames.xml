@@ -2183,6 +2183,34 @@
 			<own>yes</own>
 			<notes>Received 1/9/2021. Opted to order another, since Amazon was selling them for a good price.</notes>
 		</item>
+		<item id="159">
+			<name>Predator Helios 300 Gaming Laptop - PH315-53-71QX</name>
+			<system>
+				<console>PC</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2021-04-04</date>
+				<price>1499.99</price>
+				<place>Acer</place>
+			</purchase>
+			<own>yes</own>
+			<notes>This is about what I was looking at last year, but is a newer model. Finally picked one up.</notes>
+		</item>
+		<item id="160">
+			<name>VOYEE Wired Xbox 360 Controller Replacement</name>
+			<system>
+				<console>Xbox</console>
+				<version>360</version>
+			</system>
+			<purchase>
+				<date>2021-04-08</date>
+				<price>18.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Got one for Vanessa for her b-day, and after she said it was quite good, picked up one for myself (for Elliott/April). Received 4/9/2021.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

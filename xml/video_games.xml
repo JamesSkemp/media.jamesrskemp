@@ -50418,6 +50418,62 @@
 		<own>yes</own>
 		<notes>Received 4/8/2021. Second copy so we can play with Elliott.</notes>
 	</game>
+	<game id="3541" electronic="true">
+		<title>Legasista</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Supposedly worth picking up before the PS3 store shuts down.</notes>
+	</game>
+	<game id="3542" electronic="true">
+		<title>SMT: Devil Summoner</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3542" electronic="true">
+		<title>SMT: Devil Summoner 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3543" electronic="true">
+		<title>Hard Corps: Uprising</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

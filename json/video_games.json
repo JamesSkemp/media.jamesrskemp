@@ -135411,6 +135411,158 @@
 				"notes": [
 					"Received 4/8/2021. Second copy so we can play with Elliott."
 				]
+			},
+			{
+				"$": {
+					"id": "3541",
+					"electronic": "true"
+				},
+				"title": [
+					"Legasista"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Supposedly worth picking up before the PS3 store shuts down."
+				]
+			},
+			{
+				"$": {
+					"id": "3542",
+					"electronic": "true"
+				},
+				"title": [
+					"SMT: Devil Summoner"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
+			},
+			{
+				"$": {
+					"id": "3542",
+					"electronic": "true"
+				},
+				"title": [
+					"SMT: Devil Summoner 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
+			},
+			{
+				"$": {
+					"id": "3543",
+					"electronic": "true"
+				},
+				"title": [
+					"Hard Corps: Uprising"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended."
+				]
 			}
 		]
 	}

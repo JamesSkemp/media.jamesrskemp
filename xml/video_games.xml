@@ -50348,7 +50348,163 @@
 		<own>yes</own>
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
-	<game id="3536" electronic="true">
+	<game id="3536" used="true">
+		<title>Puzzle Quest: Challenge of the Warlords</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>7.28</price>
+			<place>ebay (ending87)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3537" used="true">
+		<title>Puzzle Quest 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>7.28</price>
+			<place>ebay (ending87)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3538" used="true">
+		<title>Puzzle Quest: Galactrix</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
+	</game>
+	<game id="3539" electronic="true">
+		<title>Wild Arms XF</title>
+		<system>
+			<version>Portable</version>
+		</system>
+		<purchase>
+			<date>2021-04-07</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchasing before the stores shut down.</notes>
+	</game>
+	<game id="3540" used="true">
+		<title>Lego Batman 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>10.54</price>
+			<place>ebay (spectacularitem)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/8/2021. Second copy so we can play with Elliott.</notes>
+	</game>
+		<system>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Supposedly worth picking up before the PS3 store shuts down.</notes>
+	</game>
+	<game id="3542" electronic="true">
+		<title>SMT: Devil Summoner</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+	</game>
+	<game id="3542" electronic="true">
+		<title>SMT: Devil Summoner 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3543" electronic="true">
+		<title>Hard Corps: Uprising</title>
+		<system>
+			<console>PlayStation</console>
+			<version>3</version>
+		</system>
+		<purchase>
+			<date>2021-04-08</date>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended.</notes>
+	</game>
+	<game id="3544" used="true">
+		<title>Marvel Super Hero Squad</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.43</price>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Second copy so we can play with Elliott.</notes>
+	</game>
+	<game id="3545" used="true">
+		<title>Scribblenauts</title>
+		<system>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.46</price>
+			<place>ebay (ocelots7)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Included in game bundle.</notes>
+	</game>
+	<game id="3546" used="true">
+		<title>Super Scribblenauts</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-04</date>
+			<price>8.46</price>
+			<place>ebay (ocelots7)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/9/2021. Second copy so we could play with Elliott. Included in game bundle.</notes>
+	</game>
+	<game id="3547" electronic="true">
 		<title>LEGO Harry Potter: Years 1-4</title>
 		<system>
 			<console>PC</console>
@@ -50362,7 +50518,7 @@
 		<own>yes</own>
 		<notes>Build and Destroy sale.</notes>
 	</game>
-	<game id="3537" electronic="true">
+	<game id="3548" electronic="true">
 		<title>LEGO Harry Potter: Years 5-7</title>
 		<system>
 			<console>PC</console>

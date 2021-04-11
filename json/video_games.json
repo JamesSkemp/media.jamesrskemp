@@ -135221,6 +135221,462 @@
 				"notes": [
 					"Received 4/2/2021. Bundle. Thought they might be good for Elliott."
 				]
+			},
+			{
+				"$": {
+					"id": "3536",
+					"used": "true"
+				},
+				"title": [
+					"Puzzle Quest: Challenge of the Warlords"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"7.28"
+						],
+						"place": [
+							"ebay (ending87)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/6/2021. Bundle. Thought they might be good for Elliott/April."
+				]
+			},
+			{
+				"$": {
+					"id": "3537",
+					"used": "true"
+				},
+				"title": [
+					"Puzzle Quest 2"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"7.28"
+						],
+						"place": [
+							"ebay (ending87)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/6/2021. Bundle. Thought they might be good for Elliott/April."
+				]
+			},
+			{
+				"$": {
+					"id": "3538",
+					"used": "true"
+				},
+				"title": [
+					"Puzzle Quest: Galactrix"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"7.29"
+						],
+						"place": [
+							"ebay (ending87)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/6/2021. Bundle. Thought they might be good for Elliott/April."
+				]
+			},
+			{
+				"$": {
+					"id": "3539",
+					"electronic": "true"
+				},
+				"title": [
+					"Wild Arms XF"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"Portable"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-07"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Purchasing before the stores shut down."
+				]
+			},
+			{
+				"$": {
+					"id": "3540",
+					"used": "true"
+				},
+				"title": [
+					"Lego Batman 2"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"10.54"
+						],
+						"place": [
+							"ebay (spectacularitem)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/8/2021. Second copy so we can play with Elliott."
+				]
+			},
+			{
+				"$": {
+					"id": "3541",
+					"electronic": "true"
+				},
+				"title": [
+					"Legasista"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Supposedly worth picking up before the PS3 store shuts down."
+				]
+			},
+			{
+				"$": {
+					"id": "3542",
+					"electronic": "true"
+				},
+				"title": [
+					"SMT: Devil Summoner"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
+			},
+			{
+				"$": {
+					"id": "3542",
+					"electronic": "true"
+				},
+				"title": [
+					"SMT: Devil Summoner 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
+			},
+			{
+				"$": {
+					"id": "3543",
+					"electronic": "true"
+				},
+				"title": [
+					"Hard Corps: Uprising"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"3"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-08"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Also picked up the three DLC characters, for $2.49 each. Game Sack and a 'get it before PS3 store is gone' video have both recommended."
+				]
+			},
+			{
+				"$": {
+					"id": "3544",
+					"used": "true"
+				},
+				"title": [
+					"Marvel Super Hero Squad"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.43"
+						],
+						"place": [
+							"ebay (jungledave88)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Second copy so we can play with Elliott."
+				]
+			},
+			{
+				"$": {
+					"id": "3545",
+					"used": "true"
+				},
+				"title": [
+					"Scribblenauts"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.46"
+						],
+						"place": [
+							"ebay (ocelots7)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Included in game bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3546",
+					"used": "true"
+				},
+				"title": [
+					"Super Scribblenauts"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-04"
+						],
+						"price": [
+							"8.46"
+						],
+						"place": [
+							"ebay (ocelots7)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Received 4/9/2021. Second copy so we could play with Elliott. Included in game bundle."
+				]
 			}
 		]
 	}

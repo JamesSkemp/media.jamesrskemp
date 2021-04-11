@@ -50348,6 +50348,34 @@
 		<own>yes</own>
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
+	<game id="3536" electronic="true">
+		<title>LEGO Harry Potter: Years 1-4</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-10</date>
+			<price>4.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Build and Destroy sale.</notes>
+	</game>
+	<game id="3537" electronic="true">
+		<title>LEGO Harry Potter: Years 5-7</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-10</date>
+			<price>4.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Build and Destroy sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -135317,17 +135317,7 @@
 					}
 				],
 				"purchase": [
-					{
-						"date": [
-							"2021-04-03"
-						],
-						"price": [
-							"7.29"
-						],
-						"place": [
-							"ebay (ending87)"
-						]
-					}
+					"\n\t\t"
 				],
 				"own": [
 					"yes"
@@ -135346,9 +135336,6 @@
 				],
 				"system": [
 					{
-						"console": [
-							"PlayStation"
-						],
 						"version": [
 							"Portable"
 						]
@@ -135422,9 +135409,6 @@
 				],
 				"system": [
 					{
-						"console": [
-							"PlayStation"
-						],
 						"version": [
 							"3"
 						]
@@ -135483,9 +135467,6 @@
 				],
 				"own": [
 					"yes"
-				],
-				"notes": [
-					""
 				]
 			},
 			{
@@ -135508,9 +135489,6 @@
 				],
 				"purchase": [
 					{
-						"date": [
-							"2021-04-08"
-						],
 						"price": [
 							"9.99"
 						],
@@ -135549,9 +135527,6 @@
 						"date": [
 							"2021-04-08"
 						],
-						"price": [
-							"14.99"
-						],
 						"place": [
 							"PlayStation Network"
 						]
@@ -135589,9 +135564,6 @@
 						],
 						"price": [
 							"8.43"
-						],
-						"place": [
-							"ebay (jungledave88)"
 						]
 					}
 				],
@@ -135612,9 +135584,6 @@
 				],
 				"system": [
 					{
-						"console": [
-							"Nintendo"
-						],
 						"version": [
 							"DS"
 						]
@@ -135676,6 +135645,120 @@
 				],
 				"notes": [
 					"Received 4/9/2021. Second copy so we could play with Elliott. Included in game bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3547",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Harry Potter: Years 1-4"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-10"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Build and Destroy sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3548",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Harry Potter: Years 5-7"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-10"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Build and Destroy sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3549",
+					"electronic": "true"
+				},
+				"title": [
+					"Tracks - The Train Set Game"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-14"
+						],
+						"price": [
+							"21.58"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Purchased for Elliott. Game plus Sci-Fi Pack."
 				]
 			}
 		]

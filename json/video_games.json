@@ -135760,6 +135760,120 @@
 				"notes": [
 					"Purchased for Elliott. Game plus Sci-Fi Pack."
 				]
+			},
+			{
+				"$": {
+					"id": "3550",
+					"electronic": "true"
+				},
+				"title": [
+					"Oddworld: Soulstorm"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"5"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-19"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $49.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3551",
+					"electronic": "true"
+				},
+				"title": [
+					"Days Gone"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-19"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3552",
+					"electronic": "true"
+				},
+				"title": [
+					"Zombie Army 4: Dead War"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-19"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $49.99, but free with Plus."
+				]
 			}
 		]
 	}

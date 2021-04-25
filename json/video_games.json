@@ -135874,6 +135874,117 @@
 				"notes": [
 					"Normally $49.99, but free with Plus."
 				]
+			},
+			{
+				"$": {
+					"id": "3553"
+				},
+				"title": [
+					"Animal Crossing: Wild World"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"ebay (maximaira3)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Bought two copies. Game only, but supposedly new. Received 4/17/2021."
+				]
+			},
+			{
+				"$": {
+					"id": "3554"
+				},
+				"title": [
+					"Animal Crossing: Wild World"
+				],
+				"system": [
+					{
+						"console": [
+							"Nintendo"
+						],
+						"version": [
+							"DS"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-03"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"ebay (maximaira3)"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Bought two copies. Game only, but supposedly new. Received 4/17/2021."
+				]
+			},
+			{
+				"$": {
+					"id": "3555"
+				},
+				"title": [
+					"NieR Replicant ver.1.22474487139... White Snow Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2020-09-26"
+						],
+						"price": [
+							"159.99"
+						],
+						"place": [
+							"Square-Enix Store"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Pre-ordered. Received 4/23/2021."
+				]
 			}
 		]
 	}

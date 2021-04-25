@@ -50590,6 +50590,48 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but free with Plus.</notes>
 	</game>
+	<game id="3553">
+		<title>Animal Crossing: Wild World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>14.99</price>
+			<place>ebay (maximaira3)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought two copies. Game only, but supposedly new. Received 4/17/2021.</notes>
+	</game>
+	<game id="3554">
+		<title>Animal Crossing: Wild World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>DS</version>
+		</system>
+		<purchase>
+			<date>2021-04-03</date>
+			<price>14.99</price>
+			<place>ebay (maximaira3)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought two copies. Game only, but supposedly new. Received 4/17/2021.</notes>
+	</game>
+	<game id="3555">
+		<title>NieR Replicant ver.1.22474487139... White Snow Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2020-09-26</date>
+			<price>159.99</price>
+			<place>Square-Enix Store</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Received 4/23/2021.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

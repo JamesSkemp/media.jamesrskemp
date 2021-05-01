@@ -50730,6 +50730,104 @@
 		<own>yes</own>
 		<notes>Humble LEGO Built to Bundle. $10 tier.</notes>
 	</game>
+	<game id="3563" electronic="true">
+		<title>Zero Escape: The Nonary Games</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3564" electronic="true">
+		<title>Zero Escape: Zero Time Dilemma</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3565" electronic="true">
+		<title>Yakuza Kiwami</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>8.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3566" electronic="true">
+		<title>Yakuza Kiwami 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>13.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3567" electronic="true">
+		<title>Yakuza 3 Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>10.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3568" electronic="true">
+		<title>Yakuza 4 Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>10.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
+	<game id="3569" electronic="true">
+		<title>Yakuza 5 Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-01</date>
+			<price>10.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Golden Week Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

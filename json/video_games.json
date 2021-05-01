@@ -136251,6 +136251,272 @@
 				"notes": [
 					"Humble LEGO Built to Bundle. $10 tier."
 				]
+			},
+			{
+				"$": {
+					"id": "3563",
+					"electronic": "true"
+				},
+				"title": [
+					"Zero Escape: The Nonary Games"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3564",
+					"electronic": "true"
+				},
+				"title": [
+					"Zero Escape: Zero Time Dilemma"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"5.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3565",
+					"electronic": "true"
+				},
+				"title": [
+					"Yakuza Kiwami"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"8.74"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3566",
+					"electronic": "true"
+				},
+				"title": [
+					"Yakuza Kiwami 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"13.74"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3567",
+					"electronic": "true"
+				},
+				"title": [
+					"Yakuza 3 Remastered"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"10.71"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3568",
+					"electronic": "true"
+				},
+				"title": [
+					"Yakuza 4 Remastered"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"10.71"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3569",
+					"electronic": "true"
+				},
+				"title": [
+					"Yakuza 5 Remastered"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-01"
+						],
+						"price": [
+							"10.71"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Golden Week Sale."
+				]
 			}
 		]
 	}

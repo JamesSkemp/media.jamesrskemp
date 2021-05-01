@@ -2557,7 +2557,7 @@
 			<price>0.00</price>
 		</sell>
 		<own>no</own>
-		<notes>Came with the Xbox 360 I purchased. Part of Lego Indiana Jones.</notes>
+		<notes>Came with the Xbox 360 I purchased. Part of LEGO Indiana Jones.</notes>
 	</game>
 	<game id="161" electronic="true">
 		<title>Lumines Live!</title>
@@ -40000,7 +40000,7 @@
 		<notes>Normally $19.99, but free with Games with Gold.</notes>
 	</game>
 	<game id="2797" electronic="true">
-		<title>Lego Star Wars: The Complete Saga</title>
+		<title>LEGO Star Wars: The Complete Saga</title>
 		<system>
 			<console>Xbox</console>
 			<version>360</version>
@@ -50265,7 +50265,7 @@
 		<notes>Purchased because Elliott may like it.</notes>
 	</game>
 	<game id="3530" used="true">
-		<title>Lego Indiana Jones 2</title>
+		<title>LEGO Indiana Jones 2</title>
 		<system>
 			<console>Nintendo</console>
 			<version>DS</version>
@@ -50279,7 +50279,7 @@
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
 	<game id="3531" used="true">
-		<title>Lego Harry Potter Years 5-7</title>
+		<title>LEGO Harry Potter Years 5-7</title>
 		<system>
 			<console>Nintendo</console>
 			<version>DS</version>
@@ -50293,7 +50293,7 @@
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
 	<game id="3532" used="true">
-		<title>Lego Batman</title>
+		<title>LEGO Batman</title>
 		<system>
 			<console>Nintendo</console>
 			<version>DS</version>
@@ -50307,7 +50307,7 @@
 		<notes>Received 4/2/2021. Bundle. Thought they might be good for Elliott.</notes>
 	</game>
 	<game id="3533" used="true">
-		<title>Lego Batman 2</title>
+		<title>LEGO Batman 2</title>
 		<system>
 			<console>Nintendo</console>
 			<version>DS</version>
@@ -50401,7 +50401,7 @@
 		<notes>Purchasing before the stores shut down.</notes>
 	</game>
 	<game id="3540" used="true">
-		<title>Lego Batman 2</title>
+		<title>LEGO Batman 2</title>
 		<system>
 			<console>Nintendo</console>
 			<version>DS</version>
@@ -50631,6 +50631,104 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Pre-ordered. Received 4/23/2021.</notes>
+	</game>
+	<game id="3556" electronic="true">
+		<title>LEGO Ninjago Movie Video Game, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. $1 tier.</notes>
+	</game>
+	<game id="3557" electronic="true">
+		<title>LEGO Worlds</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. BTA tier.</notes>
+	</game>
+	<game id="3558" electronic="true">
+		<title>LEGO Marvel Super Heroes 2 Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. BTA tier.</notes>
+	</game>
+	<game id="3559" electronic="true">
+		<title>LEGO Marvel's Avengers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. BTA tier.</notes>
+	</game>
+	<game id="3560" electronic="true">
+		<title>LEGO Batman 2 DC Super Heroes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. BTA tier.</notes>
+	</game>
+	<game id="3561" electronic="true">
+		<title>LEGO DC Super-Villains Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. $10 tier.</notes>
+	</game>
+	<game id="3562" electronic="true">
+		<title>LEGO Batman 3: Beyond Gotham Premium Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-04-30</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Humble LEGO Built to Bundle. $10 tier.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

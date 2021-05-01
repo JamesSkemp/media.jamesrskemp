@@ -6790,7 +6790,7 @@
 					"no"
 				],
 				"notes": [
-					"Came with the Xbox 360 I purchased. Part of Lego Indiana Jones."
+					"Came with the Xbox 360 I purchased. Part of LEGO Indiana Jones."
 				]
 			},
 			{
@@ -107171,7 +107171,7 @@
 					"electronic": "true"
 				},
 				"title": [
-					"Lego Star Wars: The Complete Saga"
+					"LEGO Star Wars: The Complete Saga"
 				],
 				"system": [
 					{
@@ -135000,7 +135000,7 @@
 					"used": "true"
 				},
 				"title": [
-					"Lego Indiana Jones 2"
+					"LEGO Indiana Jones 2"
 				],
 				"system": [
 					{
@@ -135038,7 +135038,7 @@
 					"used": "true"
 				},
 				"title": [
-					"Lego Harry Potter Years 5-7"
+					"LEGO Harry Potter Years 5-7"
 				],
 				"system": [
 					{
@@ -135076,7 +135076,7 @@
 					"used": "true"
 				},
 				"title": [
-					"Lego Batman"
+					"LEGO Batman"
 				],
 				"system": [
 					{
@@ -135114,7 +135114,7 @@
 					"used": "true"
 				},
 				"title": [
-					"Lego Batman 2"
+					"LEGO Batman 2"
 				],
 				"system": [
 					{
@@ -135367,7 +135367,7 @@
 					"used": "true"
 				},
 				"title": [
-					"Lego Batman 2"
+					"LEGO Batman 2"
 				],
 				"system": [
 					{
@@ -135984,6 +135984,272 @@
 				],
 				"notes": [
 					"Pre-ordered. Received 4/23/2021."
+				]
+			},
+			{
+				"$": {
+					"id": "3556",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Ninjago Movie Video Game, The"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. $1 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3557",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Worlds"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3558",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Marvel Super Heroes 2 Deluxe Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3559",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Marvel's Avengers"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3560",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Batman 2 DC Super Heroes"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3561",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO DC Super-Villains Deluxe Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. $10 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3562",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Batman 3: Beyond Gotham Premium Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-04-30"
+						],
+						"price": [
+							"1.50"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble LEGO Built to Bundle. $10 tier."
 				]
 			}
 		]

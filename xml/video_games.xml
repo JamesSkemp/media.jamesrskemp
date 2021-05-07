@@ -50828,6 +50828,20 @@
 		<own>yes</own>
 		<notes>Golden Week Sale.</notes>
 	</game>
+	<game id="3570" electronic="true">
+		<title>Dragon's Dogma: Dark Arisen</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-04</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $29.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

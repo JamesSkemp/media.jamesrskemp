@@ -136517,6 +136517,44 @@
 				"notes": [
 					"Golden Week Sale."
 				]
+			},
+			{
+				"$": {
+					"id": "3570",
+					"electronic": "true"
+				},
+				"title": [
+					"Dragon's Dogma: Dark Arisen"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-04"
+						],
+						"price": [
+							"8.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Normally $29.99."
+				]
 			}
 		]
 	}

@@ -136555,6 +136555,272 @@
 				"notes": [
 					"On sale. Normally $29.99."
 				]
+			},
+			{
+				"$": {
+					"id": "3571",
+					"electronic": "true"
+				},
+				"title": [
+					"TEKKEN 7 Standard Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"4.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. $12 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3572",
+					"electronic": "true"
+				},
+				"title": [
+					"Tales of Berseria"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"4.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. $12 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3573",
+					"electronic": "true"
+				},
+				"title": [
+					"Katamari Damacy REROLL"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"4.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. $12 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3574",
+					"electronic": "true"
+				},
+				"title": [
+					"RAD"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"2.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3575",
+					"electronic": "true"
+				},
+				"title": [
+					"Little Nightmares Complete Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"2.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. BTA tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3576",
+					"electronic": "true"
+				},
+				"title": [
+					"CODE VEIN"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"2.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. $20 tier."
+				]
+			},
+			{
+				"$": {
+					"id": "3577",
+					"electronic": "true"
+				},
+				"title": [
+					"Project CARS 3"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"2.00"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Humble Best of BANDAI NAMCO Bundle. $20 tier."
+				]
 			}
 		]
 	}

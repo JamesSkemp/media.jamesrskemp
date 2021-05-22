@@ -136821,6 +136821,120 @@
 				"notes": [
 					"Humble Best of BANDAI NAMCO Bundle. $20 tier."
 				]
+			},
+			{
+				"$": {
+					"id": "3578",
+					"electronic": "true"
+				},
+				"title": [
+					"Wreckfest"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"5"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3579",
+					"electronic": "true"
+				},
+				"title": [
+					"Battlefield V"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3580",
+					"electronic": "true"
+				},
+				"title": [
+					"Stranded Deep"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-22"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99, but free with Plus."
+				]
 			}
 		]
 	}

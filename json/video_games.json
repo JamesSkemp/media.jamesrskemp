@@ -136935,6 +136935,123 @@
 				"notes": [
 					"Normally $19.99, but free with Plus."
 				]
+			},
+			{
+				"$": {
+					"id": "3581",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Cities: Skylines - Green Cities"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-23"
+						],
+						"price": [
+							"6.49"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Supposedly quite good DLC."
+				]
+			},
+			{
+				"$": {
+					"id": "3582",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Cities: Skylines - Industries"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-23"
+						],
+						"price": [
+							"6.74"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Part of New Player Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3583",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Cities: Skylines - Sunset Harbor"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-23"
+						],
+						"price": [
+							"6.74"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Part of New Player Bundle."
+				]
 			}
 		]
 	}

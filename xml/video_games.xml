@@ -51024,6 +51024,34 @@
 		<own>yes</own>
 		<notes>On sale. Part of New Player Bundle.</notes>
 	</game>
+	<game id="3584" electronic="true">
+		<title>Witcher 3, The: Wild Hunt - Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-26</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Includes base game and Hearts of Stone and Blood and Wine expansions.</notes>
+	</game>
+	<game id="3585" electronic="true">
+		<title>LEGO City Undercover</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-05-27</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Was just thinking about getting this for Elliott yesterday.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

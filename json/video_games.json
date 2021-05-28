@@ -137052,6 +137052,82 @@
 				"notes": [
 					"On sale. Part of New Player Bundle."
 				]
+			},
+			{
+				"$": {
+					"id": "3584",
+					"electronic": "true"
+				},
+				"title": [
+					"Witcher 3, The: Wild Hunt - Game of the Year Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-26"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Includes base game and Hearts of Stone and Blood and Wine expansions."
+				]
+			},
+			{
+				"$": {
+					"id": "3585",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO City Undercover"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-05-27"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale. Was just thinking about getting this for Elliott yesterday."
+				]
 			}
 		]
 	}

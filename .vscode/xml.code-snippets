@@ -99,6 +99,27 @@
 		],
 		"description": "Adds structure for a new electronic video game, via PlayStation Plus."
 	},
+	"New electronic video game, Steam": {
+		"scope": "xml",
+		"prefix": "gameElecSteam",
+		"body": [
+			"<game id=\"${1:id}\" electronic=\"true\">",
+			"\t<title>${2:title}</title>",
+			"\t<system>",
+			"\t\t<console>PC</console>",
+			"\t\t<version/>",
+			"\t</system>",
+			"\t<purchase>",
+			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",
+			"\t\t<price>${price}</price>",
+			"\t\t<place>Steam</place>",
+			"\t</purchase>",
+			"\t<own>yes</own>",
+			"\t<notes>${notes}</notes>",
+			"</game>"
+		],
+		"description": "Adds structure for a new electronic video game, via Steam."
+	},
 	"New electronic video game, Xbox Live": {
 		"scope": "xml",
 		"prefix": "gameElecGold",

@@ -137166,6 +137166,44 @@
 				"notes": [
 					"On sale (50% off)."
 				]
+			},
+			{
+				"$": {
+					"id": "3587",
+					"electronic": "true"
+				},
+				"title": [
+					"Sekiro: Shadows Die Twice - Game Of The Year Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-09"
+						],
+						"price": [
+							"29.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale for 50% off."
+				]
 			}
 		]
 	}

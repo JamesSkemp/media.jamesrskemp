@@ -51066,6 +51066,20 @@
 		<own>yes</own>
 		<notes>On sale (50% off).</notes>
 	</game>
+	<game id="3587" electronic="true">
+		<title>Sekiro: Shadows Die Twice - Game Of The Year Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-06-09</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale for 50% off.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

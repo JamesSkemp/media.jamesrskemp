@@ -51080,6 +51080,118 @@
 		<own>yes</own>
 		<notes>On sale for 50% off.</notes>
 	</game>
+	<game id="3588" electronic="true">
+		<title>Earth Defense Force 5</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>26.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Steam Summer Sale. Bought a copy for myself and Vanessa</notes>
+	</game>
+	<game id="3589" electronic="true">
+		<title>Final Fantasy X/X-2 HD Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Steam Summer Sale.</notes>
+	</game>
+	<game id="3590" electronic="true">
+		<title>Operation: Tango</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3591" electronic="true">
+		<title>Virtua Fighter 5 Ultimate Showdown</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally unknown (PS Plus Exclusive), but free with Plus.</notes>
+	</game>
+	<game id="3592" electronic="true">
+		<title>Star Wars: Squadrons</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3593" electronic="true">
+		<title>Castle Crashers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Steam Summer Sale. Vanessa has a copy, so possible co-op game.</notes>
+	</game>
+	<game id="3594" electronic="true">
+		<title>Castle Crashers - Pink Knight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3595" electronic="true">
+		<title>Castle Crashers - Blacksmith Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

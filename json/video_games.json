@@ -137204,6 +137204,310 @@
 				"notes": [
 					"On sale for 50% off."
 				]
+			},
+			{
+				"$": {
+					"id": "3588",
+					"electronic": "true"
+				},
+				"title": [
+					"Earth Defense Force 5"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"26.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $59.99. Steam Summer Sale. Bought a copy for myself and Vanessa"
+				]
+			},
+			{
+				"$": {
+					"id": "3589",
+					"electronic": "true"
+				},
+				"title": [
+					"Final Fantasy X/X-2 HD Remaster"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $29.99. Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3590",
+					"electronic": "true"
+				},
+				"title": [
+					"Operation: Tango"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"5"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3591",
+					"electronic": "true"
+				},
+				"title": [
+					"Virtua Fighter 5 Ultimate Showdown"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally unknown (PS Plus Exclusive), but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3592",
+					"electronic": "true"
+				},
+				"title": [
+					"Star Wars: Squadrons"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3593",
+					"electronic": "true"
+				},
+				"title": [
+					"Castle Crashers"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"2.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $14.99, but Steam Summer Sale. Vanessa has a copy, so possible co-op game."
+				]
+			},
+			{
+				"$": {
+					"id": "3594",
+					"electronic": "true"
+				},
+				"title": [
+					"Castle Crashers - Pink Knight"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"0.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
+			},
+			{
+				"$": {
+					"id": "3595",
+					"electronic": "true"
+				},
+				"title": [
+					"Castle Crashers - Blacksmith Pack"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-24"
+						],
+						"price": [
+							"0.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					""
+				]
 			}
 		]
 	}

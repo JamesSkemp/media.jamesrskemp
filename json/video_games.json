@@ -137508,6 +137508,466 @@
 				"notes": [
 					""
 				]
+			},
+			{
+				"$": {
+					"id": "3596",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Grim Dawn - Crucible Mode DLC"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"4.49"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3597",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Grim Dawn - Ashes of Malmouth Expansion"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"10.47"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3598",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Grim Dawn - Forgotten Gods Expansion"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"9.07"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3599",
+					"electronic": "true"
+				},
+				"title": [
+					"Gloomhaven"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"18.74"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3600",
+					"electronic": "true"
+				},
+				"title": [
+					"Baldur's Gate: Enhanced Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"2.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3601",
+					"electronic": "true"
+				},
+				"title": [
+					"Baldur's Gate II: Enhanced Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"3.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3602",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Movie, The - Videogame"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"4.14"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3603",
+					"electronic": "true"
+				},
+				"title": [
+					"Trackmania United Forever"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale. Might be a game Elliott will enjoy."
+				]
+			},
+			{
+				"$": {
+					"id": "3604",
+					"electronic": "true"
+				},
+				"title": [
+					"GLADIABOTS - AI Combat Arena"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"6.24"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3604",
+					"electronic": "true",
+					"addOn": "true"
+				},
+				"title": [
+					"Gladiabots - Optimization Pack"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3605",
+					"electronic": "true"
+				},
+				"title": [
+					"Exiled Kingdoms"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"5.59"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale. Has been in my wishlist for a while."
+				]
+			},
+			{
+				"$": {
+					"id": "3606",
+					"electronic": "true"
+				},
+				"title": [
+					"Tyranny - Gold Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-26"
+						],
+						"price": [
+							"20.40"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Steam Summer Sale. Has been in my wishlist for a while. Includes base game, Portrait Pack, Deluxe Edition Upgrade Pack, Tales from the Tiers, Bastard's Wound, and Official Soundtrack Deluxe Edition."
+				]
 			}
 		]
 	}

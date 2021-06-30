@@ -51360,6 +51360,104 @@
 		<own>yes</own>
 		<notes>Steam Summer Sale. Has been in my wishlist for a while. Includes base game, Portrait Pack, Deluxe Edition Upgrade Pack, Tales from the Tiers, Bastard's Wound, and Official Soundtrack Deluxe Edition.</notes>
 	</game>
+	<game id="3607" electronic="true">
+		<title>Middle-earth: Shadow of Mordor Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3608" electronic="true">
+		<title>Middle-earth: Shadow of War Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3609" electronic="true">
+		<title>LEGO Marvel Super Heroes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3610" electronic="true">
+		<title>Icewind Dale: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3611" electronic="true">
+		<title>Planescape: Torment: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3612" electronic="true">
+		<title>LEGO® Indiana Jones™: The Original Adventures</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
+	<game id="3613" electronic="true">
+		<title>LEGO® Indiana Jones™ 2: The Adventure Continues</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-06-30</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Steam Summer Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

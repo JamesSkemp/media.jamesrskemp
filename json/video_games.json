@@ -137968,6 +137968,272 @@
 				"notes": [
 					"Steam Summer Sale. Has been in my wishlist for a while. Includes base game, Portrait Pack, Deluxe Edition Upgrade Pack, Tales from the Tiers, Bastard's Wound, and Official Soundtrack Deluxe Edition."
 				]
+			},
+			{
+				"$": {
+					"id": "3607",
+					"electronic": "true"
+				},
+				"title": [
+					"Middle-earth: Shadow of Mordor Game of the Year Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3608",
+					"electronic": "true"
+				},
+				"title": [
+					"Middle-earth: Shadow of War Definitive Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"8.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $59.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3609",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO Marvel Super Heroes"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3610",
+					"electronic": "true"
+				},
+				"title": [
+					"Icewind Dale: Enhanced Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"5.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3611",
+					"electronic": "true"
+				},
+				"title": [
+					"Planescape: Torment: Enhanced Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"5.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3612",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO® Indiana Jones™: The Original Adventures"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3613",
+					"electronic": "true"
+				},
+				"title": [
+					"LEGO® Indiana Jones™ 2: The Adventure Continues"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-06-30"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Steam Summer Sale."
+				]
 			}
 		]
 	}

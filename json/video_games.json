@@ -138234,6 +138234,348 @@
 				"notes": [
 					"Normally $19.99 but Steam Summer Sale."
 				]
+			},
+			{
+				"$": {
+					"id": "3614",
+					"electronic": "true"
+				},
+				"title": [
+					"Call of Duty: Black Ops 4 - PlayStation Plus Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3615",
+					"electronic": "true"
+				},
+				"title": [
+					"A Plague Tale: Innocence"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"5"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3616",
+					"electronic": "true"
+				},
+				"title": [
+					"WWE 2K Battlegrounds"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3617",
+					"electronic": "true"
+				},
+				"title": [
+					"Legends Of Talia: Arcadia"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"1.94"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $2.99 but Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3618",
+					"electronic": "true"
+				},
+				"title": [
+					"HITMAN - Game of the Year Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"14.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $59.99 but Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3619",
+					"electronic": "true"
+				},
+				"title": [
+					"HITMAN 2 - Gold Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"19.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $99.99 but Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3620",
+					"electronic": "true"
+				},
+				"title": [
+					"Star Ocean First Departure R"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"8.39"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $20.99 but Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3621",
+					"electronic": "true"
+				},
+				"title": [
+					"Dex"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99 but Summer Sale."
+				]
+			},
+			{
+				"$": {
+					"id": "3622",
+					"electronic": "true"
+				},
+				"title": [
+					"Romancing SaGa 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-21"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $24.99 but Summer Sale."
+				]
 			}
 		]
 	}

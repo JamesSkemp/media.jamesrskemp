@@ -51500,6 +51500,90 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="3617" electronic="true">
+		<title>Legends Of Talia: Arcadia</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>1.94</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99 but Summer Sale.</notes>
+	</game>
+	<game id="3618" electronic="true">
+		<title>HITMAN - Game of the Year Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but Summer Sale.</notes>
+	</game>
+	<game id="3619" electronic="true">
+		<title>HITMAN 2 - Gold Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $99.99 but Summer Sale.</notes>
+	</game>
+	<game id="3620" electronic="true">
+		<title>Star Ocean First Departure R</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>8.39</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $20.99 but Summer Sale.</notes>
+	</game>
+	<game id="3621" electronic="true">
+		<title>Dex</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but Summer Sale.</notes>
+	</game>
+	<game id="3622" electronic="true">
+		<title>Romancing SaGa 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-07-21</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99 but Summer Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

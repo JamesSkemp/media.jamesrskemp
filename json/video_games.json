@@ -138576,6 +138576,44 @@
 				"notes": [
 					"Normally $24.99 but Summer Sale."
 				]
+			},
+			{
+				"$": {
+					"id": "3623",
+					"electronic": "true"
+				},
+				"title": [
+					"Orcs Must Die! 3"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-07-24"
+						],
+						"price": [
+							"29.99"
+						],
+						"place": [
+							"Steam"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Purchased along with Ness. Had just come out the day before."
+				]
 			}
 		]
 	}

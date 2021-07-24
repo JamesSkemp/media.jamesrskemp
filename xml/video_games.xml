@@ -51584,6 +51584,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99 but Summer Sale.</notes>
 	</game>
+	<game id="3623" electronic="true">
+		<title>Orcs Must Die! 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-07-24</date>
+			<price>29.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Purchased along with Ness. Had just come out the day before.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

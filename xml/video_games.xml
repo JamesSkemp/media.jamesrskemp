@@ -51598,6 +51598,160 @@
 		<own>yes</own>
 		<notes>Purchased along with Ness. Had just come out the day before.</notes>
 	</game>
+	<game id="3624" electronic="true">
+		<title>Sakura Gamer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3625" electronic="true">
+		<title>Sakura Gamer 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3626" electronic="true">
+		<title>Sakura Sadist</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3627" electronic="true">
+		<title>Sakura Fox Adventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3628" electronic="true">
+		<title>Sakura MMO 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3629" electronic="true">
+		<title>Sakura Knight 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3630" electronic="true">
+		<title>Sakura Knight 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3631" electronic="true">
+		<title>Sakura Succubus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3632" electronic="true">
+		<title>Sakura Succubus 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3633" electronic="true">
+		<title>Sakura Succubus 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>1.20</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Sakura Series Bundle.</notes>
+	</game>
+	<game id="3634" electronic="true">
+		<title>Diablo + Hellfire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-08-01</date>
+			<price>8.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale again. Normally $9.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

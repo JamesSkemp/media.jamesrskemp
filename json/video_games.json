@@ -138614,6 +138614,424 @@
 				"notes": [
 					"Purchased along with Ness. Had just come out the day before."
 				]
+			},
+			{
+				"$": {
+					"id": "3624",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Gamer"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3625",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Gamer 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3626",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Sadist"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3627",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Fox Adventure"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3628",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura MMO 3"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3629",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Knight 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3630",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Knight 3"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3631",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Succubus"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3632",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Succubus 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3633",
+					"electronic": "true"
+				},
+				"title": [
+					"Sakura Succubus 3"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"1.20"
+						],
+						"place": [
+							"Humble Bundle"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Part of the Humble Sakura Series Bundle."
+				]
+			},
+			{
+				"$": {
+					"id": "3634",
+					"electronic": "true"
+				},
+				"title": [
+					"Diablo + Hellfire"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-01"
+						],
+						"price": [
+							"8.49"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"On sale again. Normally $9.99."
+				]
 			}
 		]
 	}

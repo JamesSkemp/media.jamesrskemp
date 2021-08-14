@@ -139032,6 +139032,120 @@
 				"notes": [
 					"On sale again. Normally $9.99."
 				]
+			},
+			{
+				"$": {
+					"id": "3635",
+					"electronic": "true"
+				},
+				"title": [
+					"Tennis World Tour 2"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-13"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3636",
+					"electronic": "true"
+				},
+				"title": [
+					"Plants vs. Zombies: Battle for Neighborville"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-13"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $29.99, but free with Plus."
+				]
+			},
+			{
+				"$": {
+					"id": "3637",
+					"electronic": "true"
+				},
+				"title": [
+					"Hunter's Arena: Legends"
+				],
+				"system": [
+					{
+						"console": [
+							"PlayStation"
+						],
+						"version": [
+							"4"
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-08-13"
+						],
+						"price": [
+							"0.00"
+						],
+						"place": [
+							"PlayStation Network"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99, but free with Plus. Also for PS5."
+				]
 			}
 		]
 	}

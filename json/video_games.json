@@ -139146,6 +139146,196 @@
 				"notes": [
 					"Normally $19.99, but free with Plus. Also for PS5."
 				]
+			},
+			{
+				"$": {
+					"id": "3638",
+					"electronic": "true"
+				},
+				"title": [
+					"Drakensang"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-09-04"
+						],
+						"price": [
+							"2.49"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $9.99."
+				]
+			},
+			{
+				"$": {
+					"id": "3639",
+					"electronic": "true"
+				},
+				"title": [
+					"War for the Overworld: Ultimate Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-09-04"
+						],
+						"price": [
+							"17.81"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $59.39."
+				]
+			},
+			{
+				"$": {
+					"id": "3640",
+					"electronic": "true"
+				},
+				"title": [
+					"Witcher 3, The: Wild Hunt - Game of the Year Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-09-04"
+						],
+						"price": [
+							"9.99"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $49.99."
+				]
+			},
+			{
+				"$": {
+					"id": "3641",
+					"electronic": "true"
+				},
+				"title": [
+					"Dragon Age: Origins - Ultimate Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-09-04"
+						],
+						"price": [
+							"4.99"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $19.99"
+				]
+			},
+			{
+				"$": {
+					"id": "3642",
+					"electronic": "true"
+				},
+				"title": [
+					"Control: Ultimate Edition"
+				],
+				"system": [
+					{
+						"console": [
+							"PC"
+						],
+						"version": [
+							""
+						]
+					}
+				],
+				"purchase": [
+					{
+						"date": [
+							"2021-09-04"
+						],
+						"price": [
+							"15.99"
+						],
+						"place": [
+							"GOG.com"
+						]
+					}
+				],
+				"own": [
+					"yes"
+				],
+				"notes": [
+					"Normally $39.99."
+				]
 			}
 		]
 	}

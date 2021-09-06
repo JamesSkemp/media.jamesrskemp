@@ -4210,7 +4210,7 @@
 		<title>Super Metroid</title>
 		<system>
 			<console>Super Nintendo Entertainment System (SNES)</console>
-			<version beat="true"></version>
+			<version/>
 		</system>
 		<purchase>
 			<date xsi:nil="true"/>
@@ -4610,7 +4610,7 @@
 		<own>yes</own>
 		<notes>Price war between Amazon and GameStop means the game was cheap; otherwise still listed at $49.99. Received 6/8/2010.</notes>
 	</game>
-	<game id="301">
+	<game id="301" used="true">
 		<title>Beyond Good &amp; Evil</title>
 		<system>
 			<console>PlayStation</console>
@@ -4622,9 +4622,9 @@
 			<place>Mega Media Xchange, 3868 East Washington Ave, Madison WI 53704</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Used. Traded in 8 items for $27 in credit towards this and another.</notes>
+		<notes>Traded in 8 items for $27 in credit towards this and another.</notes>
 	</game>
-	<game id="302">
+	<game id="302" used="true">
 		<title>Parasite Eve II</title>
 		<system>
 			<console>PlayStation</console>
@@ -4637,7 +4637,7 @@
 		</purchase>
 		<own>yes</own>
 		<notes>
-			Used. Traded in 8 items for $27 in credit towards this and another.
+			Traded in 8 items for $27 in credit towards this and another.
 			Purchased game guide 12/22/2012 for $10.95 (included poster) from People Play Games, 3268 N Clark St, Chicago IL 60657.
 		</notes>
 	</game>
@@ -4789,7 +4789,7 @@
 			Purchased strategy guide 12/7/2013 for $4.99 from PrePlayed, 3868 East Washington Ave, Madison WI 53704.
 		</notes>
 	</game>
-	<game id="313">
+	<game id="313" used="true">
 		<title>Prince of Persia</title>
 		<system>
 			<console>PlayStation</console>
@@ -4801,7 +4801,7 @@
 			<place>Mega Media Xchange, 405 N Casaloma Dr, Appleton WI 54913</place>
 		</purchase>
 		<own>yes</own>
-		<notes><![CDATA[Wasn't sure if the PS3 version had trophies, so it took a bit of debating on whether to pick this up ... Bought used.]]></notes>
+		<notes><![CDATA[Wasn't sure if the PS3 version had trophies, so it took a bit of debating on whether to pick this up ...]]></notes>
 	</game>
 	<game id="314">
 		<title>Fallout: New Vegas (Collector's Edition)</title>

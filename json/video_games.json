@@ -63795,7 +63795,11 @@
 					"console": "Nintendo",
 					"version": "DS"
 				},
-				"purchase": "\r\n\t\t",
+				"purchase": {
+					"date": "2021-04-03",
+					"price": "7.28",
+					"place": "ebay (ending87)"
+				},
 				"own": true,
 				"notes": "Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.",
 				"meta": {
@@ -65706,6 +65710,63 @@
 				"meta": {
 					"id": 3643,
 					"electronic": true
+				}
+			},
+			{
+				"title": "Berserk: Additional Costume Full Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-06",
+					"price": "6.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $13.99 but on sale.",
+				"meta": {
+					"id": 3644,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Berserk: Additional Horse Full Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-06",
+					"price": "3.49",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $6.99 but on sale.",
+				"meta": {
+					"id": 3645,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Berserk: Additional Scenario Full Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-06",
+					"price": "3.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $7.99 but on sale.",
+				"meta": {
+					"id": 3646,
+					"electronic": true,
+					"addOn": true
 				}
 			}
 		]

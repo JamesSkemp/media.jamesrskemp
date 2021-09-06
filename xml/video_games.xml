@@ -50383,6 +50383,9 @@
 			<version>DS</version>
 		</system>
 		<purchase>
+			<date>2021-04-03</date>
+			<price>7.28</price>
+			<place>ebay (ending87)</place>
 		</purchase>
 		<own>yes</own>
 		<notes>Received 4/6/2021. Bundle. Thought they might be good for Elliott/April.</notes>
@@ -51863,6 +51866,48 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $39.99.</notes>
+	</game>
+	<game id="3644" electronic="true" addOn="true">
+		<title>Berserk: Additional Costume Full Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-06</date>
+			<price>6.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99 but on sale.</notes>
+	</game>
+	<game id="3645" electronic="true" addOn="true">
+		<title>Berserk: Additional Horse Full Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-06</date>
+			<price>3.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99 but on sale.</notes>
+	</game>
+	<game id="3646" electronic="true" addOn="true">
+		<title>Berserk: Additional Scenario Full Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-06</date>
+			<price>3.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but on sale.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

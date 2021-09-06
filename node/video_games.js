@@ -40,7 +40,7 @@ function videoGameXmlReplacer(key, value) {
 		}
 		return stringValue;
 	} else if (key === "own") {
-		return value === "yes";
+		return value.toString() === "yes";
 	} else if (key === "addOn" || key === "electronic" || key === "beat" || key === "used") {
 		return value === "true";
 	} else if (key === "system" || key === "purchase" || key === "sell") {

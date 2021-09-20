@@ -52455,6 +52455,20 @@
 		<own>yes</own>
 		<notes>Part of the Humble Humongous Back to School Bundle.</notes>
 	</game>
+	<game id="3686" electronic="true">
+		<title>Fight'N Rage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-09-19</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but weekly sale. Has been on my list for a while now.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

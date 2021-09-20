@@ -66470,6 +66470,24 @@
 					"id": 3685,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Fight'N Rage",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-09-19",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but weekly sale. Has been on my list for a while now.",
+				"meta": {
+					"id": 3686,
+					"electronic": true
+				}
 			}
 		]
 	}

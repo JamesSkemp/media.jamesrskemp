@@ -52469,6 +52469,76 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but weekly sale. Has been on my list for a while now.</notes>
 	</game>
+	<game id="3687" used="true">
+		<title>Super Mario World</title>
+		<system>
+			<console>Super Nintendo Entertainment System (SNES)</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-09-18</date>
+			<price>29.99</price>
+			<place>ebay (thetennesseepicker)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Replacement copy. Received 9/22/2021.</notes>
+	</game>
+	<game id="3688">
+		<title>Lost Judgment</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-06-24</date>
+			<price>59.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Received 9/24/2021.</notes>
+	</game>
+	<game id="3689" electronic="true">
+		<title>Overcooked! All You Can Eat</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2021-09-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3690" electronic="true">
+		<title>Hitman 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="3691" electronic="true">
+		<title>Predator: Hunting Grounds</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-25</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

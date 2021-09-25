@@ -66488,6 +66488,95 @@
 					"id": 3686,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario World",
+				"system": {
+					"console": "Super Nintendo Entertainment System (SNES)",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-09-18",
+					"price": "29.99",
+					"place": "ebay (thetennesseepicker)"
+				},
+				"own": true,
+				"notes": "Replacement copy. Received 9/22/2021.",
+				"meta": {
+					"id": 3687,
+					"used": true
+				}
+			},
+			{
+				"title": "Lost Judgment",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-06-24",
+					"price": "59.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Pre-ordered. Received 9/24/2021.",
+				"meta": {
+					"id": 3688
+				}
+			},
+			{
+				"title": "Overcooked! All You Can Eat",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2021-09-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3689,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hitman 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3690,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Predator: Hunting Grounds",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3691,
+					"electronic": true
+				}
 			}
 		]
 	}

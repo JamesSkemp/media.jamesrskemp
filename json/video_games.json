@@ -66649,6 +66649,82 @@
 					"id": 3695,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA Burst Re:Newal - Kagura, Naraku, and Ryoki Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-27",
+					"price": "7.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3696,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "SENRAN KAGURA Burst Re:Newal - Miyabi Character and Campaign",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-27",
+					"price": "5.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3697,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "SENRAN KAGURA Burst Re:Newal - Hebijo Character Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-27",
+					"price": "9.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3698,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "SENRAN KAGURA Burst Re:Newal - Gessen Character Set",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-09-27",
+					"price": "9.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3699,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

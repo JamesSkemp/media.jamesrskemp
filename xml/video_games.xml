@@ -52595,6 +52595,62 @@
 		<own>yes</own>
 		<notes>Normally $74.99 but on sale.</notes>
 	</game>
+	<game id="3696" electronic="true" addOn="true">
+		<title>SENRAN KAGURA Burst Re:Newal - Kagura, Naraku, and Ryoki Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-27</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3697" electronic="true" addOn="true">
+		<title>SENRAN KAGURA Burst Re:Newal - Miyabi Character and Campaign</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-27</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3698" electronic="true" addOn="true">
+		<title>SENRAN KAGURA Burst Re:Newal - Hebijo Character Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-27</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="3699" electronic="true" addOn="true">
+		<title>SENRAN KAGURA Burst Re:Newal - Gessen Character Set</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-09-27</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

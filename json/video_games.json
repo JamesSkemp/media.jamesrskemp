@@ -66725,6 +66725,60 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Hell Let Loose",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2021-10-17",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3700,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mortal Kombat X",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-10-17",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3701,
+					"electronic": true
+				}
+			},
+			{
+				"title": "PGA Tour 2K21",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-10-17",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3702,
+					"electronic": true
+				}
 			}
 		]
 	}

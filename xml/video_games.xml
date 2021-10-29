@@ -52693,6 +52693,34 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="3703" electronic="true">
+		<title>Earth Defense Force: Iron Rain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-10-28</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Halloween sale. Picked up with Ness.</notes>
+	</game>
+	<game id="3704" electronic="true">
+		<title>Earth Defense Force: World Brothers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-10-28</date>
+			<price>31.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Halloween sale. Picked up with Ness.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

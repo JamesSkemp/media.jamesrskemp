@@ -66779,6 +66779,42 @@
 					"id": 3702,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Earth Defense Force: Iron Rain",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-10-28",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Halloween sale. Picked up with Ness.",
+				"meta": {
+					"id": 3703,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Earth Defense Force: World Brothers",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-10-28",
+					"price": "31.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Halloween sale. Picked up with Ness.",
+				"meta": {
+					"id": 3704,
+					"electronic": true
+				}
 			}
 		]
 	}

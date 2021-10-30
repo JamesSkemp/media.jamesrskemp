@@ -66815,6 +66815,24 @@
 					"id": 3704,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Just Cause 3 XXL Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-10-30",
+					"price": "4.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Thought I had it on PC already.",
+				"meta": {
+					"id": 3705,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -66828,9 +66828,63 @@
 					"place": "Steam"
 				},
 				"own": true,
-				"notes": "Thought I had it on PC already.",
+				"notes": "Halloween sale. Thought I had it on PC already.",
 				"meta": {
 					"id": 3705,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Chroma Squad",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-10",
+					"price": "3.74",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "On sale. Normally $14.99.",
+				"meta": {
+					"id": 3706,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yakuza Kiwami",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-10",
+					"price": "4.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Have it free via PS+, but picking up so I don't lose it. Normally $19.99, on sale.",
+				"meta": {
+					"id": 3707,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yakuza Kiwami 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-10",
+					"price": "7.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "On sale. Normally $19.99.",
+				"meta": {
+					"id": 3708,
 					"electronic": true
 				}
 			}

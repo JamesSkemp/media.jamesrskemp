@@ -52735,6 +52735,48 @@
 		<own>yes</own>
 		<notes>Halloween sale. Thought I had it on PC already.</notes>
 	</game>
+	<game id="3706" electronic="true">
+		<title>Chroma Squad</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-10</date>
+			<price>3.74</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $14.99.</notes>
+	</game>
+	<game id="3707" electronic="true">
+		<title>Yakuza Kiwami</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-10</date>
+			<price>4.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Have it free via PS+, but picking up so I don't lose it. Normally $19.99, on sale.</notes>
+	</game>
+	<game id="3708" electronic="true">
+		<title>Yakuza Kiwami 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-10</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $19.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

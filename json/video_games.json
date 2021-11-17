@@ -66887,6 +66887,114 @@
 					"id": 3708,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Knockout City",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus. PS5 included.",
+				"meta": {
+					"id": 3709,
+					"electronic": true
+				}
+			},
+			{
+				"title": "First Class Trouble",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus. PS5 version included.",
+				"meta": {
+					"id": 3710,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kingdoms of Amalur: Re-Reckoning",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3711,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Walking Dead, The: Saints & Sinners - Standard Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3712,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Persistence, The",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3713,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Until You Fall",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-11-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 3714,
+					"electronic": true
+				}
 			}
 		]
 	}

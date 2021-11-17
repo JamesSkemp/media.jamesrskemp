@@ -52777,6 +52777,90 @@
 		<own>yes</own>
 		<notes>On sale. Normally $19.99.</notes>
 	</game>
+	<game id="3709" electronic="true">
+		<title>Knockout City</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus. PS5 included.</notes>
+	</game>
+	<game id="3710" electronic="true">
+		<title>First Class Trouble</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus. PS5 version included.</notes>
+	</game>
+	<game id="3711" electronic="true">
+		<title>Kingdoms of Amalur: Re-Reckoning</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3712" electronic="true">
+		<title>Walking Dead, The: Saints &amp; Sinners - Standard Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="3713" electronic="true">
+		<title>Persistence, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3714" electronic="true">
+		<title>Until You Fall</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-11-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

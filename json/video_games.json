@@ -66995,6 +66995,96 @@
 					"id": 3714,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Spyro Reignited Trilogy",
+				"system": {
+					"console": "Xbox",
+					"version": "One"
+				},
+				"purchase": {
+					"date": "2021-11-19",
+					"price": "13.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but Black Friday sale.",
+				"meta": {
+					"id": 3715,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Burnout Paradise Remastered",
+				"system": {
+					"console": "Xbox",
+					"version": "One"
+				},
+				"purchase": {
+					"date": "2021-11-19",
+					"price": "4.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but Black Friday sale.",
+				"meta": {
+					"id": 3716,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Just Cause 3: XXL Edition",
+				"system": {
+					"console": "Xbox",
+					"version": "One"
+				},
+				"purchase": {
+					"date": "2021-11-19",
+					"price": "5.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but Black Friday sale.",
+				"meta": {
+					"id": 3717,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ReCore",
+				"system": {
+					"console": "Xbox",
+					"version": "One"
+				},
+				"purchase": {
+					"date": "2021-11-19",
+					"price": "4.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but Black Friday sale.",
+				"meta": {
+					"id": 3718,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Scott Pilgrim vs. The World: The Game - Complete Edition",
+				"system": {
+					"console": "Xbox",
+					"version": "One"
+				},
+				"purchase": {
+					"date": "2021-11-19",
+					"price": "7.49",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "Normally $14.99 but Black Friday sale.",
+				"meta": {
+					"id": 3719,
+					"electronic": true
+				}
 			}
 		]
 	}

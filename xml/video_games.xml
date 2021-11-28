@@ -52931,6 +52931,90 @@
 		<own>yes</own>
 		<notes>Normally $14.99 but Black Friday sale.</notes>
 	</game>
+	<game id="3720" electronic="true">
+		<title>Yakuza 6: The Song of Life</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Only 25% off. Autumn Sale.</notes>
+	</game>
+	<game id="3721" electronic="true">
+		<title>STEINS;GATE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 4 game bundle. Autumn Sale.</notes>
+	</game>
+	<game id="3722" electronic="true">
+		<title>STEINS;GATE 0</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 4 game bundle. Autumn Sale.</notes>
+	</game>
+	<game id="3723" electronic="true">
+		<title>STEINS;GATE ELITE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 4 game bundle. Autumn Sale.</notes>
+	</game>
+	<game id="3724" electronic="true">
+		<title>STEINS;GATE: Linear Bounded Phenogram</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of 4 game bundle, but can only be picked up with ELITE. Autumn Sale.</notes>
+	</game>
+	<game id="3725" electronic="true">
+		<title>No Man's Sky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-11-28</date>
+			<price>29.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Autumn Sale. 50% off.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

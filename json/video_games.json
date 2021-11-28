@@ -67085,6 +67085,114 @@
 					"id": 3719,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Yakuza 6: The Song of Life",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Only 25% off. Autumn Sale.",
+				"meta": {
+					"id": 3720,
+					"electronic": true
+				}
+			},
+			{
+				"title": "STEINS;GATE",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of 4 game bundle. Autumn Sale.",
+				"meta": {
+					"id": 3721,
+					"electronic": true
+				}
+			},
+			{
+				"title": "STEINS;GATE 0",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of 4 game bundle. Autumn Sale.",
+				"meta": {
+					"id": 3722,
+					"electronic": true
+				}
+			},
+			{
+				"title": "STEINS;GATE ELITE",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of 4 game bundle. Autumn Sale.",
+				"meta": {
+					"id": 3723,
+					"electronic": true
+				}
+			},
+			{
+				"title": "STEINS;GATE: Linear Bounded Phenogram",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of 4 game bundle, but can only be picked up with ELITE. Autumn Sale.",
+				"meta": {
+					"id": 3724,
+					"electronic": true
+				}
+			},
+			{
+				"title": "No Man's Sky",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-11-28",
+					"price": "29.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Autumn Sale. 50% off.",
+				"meta": {
+					"id": 3725,
+					"electronic": true
+				}
 			}
 		]
 	}

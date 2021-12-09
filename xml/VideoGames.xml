@@ -40,7 +40,7 @@
 				<place>Best Buy, Madison WI (store 596?)</place>
 			</purchase>
 			<own>yes</own>
-			<notes><![CDATA[Unclear if this date is correct, but it seems like it is. Probably paid $199.99.]]></notes>
+			<notes><![CDATA[Unclear if this date is correct, but it seems like it is. Probably paid $199.99. 3C date code.]]></notes>
 		</item>
 		<item id="5">
 			<name>PlayStation 2 Dualshock Controller (Black)</name>
@@ -329,7 +329,7 @@
 				<place>Best Buy #59, Madison WI 53704 (East)</place>
 			</purchase>
 			<own>yes</own>
-			<notes><![CDATA[PS2 Slim. Backup/replacement for original PS2.]]></notes>
+			<notes><![CDATA[PS2 Slim. Backup/replacement for original PS2. 0B date code.]]></notes>
 		</item>
 		<item id="26">
 			<name>PlayStation 2 DUALSHOCK2 Controller (Black)</name>
@@ -1181,7 +1181,7 @@
 				<place>Amazon.com</place>
 			</purchase>
 			<own>yes</own>
-			<notes>Received 12/5/2014. Didn't think I had a 90001 already. Oh well.</notes>
+			<notes>Received 12/5/2014. Didn't think I had a 90001 already. Oh well. 2D date code.</notes>
 		</item>
 		<item id="87">
 			<name>PlayStation 2 Dualshock Controller SCPH-10010 (Black)</name>
@@ -2224,6 +2224,20 @@
 			</purchase>
 			<own>yes</own>
 			<notes>Not sure when I got this. Wasn't on Amazon. Maybe in a store?</notes>
+		</item>
+		<item id="162">
+			<name>Kaico Free McBoot (8MB)</name>
+			<system>
+				<console>PlayStation</console>
+				<version>2</version>
+			</system>
+			<purchase>
+				<date>2021-12-01</date>
+				<price>13.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Version 1.966. Won't work on any of my US Slims ...</notes>
 		</item>
 		<!--
 		<item id="">

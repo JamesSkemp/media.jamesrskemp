@@ -53015,6 +53015,34 @@
 		<own>yes</own>
 		<notes>Autumn Sale. 50% off.</notes>
 	</game>
+	<game id="3726" electronic="true">
+		<title>Hades</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-12-11</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Ness and Abbey.</notes>
+	</game>
+	<game id="3727" electronic="true">
+		<title>Saboteur, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2021-12-14</date>
+			<price>4.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Holiday sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

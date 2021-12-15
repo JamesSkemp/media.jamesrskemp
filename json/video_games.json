@@ -67193,6 +67193,42 @@
 					"id": 3725,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Hades",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-12-11",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Gift from Ness and Abbey.",
+				"meta": {
+					"id": 3726,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Saboteur, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2021-12-14",
+					"price": "4.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Holiday sale.",
+				"meta": {
+					"id": 3727,
+					"electronic": true
+				}
 			}
 		]
 	}

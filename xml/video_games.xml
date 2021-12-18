@@ -53085,6 +53085,34 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but free with Plus. Includes PS5 version.</notes>
 	</game>
+	<game id="3731" electronic="true">
+		<title>SENRAN KAGURA ESTIVAL VERSUS</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-12-18</date>
+			<price>11.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3732" electronic="true">
+		<title>LEGO Marvel’s Avengers Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-12-18</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

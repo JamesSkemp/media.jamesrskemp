@@ -67283,6 +67283,42 @@
 					"id": 3730,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA ESTIVAL VERSUS",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-18",
+					"price": "11.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but on sale.",
+				"meta": {
+					"id": 3731,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Marvel’s Avengers Deluxe Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-18",
+					"price": "5.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but on sale.",
+				"meta": {
+					"id": 3732,
+					"electronic": true
+				}
 			}
 		]
 	}

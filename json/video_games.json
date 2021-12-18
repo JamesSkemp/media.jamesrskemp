@@ -67229,6 +67229,60 @@
 					"id": 3727,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mortal Shell",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-18",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3728,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO DC Super-Villains",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-18",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3729,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Godfall Challenger Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-18",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but free with Plus. Includes PS5 version.",
+				"meta": {
+					"id": 3730,
+					"electronic": true
+				}
 			}
 		]
 	}

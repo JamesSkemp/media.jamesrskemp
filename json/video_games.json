@@ -67319,6 +67319,24 @@
 					"id": 3732,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario 3D World",
+				"system": {
+					"console": "Nintendo",
+					"version": "WiiU"
+				},
+				"purchase": {
+					"date": "2021-12-12",
+					"price": "14.13",
+					"place": "eBay (flipwax)"
+				},
+				"own": true,
+				"notes": "Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.",
+				"meta": {
+					"id": 3733,
+					"used": true
+				}
 			}
 		]
 	}

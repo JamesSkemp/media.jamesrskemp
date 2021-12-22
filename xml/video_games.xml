@@ -53113,6 +53113,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99 but on sale.</notes>
 	</game>
+	<game id="3733" used="true">
+		<title>Super Mario 3D World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>WiiU</version>
+		</system>
+		<purchase>
+			<date>2021-12-12</date>
+			<price>14.13</price>
+			<place>eBay (flipwax)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

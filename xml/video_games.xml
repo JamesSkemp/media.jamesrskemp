@@ -53127,6 +53127,34 @@
 		<own>yes</own>
 		<notes>Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.</notes>
 	</game>
+	<game id="3734" electronic="true">
+		<title>Mass Effect Legendary Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-12-26</date>
+			<price>29.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but winter sale.</notes>
+	</game>
+	<game id="3735" electronic="true">
+		<title>Wonderful 101, The: Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2021-12-26</date>
+			<price>17.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

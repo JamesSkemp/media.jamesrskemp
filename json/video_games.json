@@ -67337,6 +67337,42 @@
 					"id": 3733,
 					"used": true
 				}
+			},
+			{
+				"title": "Mass Effect Legendary Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-26",
+					"price": "29.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but winter sale.",
+				"meta": {
+					"id": 3734,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wonderful 101, The: Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2021-12-26",
+					"price": "17.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but winter sale.",
+				"meta": {
+					"id": 3735,
+					"electronic": true
+				}
 			}
 		]
 	}

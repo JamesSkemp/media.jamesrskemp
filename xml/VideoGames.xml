@@ -2239,6 +2239,20 @@
 			<own>yes</own>
 			<notes>Version 1.966. Won't work on any of my US Slims ...</notes>
 		</item>
+		<item id="163">
+			<name>Nintendo Switch Animal Crossing: New Horizons Edition</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2021-12-29</date>
+				<price>29.99</price>
+				<place>Target.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Did not include game ... Received 1/6/2022. Paid $26.99 for SanDisk 128GB microSDXC Memory card, Licensed for Nintendo Switch at the same time.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

@@ -53117,7 +53117,7 @@
 		<title>Super Mario 3D World</title>
 		<system>
 			<console>Nintendo</console>
-			<version>WiiU</version>
+			<version>Wii U</version>
 		</system>
 		<purchase>
 			<date>2021-12-12</date>
@@ -53125,7 +53125,7 @@
 			<place>eBay (flipwax)</place>
 		</purchase>
 		<own>yes</own>
-		<notes>Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.</notes>
+		<notes>Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch (Odyssey) and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.</notes>
 	</game>
 	<game id="3734" electronic="true">
 		<title>Mass Effect Legendary Edition</title>
@@ -53154,6 +53154,90 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $39.99, but winter sale.</notes>
+	</game>
+	<game id="3736">
+		<title>LEGO Jurassic World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2021-12-29</date>
+			<price>9.99</price>
+			<place>ebay.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/4/2022.</notes>
+	</game>
+	<game id="3737">
+		<title>LEGO Marvel's Avengers</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2021-12-29</date>
+			<price>13.99</price>
+			<place>ebay.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/4/2022.</notes>
+	</game>
+	<game id="3738">
+		<title>LEGO Movie Videogame</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2021-12-29</date>
+			<price>9.99</price>
+			<place>ebay.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/4/2022.</notes>
+	</game>
+	<game id="3739">
+		<title>Scribblenauts Unlimited</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2021-12-29</date>
+			<price>12.99</price>
+			<place>ebay.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/4/2022.</notes>
+	</game>
+	<game id="3740">
+		<title>Mario Kart 8 Deluxe</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2021-12-29</date>
+			<price>50.99</price>
+			<place>Target.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/6/2022.</notes>
+	</game>
+	<game id="3741">
+		<title>Legend of Zelda, The: Breath of the Wild</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-04</date>
+			<price>36.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/6/2022.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

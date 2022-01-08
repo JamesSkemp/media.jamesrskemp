@@ -67324,7 +67324,7 @@
 				"title": "Super Mario 3D World",
 				"system": {
 					"console": "Nintendo",
-					"version": "WiiU"
+					"version": "Wii U"
 				},
 				"purchase": {
 					"date": "2021-12-12",
@@ -67332,7 +67332,7 @@
 					"place": "eBay (flipwax)"
 				},
 				"own": true,
-				"notes": "Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.",
+				"notes": "Received 12/21/2021. For Elliott since we watched the entire Mario game on the Switch (Odyssey) and he seemed to like it. So ... bought an older 3D Mario game for a system we have instead.",
 				"meta": {
 					"id": 3733,
 					"used": true
@@ -67372,6 +67372,125 @@
 				"meta": {
 					"id": 3735,
 					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Jurassic World",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2021-12-29",
+					"price": "9.99",
+					"place": "ebay.com"
+				},
+				"own": true,
+				"notes": "Received 1/4/2022.",
+				"meta": {
+					"id": 3736
+				}
+			},
+			{
+				"title": "LEGO Marvel's Avengers",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2021-12-29",
+					"price": "13.99",
+					"place": "ebay.com"
+				},
+				"own": true,
+				"notes": "Received 1/4/2022.",
+				"meta": {
+					"id": 3737
+				}
+			},
+			{
+				"title": "LEGO Movie Videogame",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2021-12-29",
+					"price": "9.99",
+					"place": "ebay.com"
+				},
+				"own": true,
+				"notes": "Received 1/4/2022.",
+				"meta": {
+					"id": 3738
+				}
+			},
+			{
+				"title": "Scribblenauts Unlimited",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2021-12-29",
+					"price": "12.99",
+					"place": "ebay.com"
+				},
+				"own": true,
+				"notes": "Received 1/4/2022.",
+				"meta": {
+					"id": 3739
+				}
+			},
+			{
+				"title": "Mario Kart 8 Deluxe",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2021-12-29",
+					"price": "50.99",
+					"place": "Target.com"
+				},
+				"own": true,
+				"notes": "Received 1/6/2022.",
+				"meta": {
+					"id": 3740
+				}
+			},
+			{
+				"title": "Legend of Zelda, The: Breath of the Wild",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-04",
+					"price": "36.99",
+					"place": "BestBuy.com"
+				},
+				"own": true,
+				"notes": "Received 1/6/2022.",
+				"meta": {
+					"id": 3741
+				}
+			},
+			{
+				"title": "Super Mario Odyssey Standard Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-04",
+					"price": "35.99",
+					"place": "BestBuy.com"
+				},
+				"own": true,
+				"notes": "Received 1/7/2022.",
+				"meta": {
+					"id": 3742
 				}
 			}
 		]

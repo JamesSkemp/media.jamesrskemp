@@ -53239,6 +53239,20 @@
 		<own>yes</own>
 		<notes>Received 1/6/2022.</notes>
 	</game>
+	<game id="3742">
+		<title>Super Mario Odyssey Standard Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-04</date>
+			<price>35.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/7/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

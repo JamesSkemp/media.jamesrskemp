@@ -53253,6 +53253,62 @@
 		<own>yes</own>
 		<notes>Received 1/7/2022.</notes>
 	</game>
+	<game id="3743" electronic="true">
+		<title>Taiko No Tatsujin: Drum 'n' Fun!</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-08</date>
+			<price>9.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but on sale. Looks like Elliott may like it. Maybe April.</notes>
+	</game>
+	<game id="3744" electronic="true">
+		<title>Katamari Damacy REROLL</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-08</date>
+			<price>7.49</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3745" electronic="true">
+		<title>Scott Pilgrim vs. The World: The Game - Complete Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-08</date>
+			<price>14.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Sure, another copy. Why not.</notes>
+	</game>
+	<game id="3746" electronic="true">
+		<title>LEGO Marvel Super Heroes 2 Deluxe Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-08</date>
+			<price>8.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $44.99. Includes all DLC.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

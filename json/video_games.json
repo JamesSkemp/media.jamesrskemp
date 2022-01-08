@@ -67492,6 +67492,78 @@
 				"meta": {
 					"id": 3742
 				}
+			},
+			{
+				"title": "Taiko No Tatsujin: Drum 'n' Fun!",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-08",
+					"price": "9.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $49.99 but on sale. Looks like Elliott may like it. Maybe April.",
+				"meta": {
+					"id": 3743,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Katamari Damacy REROLL",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-08",
+					"price": "7.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but on sale.",
+				"meta": {
+					"id": 3744,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Scott Pilgrim vs. The World: The Game - Complete Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-08",
+					"price": "14.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Sure, another copy. Why not.",
+				"meta": {
+					"id": 3745,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Marvel Super Heroes 2 Deluxe Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-08",
+					"price": "8.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $44.99. Includes all DLC.",
+				"meta": {
+					"id": 3746,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -53309,6 +53309,20 @@
 		<own>yes</own>
 		<notes>Normally $44.99. Includes all DLC.</notes>
 	</game>
+	<game id="3747">
+		<title>Animal Crossing: New Horizons</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-06</date>
+			<price>49.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/9/2022. Hoping Elliott, and April, will like it.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

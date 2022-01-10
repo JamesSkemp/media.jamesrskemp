@@ -67564,6 +67564,23 @@
 					"id": 3746,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Animal Crossing: New Horizons",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-06",
+					"price": "49.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received 1/9/2022. Hoping Elliott, and April, will like it.",
+				"meta": {
+					"id": 3747
+				}
 			}
 		]
 	}

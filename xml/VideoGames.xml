@@ -2253,6 +2253,20 @@
 			<own>yes</own>
 			<notes>Did not include game ... Version 2 of switch, not OLED. Received 1/6/2022. Paid $26.99 for SanDisk 128GB microSDXC Memory card, Licensed for Nintendo Switch at the same time.</notes>
 		</item>
+		<item id="164">
+			<name>Nintendo Switch Joy-Con Controller Pair - Neon Red/Neon Blue</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-01-06</date>
+				<price>84.95</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/9/2022.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

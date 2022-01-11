@@ -67581,6 +67581,23 @@
 				"meta": {
 					"id": 3747
 				}
+			},
+			{
+				"title": "Xenoblade Chronicles: Definitive Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-06",
+					"price": "37.00",
+					"place": "ebay.com"
+				},
+				"own": true,
+				"notes": "Received 1/10/2022.",
+				"meta": {
+					"id": 3748
+				}
 			}
 		]
 	}

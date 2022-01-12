@@ -2267,6 +2267,20 @@
 			<own>yes</own>
 			<notes>Received 1/9/2022.</notes>
 		</item>
+		<item id="165">
+			<name>PowerA Joy-Con Charging Dock</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-01-09</date>
+				<price>22.99</price>
+				<place>BestBuy.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/11/2022. Nintendo licensed.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

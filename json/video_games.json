@@ -67598,6 +67598,40 @@
 				"meta": {
 					"id": 3748
 				}
+			},
+			{
+				"title": "Collection of Mana",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-09",
+					"price": "29.99",
+					"place": "BestBuy.com"
+				},
+				"own": true,
+				"notes": "Received 1/11/2022.",
+				"meta": {
+					"id": 3749
+				}
+			},
+			{
+				"title": "Street Fighter 30th Anniversary Collection Standard Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-09",
+					"price": "18.99",
+					"place": "BestBuy.com"
+				},
+				"own": true,
+				"notes": "Received 1/11/2022. April enjoys Street Fighter, and clearance price, so ...",
+				"meta": {
+					"id": 3750
+				}
 			}
 		]
 	}

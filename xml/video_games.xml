@@ -53337,6 +53337,34 @@
 		<own>yes</own>
 		<notes>Received 1/10/2022.</notes>
 	</game>
+	<game id="3749">
+		<title>Collection of Mana</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-09</date>
+			<price>29.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/11/2022.</notes>
+	</game>
+	<game id="3750">
+		<title>Street Fighter 30th Anniversary Collection Standard Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-09</date>
+			<price>18.99</price>
+			<place>BestBuy.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/11/2022. April enjoys Street Fighter, and clearance price, so ...</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

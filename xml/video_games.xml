@@ -53365,6 +53365,20 @@
 		<own>yes</own>
 		<notes>Received 1/11/2022. April enjoys Street Fighter, and clearance price, so ...</notes>
 	</game>
+	<game id="3751">
+		<title>Mario + Rabbids Kingdom Battle</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-10</date>
+			<price>19.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Sounds fun? Received 1/13/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

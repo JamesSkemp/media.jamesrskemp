@@ -53379,6 +53379,20 @@
 		<own>yes</own>
 		<notes>Sounds fun? Received 1/13/2022.</notes>
 	</game>
+	<game id="3752" electronic="true">
+		<title>Tribes of Midgard: Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-01-15</date>
+			<price>29.98</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought to play with Ness.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

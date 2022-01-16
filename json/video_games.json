@@ -67649,6 +67649,95 @@
 				"meta": {
 					"id": 3751
 				}
+			},
+			{
+				"title": "Tribes of Midgard: Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-01-15",
+					"price": "29.98",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Bought to play with Ness.",
+				"meta": {
+					"id": 3752,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Rune Factory 4 Special",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-13",
+					"price": "25.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received 1/15/2022.",
+				"meta": {
+					"id": 3753
+				}
+			},
+			{
+				"title": "Hidden Through Time",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-16",
+					"price": "4.39",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $7.99.",
+				"meta": {
+					"id": 3754,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Untitled Goose Game",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-16",
+					"price": "9.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 3755,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Red Faction Guerrilla Re-Mars-tered",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-16",
+					"price": "2.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $29.99.",
+				"meta": {
+					"id": 3756,
+					"electronic": true
+				}
 			}
 		]
 	}

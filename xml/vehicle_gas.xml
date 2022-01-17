@@ -3664,6 +3664,87 @@
 				<costTotal>14.30</costTotal>
 				<notes>Half a tank?</notes>
 			</fillup>
+			<fillup id="25">
+				<date>2020-03-03</date>
+				<milesCar>10890</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>8.362</gallons>
+				<costGallon>2.299</costGallon>
+				<costTotal>19.22</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="26">
+				<date>2020-08-17</date>
+				<milesCar>12854</milesCar>
+				<milesDriven></milesDriven>
+				<gallons>10.667</gallons>
+				<costGallon>2.199</costGallon>
+				<costTotal>23.46</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="27">
+				<date>2020-11-18</date>
+				<milesCar>13956</milesCar>
+				<milesDriven/>
+				<gallons>8.199</gallons>
+				<costGallon>1.859</costGallon>
+				<costTotal>15.24</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="28">
+				<date>2020-12-15</date>
+				<milesCar>14152</milesCar>
+				<milesDriven/>
+				<gallons>8.429</gallons>
+				<costGallon>1.899</costGallon>
+				<costTotal>16.01</costTotal>
+				<notes>1/2 tank.</notes>
+			</fillup>
+			<fillup id="29">
+				<date>2021-01-14</date>
+				<milesCar>14350</milesCar>
+				<milesDriven/>
+				<gallons>9.125</gallons>
+				<costGallon>2.249</costGallon>
+				<costTotal>20.52</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="30">
+				<date>2021-02-10</date>
+				<milesCar>14486</milesCar>
+				<milesDriven/>
+				<gallons>8.485</gallons>
+				<costGallon>2.399</costGallon>
+				<costTotal>20.36</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="31">
+				<date>2021-03-01</date>
+				<milesCar>14715</milesCar>
+				<milesDriven/>
+				<gallons>8.970</gallons>
+				<costGallon>2.599</costGallon>
+				<costTotal>23.31</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="32">
+				<date>2021-11-30</date>
+				<milesCar>15865</milesCar>
+				<milesDriven/>
+				<gallons>10.728</gallons>
+				<costGallon>2.999</costGallon>
+				<costTotal>32.17</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="33">
+				<date>2022-01-11</date>
+				<milesCar>16175</milesCar>
+				<milesDriven/>
+				<gallons>12.349</gallons>
+				<costGallon>2.959</costGallon>
+				<costTotal>36.54</costTotal>
+				<notes/>
+			</fillup>
 		</fillups>
 	</vehicle>
 </vehicles>

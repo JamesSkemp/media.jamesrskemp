@@ -2281,6 +2281,20 @@
 			<own>yes</own>
 			<notes>Received 1/11/2022. Nintendo licensed.</notes>
 		</item>
+		<item id="166">
+			<name>Bigaint Wireless Pro Controller</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Wii U</version>
+			</system>
+			<purchase>
+				<date>2022-01-13</date>
+				<price>20.69</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 1/15/2022.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

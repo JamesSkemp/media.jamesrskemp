@@ -67738,6 +67738,60 @@
 					"id": 3756,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Persona 5 Strikers",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-01-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3757,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DIRT 5",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-01-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus. Includes PS5 edition.",
+				"meta": {
+					"id": 3758,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Deep Rock Galactic",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-01-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus. Includes PS5 edition.",
+				"meta": {
+					"id": 3759,
+					"electronic": true
+				}
 			}
 		]
 	}

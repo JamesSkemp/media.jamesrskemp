@@ -67846,6 +67846,42 @@
 					"id": 3762,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Factorio",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-01-29",
+					"price": "30.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "To play with Ness, which we did on day of purchase.",
+				"meta": {
+					"id": 3763,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Deep Rock Galactic",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-01-29",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "To play with Ness. Lunar New Year Sale.",
+				"meta": {
+					"id": 3764,
+					"electronic": true
+				}
 			}
 		]
 	}

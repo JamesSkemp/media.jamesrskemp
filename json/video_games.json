@@ -67792,6 +67792,60 @@
 					"id": 3759,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Syberia",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-28",
+					"price": "2.98",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $14.90 but on sale.",
+				"meta": {
+					"id": 3760,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Capcom Beat 'Em Up Bundle",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-28",
+					"price": "9.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but on sale.",
+				"meta": {
+					"id": 3761,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dragon's Dogma: Dark Arisen",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-28",
+					"price": "14.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but on sale.",
+				"meta": {
+					"id": 3762,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -53491,6 +53491,48 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus. Includes PS5 edition.</notes>
 	</game>
+	<game id="3760" electronic="true">
+		<title>Syberia</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-28</date>
+			<price>2.98</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.90 but on sale.</notes>
+	</game>
+	<game id="3761" electronic="true">
+		<title>Capcom Beat 'Em Up Bundle</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-28</date>
+			<price>9.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
+	<game id="3762" electronic="true">
+		<title>Dragon's Dogma: Dark Arisen</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-28</date>
+			<price>14.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

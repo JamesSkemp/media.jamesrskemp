@@ -53561,6 +53561,34 @@
 		<own>yes</own>
 		<notes>To play with Ness. Lunar New Year Sale.</notes>
 	</game>
+	<game id="3765" electronic="true">
+		<title>Syberia 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-01-31</date>
+			<price>2.09</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
+	<game id="3766" electronic="true">
+		<title>Vampire Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-02-03</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Developed with Phaser 3.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

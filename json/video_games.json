@@ -67882,6 +67882,42 @@
 					"id": 3764,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Syberia 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-01-31",
+					"price": "2.09",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 3765,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vampire Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-02-03",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Developed with Phaser 3.",
+				"meta": {
+					"id": 3766,
+					"electronic": true
+				}
 			}
 		]
 	}

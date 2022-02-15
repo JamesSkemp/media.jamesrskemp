@@ -67918,6 +67918,40 @@
 					"id": 3766,
 					"electronic": true
 				}
+			},
+			{
+				"title": "LEGO Harry Potter Collection",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-02-15",
+					"price": "24.88",
+					"place": "Walmart"
+				},
+				"own": true,
+				"notes": "Is on sale.",
+				"meta": {
+					"id": 3767
+				}
+			},
+			{
+				"title": "Yoshi's Crafted World",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-02-15",
+					"price": "49.94",
+					"place": "Walmart"
+				},
+				"own": true,
+				"notes": "Is on sale.",
+				"meta": {
+					"id": 3768
+				}
 			}
 		]
 	}

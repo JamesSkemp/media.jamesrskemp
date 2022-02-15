@@ -53589,6 +53589,34 @@
 		<own>yes</own>
 		<notes>Developed with Phaser 3.</notes>
 	</game>
+	<game id="3767">
+		<title>LEGO Harry Potter Collection</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-02-15</date>
+			<price>24.88</price>
+			<place>Walmart</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Is on sale.</notes>
+	</game>
+	<game id="3768">
+		<title>Yoshi's Crafted World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-02-15</date>
+			<price>49.94</price>
+			<place>Walmart</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Is on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

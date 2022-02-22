@@ -67952,6 +67952,60 @@
 				"meta": {
 					"id": 3768
 				}
+			},
+			{
+				"title": "Planet Coaster: Console Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2022-02-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 3769,
+					"electronic": true
+				}
+			},
+			{
+				"title": "UFC 4",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-02-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3770,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-02-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but free with Plus.",
+				"meta": {
+					"id": 3771,
+					"electronic": true
+				}
 			}
 		]
 	}

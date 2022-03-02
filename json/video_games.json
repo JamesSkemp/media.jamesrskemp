@@ -68006,6 +68006,24 @@
 					"id": 3771,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Sackboy: A Big Adventure",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-02",
+					"price": "29.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Also for PS5. On sale, normally $59.99. Supposedly quite similar to Super Mario 3D World, which Elliott really enjoys.",
+				"meta": {
+					"id": 3772,
+					"electronic": true
+				}
 			}
 		]
 	}

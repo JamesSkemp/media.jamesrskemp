@@ -68132,6 +68132,24 @@
 					"id": 3778,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Luigi's Mansion 3 + Multiplayer Pack Set",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "46.98",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $69.98, but Mar10 sale.",
+				"meta": {
+					"id": 3779,
+					"electronic": true
+				}
 			}
 		]
 	}

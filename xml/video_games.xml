@@ -53673,11 +53673,94 @@
 		<own>yes</own>
 		<notes>Also for PS5. On sale, normally $59.99. Supposedly quite similar to Super Mario 3D World, which Elliott really enjoys.</notes>
 	</game>
+	<game id="3773" electronic="true">
+		<title>Yakuza 3 Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3774" electronic="true">
+		<title>Yakuza 4 Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3775" electronic="true">
+		<title>Yakuza 5 Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>7.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="3776" electronic="true">
+		<title>Marvel's Iron Man VR: Digital Deluxe Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>19.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99.</notes>
+	</game>
+	<game id="3777" electronic="true">
+		<title>ASTRO BOT Rescue Mission</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>5.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
+	<game id="3778" electronic="true">
+		<title>Astral Chain</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-03-11</date>
+			<price>53.09</price>
+			<place>Walmart.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->
 	<!--
-		Sackboy: A Big Adventure	ps4+5	29.99	59.99
 	-->
 	<!--
 	<game id="">

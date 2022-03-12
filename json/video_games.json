@@ -68024,6 +68024,114 @@
 					"id": 3772,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Yakuza 3 Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "7.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 3773,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yakuza 4 Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "7.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 3774,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yakuza 5 Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "7.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 3775,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Marvel's Iron Man VR: Digital Deluxe Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "19.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99.",
+				"meta": {
+					"id": 3776,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ASTRO BOT Rescue Mission",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "5.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3777,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Astral Chain",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-11",
+					"price": "53.09",
+					"place": "Walmart.com"
+				},
+				"own": true,
+				"notes": "Normally $59.99.",
+				"meta": {
+					"id": 3778,
+					"electronic": true
+				}
 			}
 		]
 	}

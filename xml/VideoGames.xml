@@ -2295,6 +2295,20 @@
 			<own>yes</own>
 			<notes>Received 1/15/2022.</notes>
 		</item>
+		<item id="167">
+			<name>Retroid Pocket 2+ - Black</name>
+			<system>
+				<console>Android</console>
+				<version/>
+			</system>
+			<purchase>
+				<date>2022-01-02</date>
+				<price>99.00</price>
+				<place>goretroid.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Shipped 3/1/2022, and received 03/12/2022. Also got the carrying case for $10, extra screen protector (for 2) for $5, and there was $17 for shipping.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

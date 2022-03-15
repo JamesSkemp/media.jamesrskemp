@@ -68150,6 +68150,23 @@
 					"id": 3779,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario 3D All-Stars",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-15",
+					"price": "56.97",
+					"place": "ebay (funkoworldwide2123)"
+				},
+				"own": true,
+				"notes": "Received 3/15/2022.",
+				"meta": {
+					"id": 3780
+				}
 			}
 		]
 	}

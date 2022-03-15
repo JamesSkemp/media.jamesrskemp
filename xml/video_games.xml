@@ -53771,6 +53771,20 @@
 		<own>yes</own>
 		<notes>Normally $69.98, but Mar10 sale.</notes>
 	</game>
+	<game id="3780">
+		<title>Super Mario 3D All-Stars</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-03-15</date>
+			<price>56.97</price>
+			<place>ebay (funkoworldwide2123)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 3/15/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

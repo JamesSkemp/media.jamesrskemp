@@ -68167,6 +68167,60 @@
 				"meta": {
 					"id": 3780
 				}
+			},
+			{
+				"title": "Resonance of Fate/End of Eternity 4K/HD Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-03-16",
+					"price": "20.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $34.99, JRPG sale.",
+				"meta": {
+					"id": 3781,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Valkyria Chronicles 4 Complete Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-03-16",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, JRPG sale.",
+				"meta": {
+					"id": 3782,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Chrono Trigger",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-03-16",
+					"price": "7.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but JRPG sale.",
+				"meta": {
+					"id": 3783,
+					"electronic": true
+				}
 			}
 		]
 	}

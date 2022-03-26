@@ -68275,6 +68275,41 @@
 					"id": 3786,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Kirby and the Forgotten Land",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-22",
+					"price": "54.99",
+					"place": "Amazon"
+				},
+				"own": true,
+				"notes": "Pre-ordered. Received 3/25/2022, release date. Elliott is really liking Kirby.",
+				"meta": {
+					"id": 3787
+				}
+			},
+			{
+				"title": "FINAL FANTASY X/X-2 HD Remaster",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-25",
+					"price": "24.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but on sale.",
+				"meta": {
+					"id": 3788,
+					"electronic": true
+				}
 			}
 		]
 	}

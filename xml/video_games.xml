@@ -53897,6 +53897,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but on sale.</notes>
 	</game>
+	<game id="3789" electronic="true">
+		<title>Kirby Star Allies</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-03-31</date>
+			<price>39.99</price>
+			<place>GameStop.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Cheaper than the physical copy I ordered from Amazon a few days ago that still hasn't shipped. For Elliott.</notes>
+	</game>
+	<game id="3790" used="true">
+		<title>Yoshi's Woolly World</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2022-03-28</date>
+			<price>26.00</price>
+			<place>ebay.com (brotali0)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Complete. Elliott was watching gameplay on YouTube. Received 3/30/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

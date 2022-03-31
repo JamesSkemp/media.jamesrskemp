@@ -68310,6 +68310,42 @@
 					"id": 3788,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Kirby Star Allies",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-03-31",
+					"price": "39.99",
+					"place": "GameStop.com"
+				},
+				"own": true,
+				"notes": "On sale. Cheaper than the physical copy I ordered from Amazon a few days ago that still hasn't shipped. For Elliott.",
+				"meta": {
+					"id": 3789,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yoshi's Woolly World",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2022-03-28",
+					"price": "26.00",
+					"place": "ebay.com (brotali0)"
+				},
+				"own": true,
+				"notes": "Complete. Elliott was watching gameplay on YouTube. Received 3/30/2022.",
+				"meta": {
+					"id": 3790,
+					"used": true
+				}
 			}
 		]
 	}

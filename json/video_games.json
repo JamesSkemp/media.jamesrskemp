@@ -68346,6 +68346,40 @@
 					"id": 3790,
 					"used": true
 				}
+			},
+			{
+				"title": "Super Mario 3D World + Bowser's Fury",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-04-16",
+					"price": "49.94",
+					"place": "Walmart, Monona"
+				},
+				"own": true,
+				"notes": "Buying so Elliott has to play the game again.",
+				"meta": {
+					"id": 3791
+				}
+			},
+			{
+				"title": "Super Mario Party",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-04-16",
+					"price": "49.94",
+					"place": "Walmart, Monona"
+				},
+				"own": true,
+				"notes": "Elliott has been watching these on YouTube. There's a newer one that's faster, but this one has more characters, so ...",
+				"meta": {
+					"id": 3792
+				}
 			}
 		]
 	}

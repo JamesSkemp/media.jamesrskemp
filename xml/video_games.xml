@@ -53925,6 +53925,34 @@
 		<own>yes</own>
 		<notes>Complete. Elliott was watching gameplay on YouTube. Received 3/30/2022.</notes>
 	</game>
+	<game id="3791">
+		<title>Super Mario 3D World + Bowser's Fury</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-04-16</date>
+			<price>49.94</price>
+			<place>Walmart, Monona</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Buying so Elliott has to play the game again.</notes>
+	</game>
+	<game id="3792">
+		<title>Super Mario Party</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-04-16</date>
+			<price>49.94</price>
+			<place>Walmart, Monona</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Elliott has been watching these on YouTube. There's a newer one that's faster, but this one has more characters, so ...</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

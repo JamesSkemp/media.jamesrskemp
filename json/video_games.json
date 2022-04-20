@@ -68380,6 +68380,60 @@
 				"meta": {
 					"id": 3792
 				}
+			},
+			{
+				"title": "Hood: Outlaws & Legends",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-04-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3793,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Slay the Spire",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-04-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 3794,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-04-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3795,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -53953,6 +53953,48 @@
 		<own>yes</own>
 		<notes>Elliott has been watching these on YouTube. There's a newer one that's faster, but this one has more characters, so ...</notes>
 	</game>
+	<game id="3793" electronic="true">
+		<title>Hood: Outlaws &amp; Legends</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-04-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3794" electronic="true">
+		<title>Slay the Spire</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-04-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
+	<game id="3795" electronic="true">
+		<title>SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-04-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

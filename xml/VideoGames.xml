@@ -2309,6 +2309,20 @@
 			<own>yes</own>
 			<notes>Shipped 3/1/2022, and received 03/12/2022. Also got the carrying case for $10, extra screen protector (for 2) for $5, and there was $17 for shipping.</notes>
 		</item>
+		<item id="168">
+			<name>Nintendo Switch Joy-Con Controller Pair - Neon Purple/Neon Orange</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-04-16</date>
+				<price>79.99</price>
+				<place>Nintendo</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 4/28/2022.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

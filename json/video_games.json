@@ -68434,6 +68434,25 @@
 					"id": 3795,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mario Kart 8 Deluxe - Booster Course Pass",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-05-03",
+					"price": "24.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3796,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

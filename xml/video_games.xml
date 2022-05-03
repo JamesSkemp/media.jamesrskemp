@@ -53995,6 +53995,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
 	</game>
+	<game id="3796" electronic="true" addOn="true">
+		<title>Mario Kart 8 Deluxe - Booster Course Pass</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-05-03</date>
+			<price>24.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

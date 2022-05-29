@@ -54065,6 +54065,118 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3801" electronic="true">
+		<title>CROSSBOW: Bloodnight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3802" electronic="true">
+		<title>Tyranny: Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3803" electronic="true">
+		<title>Plebby Quest: The Crusades</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3804" electronic="true">
+		<title>Pathfinder: Kingmaker - Enhanced Plus Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3805" electronic="true" addOn="true">
+		<title>Pathfinder: Kingmaker - Royal Ascension</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3806" electronic="true" addOn="true">
+		<title>Pathfinder: Kingmaker - Wild Cards</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.62</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3807" electronic="true">
+		<title>Gordian Quest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
+	<game id="3808" electronic="true">
+		<title>Field of Glory: Empires</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-05-28</date>
+			<price>1.63</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

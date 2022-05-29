@@ -68525,6 +68525,152 @@
 					"id": 3800,
 					"electronic": true
 				}
+			},
+			{
+				"title": "CROSSBOW: Bloodnight",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.62",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3801,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tyranny: Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.63",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3802,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Plebby Quest: The Crusades",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.62",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3803,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.63",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3804,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pathfinder: Kingmaker - Royal Ascension",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.62",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3805,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Pathfinder: Kingmaker - Wild Cards",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.62",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3806,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Gordian Quest",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.63",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3807,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Field of Glory: Empires",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-05-28",
+					"price": "1.63",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Battles of Yore Bundle, $13 for 9 games but already had one.",
+				"meta": {
+					"id": 3808,
+					"electronic": true
+				}
 			}
 		]
 	}

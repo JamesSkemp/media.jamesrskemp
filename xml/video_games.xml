@@ -54177,6 +54177,34 @@
 		<own>yes</own>
 		<notes>Battles of Yore Bundle, $13 for 9 games but already had one.</notes>
 	</game>
+	<game id="3809" electronic="true">
+		<title>Teenage Mutant Ninja Turtles: Shredder's Revenge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-06-16</date>
+			<price>22.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>10% off for release day/week.</notes>
+	</game>
+	<game id="3810" electronic="true">
+		<title>Disco Elysium - The Final Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-06-16</date>
+			<price>13.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $39.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

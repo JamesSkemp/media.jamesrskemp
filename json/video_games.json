@@ -68671,6 +68671,42 @@
 					"id": 3808,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-06-16",
+					"price": "22.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "10% off for release day/week.",
+				"meta": {
+					"id": 3809,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Disco Elysium - The Final Cut",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-06-16",
+					"price": "13.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale. Normally $39.99.",
+				"meta": {
+					"id": 3810,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -68761,6 +68761,60 @@
 					"id": 3813,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Crash Bandicoot 4: It's About Time",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-07-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3814,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dark Pictures Anthology, The: Man of Medan",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-07-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3815,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Arcadegeddon",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-07-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3816,
+					"electronic": true
+				}
 			}
 		]
 	}

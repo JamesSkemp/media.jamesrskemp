@@ -54247,28 +54247,55 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="3814" electronic="true">
+		<title>Crash Bandicoot 4: It's About Time</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-07-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="3815" electronic="true">
+		<title>Dark Pictures Anthology, The: Man of Medan</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-07-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="3816" electronic="true">
+		<title>Arcadegeddon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-07-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->
 	<!--
 	-->
 	<!--
-	<game id="">
-		<title></title>
-		<system>
-			<console></console>
-			<version></version>
-		</system>
-		<purchase>
-			<date></date>
-			<price></price>
-			<place></place>
-		</purchase>
-		<own>yes</own>
-		<notes></notes>
-	</game>
-	-->
-	<!--
+	https://www.playstation.com/en-us/ps-plus/whats-new/#monthly-games
 	https://www.xbox.com/en-US/live/gold#gameswithgold
 		https://account.xbox.com/en-us/MyGames
 	-->

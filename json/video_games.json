@@ -68815,6 +68815,63 @@
 					"id": 3816,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - New Mission Pack 1",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-07-23",
+					"price": "3.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3817,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - New Mission Pack 2",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-07-23",
+					"price": "3.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3818,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - Playable Characters Full Set",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-07-23",
+					"price": "17.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3819,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

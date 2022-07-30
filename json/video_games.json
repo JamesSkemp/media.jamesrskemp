@@ -68872,6 +68872,23 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Xenoblade Chronicles 3",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-07-27",
+					"price": "59.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Pre-ordered. Received 7/30/2022.",
+				"meta": {
+					"id": 3820
+				}
 			}
 		]
 	}

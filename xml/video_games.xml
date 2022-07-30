@@ -54331,6 +54331,20 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="3820">
+		<title>Xenoblade Chronicles 3</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-07-27</date>
+			<price>59.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered. Received 7/30/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

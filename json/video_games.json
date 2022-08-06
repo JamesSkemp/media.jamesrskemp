@@ -68946,6 +68946,24 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Desktopia: A Desktop Village Simulator",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-08-06",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99 but launch week sale. Think I added this to my wishlist during the last Steam sale.",
+				"meta": {
+					"id": 3824,
+					"electronic": true
+				}
 			}
 		]
 	}

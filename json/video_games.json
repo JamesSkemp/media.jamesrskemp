@@ -68889,6 +68889,63 @@
 				"meta": {
 					"id": 3820
 				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - Exclusive Original Costumes Pack",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-07-30",
+					"price": "7.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3821,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - Celestial Emperor Costume Set",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-08-06",
+					"price": "9.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3822,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fist of the North Star: Ken's Rage 2 - Additional Scroll 2",
+				"system": {
+					"console": "Xbox",
+					"version": "360"
+				},
+				"purchase": {
+					"date": "2022-08-06",
+					"price": "2.99",
+					"place": "Xbox Live"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3823,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

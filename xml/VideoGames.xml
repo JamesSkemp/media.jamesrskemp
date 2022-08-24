@@ -2323,6 +2323,34 @@
 			<own>yes</own>
 			<notes>Received 4/28/2022.</notes>
 		</item>
+		<item id="169">
+			<name>Super Nintendo Entertainment SYstem Controller</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-08-15</date>
+				<price>29.99</price>
+				<place>Nintendo</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/23/2022.</notes>
+		</item>
+		<item id="170">
+			<name>Super Nintendo Entertainment SYstem Controller</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-08-15</date>
+				<price>29.99</price>
+				<place>Nintendo</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/23/2022.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

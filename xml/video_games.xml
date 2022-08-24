@@ -54415,6 +54415,20 @@
 		<own>yes</own>
 		<notes>Includes base game and an online starter pack DLC. Bundle is a penny cheaper than the game, both of which are on sale.</notes>
 	</game>
+	<game id="3826" electronic="true" addOn="true">
+		<title>Mario Kart 8 Deluxe - Booster Course Pass</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-05-03</date>
+			<price>24.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

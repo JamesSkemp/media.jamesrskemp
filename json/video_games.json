@@ -69001,6 +69001,60 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Yakuza: Like a Dragon",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-08-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3827,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tony Hawk's Pro Skater 1 + 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-08-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 3828,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Little Nightmares",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-08-25",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3829,
+					"electronic": true
+				}
 			}
 		]
 	}

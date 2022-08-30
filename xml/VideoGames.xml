@@ -2324,7 +2324,7 @@
 			<notes>Received 4/28/2022.</notes>
 		</item>
 		<item id="169">
-			<name>Super Nintendo Entertainment SYstem Controller</name>
+			<name>Super Nintendo Entertainment System Controller</name>
 			<system>
 				<console>Nintendo</console>
 				<version>Switch</version>
@@ -2338,7 +2338,7 @@
 			<notes>Received 8/23/2022.</notes>
 		</item>
 		<item id="170">
-			<name>Super Nintendo Entertainment SYstem Controller</name>
+			<name>Super Nintendo Entertainment System Controller</name>
 			<system>
 				<console>Nintendo</console>
 				<version>Switch</version>
@@ -2350,6 +2350,20 @@
 			</purchase>
 			<own>yes</own>
 			<notes>Received 8/23/2022.</notes>
+		</item>
+		<item id="171">
+			<name>PowerA Joy-Con Charging Dock</name>
+			<system>
+				<console>Nintendo</console>
+				<version>Switch</version>
+			</system>
+			<purchase>
+				<date>2022-08-20</date>
+				<price>17.99</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received 8/26/2022. May help with issues keeping all four extra Joy-Cons charged faster.</notes>
 		</item>
 		<!--
 		<item id="">

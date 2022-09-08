@@ -69055,6 +69055,24 @@
 					"id": 3829,
 					"electronic": true
 				}
+			},
+			{
+				"title": "GigaBash",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-08",
+					"price": "27.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "20% off. Looks fun. Think I wishlisted it because I thought Elliott and I would like it.",
+				"meta": {
+					"id": 3830,
+					"electronic": true
+				}
 			}
 		]
 	}

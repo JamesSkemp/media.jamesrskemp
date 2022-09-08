@@ -54471,6 +54471,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3830" electronic="true">
+		<title>GigaBash</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-08</date>
+			<price>27.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>20% off. Looks fun. Think I wishlisted it because I thought Elliott and I would like it.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

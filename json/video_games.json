@@ -69073,6 +69073,60 @@
 					"id": 3830,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Danganronpa: Trigger Happy Havoc",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-15",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of three game bundle, that was on sale for Tokyo Game Show.",
+				"meta": {
+					"id": 3831,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Danganronpa 2: Goodbye Despair",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-15",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of three game bundle, that was on sale for Tokyo Game Show.",
+				"meta": {
+					"id": 3832,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Danganronpa V3: Killing Harmony",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-15",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of three game bundle, that was on sale for Tokyo Game Show.",
+				"meta": {
+					"id": 3833,
+					"electronic": true
+				}
 			}
 		]
 	}

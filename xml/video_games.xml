@@ -54485,6 +54485,48 @@
 		<own>yes</own>
 		<notes>20% off. Looks fun. Think I wishlisted it because I thought Elliott and I would like it.</notes>
 	</game>
+	<game id="3831" electronic="true">
+		<title>Danganronpa: Trigger Happy Havoc</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-15</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
+	</game>
+	<game id="3832" electronic="true">
+		<title>Danganronpa 2: Goodbye Despair</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-15</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
+	</game>
+	<game id="3833" electronic="true">
+		<title>Danganronpa V3: Killing Harmony</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-15</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

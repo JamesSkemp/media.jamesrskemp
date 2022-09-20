@@ -54527,6 +54527,76 @@
 		<own>yes</own>
 		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
 	</game>
+	<game id="3824" electronic="true">
+		<title>Earth Defense Force 5 - Mission Pack 1: Extra Challenge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-19</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99 but on sale. Bought for Ness as well.</notes>
+	</game>
+	<game id="3825" electronic="true">
+		<title>Earth Defense Force 5 - Mission Pack 2: Super Challenge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-19</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99 but on sale. Bought for Ness as well.</notes>
+	</game>
+	<game id="3826" electronic="true">
+		<title>Chronicon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-19</date>
+			<price>9.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99 but on sale. Don't recall why I put this into my wishlist, but looks enjoyable.</notes>
+	</game>
+	<game id="3827" electronic="true">
+		<title>Lightning Returns: Final Fantasy XIII</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-19</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
+	<game id="3828" electronic="true">
+		<title>Wonderful 101, The: Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-19</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale. Have heard good things about it, so may as well get it.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

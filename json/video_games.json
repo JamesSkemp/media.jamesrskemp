@@ -69127,6 +69127,96 @@
 					"id": 3833,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Earth Defense Force 5 - Mission Pack 1: Extra Challenge",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-19",
+					"price": "5.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.99 but on sale. Bought for Ness as well.",
+				"meta": {
+					"id": 3824,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Earth Defense Force 5 - Mission Pack 2: Super Challenge",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-19",
+					"price": "5.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.99 but on sale. Bought for Ness as well.",
+				"meta": {
+					"id": 3825,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Chronicon",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-19",
+					"price": "9.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $13.99 but on sale. Don't recall why I put this into my wishlist, but looks enjoyable.",
+				"meta": {
+					"id": 3826,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Lightning Returns: Final Fantasy XIII",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-19",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but on sale.",
+				"meta": {
+					"id": 3827,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wonderful 101, The: Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-19",
+					"price": "17.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale. Have heard good things about it, so may as well get it.",
+				"meta": {
+					"id": 3828,
+					"electronic": true
+				}
 			}
 		]
 	}

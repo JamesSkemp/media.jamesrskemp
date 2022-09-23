@@ -69217,6 +69217,24 @@
 					"id": 3828,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Incredible Adventures of Van Helsing, The: Final Cut",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-22",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $44.99 but on sale. Contains the trilogy. Seemingly worth it, so being on sale it's an easy buy.",
+				"meta": {
+					"id": 3829,
+					"electronic": true
+				}
 			}
 		]
 	}

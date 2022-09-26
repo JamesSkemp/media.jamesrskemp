@@ -69289,6 +69289,42 @@
 					"id": 3832,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Tomb Raider: Game of the Year Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-25",
+					"price": "3.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3833,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sleeping Dogs: Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-09-25",
+					"price": "2.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3834,
+					"electronic": true
+				}
 			}
 		]
 	}

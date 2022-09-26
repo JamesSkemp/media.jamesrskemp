@@ -54653,6 +54653,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="3833" electronic="true">
+		<title>Tomb Raider: Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-25</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
+	<game id="3834" electronic="true">
+		<title>Sleeping Dogs: Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-09-25</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

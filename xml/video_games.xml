@@ -54681,6 +54681,524 @@
 		<own>yes</own>
 		<notes>Normally $19.99.</notes>
 	</game>
+	<game id="3835" electronic="true">
+		<title>Battle Fantasia -Revised Edition-</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>2.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $14.99.</notes>
+	</game>
+	<game id="3836" electronic="true">
+		<title>Code of Princess</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>2.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $14.99.</notes>
+	</game>
+	<game id="3837" electronic="true">
+		<title>Tales of Vesperia: Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>9.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $49.99.</notes>
+	</game>
+	<game id="3838" electronic="true">
+		<title>Tales of Symphonia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>4.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $19.99.</notes>
+	</game>
+	<game id="3839" electronic="true">
+		<title>PSYCHO-PASS: Mandatory Happiness Digital Alpha Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>4.55</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $22.78.</notes>
+	</game>
+	<game id="3840" electronic="true">
+		<title>ONE PUNCH MAN: A HERO NOBODY KNOWS - Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>11.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $79.99.</notes>
+	</game>
+	<game id="3841" electronic="true">
+		<title>ONE PIECE PIRATE WARRIORS 3 Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>7.79</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $51.98.</notes>
+	</game>
+	<game id="3842" electronic="true" addOn="true">
+		<title>One Piece Pirate Warriors 3 Story Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Gold Edition? Includes both DLC packs.</notes>
+	</game>
+	<game id="3843" electronic="true">
+		<title>Ni no Kuni: Wrath of the White Witch Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>9.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $49.99.</notes>
+	</game>
+	<game id="3844" electronic="true">
+		<title>Ni no Kuni II: Revenant Kingdom - The Prince's Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>11.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $79.99.</notes>
+	</game>
+	<game id="3845" electronic="true">
+		<title>NieR Replicant ver.1.22474487139</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>29.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $59.99.</notes>
+	</game>
+	<game id="3846" electronic="true">
+		<title>Fairy Fencer F Advent Dark Force</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>11.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $29.61 (for the Complete Deluxe Set).</notes>
+	</game>
+	<game id="3847" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Deluxe Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3848" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Fairy Set 1: Ahab and Leela</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3849" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Fairy Set 2: Aques and Drulger</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3850" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Fairy Set 3: Lars and Foxer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3851" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Ultimate Fencer Accessory Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3852" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Ultimate Fencer Armor Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3853" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Veteran Fencer Accessory Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3854" electronic="true" addOn="true">
+		<title>Fairy Fencer F: Advent Dark Force - Veteran Fencer Armor Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3855" electronic="true">
+		<title>Dark Rose Valkyrie</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>13.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $39.51 (for the Complete Deluxe Set).</notes>
+	</game>
+	<game id="3856" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Deluxe Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3857" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Special Enlistment [Miyako Osatani] Addition Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3858" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Extra Costumes Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3859" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Extra Equipment Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3860" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Party Points Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3861" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Marks Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3862" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Medals Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3863" electronic="true" addOn="true">
+		<title>Dark Rose Valkyrie: Economic Points Set</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>0.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bundled with game.</notes>
+	</game>
+	<game id="3864" electronic="true">
+		<title>Cyberdimension Neptunia: 4 Goddesses Online</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3865" electronic="true">
+		<title>Hyperdevotion Noire: Goddess Black Heart</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3866" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth2: Sisters Generation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3867" electronic="true">
+		<title>Hyperdimension Neptunia Re;Birth3 V Generation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3868" electronic="true">
+		<title>Hyperdimension Neptunia U: Action Unleashed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>5.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3869" electronic="true">
+		<title>Megadimension Neptunia VII</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3870" electronic="true">
+		<title>MegaTagmension Blanc + Neptune VS Zombies</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
+	<game id="3871" electronic="true">
+		<title>Superdimension Neptune VS Sega Hard Girls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-01</date>
+			<price>6.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Nepify Your Life Bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

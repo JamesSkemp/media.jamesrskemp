@@ -69325,6 +69325,689 @@
 					"id": 3834,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Battle Fantasia -Revised Edition-",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "2.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $14.99.",
+				"meta": {
+					"id": 3835,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Code of Princess",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "2.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $14.99.",
+				"meta": {
+					"id": 3836,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tales of Vesperia: Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "9.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $49.99.",
+				"meta": {
+					"id": 3837,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tales of Symphonia",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "4.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $19.99.",
+				"meta": {
+					"id": 3838,
+					"electronic": true
+				}
+			},
+			{
+				"title": "PSYCHO-PASS: Mandatory Happiness Digital Alpha Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "4.55",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $22.78.",
+				"meta": {
+					"id": 3839,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ONE PUNCH MAN: A HERO NOBODY KNOWS - Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "11.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $79.99.",
+				"meta": {
+					"id": 3840,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ONE PIECE PIRATE WARRIORS 3 Gold Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "7.79",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $51.98.",
+				"meta": {
+					"id": 3841,
+					"electronic": true
+				}
+			},
+			{
+				"title": "One Piece Pirate Warriors 3 Story Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Gold Edition? Includes both DLC packs.",
+				"meta": {
+					"id": 3842,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Ni no Kuni: Wrath of the White Witch Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "9.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $49.99.",
+				"meta": {
+					"id": 3843,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "11.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $79.99.",
+				"meta": {
+					"id": 3844,
+					"electronic": true
+				}
+			},
+			{
+				"title": "NieR Replicant ver.1.22474487139",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "29.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $59.99.",
+				"meta": {
+					"id": 3845,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F Advent Dark Force",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "11.25",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $29.61 (for the Complete Deluxe Set).",
+				"meta": {
+					"id": 3846,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Deluxe Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3847,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Fairy Set 1: Ahab and Leela",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3848,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Fairy Set 2: Aques and Drulger",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3849,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Fairy Set 3: Lars and Foxer",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3850,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Ultimate Fencer Accessory Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3851,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Ultimate Fencer Armor Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3852,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Veteran Fencer Accessory Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3853,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Fairy Fencer F: Advent Dark Force - Veteran Fencer Armor Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3854,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "13.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale. Normally $39.51 (for the Complete Deluxe Set).",
+				"meta": {
+					"id": 3855,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Deluxe Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3856,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Special Enlistment [Miyako Osatani] Addition Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3857,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Extra Costumes Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3858,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Extra Equipment Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3859,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Party Points Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3860,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Marks Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3861,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Medals Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3862,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Dark Rose Valkyrie: Economic Points Set",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "0.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Bundled with game.",
+				"meta": {
+					"id": 3863,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Cyberdimension Neptunia: 4 Goddesses Online",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3864,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hyperdevotion Noire: Goddess Black Heart",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3865,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3866,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3867,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hyperdimension Neptunia U: Action Unleashed",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "5.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3868,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Megadimension Neptunia VII",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3869,
+					"electronic": true
+				}
+			},
+			{
+				"title": "MegaTagmension Blanc + Neptune VS Zombies",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3870,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Superdimension Neptune VS Sega Hard Girls",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-01",
+					"price": "6.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Nepify Your Life Bundle.",
+				"meta": {
+					"id": 3871,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -70008,6 +70008,61 @@
 					"id": 3871,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Blackguards Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-02",
+					"price": "0.70",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Blackguards Franchise Bundle.",
+				"meta": {
+					"id": 3872,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Blackguards: Untold Legends",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-02",
+					"price": "0.09",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Blackguards Franchise Bundle.",
+				"meta": {
+					"id": 3873,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Blackguards 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-02",
+					"price": "0.70",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Blackguards Franchise Bundle.",
+				"meta": {
+					"id": 3874,
+					"electronic": true
+				}
 			}
 		]
 	}

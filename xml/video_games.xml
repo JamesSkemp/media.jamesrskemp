@@ -55241,6 +55241,104 @@
 		<own>yes</own>
 		<notes>Part of the Blackguards Franchise Bundle.</notes>
 	</game>
+	<game id="3875" electronic="true">
+		<title>Shining Resonance Refrain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>7.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but on sale.</notes>
+	</game>
+	<game id="3876" electronic="true">
+		<title>Yakuza: Like a Dragon Legendary Hero Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>31.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $89.99 but on sale.</notes>
+	</game>
+	<game id="3877" electronic="true">
+		<title>Dungeon Village</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Might as well.</notes>
+	</game>
+	<game id="3878" electronic="true">
+		<title>Teenage Mutant Ninja Turtles: The Cowabunga Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>31.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale.</notes>
+	</game>
+	<game id="3879" electronic="true">
+		<title>Two Point Hospital</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>8.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99 but on sale.</notes>
+	</game>
+	<game id="3880" electronic="true">
+		<title>Fallout New Vegas Ultimate</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99 but on sale.</notes>
+	</game>
+	<game id="3881" electronic="true">
+		<title>Fallout 4: Game of the Year Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-12</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

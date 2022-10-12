@@ -70063,6 +70063,132 @@
 					"id": 3874,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Shining Resonance Refrain",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "7.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but on sale.",
+				"meta": {
+					"id": 3875,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Yakuza: Like a Dragon Legendary Hero Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "31.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $89.99 but on sale.",
+				"meta": {
+					"id": 3876,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon Village",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Might as well.",
+				"meta": {
+					"id": 3877,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "31.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale.",
+				"meta": {
+					"id": 3878,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Two Point Hospital",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "8.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $34.99 but on sale.",
+				"meta": {
+					"id": 3879,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fallout New Vegas Ultimate",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but on sale.",
+				"meta": {
+					"id": 3880,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fallout 4: Game of the Year Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-12",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale.",
+				"meta": {
+					"id": 3881,
+					"electronic": true
+				}
 			}
 		]
 	}

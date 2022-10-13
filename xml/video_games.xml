@@ -55339,6 +55339,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99 but on sale.</notes>
 	</game>
+	<game id="3882">
+		<title>Super Mario Maker 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-10-05</date>
+			<price>52.94</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received same-day. Was planning on playing with Elliott, but he did something else.</notes>
+	</game>
+	<game id="3883">
+		<title>NieR:Automata The End of YoRHa Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-10-05</date>
+			<price>39.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 10/8/2022.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

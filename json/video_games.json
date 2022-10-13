@@ -70189,6 +70189,40 @@
 					"id": 3881,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario Maker 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-10-05",
+					"price": "52.94",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received same-day. Was planning on playing with Elliott, but he did something else.",
+				"meta": {
+					"id": 3882
+				}
+			},
+			{
+				"title": "NieR:Automata The End of YoRHa Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-10-05",
+					"price": "39.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received 10/8/2022.",
+				"meta": {
+					"id": 3883
+				}
 			}
 		]
 	}

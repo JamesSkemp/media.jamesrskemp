@@ -70223,6 +70223,24 @@
 				"meta": {
 					"id": 3883
 				}
+			},
+			{
+				"title": "Tales of Arise: Ultimate Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-13",
+					"price": "43.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $109.99 but on sale.",
+				"meta": {
+					"id": 3884,
+					"electronic": true
+				}
 			}
 		]
 	}

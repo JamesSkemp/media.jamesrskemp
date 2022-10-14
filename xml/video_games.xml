@@ -55367,6 +55367,20 @@
 		<own>yes</own>
 		<notes>Received 10/8/2022.</notes>
 	</game>
+	<game id="3884" electronic="true">
+		<title>Tales of Arise: Ultimate Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-13</date>
+			<price>43.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $109.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

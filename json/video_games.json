@@ -70241,6 +70241,96 @@
 					"id": 3884,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Phantom Brave PC",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-22",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but on sale.",
+				"meta": {
+					"id": 3885,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Disgaea 2 PC",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-22",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3886,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cladun Returns: This is Sengoku!",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-22",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3887,
+					"electronic": true
+				}
+			},
+			{
+				"title": "25th Ward, The: The Silver Case",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-22",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 3888,
+					"electronic": true
+				}
+			},
+			{
+				"title": "XCOM: Chimera Squad",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-22",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99. Watched a video on first XCOM and heard this was an easier version.",
+				"meta": {
+					"id": 3889,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -70385,6 +70385,41 @@
 					"id": 3892,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Kirby Fighters 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-10-27",
+					"price": "19.99",
+					"place": "Target"
+				},
+				"own": true,
+				"notes": "April bought for after Elliott's Dr appointment.",
+				"meta": {
+					"id": 3893,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Minecraft",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-10-27",
+					"price": "29.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "April bought for after Elliott's Dr appointment.",
+				"meta": {
+					"id": 3894
+				}
 			}
 		]
 	}

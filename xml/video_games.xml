@@ -55493,6 +55493,34 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="3893" electronic="true">
+		<title>Kirby Fighters 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-10-27</date>
+			<price>19.99</price>
+			<place>Target</place>
+		</purchase>
+		<own>yes</own>
+		<notes>April bought for after Elliott's Dr appointment.</notes>
+	</game>
+	<game id="3894">
+		<title>Minecraft</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-10-27</date>
+			<price>29.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>April bought for after Elliott's Dr appointment.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

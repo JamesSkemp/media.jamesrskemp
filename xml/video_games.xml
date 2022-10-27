@@ -55451,6 +55451,48 @@
 		<own>yes</own>
 		<notes>Normally $19.99. Watched a video on first XCOM and heard this was an easier version.</notes>
 	</game>
+	<game id="3890" electronic="true">
+		<title>Hot Wheels Unleashed</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 (maybe?), but free with Plus.</notes>
+	</game>
+	<game id="3891" electronic="true">
+		<title>Injustice 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="3892" electronic="true">
+		<title>SUPERHOT</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2022-10-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

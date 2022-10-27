@@ -70331,6 +70331,60 @@
 					"id": 3889,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Hot Wheels Unleashed",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-10-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99 (maybe?), but free with Plus.",
+				"meta": {
+					"id": 3890,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Injustice 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-10-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3891,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SUPERHOT",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-10-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 3892,
+					"electronic": true
+				}
 			}
 		]
 	}

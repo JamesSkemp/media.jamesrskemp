@@ -70420,6 +70420,24 @@
 				"meta": {
 					"id": 3894
 				}
+			},
+			{
+				"title": "Detroit: Become Human",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-10-29",
+					"price": "19.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but on sale.",
+				"meta": {
+					"id": 3895,
+					"electronic": true
+				}
 			}
 		]
 	}

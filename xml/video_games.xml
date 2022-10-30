@@ -55521,6 +55521,20 @@
 		<own>yes</own>
 		<notes>April bought for after Elliott's Dr appointment.</notes>
 	</game>
+	<game id="3895" electronic="true">
+		<title>Detroit: Become Human</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-10-29</date>
+			<price>19.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

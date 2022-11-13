@@ -70438,6 +70438,42 @@
 					"id": 3895,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Minecraft Dungeons Ultimate Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-11-13",
+					"price": "26.70",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "$39.99 minus $13.29 for using gold coins.",
+				"meta": {
+					"id": 3896,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Minecraft Dungeons Ultimate Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-13",
+					"price": "39.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "So Elliott and I can play together.",
+				"meta": {
+					"id": 3897,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -3745,6 +3745,45 @@
 				<costTotal>36.54</costTotal>
 				<notes/>
 			</fillup>
+			<!-- missing? likely -->
+			<fillup id="34">
+				<date>2022-05-28</date>
+				<milesCar>16629</milesCar>
+				<milesDriven/>
+				<gallons>11.004</gallons>
+				<costGallon>4.399</costGallon>
+				<costTotal>48.41</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="35">
+				<date>2022-06-16</date>
+				<milesCar>16890</milesCar>
+				<milesDriven/>
+				<gallons>6.040</gallons>
+				<costGallon>4.799</costGallon>
+				<costTotal>28.99</costTotal>
+				<notes/>
+			</fillup>
+			<fillup id="36">
+				<date>2022-11-17</date>
+				<milesCar>18069</milesCar>
+				<milesDriven/>
+				<gallons>9.197</gallons>
+				<costGallon>3.499</costGallon>
+				<costTotal>32.18</costTotal>
+				<notes>About a half a tank. Was told gas was the cheapest it has been for a while. About to head up north for Thanksgiving.</notes>
+			</fillup>
+			<!--
+			<fillup id="">
+				<date>2022-1-1</date>
+				<milesCar>1</milesCar>
+				<milesDriven/>
+				<gallons>1</gallons>
+				<costGallon></costGallon>
+				<costTotal></costTotal>
+				<notes/>
+			</fillup>
+			-->
 		</fillups>
 	</vehicle>
 </vehicles>

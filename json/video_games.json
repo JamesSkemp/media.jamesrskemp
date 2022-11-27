@@ -70474,6 +70474,132 @@
 					"id": 3907,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Unreal Tournament GOTY",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "1.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $9.99.",
+				"meta": {
+					"id": 3908,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Still Life 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "0.55",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $7.99. Already have for Steam, but purchasing because it's so cheap.",
+				"meta": {
+					"id": 3909,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Post Mortem",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "0.55",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $7.99. Already have for Steam, but again, purchasing because of price.",
+				"meta": {
+					"id": 3910,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Elder Scrolls IV, The: Oblivion - Game of the Year Edition Deluxe",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "4.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $19.99. Only have for Xbox 360.",
+				"meta": {
+					"id": 3911,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Quake III Arena",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "5.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $14.99.",
+				"meta": {
+					"id": 3912,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Emperor: Rise of the Middle Kingdom",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "2.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $5.99. Supposedly the best of the series.",
+				"meta": {
+					"id": 3913,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Syberia 3: The Complete Journey",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "2.09",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $29.99. The weakest of the 3/4, but worth getting at this price.",
+				"meta": {
+					"id": 3914,
+					"electronic": true
+				}
 			}
 		]
 	}

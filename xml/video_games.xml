@@ -55563,6 +55563,104 @@
 		<own>yes</own>
 		<notes>So Elliott and I can play together.</notes>
 	</game>
+	<game id="3908" electronic="true">
+		<title>Unreal Tournament GOTY</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>1.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99.</notes>
+	</game>
+	<game id="3909" electronic="true">
+		<title>Still Life 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>0.55</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99. Already have for Steam, but purchasing because it's so cheap.</notes>
+	</game>
+	<game id="3910" electronic="true">
+		<title>Post Mortem</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>0.55</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99. Already have for Steam, but again, purchasing because of price.</notes>
+	</game>
+	<game id="3911" electronic="true">
+		<title>Elder Scrolls IV, The: Oblivion - Game of the Year Edition Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>4.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Only have for Xbox 360.</notes>
+	</game>
+	<game id="3912" electronic="true">
+		<title>Quake III Arena</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>5.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="3913" electronic="true">
+		<title>Emperor: Rise of the Middle Kingdom</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Supposedly the best of the series.</notes>
+	</game>
+	<game id="3914" electronic="true">
+		<title>Syberia 3: The Complete Journey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-11-27</date>
+			<price>2.09</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. The weakest of the 3/4, but worth getting at this price.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

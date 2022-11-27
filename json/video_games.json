@@ -70600,6 +70600,42 @@
 					"id": 3914,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Heavenly Bodies",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3915,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nioh 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-11-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "PlayStation Plus version, free with Plus.",
+				"meta": {
+					"id": 3916,
+					"electronic": true
+				}
 			}
 		]
 	}

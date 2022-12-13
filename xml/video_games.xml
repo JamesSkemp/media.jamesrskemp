@@ -55885,6 +55885,34 @@
 		<own>yes</own>
 		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
 	</game>
+	<game id="3932" electronic="true">
+		<title>Dwarf Fortress</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-13</date>
+			<price>29.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Just recently came out. Full price.</notes>
+	</game>
+	<game id="3933" electronic="true">
+		<title>CRISIS CORE -FINAL FANTASY VII - REUNION</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-13</date>
+			<price>49.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Just recently came out. Have been wanting to replay the PSP version, may as well pick it up.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

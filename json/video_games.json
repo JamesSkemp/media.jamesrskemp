@@ -70889,6 +70889,42 @@
 					"id": 3931,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Dwarf Fortress",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "29.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Just recently came out. Full price.",
+				"meta": {
+					"id": 3932,
+					"electronic": true
+				}
+			},
+			{
+				"title": "CRISIS CORE -FINAL FANTASY VII - REUNION",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "49.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Just recently came out. Have been wanting to replay the PSP version, may as well pick it up.",
+				"meta": {
+					"id": 3933,
+					"electronic": true
+				}
 			}
 		]
 	}

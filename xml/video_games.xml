@@ -55689,6 +55689,202 @@
 		<own>yes</own>
 		<notes>PlayStation Plus version, free with Plus.</notes>
 	</game>
+	<game id="3917" electronic="true">
+		<title>Borderlands 3 Super Deluxe</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3918" electronic="true">
+		<title>XCOM: ULTIMATE COLLECTION</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>2.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3919" electronic="true">
+		<title>Sid Meier's Civilization VI</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3920" electronic="true">
+		<title>Mafia: Definitive Edition</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3921" electronic="true">
+		<title>Railroad Tycoon 3</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3922" electronic="true">
+		<title>Railroad Tycoon II Platinum</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3923" electronic="true">
+		<title>Sid Meier's Railroads!</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3924" electronic="true">
+		<title>Duke Nukem Forever</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>3.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle. Includes The Doctor Who Cloned Me and Hail to the Icons DLC.</notes>
+	</game>
+	<game id="3925" electronic="true">
+		<title>WWE 2K Battlegrounds</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3926" electronic="true" addOn="true">
+		<title>WWE 2K BATTLEGROUNDS - Ultimate Brawlers Pass</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3927" electronic="true">
+		<title>CivCity: Rome</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3928" electronic="true">
+		<title>Hidden &amp; Dangerous: Action Pack</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3929" electronic="true">
+		<title>Hidden &amp; Dangerous 2: Courage Under Fire</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
+	<game id="3931" electronic="true">
+		<title>Army Men RTS</title>
+		<system>
+		<console>PC</console>
+		<version/>
+		</system>
+		<purchase>
+		<date>2022-12-13</date>
+		<price>1.00</price>
+		<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the 2K Megahits - Holiday Encore bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

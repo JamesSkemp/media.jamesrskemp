@@ -70636,6 +70636,259 @@
 					"id": 3916,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Borderlands 3 Super Deluxe",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3917,
+					"electronic": true
+				}
+			},
+			{
+				"title": "XCOM: ULTIMATE COLLECTION",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "2.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3918,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sid Meier's Civilization VI",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3919,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mafia: Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3920,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Railroad Tycoon 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3921,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Railroad Tycoon II Platinum",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3922,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sid Meier's Railroads!",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3923,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Duke Nukem Forever",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle. Includes The Doctor Who Cloned Me and Hail to the Icons DLC.",
+				"meta": {
+					"id": 3924,
+					"electronic": true
+				}
+			},
+			{
+				"title": "WWE 2K Battlegrounds",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3925,
+					"electronic": true
+				}
+			},
+			{
+				"title": "WWE 2K BATTLEGROUNDS - Ultimate Brawlers Pass",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3926,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "CivCity: Rome",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3927,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hidden & Dangerous: Action Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3928,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hidden & Dangerous 2: Courage Under Fire",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3929,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Army Men RTS",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the 2K Megahits - Holiday Encore bundle.",
+				"meta": {
+					"id": 3931,
+					"electronic": true
+				}
 			}
 		]
 	}

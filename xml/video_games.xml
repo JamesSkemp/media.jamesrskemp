@@ -55913,6 +55913,20 @@
 		<own>yes</own>
 		<notes>Just recently came out. Have been wanting to replay the PSP version, may as well pick it up.</notes>
 	</game>
+	<game id="3934" electronic="true">
+		<title>Panzer Dragoon: Remake</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-13</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

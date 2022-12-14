@@ -70925,6 +70925,24 @@
 					"id": 3933,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Panzer Dragoon: Remake",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "2.49",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Winter sale.",
+				"meta": {
+					"id": 3934,
+					"electronic": true
+				}
 			}
 		]
 	}

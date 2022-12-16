@@ -55927,6 +55927,34 @@
 		<own>yes</own>
 		<notes>Winter sale.</notes>
 	</game>
+	<game id="3935" electronic="true">
+		<title>FINAL FANTASY VII REMAKE INTERGRADE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-15</date>
+			<price>39.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99 but on sale. After playing Crisis Core, I told myself that once this went on sale I'd buy it, and I did.</notes>
+	</game>
+	<game id="3936" electronic="true" addOn="true">
+		<title>Vampire Survivors: Legacy of the Moonspell</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-15</date>
+			<price>1.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week sale. Could have picked up for even less, but want to support the dev.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

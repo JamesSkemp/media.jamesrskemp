@@ -70943,6 +70943,43 @@
 					"id": 3934,
 					"electronic": true
 				}
+			},
+			{
+				"title": "FINAL FANTASY VII REMAKE INTERGRADE",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-15",
+					"price": "39.89",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $69.99 but on sale. After playing Crisis Core, I told myself that once this went on sale I'd buy it, and I did.",
+				"meta": {
+					"id": 3935,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Legacy of the Moonspell",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-15",
+					"price": "1.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week sale. Could have picked up for even less, but want to support the dev.",
+				"meta": {
+					"id": 3936,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

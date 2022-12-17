@@ -70980,6 +70980,23 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "LIVE A LIVE",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-12-13",
+					"price": "49.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received 12/17/2022. Might have been ProJared that said original was quite good. Reviews are good.",
+				"meta": {
+					"id": 3937
+				}
 			}
 		]
 	}

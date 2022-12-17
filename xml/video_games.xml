@@ -55955,6 +55955,20 @@
 		<own>yes</own>
 		<notes>Launch week sale. Could have picked up for even less, but want to support the dev.</notes>
 	</game>
+	<game id="3937">
+		<title>LIVE A LIVE</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-12-13</date>
+			<price>49.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 12/17/2022. Might have been ProJared that said original was quite good. Reviews are good.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

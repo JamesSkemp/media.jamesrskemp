@@ -55969,6 +55969,20 @@
 		<own>yes</own>
 		<notes>Received 12/17/2022. Might have been ProJared that said original was quite good. Reviews are good.</notes>
 	</game>
+	<game id="3938" electronic="true">
+		<title>Operation: Tango</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-18</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Ness and Abbey. For April and I to play together.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

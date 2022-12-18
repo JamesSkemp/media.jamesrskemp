@@ -70997,6 +70997,24 @@
 				"meta": {
 					"id": 3937
 				}
+			},
+			{
+				"title": "Operation: Tango",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-18",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Gift from Ness and Abbey. For April and I to play together.",
+				"meta": {
+					"id": 3938,
+					"electronic": true
+				}
 			}
 		]
 	}

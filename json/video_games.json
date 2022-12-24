@@ -71015,6 +71015,278 @@
 					"id": 3938,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Ys VIII: Lacrimosa of Dana Digital Limited Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "24.61",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $53.32, but Winter sale. Includes 23 items: Ys VIII: Lacrimosa of DANA, Ys VIII: Lacrimosa of DANA - Advanced Accessory Set, Ys VIII: Lacrimosa of DANA - Bottled Potion Set, Ys VIII: Lacrimosa of DANA - Castaway Start Dash Set, Ys VIII: Lacrimosa of DANA - Economy Ingredient Set, Ys VIII: Lacrimosa of DANA - Elixir Set 1, Ys VIII: Lacrimosa of DANA - Elixir Set 2, Ys VIII: Lacrimosa of DANA - Elixir Set 3, Ys VIII: Lacrimosa of DANA - Elixir Set 4, Ys VIII: Lacrimosa of DANA - Elixir Set 5, Ys VIII: Lacrimosa of DANA - Fish Bait Set 1, Ys VIII: Lacrimosa of DANA - Fish Bait Set 2, Ys VIII: Lacrimosa of DANA - Fish Bait Set 3, Ys VIII: Lacrimosa of DANA - Laxia's “Eternian Scholar” Costume, Ys VIII: Lacrimosa of DANA - Premium Material Set, Ys VIII: Lacrimosa of DANA - Ripe Fruit Set, Ys VIII: Lacrimosa of DANA - Status Recovery Set, Ys VIII: Lacrimosa of DANA - Tempest Set 1, Ys VIII: Lacrimosa of DANA - Tempest Set 2, Ys VIII: Lacrimosa of DANA - Tempest Set 3, Ys VIII: Lacrimosa of DANA - Tempest Set 4, Ys VIII: Lacrimosa of DANA - Tempest Set 5, Ys VIII: Lacrimosa of DANA - Useful Accessory Set.",
+				"meta": {
+					"id": 3939,
+					"electronic": true
+				}
+			},
+			{
+				"title": "AI: The Somnium Files",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the AI: THE SOMNIUM FILES Bundle, which is normally $79.98, but Winter sale.",
+				"meta": {
+					"id": 3940,
+					"electronic": true
+				}
+			},
+			{
+				"title": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the AI: THE SOMNIUM FILES Bundle, which is normally $79.98, but Winter sale.",
+				"meta": {
+					"id": 3941,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dyson Sphere Program",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "15.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale. Similar to Factorio, supposedly.",
+				"meta": {
+					"id": 3942,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Persona 4 Golden",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "13.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 3943,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Gloomhaven - Jaws of the Lion Expansion",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "12.68",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $16.91, but Winter sale.",
+				"meta": {
+					"id": 3944,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "STEINS;GATE: My Darling's Embrace",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "11.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but Winter sale.",
+				"meta": {
+					"id": 3945,
+					"electronic": true
+				}
+			},
+			{
+				"title": "428: Shibuya Scramble",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Winter sale.",
+				"meta": {
+					"id": 3946,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sleeping Dogs: Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 3947,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FINAL FANTASY XV Windows Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "17.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $34.99, but Winter sale.",
+				"meta": {
+					"id": 3948,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FINAL FANTASY XV Episode ARDYN",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "2.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Winter sale.",
+				"meta": {
+					"id": 3949,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Mass Effect Legendary Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but Winter sale.",
+				"meta": {
+					"id": 3950,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Trials of Mana",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "24.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Winter sale.",
+				"meta": {
+					"id": 3951,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Borderlands: The Pre-Sequel",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "0.42",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Borderlands: The Handsome Collection.",
+				"meta": {
+					"id": 3952,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Borderlands: The Handsome Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2022-12-23",
+					"price": "7.42",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $13.20, but Winter sale. Includes 37 items: Borderlands 2: Collectors Edition Pack, Borderlands 2: Commando Madness Pack, Borderlands 2: Commando Supremacy Pack, Borderlands 2: Commando Domination Pack, Borderlands 2: Siren Madness Pack, Borderlands 2: Siren Supremacy Pack, Borderlands 2: Siren Domination Pack, Borderlands 2: Gunzerker Madness Pack, Borderlands 2: Gunzerker Supremacy Pack, Borderlands 2: Gunzerker Domination Pack, Borderlands 2: Mechromancer Madness Pack, Borderlands 2: Mechromancer Supremacy Pack, Borderlands 2: Mechromancer Domination Pack, Borderlands 2: Assassin Madness Pack, Borderlands 2: Assassin Supremacy Pack, Borderlands 2: Assassin Domination Pack, Borderlands 2: Mechromancer Steampunk Slayer Pack, Borderlands 2: Gunzerker Dapper Gent Pack, Borderlands 2: Psycho Dark Psyche Pack, Borderlands 2: Psycho Madness Pack, Borderlands 2: Psycho Supremacy Pack, Borderlands 2: Psycho Domination Pack, Borderlands 2: Siren Glitter and Gore Pack, Borderlands 2: Commando Haggard Hunter Pack, Borderlands 2: Assassin Stinging Blade Pack, Borderlands 2: Mechromancer Beastmaster Pack, Borderlands 2: Gunzerker Greasy Grunt Pack, Borderlands 2: Psycho Party Pack, Borderlands 2: Siren Learned Warrior Pack, Borderlands 2: Commando Devilish Good Looks Pack, Borderlands 2 Assassin Cl0ckw0rk Pack, Handsome Jack Doppleganger Pack, Shock Drop Slaughter Pit, The Holodome Onslaught, Claptastic Voyage & Ultimate Vault Hunter Upgrade Pack 2, Lady Hammerlock the Baroness Pack, Borderlands: The Pre-Sequel (which I added above).",
+				"meta": {
+					"id": 3953,
+					"electronic": true
+				}
 			}
 		]
 	}

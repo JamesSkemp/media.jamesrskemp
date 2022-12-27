@@ -56193,6 +56193,20 @@
 		<own>yes</own>
 		<notes>Normally $13.20, but Winter sale. Includes 37 items: Borderlands 2: Collectors Edition Pack, Borderlands 2: Commando Madness Pack, Borderlands 2: Commando Supremacy Pack, Borderlands 2: Commando Domination Pack, Borderlands 2: Siren Madness Pack, Borderlands 2: Siren Supremacy Pack, Borderlands 2: Siren Domination Pack, Borderlands 2: Gunzerker Madness Pack, Borderlands 2: Gunzerker Supremacy Pack, Borderlands 2: Gunzerker Domination Pack, Borderlands 2: Mechromancer Madness Pack, Borderlands 2: Mechromancer Supremacy Pack, Borderlands 2: Mechromancer Domination Pack, Borderlands 2: Assassin Madness Pack, Borderlands 2: Assassin Supremacy Pack, Borderlands 2: Assassin Domination Pack, Borderlands 2: Mechromancer Steampunk Slayer Pack, Borderlands 2: Gunzerker Dapper Gent Pack, Borderlands 2: Psycho Dark Psyche Pack, Borderlands 2: Psycho Madness Pack, Borderlands 2: Psycho Supremacy Pack, Borderlands 2: Psycho Domination Pack, Borderlands 2: Siren Glitter and Gore Pack, Borderlands 2: Commando Haggard Hunter Pack, Borderlands 2: Assassin Stinging Blade Pack, Borderlands 2: Mechromancer Beastmaster Pack, Borderlands 2: Gunzerker Greasy Grunt Pack, Borderlands 2: Psycho Party Pack, Borderlands 2: Siren Learned Warrior Pack, Borderlands 2: Commando Devilish Good Looks Pack, Borderlands 2 Assassin Cl0ckw0rk Pack, Handsome Jack Doppleganger Pack, Shock Drop Slaughter Pit, The Holodome Onslaught, Claptastic Voyage &amp; Ultimate Vault Hunter Upgrade Pack 2, Lady Hammerlock the Baroness Pack, Borderlands: The Pre-Sequel (which I added above).</notes>
 	</game>
+	<game id="3954" electronic="true">
+		<title>Teenage Mutant Ninja Turtles: Shredder's Revenge</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2022-12-25</date>
+			<price>0.00</price>
+			<place>Christmas</place>
+		</purchase>
+		<own>yes</own>
+		<notes>April or Santa purchased for Elliott for Christmas.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

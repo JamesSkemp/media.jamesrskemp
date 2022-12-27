@@ -71287,6 +71287,24 @@
 					"id": 3953,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2022-12-25",
+					"price": "0.00",
+					"place": "Christmas"
+				},
+				"own": true,
+				"notes": "April or Santa purchased for Elliott for Christmas.",
+				"meta": {
+					"id": 3954,
+					"electronic": true
+				}
 			}
 		]
 	}

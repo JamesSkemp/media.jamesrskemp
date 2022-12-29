@@ -56207,6 +56207,34 @@
 		<own>yes</own>
 		<notes>April or Santa purchased for Elliott for Christmas.</notes>
 	</game>
+	<game id="3955" electronic="true">
+		<title>Earth's Dawn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-28</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Winter sale. Supposedly like Muramasa and the like.</notes>
+	</game>
+	<game id="3956" electronic="true">
+		<title>Marvel's Guardians of the Galaxy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2022-12-28</date>
+			<price>20.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

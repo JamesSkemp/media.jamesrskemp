@@ -71341,6 +71341,42 @@
 					"id": 3956,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Biomutant",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-12-29",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3957,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Divine Knockout (DKO) - Founders Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2022-12-29",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 3958,
+					"electronic": true
+				}
 			}
 		]
 	}

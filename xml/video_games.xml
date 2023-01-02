@@ -56263,6 +56263,62 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="3959" electronic="true">
+		<title>Diablo II: Resurrected</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-02</date>
+			<price>13.19</price>
+			<place>Battle.net</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Holiday Sale. Part of Diablo Prime Evil Upgrade.</notes>
+	</game>
+	<game id="3959" electronic="true" addOn="true">
+		<title>Diablo III: Rise of the Necromancer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-02</date>
+			<price>4.12</price>
+			<place>Battle.net</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Diablo Prime Evil Upgrade.</notes>
+	</game>
+	<game id="3960">
+		<title>Diablo II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>1981-01-01</date>
+			<price>0.00</price>
+			<place>unknown</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought Sophmore year in college?</notes>
+	</game>
+	<game id="3961">
+		<title>Diablo II: Lord of Destruction</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>1981-01-01</date>
+			<price>0.00</price>
+			<place>unknown</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Bought Sophmore year in college?</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

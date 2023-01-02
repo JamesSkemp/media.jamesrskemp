@@ -71377,6 +71377,77 @@
 					"id": 3958,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Diablo II: Resurrected",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-02",
+					"price": "13.19",
+					"place": "Battle.net"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Holiday Sale. Part of Diablo Prime Evil Upgrade.",
+				"meta": {
+					"id": 3959,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Diablo III: Rise of the Necromancer",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-02",
+					"price": "4.12",
+					"place": "Battle.net"
+				},
+				"own": true,
+				"notes": "Part of Diablo Prime Evil Upgrade.",
+				"meta": {
+					"id": 3959,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Diablo II",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "1981-01-01",
+					"price": "0.00",
+					"place": "unknown"
+				},
+				"own": true,
+				"notes": "Bought Sophmore year in college?",
+				"meta": {
+					"id": 3960
+				}
+			},
+			{
+				"title": "Diablo II: Lord of Destruction",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "1981-01-01",
+					"price": "0.00",
+					"place": "unknown"
+				},
+				"own": true,
+				"notes": "Bought Sophmore year in college?",
+				"meta": {
+					"id": 3961
+				}
 			}
 		]
 	}

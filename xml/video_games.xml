@@ -56319,6 +56319,62 @@
 		<own>yes</own>
 		<notes>Bought Sophmore year in college?</notes>
 	</game>
+	<game id="3962" electronic="true">
+		<title>Witcher, The: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-04</date>
+			<price>1.34</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99 (?), but Winter sale.</notes>
+	</game>
+	<game id="3963" electronic="true">
+		<title>Star Ocean - The Last Hope - 4K and Full HD Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-04</date>
+			<price>8.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $20.99 but Winter sale.</notes>
+	</game>
+	<game id="3964" electronic="true" addOn="true">
+		<title>Phantom Breaker: Battle Grounds - Frau Koujiro</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-04</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Winter sale.</notes>
+	</game>
+	<game id="3965" electronic="true" addOn="true">
+		<title>Phantom Breaker: Battle Grounds - Kurisu Makise Character</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-01-04</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

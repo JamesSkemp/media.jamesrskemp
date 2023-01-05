@@ -71448,6 +71448,80 @@
 				"meta": {
 					"id": 3961
 				}
+			},
+			{
+				"title": "Witcher, The: Enhanced Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-04",
+					"price": "1.34",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99 (?), but Winter sale.",
+				"meta": {
+					"id": 3962,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Star Ocean - The Last Hope - 4K and Full HD Remaster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-04",
+					"price": "8.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $20.99 but Winter sale.",
+				"meta": {
+					"id": 3963,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Phantom Breaker: Battle Grounds - Frau Koujiro",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-04",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Winter sale.",
+				"meta": {
+					"id": 3964,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Phantom Breaker: Battle Grounds - Kurisu Makise Character",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-04",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Winter sale.",
+				"meta": {
+					"id": 3965,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

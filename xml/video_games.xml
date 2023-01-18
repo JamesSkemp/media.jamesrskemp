@@ -56375,6 +56375,34 @@
 		<own>yes</own>
 		<notes>Normally $5.99, but Winter sale.</notes>
 	</game>
+	<game id="3966" electronic="true">
+		<title>Teenage Mutant Ninja Turtles: The Cowabunga Collection</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-01-18</date>
+			<price>39.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>For Elliott.</notes>
+	</game>
+	<game id="3967" electronic="true">
+		<title>SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-01-18</date>
+			<price>29.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>For Elliott.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

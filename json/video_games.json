@@ -71522,6 +71522,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-01-18",
+					"price": "39.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "For Elliott.",
+				"meta": {
+					"id": 3966,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-01-18",
+					"price": "29.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "For Elliott.",
+				"meta": {
+					"id": 3967,
+					"electronic": true
+				}
 			}
 		]
 	}

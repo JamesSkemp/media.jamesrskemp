@@ -71558,6 +71558,60 @@
 					"id": 3967,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Star Wars Jedi: Fallen Order",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-01-26",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3968,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fallout 76",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-01-26",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus. Almost didn't claim it.",
+				"meta": {
+					"id": 3969,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Axiom Verge 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-01-26",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3970,
+					"electronic": true
+				}
 			}
 		]
 	}

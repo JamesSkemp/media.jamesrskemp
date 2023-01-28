@@ -71612,6 +71612,24 @@
 					"id": 3970,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Crash Bandicoot N. Sane Trilogy",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-01-27",
+					"price": "39.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Elliott has been watching boss fights. April thought she'd like to play it.",
+				"meta": {
+					"id": 3971,
+					"electronic": true
+				}
 			}
 		]
 	}

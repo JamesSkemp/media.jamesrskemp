@@ -71630,6 +71630,42 @@
 					"id": 3971,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Grandia HD Remaster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-27",
+					"price": "9.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 3972,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Grandia II HD Remaster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-01-27",
+					"price": "9.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 3973,
+					"electronic": true
+				}
 			}
 		]
 	}

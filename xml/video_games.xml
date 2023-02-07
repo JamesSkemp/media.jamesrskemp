@@ -56487,6 +56487,48 @@
 		<own>yes</own>
 		<notes>On sale.</notes>
 	</game>
+	<game id="3974" electronic="true">
+		<title>Batman: Arkham Asylum GOTY</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-02-06</date>
+			<price>2.99</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a three game bundle.</notes>
+	</game>
+	<game id="3975" electronic="true">
+		<title>Batman: Arkham City GOTY Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-02-06</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a three game bundle.</notes>
+	</game>
+	<game id="3976" electronic="true">
+		<title>Batman: Arkham Knight Premium Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-02-06</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of a three game bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -71666,6 +71666,60 @@
 					"id": 3973,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Batman: Arkham Asylum GOTY",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-02-06",
+					"price": "2.99",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of a three game bundle.",
+				"meta": {
+					"id": 3974,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Batman: Arkham City GOTY Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-02-06",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of a three game bundle.",
+				"meta": {
+					"id": 3975,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Batman: Arkham Knight Premium Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-02-06",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of a three game bundle.",
+				"meta": {
+					"id": 3976,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -71720,6 +71720,24 @@
 					"id": 3976,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Phantom Breaker: Battle Grounds Overdrive",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-02-19",
+					"price": "9.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 3977,
+					"electronic": true
+				}
 			}
 		]
 	}

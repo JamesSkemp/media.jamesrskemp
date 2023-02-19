@@ -56529,6 +56529,20 @@
 		<own>yes</own>
 		<notes>Part of a three game bundle.</notes>
 	</game>
+	<game id="3977" electronic="true">
+		<title>Phantom Breaker: Battle Grounds Overdrive</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-02-19</date>
+			<price>9.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

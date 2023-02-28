@@ -71811,6 +71811,24 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Kirby's Return to Dream Land Deluxe",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-02-10",
+					"price": "59.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Pre-ordered for Elliott. Came out 2/24/2023.",
+				"meta": {
+					"id": 3982,
+					"electronic": true
+				}
 			}
 		]
 	}

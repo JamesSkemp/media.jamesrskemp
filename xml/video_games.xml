@@ -56599,6 +56599,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
 	</game>
+	<game id="3982" electronic="true">
+		<title>Kirby's Return to Dream Land Deluxe</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-02-10</date>
+			<price>59.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Pre-ordered for Elliott. Came out 2/24/2023.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -71738,6 +71738,79 @@
 					"id": 3977,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Evil Dead: The Game",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-02-28",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3978,
+					"electronic": true
+				}
+			},
+			{
+				"title": "OlliOlli World",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-02-28",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3979,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mafia: Definitive Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-02-28",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 3980,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Destiny 2: Beyond Light",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-02-28",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 3981,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

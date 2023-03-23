@@ -56613,6 +56613,20 @@
 		<own>yes</own>
 		<notes>Pre-ordered for Elliott. Came out 2/24/2023.</notes>
 	</game>
+	<game id="3983" electronic="true">
+		<title>NieR:Automata Game of the YoRHa Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-23</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

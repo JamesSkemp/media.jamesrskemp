@@ -71829,6 +71829,24 @@
 					"id": 3982,
 					"electronic": true
 				}
+			},
+			{
+				"title": "NieR:Automata Game of the YoRHa Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-23",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale.",
+				"meta": {
+					"id": 3983,
+					"electronic": true
+				}
 			}
 		]
 	}

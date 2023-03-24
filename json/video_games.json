@@ -71847,6 +71847,60 @@
 					"id": 3983,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Battlefield 2042",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-03-23",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 3984,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Minecraft Dungeons",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-03-23",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 3985,
+					"electronic": true
+				}
+			},
+			{
+				"title": "CODE VEIN",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-03-23",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 3986,
+					"electronic": true
+				}
 			}
 		]
 	}

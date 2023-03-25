@@ -72045,6 +72045,60 @@
 					"id": 3994,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Panzer Dragoon: Remake",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "2.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $24.99.",
+				"meta": {
+					"id": 3995,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Om Nom: Run",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "1.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $4.99. For Elliott, obviously.",
+				"meta": {
+					"id": 3996,
+					"electronic": true
+				}
+			},
+			{
+				"title": "New Super Mario Bros. U Deluxe",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "39.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $59.99. Elliott has been asking for it for a while.",
+				"meta": {
+					"id": 3997,
+					"electronic": true
+				}
 			}
 		]
 	}

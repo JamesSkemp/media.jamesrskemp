@@ -56823,6 +56823,90 @@
 		<own>yes</own>
 		<notes>Normally $59.99. Elliott has been asking for it for a while.</notes>
 	</game>
+	<game id="3998" electronic="true">
+		<title>Warhammer 40,000: Inquisitor - Martyr Complete Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>15.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $79.99, but on sale. Supposedly a good ARPG.</notes>
+	</game>
+	<game id="3999" electronic="true">
+		<title>Din's Curse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>2.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Supposedly an interesting ARPG.</notes>
+	</game>
+	<game id="4000" electronic="true" addOn="true">
+		<title>Din's Curse: Demon War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.24</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Supposedly an interesting ARPG.</notes>
+	</game>
+	<game id="4001" electronic="true">
+		<title>Throne of Darkness</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>3.59</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. ARPG?</notes>
+	</game>
+	<game id="4002" electronic="true">
+		<title>Enclave - Digital Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>3.18</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.97. ARPG?</notes>
+	</game>
+	<game id="4003" electronic="true">
+		<title>Warhammer: Chaosbane Slayer Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale. ARPG?</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -72099,6 +72099,115 @@
 					"id": 3997,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Warhammer 40,000: Inquisitor - Martyr Complete Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "15.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $79.99, but on sale. Supposedly a good ARPG.",
+				"meta": {
+					"id": 3998,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Din's Curse",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "2.49",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $9.99. Supposedly an interesting ARPG.",
+				"meta": {
+					"id": 3999,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Din's Curse: Demon War",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "1.24",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $4.99. Supposedly an interesting ARPG.",
+				"meta": {
+					"id": 4000,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Throne of Darkness",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "3.59",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $5.99. ARPG?",
+				"meta": {
+					"id": 4001,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Enclave - Digital Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "3.18",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $7.97. ARPG?",
+				"meta": {
+					"id": 4002,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Warhammer: Chaosbane Slayer Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-03-25",
+					"price": "3.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale. ARPG?",
+				"meta": {
+					"id": 4003,
+					"electronic": true
+				}
 			}
 		]
 	}

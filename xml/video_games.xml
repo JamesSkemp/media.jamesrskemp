@@ -56669,6 +56669,118 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="3987" electronic="true">
+		<title>Control Ultimate Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3988" electronic="true">
+		<title>Syberia: The World Before</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.88</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3989" electronic="true">
+		<title>Praey for the Gods</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3990" electronic="true">
+		<title>Hellblade: Senua's Sacrifice</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.88</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3991" electronic="true">
+		<title>Sable</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3992" electronic="true">
+		<title>Dreamscaper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.87</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3993" electronic="true">
+		<title>Call of the Sea</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.88</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
+	<game id="3994" electronic="true">
+		<title>Batora: Lost Haven</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-03-25</date>
+			<price>1.88</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Humble Heroines: Warriors, Dreamers, and God Slayers, which was 8 games for $15.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

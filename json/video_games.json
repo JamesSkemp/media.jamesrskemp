@@ -72208,6 +72208,24 @@
 					"id": 4003,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Goblin Sword",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-26",
+					"price": "1.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $4.99. Sounds like it might be a fun platformer.",
+				"meta": {
+					"id": 4004,
+					"electronic": true
+				}
 			}
 		]
 	}

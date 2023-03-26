@@ -56907,6 +56907,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99 but on sale. ARPG?</notes>
 	</game>
+	<game id="4004" electronic="true">
+		<title>Goblin Sword</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-03-26</date>
+			<price>1.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Sounds like it might be a fun platformer.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

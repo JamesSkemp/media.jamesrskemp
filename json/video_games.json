@@ -72226,6 +72226,42 @@
 					"id": 4004,
 					"electronic": true
 				}
+			},
+			{
+				"title": "NAMCO MUSEUM ARCHIVES Vol 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-26",
+					"price": "4.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4005,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Capcom Arcade Stadium Packs 1, 2, and 3",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-03-26",
+					"price": "19.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $39.99.",
+				"meta": {
+					"id": 4006,
+					"electronic": true
+				}
 			}
 		]
 	}

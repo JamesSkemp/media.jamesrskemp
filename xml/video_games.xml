@@ -56921,6 +56921,34 @@
 		<own>yes</own>
 		<notes>Normally $4.99. Sounds like it might be a fun platformer.</notes>
 	</game>
+	<game id="4005" electronic="true">
+		<title>NAMCO MUSEUM ARCHIVES Vol 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-03-26</date>
+			<price>4.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4006" electronic="true">
+		<title>Capcom Arcade Stadium Packs 1, 2, and 3</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-03-26</date>
+			<price>19.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

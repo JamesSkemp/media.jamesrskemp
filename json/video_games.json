@@ -72262,6 +72262,24 @@
 					"id": 4006,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Burnout Paradise Remastered",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-04-09",
+					"price": "9.89",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $29.99. Maybe something for Elliott?",
+				"meta": {
+					"id": 4007,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -56949,6 +56949,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99.</notes>
 	</game>
+	<game id="4007" electronic="true">
+		<title>Burnout Paradise Remastered</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-04-09</date>
+			<price>9.89</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Maybe something for Elliott?</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

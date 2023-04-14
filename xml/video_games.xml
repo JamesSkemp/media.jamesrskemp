@@ -56963,6 +56963,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99. Maybe something for Elliott?</notes>
 	</game>
+	<game id="4008" electronic="true">
+		<title>Earth Defense Force: World Brothers</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-04-14</date>
+			<price>23.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Purchased to see if Elliott would like; he wanted to play April's Harry Potter game (she was playing on laptop).</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

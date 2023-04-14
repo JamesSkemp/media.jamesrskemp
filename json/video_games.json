@@ -72280,6 +72280,24 @@
 					"id": 4007,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Earth Defense Force: World Brothers",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-04-14",
+					"price": "23.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "On sale. Purchased to see if Elliott would like; he wanted to play April's Harry Potter game (she was playing on laptop).",
+				"meta": {
+					"id": 4008,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -72298,6 +72298,42 @@
 					"id": 4008,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Cat Quest",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-04-17",
+					"price": "5.19",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but on sale. Elliott may enjoy.",
+				"meta": {
+					"id": 4009,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cat Quest II",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-04-17",
+					"price": "5.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but on sale. May be fun to play with Elliott.",
+				"meta": {
+					"id": 4010,
+					"electronic": true
+				}
 			}
 		]
 	}

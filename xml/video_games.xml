@@ -56977,6 +56977,34 @@
 		<own>yes</own>
 		<notes>On sale. Purchased to see if Elliott would like; he wanted to play April's Harry Potter game (she was playing on laptop).</notes>
 	</game>
+	<game id="4009" electronic="true">
+		<title>Cat Quest</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-04-17</date>
+			<price>5.19</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but on sale. Elliott may enjoy.</notes>
+	</game>
+	<game id="4010" electronic="true">
+		<title>Cat Quest II</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-04-17</date>
+			<price>5.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale. May be fun to play with Elliott.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

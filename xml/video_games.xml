@@ -54415,21 +54415,7 @@
 		<own>yes</own>
 		<notes>Includes base game and an online starter pack DLC. Bundle is a penny cheaper than the game, both of which are on sale.</notes>
 	</game>
-	<game id="3826" electronic="true" addOn="true">
-		<title>Mario Kart 8 Deluxe - Booster Course Pass</title>
-		<system>
-			<console>Nintendo</console>
-			<version>Switch</version>
-		</system>
-		<purchase>
-			<date>2022-05-03</date>
-			<price>24.99</price>
-			<place>Nintendo eShop</place>
-		</purchase>
-		<own>yes</own>
-		<notes />
-	</game>
-	<game id="3827" electronic="true">
+	<game id="3826" electronic="true">
 		<title>Yakuza: Like a Dragon</title>
 		<system>
 			<console>PlayStation</console>
@@ -54443,7 +54429,7 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
-	<game id="3828" electronic="true">
+	<game id="3827" electronic="true">
 		<title>Tony Hawk's Pro Skater 1 + 2</title>
 		<system>
 			<console>PlayStation</console>
@@ -54457,7 +54443,7 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but free with Plus.</notes>
 	</game>
-	<game id="3829" electronic="true">
+	<game id="3828" electronic="true">
 		<title>Little Nightmares</title>
 		<system>
 			<console>PlayStation</console>
@@ -54471,7 +54457,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
-	<game id="3830" electronic="true">
+	<game id="3829" electronic="true">
 		<title>GigaBash</title>
 		<system>
 			<console>PC</console>
@@ -54485,7 +54471,7 @@
 		<own>yes</own>
 		<notes>20% off. Looks fun. Think I wishlisted it because I thought Elliott and I would like it.</notes>
 	</game>
-	<game id="3831" electronic="true">
+	<game id="3830" electronic="true">
 		<title>Danganronpa: Trigger Happy Havoc</title>
 		<system>
 			<console>PC</console>
@@ -54499,7 +54485,7 @@
 		<own>yes</own>
 		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
 	</game>
-	<game id="3832" electronic="true">
+	<game id="3831" electronic="true">
 		<title>Danganronpa 2: Goodbye Despair</title>
 		<system>
 			<console>PC</console>
@@ -54513,7 +54499,7 @@
 		<own>yes</own>
 		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
 	</game>
-	<game id="3833" electronic="true">
+	<game id="3832" electronic="true">
 		<title>Danganronpa V3: Killing Harmony</title>
 		<system>
 			<console>PC</console>
@@ -54527,7 +54513,7 @@
 		<own>yes</own>
 		<notes>Part of three game bundle, that was on sale for Tokyo Game Show.</notes>
 	</game>
-	<game id="3834" electronic="true">
+	<game id="3833" electronic="true">
 		<title>Earth Defense Force 5 - Mission Pack 1: Extra Challenge</title>
 		<system>
 			<console>PC</console>
@@ -54541,7 +54527,7 @@
 		<own>yes</own>
 		<notes>Normally $11.99 but on sale. Bought for Ness as well.</notes>
 	</game>
-	<game id="3835" electronic="true">
+	<game id="3834" electronic="true">
 		<title>Earth Defense Force 5 - Mission Pack 2: Super Challenge</title>
 		<system>
 			<console>PC</console>
@@ -54555,7 +54541,7 @@
 		<own>yes</own>
 		<notes>Normally $11.99 but on sale. Bought for Ness as well.</notes>
 	</game>
-	<game id="3836" electronic="true">
+	<game id="3835" electronic="true">
 		<title>Chronicon</title>
 		<system>
 			<console>PC</console>
@@ -54569,7 +54555,7 @@
 		<own>yes</own>
 		<notes>Normally $13.99 but on sale. Don't recall why I put this into my wishlist, but looks enjoyable.</notes>
 	</game>
-	<game id="3837" electronic="true">
+	<game id="3836" electronic="true">
 		<title>Lightning Returns: Final Fantasy XIII</title>
 		<system>
 			<console>PC</console>
@@ -54583,7 +54569,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but on sale.</notes>
 	</game>
-	<game id="3838" electronic="true">
+	<game id="3837" electronic="true">
 		<title>Wonderful 101, The: Remastered</title>
 		<system>
 			<console>PC</console>
@@ -54597,7 +54583,7 @@
 		<own>yes</own>
 		<notes>Normally $39.99 but on sale. Have heard good things about it, so may as well get it.</notes>
 	</game>
-	<game id="3839" electronic="true">
+	<game id="3838" electronic="true">
 		<title>Incredible Adventures of Van Helsing, The: Final Cut</title>
 		<system>
 			<console>PC</console>
@@ -54611,7 +54597,7 @@
 		<own>yes</own>
 		<notes>Normally $44.99 but on sale. Contains the trilogy. Seemingly worth it, so being on sale it's an easy buy.</notes>
 	</game>
-	<game id="3840" electronic="true">
+	<game id="3839" electronic="true">
 		<title>Need for Speed Heat</title>
 		<system>
 			<console>PlayStation</console>
@@ -54625,7 +54611,7 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
-	<game id="3841" electronic="true">
+	<game id="3840" electronic="true">
 		<title>Granblue Fantasy: Versus</title>
 		<system>
 			<console>PlayStation</console>
@@ -54639,7 +54625,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
-	<game id="3842" electronic="true">
+	<game id="3841" electronic="true">
 		<title>TOEM</title>
 		<system>
 			<console>PlayStation</console>
@@ -54653,7 +54639,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
-	<game id="3843" electronic="true">
+	<game id="3842" electronic="true">
 		<title>Tomb Raider: Game of the Year Edition</title>
 		<system>
 			<console>PC</console>
@@ -54667,7 +54653,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99.</notes>
 	</game>
-	<game id="3844" electronic="true">
+	<game id="3843" electronic="true">
 		<title>Sleeping Dogs: Definitive Edition</title>
 		<system>
 			<console>PC</console>
@@ -54681,7 +54667,7 @@
 		<own>yes</own>
 		<notes>Normally $19.99.</notes>
 	</game>
-	<game id="3845" electronic="true">
+	<game id="3844" electronic="true">
 		<title>Battle Fantasia -Revised Edition-</title>
 		<system>
 			<console>PC</console>
@@ -54695,7 +54681,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $14.99.</notes>
 	</game>
-	<game id="3846" electronic="true">
+	<game id="3845" electronic="true">
 		<title>Code of Princess</title>
 		<system>
 			<console>PC</console>
@@ -54709,7 +54695,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $14.99.</notes>
 	</game>
-	<game id="3847" electronic="true">
+	<game id="3846" electronic="true">
 		<title>Tales of Vesperia: Definitive Edition</title>
 		<system>
 			<console>PC</console>
@@ -54723,7 +54709,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $49.99.</notes>
 	</game>
-	<game id="3848" electronic="true">
+	<game id="3847" electronic="true">
 		<title>Tales of Symphonia</title>
 		<system>
 			<console>PC</console>
@@ -54737,7 +54723,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $19.99.</notes>
 	</game>
-	<game id="3849" electronic="true">
+	<game id="3848" electronic="true">
 		<title>PSYCHO-PASS: Mandatory Happiness Digital Alpha Edition</title>
 		<system>
 			<console>PC</console>
@@ -54751,7 +54737,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $22.78.</notes>
 	</game>
-	<game id="3850" electronic="true">
+	<game id="3849" electronic="true">
 		<title>ONE PUNCH MAN: A HERO NOBODY KNOWS - Deluxe Edition</title>
 		<system>
 			<console>PC</console>
@@ -54765,7 +54751,7 @@
 		<own>yes</own>
 		<notes>On sale. Normally $79.99.</notes>
 	</game>
-	<game id="3851" electronic="true">
+	<game id="3850" electronic="true">
 		<title>ONE PIECE PIRATE WARRIORS 3 Gold Edition</title>
 		<system>
 			<console>PC</console>

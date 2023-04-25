@@ -57019,6 +57019,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4012" used="true">
+		<title>New Super Mario Bros. Wii</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii</version>
+		</system>
+		<purchase>
+			<date>2023-04-19</date>
+			<price>22.99</price>
+			<place>eBay (wickedberg)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/24/2023. Elliott was willing to sell all his (Switch) games for this, his favorite game, where you have to defeat the Koopalings twice.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

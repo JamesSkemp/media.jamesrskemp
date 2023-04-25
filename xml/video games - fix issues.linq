@@ -22,9 +22,13 @@ foreach (var gameElement in gameElements)
 	{
 		lastElement++;
 	}
-	if (gameId >= 2774) {
+	if (gameId >= 3957) {
 		gameElement.Attribute("id").SetValue(gameId - 1);
 	}
+	/*if (gameId >= 4000)
+	{
+		gameElement.Attribute("id").SetValue(gameId + 1);
+	}*/
 }
 
 "===".Dump();

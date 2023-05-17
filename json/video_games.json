@@ -72369,6 +72369,60 @@
 					"id": 4012,
 					"used": true
 				}
+			},
+			{
+				"title": "Super Mario Maker",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii U"
+				},
+				"purchase": {
+					"date": "2023-04-24",
+					"price": "21.99",
+					"place": "ebay (bossharp)"
+				},
+				"own": true,
+				"notes": "Received 4/28/2023. Included art book. For Elliott.",
+				"meta": {
+					"id": 4013,
+					"used": true
+				}
+			},
+			{
+				"title": "Super Mario Galaxy",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii"
+				},
+				"purchase": {
+					"date": "2023-04-24",
+					"price": "30.00",
+					"place": "ebay (mmmd0nuts)"
+				},
+				"own": true,
+				"notes": "Received 4/26/2023. Complete. For Elliott.",
+				"meta": {
+					"id": 4014,
+					"used": true
+				}
+			},
+			{
+				"title": "Super Mario Galaxy 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Wii"
+				},
+				"purchase": {
+					"date": "2023-04-24",
+					"price": "30.00",
+					"place": "ebay (mmmd0nuts)"
+				},
+				"own": true,
+				"notes": "Received 4/26/2023. Complete. For Elliott.",
+				"meta": {
+					"id": 4015,
+					"used": true
+				}
 			}
 		]
 	}

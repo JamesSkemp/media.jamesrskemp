@@ -57033,6 +57033,48 @@
 		<own>yes</own>
 		<notes>Received 4/24/2023. Elliott was willing to sell all his (Switch) games for this, his favorite game, where you have to defeat the Koopalings twice.</notes>
 	</game>
+	<game id="4013" used="true">
+		<title>Super Mario Maker</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii U</version>
+		</system>
+		<purchase>
+			<date>2023-04-24</date>
+			<price>21.99</price>
+			<place>ebay (bossharp)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/28/2023. Included art book. For Elliott.</notes>
+	</game>
+	<game id="4014" used="true">
+		<title>Super Mario Galaxy</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii</version>
+		</system>
+		<purchase>
+			<date>2023-04-24</date>
+			<price>30.00</price>
+			<place>ebay (mmmd0nuts)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/26/2023. Complete. For Elliott.</notes>
+	</game>
+	<game id="4015" used="true">
+		<title>Super Mario Galaxy 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Wii</version>
+		</system>
+		<purchase>
+			<date>2023-04-24</date>
+			<price>30.00</price>
+			<place>ebay (mmmd0nuts)</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 4/26/2023. Complete. For Elliott.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -72423,6 +72423,60 @@
 					"id": 4015,
 					"used": true
 				}
+			},
+			{
+				"title": "Lost Epic",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-05-20",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Similar to Earth Dawn (same developer), which is similar to Odin Sphere and the like. On sale.",
+				"meta": {
+					"id": 4016,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DeathSpank",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-05-20",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 4017,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DeathSpank: Thongs of Virtue",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-05-20",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 4018,
+					"electronic": true
+				}
 			}
 		]
 	}

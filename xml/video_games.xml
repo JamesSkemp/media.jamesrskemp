@@ -57075,6 +57075,48 @@
 		<own>yes</own>
 		<notes>Received 4/26/2023. Complete. For Elliott.</notes>
 	</game>
+	<game id="4016" electronic="true">
+		<title>Lost Epic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-05-20</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Similar to Earth Dawn (same developer), which is similar to Odin Sphere and the like. On sale.</notes>
+	</game>
+	<game id="4017" electronic="true">
+		<title>DeathSpank</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-05-20</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
+	<game id="4018" electronic="true">
+		<title>DeathSpank: Thongs of Virtue</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-05-20</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

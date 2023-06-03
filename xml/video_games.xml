@@ -57243,6 +57243,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4028" electronic="true">
+		<title>Kirby's Dream Buffet</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-06-03</date>
+			<price>14.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Elliott brushed his teeth two days in a row, so gets a game.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

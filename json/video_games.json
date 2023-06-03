@@ -72639,6 +72639,24 @@
 					"id": 4027,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Kirby's Dream Buffet",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-06-03",
+					"price": "14.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Elliott brushed his teeth two days in a row, so gets a game.",
+				"meta": {
+					"id": 4028,
+					"electronic": true
+				}
 			}
 		]
 	}

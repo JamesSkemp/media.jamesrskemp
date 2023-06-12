@@ -72657,6 +72657,24 @@
 					"id": 4028,
 					"electronic": true
 				}
+			},
+			{
+				"title": "NAMCO MUSEUM ARCHIVES Vol 1",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-06-11",
+					"price": "4.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4029,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -57257,6 +57257,20 @@
 		<own>yes</own>
 		<notes>Elliott brushed his teeth two days in a row, so gets a game.</notes>
 	</game>
+	<game id="4029" electronic="true">
+		<title>NAMCO MUSEUM ARCHIVES Vol 1</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-06-11</date>
+			<price>4.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

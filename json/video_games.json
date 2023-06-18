@@ -72675,6 +72675,42 @@
 					"id": 4029,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Unravel Two",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-06-18",
+					"price": "4.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale. Elliott expressed interest in it; two player game.",
+				"meta": {
+					"id": 4030,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Rayman Legends Definitive Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-06-18",
+					"price": "7.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $39.99 but on sale. Elliott might like it.",
+				"meta": {
+					"id": 4031,
+					"electronic": true
+				}
 			}
 		]
 	}

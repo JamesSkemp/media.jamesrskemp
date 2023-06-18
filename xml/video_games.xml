@@ -57271,6 +57271,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="4030" electronic="true">
+		<title>Unravel Two</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-06-18</date>
+			<price>4.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Elliott expressed interest in it; two player game.</notes>
+	</game>
+	<game id="4031" electronic="true">
+		<title>Rayman Legends Definitive Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-06-18</date>
+			<price>7.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99 but on sale. Elliott might like it.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

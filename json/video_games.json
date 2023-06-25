@@ -72711,6 +72711,24 @@
 					"id": 4031,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Yakuza Complete Series",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-06-25",
+					"price": "33.92",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $111.98 but recently hit GOG and summer sale. Games 0-6.",
+				"meta": {
+					"id": 4032,
+					"electronic": true
+				}
 			}
 		]
 	}

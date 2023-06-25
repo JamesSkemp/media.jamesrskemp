@@ -57299,6 +57299,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99 but on sale. Elliott might like it.</notes>
 	</game>
+	<game id="4032" electronic="true">
+		<title>Yakuza Complete Series</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-06-25</date>
+			<price>33.92</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $111.98 but recently hit GOG and summer sale. Games 0-6.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -57313,6 +57313,48 @@
 		<own>yes</own>
 		<notes>Normally $111.98 but recently hit GOG and summer sale. Games 0-6.</notes>
 	</game>
+	<game id="4033" electronic="true">
+		<title>Trek to Yomi</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-06-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="4034" electronic="true">
+		<title>NBA 2K23</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-06-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Special bundle free with Plus.</notes>
+	</game>
+	<game id="4035" electronic="true">
+		<title>Jurassic World Evolution 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-06-27</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

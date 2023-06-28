@@ -72729,6 +72729,60 @@
 					"id": 4032,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Trek to Yomi",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-06-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4033,
+					"electronic": true
+				}
+			},
+			{
+				"title": "NBA 2K23",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-06-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Special bundle free with Plus.",
+				"meta": {
+					"id": 4034,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Jurassic World Evolution 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-06-27",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4035,
+					"electronic": true
+				}
 			}
 		]
 	}

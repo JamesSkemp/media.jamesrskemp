@@ -72802,6 +72802,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "ONE PIECE: PIRATE WARRIORS 4 Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-01",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $89.99 but Summer sale.",
+				"meta": {
+					"id": 4037,
+					"electronic": true
+				}
+			},
+			{
+				"title": "WARRIORS OROCHI 3 Ultimate Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-01",
+					"price": "27.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Summer sale.",
+				"meta": {
+					"id": 4038,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -57369,6 +57369,34 @@
 		<own>yes</own>
 		<notes>Normally $12.99, but Steam summer sale. Also purchased for Ness.</notes>
 	</game>
+	<game id="4037" electronic="true">
+		<title>ONE PIECE: PIRATE WARRIORS 4 Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-01</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $89.99 but Summer sale.</notes>
+	</game>
+	<game id="4038" electronic="true">
+		<title>WARRIORS OROCHI 3 Ultimate Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-01</date>
+			<price>27.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Summer sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

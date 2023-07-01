@@ -57355,6 +57355,20 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="4036" electronic="true" addOn="true">
+		<title>EARTH DEFENSE FORCE: IRON RAIN - DLC Mission : Golden Storm</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-06-29</date>
+			<price>5.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but Steam summer sale. Also purchased for Ness.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

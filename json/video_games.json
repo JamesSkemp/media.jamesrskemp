@@ -72783,6 +72783,25 @@
 					"id": 4035,
 					"electronic": true
 				}
+			},
+			{
+				"title": "EARTH DEFENSE FORCE: IRON RAIN - DLC Mission : Golden Storm",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-06-29",
+					"price": "5.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but Steam summer sale. Also purchased for Ness.",
+				"meta": {
+					"id": 4036,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

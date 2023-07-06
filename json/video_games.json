@@ -72838,6 +72838,79 @@
 					"id": 4038,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Magic Research",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-04",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Summer sale. Came up in Discovery Queue. It's okay so far.",
+				"meta": {
+					"id": 4039,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Judgment",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-05",
+					"price": "21.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Summer sale + bundle.",
+				"meta": {
+					"id": 4040,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Lost Judgment",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-05",
+					"price": "33.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Summer sale + bundle.",
+				"meta": {
+					"id": 4041,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Lost Judgment - The Kaito Files Story Expansion",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-05",
+					"price": "15.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Summer sale + bundle.",
+				"meta": {
+					"id": 4042,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

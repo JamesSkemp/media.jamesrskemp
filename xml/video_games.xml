@@ -57397,6 +57397,62 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but Summer sale.</notes>
 	</game>
+	<game id="4039" electronic="true">
+		<title>Magic Research</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-04</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Summer sale. Came up in Discovery Queue. It's okay so far.</notes>
+	</game>
+	<game id="4040" electronic="true">
+		<title>Judgment</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-05</date>
+			<price>21.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer sale + bundle.</notes>
+	</game>
+	<game id="4041" electronic="true">
+		<title>Lost Judgment</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-05</date>
+			<price>33.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer sale + bundle.</notes>
+	</game>
+	<game id="4042" electronic="true" addOn="true">
+		<title>Lost Judgment - The Kaito Files Story Expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-05</date>
+			<price>15.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Summer sale + bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

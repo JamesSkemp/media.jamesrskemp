@@ -72911,6 +72911,60 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Alan Wake Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-07-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4043,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Endling - Extinction is Forever",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-07-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4044,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Call of Duty: Black Ops Cold War Cross-Gen Bundle",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-07-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4045,
+					"electronic": true
+				}
 			}
 		]
 	}

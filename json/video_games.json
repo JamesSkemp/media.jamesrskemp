@@ -72965,6 +72965,42 @@
 					"id": 4045,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA Peach Beach Splash - Sexy Soaker Limited Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-07-20",
+					"price": "39.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4046,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Raft",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-07-22",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Recommendation from Ness. Had originally ignored it at some point.",
+				"meta": {
+					"id": 4047,
+					"electronic": true
+				}
 			}
 		]
 	}

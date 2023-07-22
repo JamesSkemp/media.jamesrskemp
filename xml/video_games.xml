@@ -57495,6 +57495,34 @@
 		<own>yes</own>
 		<notes>Normally $69.99, but free with Plus.</notes>
 	</game>
+	<game id="4046" electronic="true">
+		<title>SENRAN KAGURA Peach Beach Splash - Sexy Soaker Limited Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-07-20</date>
+			<price>39.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4047" electronic="true">
+		<title>Raft</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-07-22</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Recommendation from Ness. Had originally ignored it at some point.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

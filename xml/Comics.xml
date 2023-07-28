@@ -10220,6 +10220,42 @@
 		<Quantity>1</Quantity>
 		<Notes>$10 + $5.65 shipping. Received 5/25/2023.</Notes>
 	</Comic>
+	<Comic>
+		<AutoNumber>659</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles: The Last Ronin</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles: The Last Ronin</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2023-07-23</BoughtDate>
+		<BoughtPrice>19.54</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 7/25/2023. Supposedly quite good.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>660</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles: Urban Legends, Vol. 1</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles: Urban Legends</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2023-07-23</BoughtDate>
+		<BoughtPrice>29.99</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 7/25/2023. First half of collected Image series.</Notes>
+	</Comic>
+	<Comic>
+		<AutoNumber>661</AutoNumber>
+		<DescriptiveName>Teenage Mutant Ninja Turtles: Urban Legends, Vol. 2</DescriptiveName>
+		<Series>Teenage Mutant Ninja Turtles: Urban Legends</Series>
+		<Publisher>IDW</Publisher>
+		<Price>29.99</Price>
+		<BoughtAt>Amazon.com</BoughtAt>
+		<BoughtDate>2023-07-23</BoughtDate>
+		<BoughtPrice>27.89</BoughtPrice>
+		<Quantity>1</Quantity>
+		<Notes>Received 7/25/2023. First half of collected Image series.</Notes>
+	</Comic>
 	<!--
 	-->
 	<!--

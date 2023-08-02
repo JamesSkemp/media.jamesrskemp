@@ -73001,6 +73001,24 @@
 					"id": 4047,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Wonderful 101, The: Remastered",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-08-02",
+					"price": "17.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but on sale. Elliott might like it?",
+				"meta": {
+					"id": 4048,
+					"electronic": true
+				}
 			}
 		]
 	}

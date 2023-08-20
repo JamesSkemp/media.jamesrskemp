@@ -2365,6 +2365,34 @@
 			<own>yes</own>
 			<notes>Received 8/26/2022. May help with issues keeping all four extra Joy-Cons charged faster.</notes>
 		</item>
+		<item id="172">
+			<name>PlayStation 5</name>
+			<system>
+				<console>PlayStation</console>
+				<version>5</version>
+			</system>
+			<purchase>
+				<date>2023-08-17</date>
+				<price>449.99</price>
+				<place>Target.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Picked up next day. $50 off. Disc version. Included white controller.</notes>
+		</item>
+		<item id="173">
+			<name>PlayStation 5 DualSense Wireless Controller - Midnight Black</name>
+			<system>
+				<console>PlayStation</console>
+				<version>5</version>
+			</system>
+			<purchase>
+				<date>2023-08-18</date>
+				<price>49.00</price>
+				<place>Amazon.com</place>
+			</purchase>
+			<own>yes</own>
+			<notes>Received same day. On sale. My controller.</notes>
+		</item>
 		<!--
 		<item id="">
 			<name></name>

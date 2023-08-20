@@ -57537,6 +57537,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but on sale. Elliott might like it?</notes>
 	</game>
+	<game id="4049">
+		<title>Horizon Forbidden West: Launch Edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-08-17</date>
+			<price>39.99</price>
+			<place>Target.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Primarily for April. Picked up from Fitchburg next day.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

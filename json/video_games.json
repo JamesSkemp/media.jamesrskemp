@@ -73019,6 +73019,23 @@
 					"id": 4048,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Horizon Forbidden West: Launch Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-08-17",
+					"price": "39.99",
+					"place": "Target.com"
+				},
+				"own": true,
+				"notes": "On sale. Primarily for April. Picked up from Fitchburg next day.",
+				"meta": {
+					"id": 4049
+				}
 			}
 		]
 	}

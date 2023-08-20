@@ -57551,6 +57551,48 @@
 		<own>yes</own>
 		<notes>On sale. Primarily for April. Picked up from Fitchburg next day.</notes>
 	</game>
+	<game id="4050" electronic="true">
+		<title>PGA Tour 2K23</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-08-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Exclusive and free with Plus.</notes>
+	</game>
+	<game id="4051" electronic="true">
+		<title>Dreams</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-08-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
+	<game id="4052" electronic="true">
+		<title>Death's Door</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-08-20</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

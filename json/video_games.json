@@ -73090,6 +73090,25 @@
 					"id": 4052,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Tides of the Foscari",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-08-23",
+					"price": "1.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99 but midweek sale.",
+				"meta": {
+					"id": 4053,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

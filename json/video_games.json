@@ -73109,6 +73109,62 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Vampire Survivors",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-08-24",
+					"price": "4.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "10% off. To play co-op with Elliott.",
+				"meta": {
+					"id": 4054,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Legacy of the Moonspell",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-08-24",
+					"price": "1.79",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "10% off.",
+				"meta": {
+					"id": 4055,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Tides of the Foscari",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-08-24",
+					"price": "1.79",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "10% off.",
+				"meta": {
+					"id": 4056,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

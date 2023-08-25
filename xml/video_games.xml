@@ -57607,6 +57607,48 @@
 		<own>yes</own>
 		<notes>Normally $1.99 but midweek sale.</notes>
 	</game>
+	<game id="4054" electronic="true">
+		<title>Vampire Survivors</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-08-24</date>
+			<price>4.49</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>10% off. To play co-op with Elliott.</notes>
+	</game>
+	<game id="4055" electronic="true" addOn="true">
+		<title>Vampire Survivors: Legacy of the Moonspell</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-08-24</date>
+			<price>1.79</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>10% off.</notes>
+	</game>
+	<game id="4056" electronic="true" addOn="true">
+		<title>Vampire Survivors: Tides of the Foscari</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-08-24</date>
+			<price>1.79</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>10% off.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

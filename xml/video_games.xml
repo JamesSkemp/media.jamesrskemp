@@ -57649,6 +57649,20 @@
 		<own>yes</own>
 		<notes>10% off.</notes>
 	</game>
+	<game id="4057" electronic="true">
+		<title>Like a Dragon: Ishin! - Digital Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-02-13</date>
+			<price>69.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

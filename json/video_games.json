@@ -73165,6 +73165,24 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Like a Dragon: Ishin! - Digital Deluxe",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-02-13",
+					"price": "69.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4057,
+					"electronic": true
+				}
 			}
 		]
 	}

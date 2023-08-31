@@ -57663,6 +57663,20 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="4058" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-08-31</date>
+			<price>7.19</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Recently released. Normally $7.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -73183,6 +73183,25 @@
 					"id": 4057,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-08-31",
+					"price": "7.19",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Recently released. Normally $7.99.",
+				"meta": {
+					"id": 4058,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

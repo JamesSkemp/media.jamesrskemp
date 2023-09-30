@@ -57719,6 +57719,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
 	</game>
+	<game id="4062" electronic="true">
+		<title>It Takes Two</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-09-30</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>From Ness and Abbey. Another copy went to April. For anniversary. Sent 23rd, missed it until now.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

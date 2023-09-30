@@ -73256,6 +73256,24 @@
 					"id": 4061,
 					"electronic": true
 				}
+			},
+			{
+				"title": "It Takes Two",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-09-30",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "From Ness and Abbey. Another copy went to April. For anniversary. Sent 23rd, missed it until now.",
+				"meta": {
+					"id": 4062,
+					"electronic": true
+				}
 			}
 		]
 	}

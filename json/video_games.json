@@ -73274,6 +73274,24 @@
 					"id": 4062,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Brotato",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-10-07",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Gift from Ness. Vampire Survivors-like.",
+				"meta": {
+					"id": 4063,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -57733,6 +57733,20 @@
 		<own>yes</own>
 		<notes>From Ness and Abbey. Another copy went to April. For anniversary. Sent 23rd, missed it until now.</notes>
 	</game>
+	<game id="4063" electronic="true">
+		<title>Brotato</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-10-07</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Ness. Vampire Survivors-like.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -57747,6 +57747,48 @@
 		<own>yes</own>
 		<notes>Gift from Ness. Vampire Survivors-like.</notes>
 	</game>
+	<game id="4064" electronic="true">
+		<title>Weird West: Definitive edition</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-10-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4065" electronic="true">
+		<title>Callisto Protocol, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-10-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>PS+ exclusive, free with Plus.</notes>
+	</game>
+	<game id="4066" electronic="true">
+		<title>Farming Simulator 22</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-10-14</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

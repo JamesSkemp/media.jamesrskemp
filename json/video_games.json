@@ -73292,6 +73292,60 @@
 					"id": 4063,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Weird West: Definitive edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-10-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4064,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Callisto Protocol, The",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-10-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "PS+ exclusive, free with Plus.",
+				"meta": {
+					"id": 4065,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Farming Simulator 22",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-10-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4066,
+					"electronic": true
+				}
 			}
 		]
 	}

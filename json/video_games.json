@@ -73346,6 +73346,42 @@
 					"id": 4066,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Halls of Torment",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-10-14",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99. Brotato related. Diablo meets Vampire Survivors. Godot.",
+				"meta": {
+					"id": 4067,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon Village 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-10-14",
+					"price": "7.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99 but on sale.",
+				"meta": {
+					"id": 4068,
+					"electronic": true
+				}
 			}
 		]
 	}

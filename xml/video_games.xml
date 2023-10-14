@@ -57789,6 +57789,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but free with Plus.</notes>
 	</game>
+	<game id="4067" electronic="true">
+		<title>Halls of Torment</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-10-14</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Brotato related. Diablo meets Vampire Survivors. Godot.</notes>
+	</game>
+	<game id="4068" electronic="true">
+		<title>Dungeon Village 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-10-14</date>
+			<price>7.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99 but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

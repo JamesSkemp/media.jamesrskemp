@@ -73382,6 +73382,24 @@
 					"id": 4068,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario Bros. Wonder",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-10-22",
+					"price": "59.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "For Elliott. He's sick again so not waiting until Christmas.",
+				"meta": {
+					"id": 4069,
+					"electronic": true
+				}
 			}
 		]
 	}

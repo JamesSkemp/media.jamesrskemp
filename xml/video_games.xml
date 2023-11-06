@@ -57831,10 +57831,41 @@
 		<own>yes</own>
 		<notes>For Elliott. He's sick again so not waiting until Christmas.</notes>
 	</game>
+	<game id="4070" electronic="true">
+		<title>Luck be a Landlord</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-11-06</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Built with Godot.</notes>
+	</game>
+	<game id="4071" electronic="true">
+		<title>Ghost Trick: Phantom Detective</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-11-06</date>
+			<price>19.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $29.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->
 	<!--
+	-->
+	<!--
+		pending: two controller adapters, one controller, one arcade controller, one sega usb controller, April's Zelda controller, Lite2 controller, black Switch controller, 2 Wii controllers, DS, DS games
 	-->
 	<!--
 	https://www.playstation.com/en-us/ps-plus/whats-new/#monthly-games

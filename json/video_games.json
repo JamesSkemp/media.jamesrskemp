@@ -73436,6 +73436,60 @@
 					"id": 4071,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mafia II: Definitive Edition",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4072,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dragon Ball: The Breakers",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4073,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Aliens: Fireteam Elite",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4074,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -73508,6 +73508,24 @@
 					"id": 4075,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mario + Rabbids Sparks of Hope Gold Edition",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2023-11-25",
+					"price": "39.59",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $89.99, Cyber Deals sale.",
+				"meta": {
+					"id": 4076,
+					"electronic": true
+				}
 			}
 		]
 	}

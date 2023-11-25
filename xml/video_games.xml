@@ -57915,6 +57915,20 @@
 		<own>yes</own>
 		<notes>Pre-ordered.</notes>
 	</game>
+	<game id="4076" electronic="true">
+		<title>Mario + Rabbids Sparks of Hope Gold Edition</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2023-11-25</date>
+			<price>39.59</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $89.99, Cyber Deals sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

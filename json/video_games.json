@@ -73526,6 +73526,60 @@
 					"id": 4076,
 					"electronic": true
 				}
+			},
+			{
+				"title": "LEGO 2K Drive",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-12-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4077,
+					"electronic": true
+				}
+			},
+			{
+				"title": "PowerWash Simulator",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-12-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4078,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sable",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-12-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4079,
+					"electronic": true
+				}
 			}
 		]
 	}

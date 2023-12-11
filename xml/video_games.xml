@@ -57971,6 +57971,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4080" electronic="true">
+		<title>Case of the Golden Idol, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-10</date>
+			<price>12.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $17.99, but on sale. Like Obra Dinn, supposedly. Also built with Godot.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

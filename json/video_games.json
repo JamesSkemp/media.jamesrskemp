@@ -73580,6 +73580,24 @@
 					"id": 4079,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Case of the Golden Idol, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-10",
+					"price": "12.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $17.99, but on sale. Like Obra Dinn, supposedly. Also built with Godot.",
+				"meta": {
+					"id": 4080,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -73598,6 +73598,24 @@
 					"id": 4080,
 					"electronic": true
 				}
+			},
+			{
+				"title": "ASTLIBRA Revision",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-17",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but on sale.",
+				"meta": {
+					"id": 4081,
+					"electronic": true
+				}
 			}
 		]
 	}

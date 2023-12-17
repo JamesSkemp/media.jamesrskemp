@@ -57985,6 +57985,20 @@
 		<own>yes</own>
 		<notes>Normally $17.99, but on sale. Like Obra Dinn, supposedly. Also built with Godot.</notes>
 	</game>
+	<game id="4081" electronic="true">
+		<title>ASTLIBRA Revision</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-17</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -73616,6 +73616,25 @@
 					"id": 4081,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Emergency Meeting",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-18",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.49 but on sale. Purchased first day.",
+				"meta": {
+					"id": 4082,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

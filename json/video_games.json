@@ -73635,6 +73635,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "20 Minutes Till Dawn",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-20",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, Vampire Survivors-like, part of Death at Dawn bundle.",
+				"meta": {
+					"id": 4083,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Death Must Die",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-20",
+					"price": "6.29",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, Vampire Survivors-like, part of Death at Dawn bundle.",
+				"meta": {
+					"id": 4084,
+					"electronic": true
+				}
 			}
 		]
 	}

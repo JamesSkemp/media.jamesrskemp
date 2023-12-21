@@ -58013,6 +58013,34 @@
 		<own>yes</own>
 		<notes>Normally $2.49 but on sale. Purchased first day.</notes>
 	</game>
+	<game id="4083" electronic="true">
+		<title>20 Minutes Till Dawn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-20</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, Vampire Survivors-like, part of Death at Dawn bundle.</notes>
+	</game>
+	<game id="4084" electronic="true">
+		<title>Death Must Die</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-20</date>
+			<price>6.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, Vampire Survivors-like, part of Death at Dawn bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

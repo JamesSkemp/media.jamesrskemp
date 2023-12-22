@@ -58041,6 +58041,62 @@
 		<own>yes</own>
 		<notes>Normally $6.99, Vampire Survivors-like, part of Death at Dawn bundle.</notes>
 	</game>
+	<game id="4085" electronic="true" addOn="true">
+		<title>Golden Idol Mysteries: The Spider of Lanka</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>5.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but winter sale.</notes>
+	</game>
+	<game id="4086" electronic="true" addOn="true">
+		<title>Golden Idol Mysteries: The Lemurian Vampire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>5.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99 but winter sale.</notes>
+	</game>
+	<game id="4087" electronic="true">
+		<title>Contradiction - the all-video murder mystery adventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>9.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99 but winter sale. Has been on my wishlist since 12/30/2015.</notes>
+	</game>
+	<game id="4088" electronic="true">
+		<title>WARRIORS ALL-STARS</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99 but winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

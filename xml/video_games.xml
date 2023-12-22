@@ -58097,6 +58097,34 @@
 		<own>yes</own>
 		<notes>Normally $59.99 but winter sale.</notes>
 	</game>
+	<game id="4089" electronic="true">
+		<title>Soulstone Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-22</date>
+			<price>6.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but winter sale.</notes>
+	</game>
+	<game id="4090" electronic="true">
+		<title>Nordic Ashes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-22</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.49 but winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

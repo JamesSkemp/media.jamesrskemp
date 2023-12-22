@@ -73745,6 +73745,42 @@
 					"id": 4088,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Soulstone Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-22",
+					"price": "6.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99 but winter sale.",
+				"meta": {
+					"id": 4089,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nordic Ashes",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-22",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.49 but winter sale.",
+				"meta": {
+					"id": 4090,
+					"electronic": true
+				}
 			}
 		]
 	}

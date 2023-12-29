@@ -73781,6 +73781,57 @@
 					"id": 4090,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Uncharted: The Nathan Drake Collection",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-12-21",
+					"price": "22.90",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4091
+				}
+			},
+			{
+				"title": "Uncharted: Legacy of Thieves Collection",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-12-21",
+					"price": "37.90",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4092
+				}
+			},
+			{
+				"title": "Kingdom Hearts All-in-One Package",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2023-12-21",
+					"price": "30.21",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4093
+				}
 			}
 		]
 	}

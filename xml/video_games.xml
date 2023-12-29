@@ -58125,6 +58125,48 @@
 		<own>yes</own>
 		<notes>Normally $4.49 but winter sale.</notes>
 	</game>
+	<game id="4091">
+		<title>Uncharted: The Nathan Drake Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>22.90</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4092">
+		<title>Uncharted: Legacy of Thieves Collection</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>37.90</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4093">
+		<title>Kingdom Hearts All-in-One Package</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>30.21</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

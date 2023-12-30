@@ -58167,6 +58167,62 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="4094" electronic="true">
+		<title>Bopl Battle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-29</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but winter sale. Also got a copy for Elliott.</notes>
+	</game>
+	<game id="4095" electronic="true">
+		<title>D&amp;D Lords of Waterdeep</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-29</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but winter sale. April is enjoying.</notes>
+	</game>
+	<game id="4096" electronic="true" addOn="true">
+		<title>D&amp;D Lords of Waterdeep: Skullport expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-29</date>
+			<price>0.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99 but winter sale.</notes>
+	</game>
+	<game id="4097" electronic="true" addOn="true">
+		<title>D&amp;D Lords of Waterdeep: Undermountain expansion</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2023-12-29</date>
+			<price>0.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99 but winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

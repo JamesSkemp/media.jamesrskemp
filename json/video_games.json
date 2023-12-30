@@ -73832,6 +73832,80 @@
 				"meta": {
 					"id": 4093
 				}
+			},
+			{
+				"title": "Bopl Battle",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-29",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99 but winter sale. Also got a copy for Elliott.",
+				"meta": {
+					"id": 4094,
+					"electronic": true
+				}
+			},
+			{
+				"title": "D&D Lords of Waterdeep",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-29",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99 but winter sale. April is enjoying.",
+				"meta": {
+					"id": 4095,
+					"electronic": true
+				}
+			},
+			{
+				"title": "D&D Lords of Waterdeep: Skullport expansion",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-29",
+					"price": "0.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99 but winter sale.",
+				"meta": {
+					"id": 4096,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "D&D Lords of Waterdeep: Undermountain expansion",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2023-12-29",
+					"price": "0.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99 but winter sale.",
+				"meta": {
+					"id": 4097,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

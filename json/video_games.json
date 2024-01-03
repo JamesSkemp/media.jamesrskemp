@@ -73906,6 +73906,78 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Boneraiser Minions",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-01",
+					"price": "3.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99. Survivors like, but different.",
+				"meta": {
+					"id": 4098,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Plants vs. Zombies Garden Warfare 2: Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-01",
+					"price": "3.89",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99 but winter sale. Might be good for Elliott and I?",
+				"meta": {
+					"id": 4099,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mystic Vale",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-02",
+					"price": "3.89",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99 but winter sale.",
+				"meta": {
+					"id": 4100,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mystic Vale - Season Pass",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-02",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99 but winter sale.",
+				"meta": {
+					"id": 4101,
+					"electronic": true
+				}
 			}
 		]
 	}

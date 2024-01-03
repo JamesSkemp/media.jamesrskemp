@@ -58223,6 +58223,62 @@
 		<own>yes</own>
 		<notes>Normally $1.99 but winter sale.</notes>
 	</game>
+	<game id="4098" electronic="true">
+		<title>Boneraiser Minions</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-01-01</date>
+			<price>3.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Survivors like, but different.</notes>
+	</game>
+	<game id="4099" electronic="true">
+		<title>Plants vs. Zombies Garden Warfare 2: Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-01-01</date>
+			<price>3.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99 but winter sale. Might be good for Elliott and I?</notes>
+	</game>
+	<game id="4100" electronic="true">
+		<title>Mystic Vale</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-01-02</date>
+			<price>3.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99 but winter sale.</notes>
+	</game>
+	<game id="4101" electronic="true">
+		<title>Mystic Vale - Season Pass</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-01-02</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99 but winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

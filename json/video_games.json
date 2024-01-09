@@ -73978,6 +73978,60 @@
 					"id": 4101,
 					"electronic": true
 				}
+			},
+			{
+				"title": "A Plague Tale: Requiem",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-01-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4102,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Evil West",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-01-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4103,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nobody Saves the World",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-01-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4104,
+					"electronic": true
+				}
 			}
 		]
 	}

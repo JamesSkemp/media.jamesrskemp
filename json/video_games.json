@@ -74032,6 +74032,24 @@
 					"id": 4104,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Valheim",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-12",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Gift from April. She needs help.",
+				"meta": {
+					"id": 4105,
+					"electronic": true
+				}
 			}
 		]
 	}

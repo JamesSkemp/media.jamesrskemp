@@ -74050,6 +74050,23 @@
 					"id": 4105,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Like a Dragon: Infinite Wealth",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-12-21",
+					"price": "69.99",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "Received 1/26/2024.",
+				"meta": {
+					"id": 4106
+				}
 			}
 		]
 	}

@@ -58335,6 +58335,20 @@
 		<own>yes</own>
 		<notes>Gift from April. She needs help.</notes>
 	</game>
+	<game id="4106">
+		<title>Like a Dragon: Infinite Wealth</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-12-21</date>
+			<price>69.99</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received 1/26/2024.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -74067,6 +74067,24 @@
 				"meta": {
 					"id": 4106
 				}
+			},
+			{
+				"title": "Trinity Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-01-31",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99. Early access. Mentioned on gaming site as a good Vampire Survivors clone. Review mentions Soulstone Survivors.",
+				"meta": {
+					"id": 4107,
+					"electronic": true
+				}
 			}
 		]
 	}

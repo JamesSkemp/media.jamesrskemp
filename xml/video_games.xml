@@ -58363,6 +58363,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99. Early access. Mentioned on gaming site as a good Vampire Survivors clone. Review mentions Soulstone Survivors.</notes>
 	</game>
+	<game id="4108" electronic="true">
+		<title>Choo Choo Survivor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-02-01</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Funny looking, but on a list as a good survivors clone.</notes>
+	</game>
+	<game id="4109" electronic="true">
+		<title>Army of Ruin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-02-01</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Supposedly another good clone.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -74085,6 +74085,42 @@
 					"id": 4107,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Choo Choo Survivor",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-02-01",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Funny looking, but on a list as a good survivors clone.",
+				"meta": {
+					"id": 4108,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Army of Ruin",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-02-01",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Supposedly another good clone.",
+				"meta": {
+					"id": 4109,
+					"electronic": true
+				}
 			}
 		]
 	}

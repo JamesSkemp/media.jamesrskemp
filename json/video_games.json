@@ -74121,6 +74121,24 @@
 					"id": 4109,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Paper Mario: The Origami King",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-02-10",
+					"price": "59.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Elliott technically bought with tooth fairy and Christmas money.",
+				"meta": {
+					"id": 4110,
+					"electronic": true
+				}
 			}
 		]
 	}

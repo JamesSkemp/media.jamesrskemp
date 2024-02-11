@@ -58391,6 +58391,20 @@
 		<own>yes</own>
 		<notes>Supposedly another good clone.</notes>
 	</game>
+	<game id="4110" electronic="true">
+		<title>Paper Mario: The Origami King</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-02-10</date>
+			<price>59.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Elliott technically bought with tooth fairy and Christmas money.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

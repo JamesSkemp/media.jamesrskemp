@@ -58405,6 +58405,20 @@
 		<own>yes</own>
 		<notes>Elliott technically bought with tooth fairy and Christmas money.</notes>
 	</game>
+	<game id="4111" electronic="true" addOn="true">
+		<title>ASTLIBRA Gaiden: The Cave of Phantom Mist</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-02-13</date>
+			<price>8.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Release day.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

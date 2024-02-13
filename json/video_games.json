@@ -74139,6 +74139,25 @@
 					"id": 4110,
 					"electronic": true
 				}
+			},
+			{
+				"title": "ASTLIBRA Gaiden: The Cave of Phantom Mist",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-02-13",
+					"price": "8.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4111,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

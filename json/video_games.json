@@ -74158,6 +74158,60 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Foamstars",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-02-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $0.00, but free with Plus.",
+				"meta": {
+					"id": 4112,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Steelrising",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-02-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4113,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Rollerdrome",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-02-15",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4114,
+					"electronic": true
+				}
 			}
 		]
 	}

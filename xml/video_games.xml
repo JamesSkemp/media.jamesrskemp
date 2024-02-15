@@ -58419,6 +58419,48 @@
 		<own>yes</own>
 		<notes>Release day.</notes>
 	</game>
+	<game id="4112" electronic="true">
+		<title>Foamstars</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2024-02-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $0.00, but free with Plus.</notes>
+	</game>
+	<game id="4113" electronic="true">
+		<title>Steelrising</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2024-02-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Plus.</notes>
+	</game>
+	<game id="4114" electronic="true">
+		<title>Rollerdrome</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-02-15</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

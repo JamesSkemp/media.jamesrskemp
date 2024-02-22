@@ -74212,6 +74212,24 @@
 					"id": 4114,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Yet Another Zombie Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-02-22",
+					"price": "6.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99. Supposedly quite good.",
+				"meta": {
+					"id": 4115,
+					"electronic": true
+				}
 			}
 		]
 	}

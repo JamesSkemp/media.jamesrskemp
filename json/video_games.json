@@ -74230,6 +74230,24 @@
 					"id": 4115,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Rogue : Genesia",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-02-24",
+					"price": "7.64",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99.",
+				"meta": {
+					"id": 4116,
+					"electronic": true
+				}
 			}
 		]
 	}

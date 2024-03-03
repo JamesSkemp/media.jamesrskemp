@@ -58489,6 +58489,20 @@
 		<own>yes</own>
 		<notes>Normally $8.99.</notes>
 	</game>
+	<game id="4117" electronic="true">
+		<title>Deep Rock Galactic: Survivor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-03</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Gift from Ness.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

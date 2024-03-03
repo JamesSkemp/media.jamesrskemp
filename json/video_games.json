@@ -74248,6 +74248,24 @@
 					"id": 4116,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Deep Rock Galactic: Survivor",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-03",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Gift from Ness.",
+				"meta": {
+					"id": 4117,
+					"electronic": true
+				}
 			}
 		]
 	}

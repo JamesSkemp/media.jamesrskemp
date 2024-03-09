@@ -58503,6 +58503,20 @@
 		<own>yes</own>
 		<notes>Gift from Ness.</notes>
 	</game>
+	<game id="4118" electronic="true">
+		<title>Overcooked! 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-09</date>
+			<price>24.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>To play with Beth and Kassandra.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

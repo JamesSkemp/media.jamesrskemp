@@ -74266,6 +74266,24 @@
 					"id": 4117,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Overcooked! 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-09",
+					"price": "24.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "To play with Beth and Kassandra.",
+				"meta": {
+					"id": 4118,
+					"electronic": true
+				}
 			}
 		]
 	}

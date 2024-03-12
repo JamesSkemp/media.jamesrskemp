@@ -74284,6 +74284,96 @@
 					"id": 4118,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Emergency Meeting",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-03-12",
+					"price": "2.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4119,
+					"electronic": true
+				}
+			},
+			{
+				"title": "F1 23",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-03-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4120,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sifu",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-03-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4121,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hello Neighbor 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-03-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4122,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Destiny 2: The Witch Queen",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-03-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4123,
+					"electronic": true
+				}
 			}
 		]
 	}

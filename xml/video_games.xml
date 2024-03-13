@@ -58587,6 +58587,76 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but free with Plus.</notes>
 	</game>
+	<game id="4124" electronic="true">
+		<title>Command &amp; Conquer The Ultimate Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-13</date>
+			<price>9.14</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week. Normally $19.88.</notes>
+	</game>
+	<game id="4125" electronic="true">
+		<title>Saboteur, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-13</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week. Normally $9.99.</notes>
+	</game>
+	<game id="4126" electronic="true">
+		<title>Sim City 3000 Unlimited</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-13</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week. Normally $4.99.</notes>
+	</game>
+	<game id="4127" electronic="true">
+		<title>Dungeon Keeper Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-13</date>
+			<price>2.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week. Normally $4.99.</notes>
+	</game>
+	<game id="4128" electronic="true">
+		<title>Dungeon Keeper 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-13</date>
+			<price>2.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch week. Normally $4.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

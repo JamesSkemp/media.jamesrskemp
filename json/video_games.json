@@ -74374,6 +74374,96 @@
 					"id": 4123,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Command & Conquer The Ultimate Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-13",
+					"price": "9.14",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week. Normally $19.88.",
+				"meta": {
+					"id": 4124,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Saboteur, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-13",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week. Normally $9.99.",
+				"meta": {
+					"id": 4125,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sim City 3000 Unlimited",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-13",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week. Normally $4.99.",
+				"meta": {
+					"id": 4126,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon Keeper Gold",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-13",
+					"price": "2.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week. Normally $4.99.",
+				"meta": {
+					"id": 4127,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon Keeper 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-13",
+					"price": "2.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch week. Normally $4.99.",
+				"meta": {
+					"id": 4128,
+					"electronic": true
+				}
 			}
 		]
 	}

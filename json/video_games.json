@@ -74464,6 +74464,42 @@
 					"id": 4128,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Noobs Want to Live",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-14",
+					"price": "3.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Steam Spring Sale.",
+				"meta": {
+					"id": 4129,
+					"electronic": true
+				}
+			},
+			{
+				"title": "HELLDIVERS Digital Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-14",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Steam Spring Sale.",
+				"meta": {
+					"id": 4130,
+					"electronic": true
+				}
 			}
 		]
 	}

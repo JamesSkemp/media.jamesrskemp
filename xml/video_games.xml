@@ -58657,6 +58657,34 @@
 		<own>yes</own>
 		<notes>Launch week. Normally $4.99.</notes>
 	</game>
+	<game id="4129" electronic="true">
+		<title>Noobs Want to Live</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-14</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Steam Spring Sale.</notes>
+	</game>
+	<game id="4130" electronic="true">
+		<title>HELLDIVERS Digital Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-14</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Steam Spring Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

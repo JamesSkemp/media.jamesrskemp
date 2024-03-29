@@ -74500,6 +74500,60 @@
 					"id": 4130,
 					"electronic": true
 				}
+			},
+			{
+				"title": "STAR WARS Jedi: Fallen Order",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-17",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99. Just re-watched Episode I.",
+				"meta": {
+					"id": 4131,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Prototype",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-17",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 4132,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Elder Scrols III, The: Morrowind GOTY Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-03-29",
+					"price": "5.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $14.99 but on sale. Been watching some YouTube videos on the game.",
+				"meta": {
+					"id": 4133,
+					"electronic": true
+				}
 			}
 		]
 	}

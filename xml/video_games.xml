@@ -58685,6 +58685,48 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but Steam Spring Sale.</notes>
 	</game>
+	<game id="4131" electronic="true">
+		<title>STAR WARS Jedi: Fallen Order</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-17</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99. Just re-watched Episode I.</notes>
+	</game>
+	<game id="4132" electronic="true">
+		<title>Prototype</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-17</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
+	<game id="4133" electronic="true">
+		<title>Elder Scrols III, The: Morrowind GOTY Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-29</date>
+			<price>5.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99 but on sale. Been watching some YouTube videos on the game.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

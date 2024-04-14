@@ -74662,6 +74662,60 @@
 					"id": 4139,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Immortals of Aveum",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4140,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Minecraft Legends",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4141,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Skul: The Hero Slayer",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4142,
+					"electronic": true
+				}
 			}
 		]
 	}

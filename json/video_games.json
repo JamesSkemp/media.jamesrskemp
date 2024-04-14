@@ -74554,6 +74554,114 @@
 					"id": 4133,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SG/ZH: School Girl/Zombie Hunter",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4134,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ED-0: Zombie Uprising",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4135,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Omega Labyrinth Life",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4136,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Maglam Lord",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4137,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bullet Girls Phantasia",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4138,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Samurai Maiden",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-14",
+					"price": "5.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Slice, Dice, & Everything Nice: D3 After Dark bundle, 8 games for $30, had two.",
+				"meta": {
+					"id": 4139,
+					"electronic": true
+				}
 			}
 		]
 	}

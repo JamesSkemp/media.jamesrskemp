@@ -58727,6 +58727,90 @@
 		<own>yes</own>
 		<notes>Normally $14.99 but on sale. Been watching some YouTube videos on the game.</notes>
 	</game>
+	<game id="4134" electronic="true">
+		<title>SG/ZH: School Girl/Zombie Hunter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
+	<game id="4135" electronic="true">
+		<title>ED-0: Zombie Uprising</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
+	<game id="4136" electronic="true">
+		<title>Omega Labyrinth Life</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
+	<game id="4137" electronic="true">
+		<title>Maglam Lord</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
+	<game id="4138" electronic="true">
+		<title>Bullet Girls Phantasia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
+	<game id="4139" electronic="true">
+		<title>Samurai Maiden</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-04-14</date>
+			<price>5.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Slice, Dice, &amp; Everything Nice: D3 After Dark bundle, 8 games for $30, had two.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

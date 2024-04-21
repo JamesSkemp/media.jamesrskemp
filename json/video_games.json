@@ -74716,6 +74716,24 @@
 					"id": 4142,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Bio Prototype",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-04-21",
+					"price": "2.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 4143,
+					"electronic": true
+				}
 			}
 		]
 	}

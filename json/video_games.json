@@ -74807,6 +74807,25 @@
 					"id": 4147,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Operation Guns",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-09",
+					"price": "2.24",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.49 but launch week.",
+				"meta": {
+					"id": 4148,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

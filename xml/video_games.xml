@@ -58867,6 +58867,62 @@
 		<own>yes</own>
 		<notes>On sale.</notes>
 	</game>
+	<game id="4144" electronic="true" addOn="true">
+		<title>Destiny 2: Lightfall</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-05-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Plus.</notes>
+	</game>
+	<game id="4145" electronic="true">
+		<title>EA SPORTS FC 24</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-05-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but free with Plus.</notes>
+	</game>
+	<game id="4146" electronic="true">
+		<title>Ghostrunner 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2024-05-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4147" electronic="true">
+		<title>Tunic</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-05-08</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

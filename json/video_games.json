@@ -74734,6 +74734,79 @@
 					"id": 4143,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Destiny 2: Lightfall",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-05-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Free with Plus.",
+				"meta": {
+					"id": 4144,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "EA SPORTS FC 24",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-05-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4145,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ghostrunner 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-05-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4146,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tunic",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-05-08",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4147,
+					"electronic": true
+				}
 			}
 		]
 	}

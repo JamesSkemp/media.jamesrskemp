@@ -58937,6 +58937,34 @@
 		<own>yes</own>
 		<notes>Normally $2.49 but launch week.</notes>
 	</game>
+	<game id="4149" electronic="true">
+		<title>Spell Disk</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-18</date>
+			<price>11.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Normally $14.99. Demo seemed pretty good.</notes>
+	</game>
+	<game id="4150" electronic="true">
+		<title>God Of Weapons</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-19</date>
+			<price>4.58</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

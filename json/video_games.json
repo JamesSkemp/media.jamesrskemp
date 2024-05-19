@@ -74826,6 +74826,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Spell Disk",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-18",
+					"price": "11.24",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale. Normally $14.99. Demo seemed pretty good.",
+				"meta": {
+					"id": 4149,
+					"electronic": true
+				}
+			},
+			{
+				"title": "God Of Weapons",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-19",
+					"price": "4.58",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale.",
+				"meta": {
+					"id": 4150,
+					"electronic": true
+				}
 			}
 		]
 	}

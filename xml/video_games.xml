@@ -58965,6 +58965,20 @@
 		<own>yes</own>
 		<notes>On sale.</notes>
 	</game>
+	<game id="4151" electronic="true">
+		<title>Warhammer 40,000: Gladius - Relics of War</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-25</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

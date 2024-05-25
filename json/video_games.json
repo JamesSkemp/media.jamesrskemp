@@ -74862,6 +74862,24 @@
 					"id": 4150,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Warhammer 40,000: Gladius - Relics of War",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-25",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Free.",
+				"meta": {
+					"id": 4151,
+					"electronic": true
+				}
 			}
 		]
 	}

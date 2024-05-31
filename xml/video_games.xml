@@ -58979,6 +58979,104 @@
 		<own>yes</own>
 		<notes>Free.</notes>
 	</game>
+	<game id="4152" electronic="true">
+		<title>River City Girls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.86</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4153" electronic="true">
+		<title>River City Girls 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.86</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4154" electronic="true">
+		<title>River City Girls Zero</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.86</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4155" electronic="true">
+		<title>Battletoads</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.86</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4156" electronic="true">
+		<title>Double Dragon Gaiden: Rise of the Dragons</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.86</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4157" electronic="true">
+		<title>Bud Spencer &amp; Terence Hill - Slaps And Beans</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.85</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
+	<game id="4158" electronic="true">
+		<title>Bud Spencer &amp; Terence Hill - Slaps And Beans 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-05-30</date>
+			<price>2.85</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

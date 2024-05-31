@@ -74880,6 +74880,132 @@
 					"id": 4151,
 					"electronic": true
 				}
+			},
+			{
+				"title": "River City Girls",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.86",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4152,
+					"electronic": true
+				}
+			},
+			{
+				"title": "River City Girls 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.86",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4153,
+					"electronic": true
+				}
+			},
+			{
+				"title": "River City Girls Zero",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.86",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4154,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Battletoads",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.86",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4155,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Double Dragon Gaiden: Rise of the Dragons",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.86",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4156,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bud Spencer & Terence Hill - Slaps And Beans",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.85",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4157,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-05-30",
+					"price": "2.85",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.",
+				"meta": {
+					"id": 4158,
+					"electronic": true
+				}
 			}
 		]
 	}

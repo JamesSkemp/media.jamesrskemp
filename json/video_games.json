@@ -75006,6 +75006,78 @@
 					"id": 4158,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Talisman: Origins",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-06-06",
+					"price": "10.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Price includes base game, all 3 DLC, and ton of DLC for Talisman.",
+				"meta": {
+					"id": 4159,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SpongeBob SquarePants: The Cosmic Shake",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-06-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4160,
+					"electronic": true
+				}
+			},
+			{
+				"title": "AEW: Fight Forever",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-06-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4161,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Streets Of Rage 4",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-06-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4162,
+					"electronic": true
+				}
 			}
 		]
 	}

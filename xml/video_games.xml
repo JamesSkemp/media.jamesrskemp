@@ -59077,6 +59077,62 @@
 		<own>yes</own>
 		<notes>Part of the Brutal Beat 'Em Ups bundle, $20 for 7 games.</notes>
 	</game>
+	<game id="4159" electronic="true">
+		<title>Talisman: Origins</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-06-06</date>
+			<price>10.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Price includes base game, all 3 DLC, and ton of DLC for Talisman.</notes>
+	</game>
+	<game id="4160" electronic="true">
+		<title>SpongeBob SquarePants: The Cosmic Shake</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-06-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4161" electronic="true">
+		<title>AEW: Fight Forever</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-06-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4162" electronic="true">
+		<title>Streets Of Rage 4</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-06-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

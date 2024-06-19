@@ -75078,6 +75078,25 @@
 					"id": 4162,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Operation Guns",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-06-19",
+					"price": "2.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4163,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

@@ -59147,6 +59147,20 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="4164" electronic="true">
+		<title>Little Kitty, Big City</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-06-21</date>
+			<price>24.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>For Elliott, for first week at Camp Compass.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

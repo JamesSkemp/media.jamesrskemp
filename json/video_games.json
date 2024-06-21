@@ -75097,6 +75097,24 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Little Kitty, Big City",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-06-21",
+					"price": "24.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "For Elliott, for first week at Camp Compass.",
+				"meta": {
+					"id": 4164,
+					"electronic": true
+				}
 			}
 		]
 	}

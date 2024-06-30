@@ -59161,6 +59161,34 @@
 		<own>yes</own>
 		<notes>For Elliott, for first week at Camp Compass.</notes>
 	</game>
+	<game id="4165" electronic="true">
+		<title>Elemental Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-06-30</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Summer Sale.</notes>
+	</game>
+	<game id="4166" electronic="true">
+		<title>Goobies</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-06-30</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Steam Summer Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -75115,6 +75115,42 @@
 					"id": 4164,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Elemental Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-06-30",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Summer Sale.",
+				"meta": {
+					"id": 4165,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Goobies",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-06-30",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Steam Summer Sale.",
+				"meta": {
+					"id": 4166,
+					"electronic": true
+				}
 			}
 		]
 	}

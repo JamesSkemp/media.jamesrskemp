@@ -59245,6 +59245,20 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but free with Plus.</notes>
 	</game>
+	<game id="4171" electronic="true">
+		<title>Keeper's Toll</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-07-07</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Summer sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

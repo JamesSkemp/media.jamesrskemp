@@ -75151,6 +75151,78 @@
 					"id": 4166,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA Peach Beach Splash - Sexy Soaker Limited Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-07-07",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Summer sale.",
+				"meta": {
+					"id": 4167,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Borderlands 3",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-07-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4168,
+					"electronic": true
+				}
+			},
+			{
+				"title": "EA SPORTS NHL 24",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-07-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4169,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Among Us",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-07-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but free with Plus.",
+				"meta": {
+					"id": 4170,
+					"electronic": true
+				}
 			}
 		]
 	}

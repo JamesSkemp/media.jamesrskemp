@@ -59259,6 +59259,20 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but Summer sale.</notes>
 	</game>
+	<game id="4172" electronic="true">
+		<title>Riverbond</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-07-10</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but Summer Sale. Purchased to see if it would be good for Elliott (and I, but couch co-op).</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

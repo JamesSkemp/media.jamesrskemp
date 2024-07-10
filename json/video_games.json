@@ -75241,6 +75241,24 @@
 					"id": 4171,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Riverbond",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-07-10",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but Summer Sale. Purchased to see if it would be good for Elliott (and I, but couch co-op).",
+				"meta": {
+					"id": 4172,
+					"electronic": true
+				}
 			}
 		]
 	}

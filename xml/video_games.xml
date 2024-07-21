@@ -59273,6 +59273,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but Summer Sale. Purchased to see if it would be good for Elliott (and I, but couch co-op).</notes>
 	</game>
+	<game id="4173" electronic="true">
+		<title>Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-07-21</date>
+			<price>17.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99. Technically Elliott bought with grandma money.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

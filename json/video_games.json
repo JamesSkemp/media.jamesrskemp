@@ -75277,6 +75277,24 @@
 					"id": 4173,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-08-03",
+					"price": "29.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Wanted to wait for Steam, so Elliott and I could play remote, but this would be good for couch co-op.",
+				"meta": {
+					"id": 4174,
+					"electronic": true
+				}
 			}
 		]
 	}

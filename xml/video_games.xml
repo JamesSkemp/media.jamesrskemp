@@ -59287,6 +59287,20 @@
 		<own>yes</own>
 		<notes>Normally $29.99. Technically Elliott bought with grandma money.</notes>
 	</game>
+	<game id="4174" electronic="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-08-03</date>
+			<price>29.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Wanted to wait for Steam, so Elliott and I could play remote, but this would be good for couch co-op.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

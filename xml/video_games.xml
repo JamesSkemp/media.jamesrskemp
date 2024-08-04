@@ -59301,6 +59301,34 @@
 		<own>yes</own>
 		<notes>Wanted to wait for Steam, so Elliott and I could play remote, but this would be good for couch co-op.</notes>
 	</game>
+	<game id="4175" electronic="true">
+		<title>Time Treker</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-04</date>
+			<price>6.29</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Horde/survivor game.</notes>
+	</game>
+	<game id="4176" electronic="true">
+		<title>Time Walker: Dark World</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-04</date>
+			<price>4.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Horde/survivor game.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

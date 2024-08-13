@@ -75331,6 +75331,78 @@
 					"id": 4176,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Greedland",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-13",
+					"price": "8.35",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99.",
+				"meta": {
+					"id": 4177,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Star Wars: The Skywalker Saga",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-08-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4178,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Five Nights at Freddy's: Security Breach",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-08-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4179,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ENDER LILIES: Quietus of the Knights",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-08-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4180,
+					"electronic": true
+				}
 			}
 		]
 	}

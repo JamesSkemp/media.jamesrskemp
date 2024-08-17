@@ -59385,6 +59385,20 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4181" electronic="true">
+		<title>Moonring</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-14</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free. Supposedly really good Ultima-like.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

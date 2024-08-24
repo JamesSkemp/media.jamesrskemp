@@ -75421,6 +75421,222 @@
 					"id": 4181,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Dead Rising 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4182,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dead Rising 2: Off the Record",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4183,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Street Fighter V - Champion Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4184,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Street Fighter 30th Anniversary Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4185,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dead Rising 3 Apocalypse Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4186,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Phoenix Wright: Ace Attorney Trilogy",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4187,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Capcom Beat 'Em Up Bundle",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4188,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dead Rising 4: Frank's Big Package",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4189,
+					"electronic": true
+				}
+			},
+			{
+				"title": "The Great Ace Attorney Chronicles",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4190,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Capcom Fighting Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-08-23",
+					"price": "3.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.",
+				"meta": {
+					"id": 4191,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cat Quest III",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-08-24",
+					"price": "19.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Elliott technically bought with tooth fairy + grandma money.",
+				"meta": {
+					"id": 4192,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mega Man X Legacy Collection",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-08-24",
+					"price": "7.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $19.99.",
+				"meta": {
+					"id": 4193,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -59399,6 +59399,174 @@
 		<own>yes</own>
 		<notes>Free. Supposedly really good Ultima-like.</notes>
 	</game>
+	<game id="4182" electronic="true">
+		<title>Dead Rising 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4183" electronic="true">
+		<title>Dead Rising 2: Off the Record</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4184" electronic="true">
+		<title>Street Fighter V - Champion Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4185" electronic="true">
+		<title>Street Fighter 30th Anniversary Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4186" electronic="true">
+		<title>Dead Rising 3 Apocalypse Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4187" electronic="true">
+		<title>Phoenix Wright: Ace Attorney Trilogy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4188" electronic="true">
+		<title>Capcom Beat 'Em Up Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4189" electronic="true">
+		<title>Dead Rising 4: Frank's Big Package</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4190" electronic="true">
+		<title>The Great Ace Attorney Chronicles</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4191" electronic="true">
+		<title>Capcom Fighting Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-08-23</date>
+			<price>3.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Capcom Summer 2024 bundle. $30 for 12 games, but had two.</notes>
+	</game>
+	<game id="4192" electronic="true">
+		<title>Cat Quest III</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-08-24</date>
+			<price>19.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Elliott technically bought with tooth fairy + grandma money.</notes>
+	</game>
+	<game id="4193" electronic="true">
+		<title>Mega Man X Legacy Collection</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-08-24</date>
+			<price>7.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

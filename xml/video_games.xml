@@ -59567,6 +59567,76 @@
 		<own>yes</own>
 		<notes>Normally $19.99.</notes>
 	</game>
+	<game id="4194" electronic="true">
+		<title>Neverwinter Nights: Enhanced Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-03</date>
+			<price>2.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle. Includes Neverwinter Nights: Complete Adventures, Neverwinter Nights: Darkness Over Daggerford, Neverwinter Nights: Enhanced Edition Dark Dreams of Furiae, Neverwinter Nights: Enhanced Edition Tyrants of the Moonsea, Neverwinter Nights: Infinite Dungeons, Neverwinter Nights: Pirates of the Sword Coast, and Neverwinter Nights: Wyvern Crown of Cormyr.</notes>
+	</game>
+	<game id="4195" electronic="true" addOn="true">
+		<title>Pathfinder: Kingmaker - Season Pass</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-03</date>
+			<price>2.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle.</notes>
+	</game>
+	<game id="4196" electronic="true" addOn="true">
+		<title>Baldur's Gate: Faces of Good and Evil</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle.</notes>
+	</game>
+	<game id="4197" electronic="true" addOn="true">
+		<title>Baldur's Gate: Siege of Dragonspear</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-03</date>
+			<price>1.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle.</notes>
+	</game>
+	<game id="4198" electronic="true">
+		<title>Pathfinder: Wrath of the Righteous</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-03</date>
+			<price>9.00</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle. Includes Season Pass and Season Pass 2.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

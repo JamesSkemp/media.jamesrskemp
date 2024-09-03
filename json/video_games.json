@@ -75637,6 +75637,99 @@
 					"id": 4193,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Neverwinter Nights: Enhanced Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-09-03",
+					"price": "2.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Beamdog & Owlcat: RPG Masters bundle. Includes Neverwinter Nights: Complete Adventures, Neverwinter Nights: Darkness Over Daggerford, Neverwinter Nights: Enhanced Edition Dark Dreams of Furiae, Neverwinter Nights: Enhanced Edition Tyrants of the Moonsea, Neverwinter Nights: Infinite Dungeons, Neverwinter Nights: Pirates of the Sword Coast, and Neverwinter Nights: Wyvern Crown of Cormyr.",
+				"meta": {
+					"id": 4194,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pathfinder: Kingmaker - Season Pass",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-09-03",
+					"price": "2.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Beamdog & Owlcat: RPG Masters bundle.",
+				"meta": {
+					"id": 4195,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Baldur's Gate: Faces of Good and Evil",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-09-03",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Beamdog & Owlcat: RPG Masters bundle.",
+				"meta": {
+					"id": 4196,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Baldur's Gate: Siege of Dragonspear",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-09-03",
+					"price": "1.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Beamdog & Owlcat: RPG Masters bundle.",
+				"meta": {
+					"id": 4197,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Pathfinder: Wrath of the Righteous",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-09-03",
+					"price": "9.00",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Beamdog & Owlcat: RPG Masters bundle. Includes Season Pass and Season Pass 2.",
+				"meta": {
+					"id": 4198,
+					"electronic": true
+				}
 			}
 		]
 	}

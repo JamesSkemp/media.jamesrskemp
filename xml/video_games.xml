@@ -59637,6 +59637,174 @@
 		<own>yes</own>
 		<notes>Part of the Beamdog &amp; Owlcat: RPG Masters bundle. Includes Season Pass and Season Pass 2.</notes>
 	</game>
+	<game id="4199" electronic="true">
+		<title>Harry Potter: Quidditch Champions</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="4200" electronic="true">
+		<title>Little Nightmares II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="4201" electronic="true">
+		<title>MLB The Show 24 PS Plus</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with Plus.</notes>
+	</game>
+	<game id="4202" electronic="true">
+		<title>Resident Evil</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4203" electronic="true">
+		<title>Resident Evil 6 Complete</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4204" electronic="true">
+		<title>Resident Evil 5 Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4205" electronic="true">
+		<title>Resident Evil 0 HD REMASTER</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4206" electronic="true">
+		<title>Resident Evil Revelations 2 / Biohazard Revelations 2 Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4207" electronic="true">
+		<title>Resident Evil 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4208" electronic="true">
+		<title>Resident Evil 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4209" electronic="true">
+		<title>Resident Evil 7 Biohazard</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.33</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
+	<game id="4210" electronic="true">
+		<title>Resident Evil Village Gold Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-09-07</date>
+			<price>3.36</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Resident Evil: Decades of Horror - Village Gold bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

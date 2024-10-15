@@ -76690,6 +76690,24 @@
 					"id": 4252,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Terror of Hemasaurus",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-15",
+					"price": "5.84",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99.",
+				"meta": {
+					"id": 4253,
+					"electronic": true
+				}
 			}
 		]
 	}

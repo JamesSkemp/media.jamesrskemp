@@ -60379,6 +60379,20 @@
 		<own>yes</own>
 		<notes>Part of the Have a Warhammer Day bundle.</notes>
 	</game>
+	<game id="4253" electronic="true">
+		<title>Terror of Hemasaurus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-15</date>
+			<price>5.84</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

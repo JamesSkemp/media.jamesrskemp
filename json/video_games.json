@@ -76721,10 +76721,11 @@
 					"place": "Steam"
 				},
 				"own": true,
-				"notes": "Discovery Queue. Seems fun, reviews say it's worth the price.",
+				"notes": "Discovery Queue. Seems fun, reviews say it's worth the price. Complete same game, under 5 hours.",
 				"meta": {
 					"id": 4254,
-					"electronic": true
+					"electronic": true,
+					"beat": true
 				}
 			}
 		]

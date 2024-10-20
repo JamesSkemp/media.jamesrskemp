@@ -60393,6 +60393,20 @@
 		<own>yes</own>
 		<notes>Normally $12.99.</notes>
 	</game>
+	<game id="4254" electronic="true">
+		<title>Nodebuster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-20</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Discovery Queue. Seems fun, reviews say it's worth the price.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -76708,6 +76708,24 @@
 					"id": 4253,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Nodebuster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-20",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Discovery Queue. Seems fun, reviews say it's worth the price.",
+				"meta": {
+					"id": 4254,
+					"electronic": true
+				}
 			}
 		]
 	}

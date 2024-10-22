@@ -60407,6 +60407,20 @@
 		<own>yes</own>
 		<notes>Discovery Queue. Seems fun, reviews say it's worth the price. Complete same game, under 5 hours.</notes>
 	</game>
+	<game id="4255" electronic="true">
+		<title>Super Smash Bros Ultimate</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-10-18</date>
+			<price>59.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>For Elliott, for his birthday.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

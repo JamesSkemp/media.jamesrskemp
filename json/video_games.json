@@ -76727,6 +76727,24 @@
 					"electronic": true,
 					"beat": true
 				}
+			},
+			{
+				"title": "Super Smash Bros Ultimate",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-10-18",
+					"price": "59.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "For Elliott, for his birthday.",
+				"meta": {
+					"id": 4255,
+					"electronic": true
+				}
 			}
 		]
 	}

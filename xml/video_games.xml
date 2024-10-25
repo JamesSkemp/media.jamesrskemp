@@ -60421,6 +60421,34 @@
 		<own>yes</own>
 		<notes>For Elliott, for his birthday.</notes>
 	</game>
+	<game id="4256" electronic="true" addOn="true">
+		<title>Factorio: Space Age</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-23</date>
+			<price>35.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Day one buy.</notes>
+	</game>
+	<game id="4257" electronic="true">
+		<title>Castlevania Advance Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-23</date>
+			<price>10.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Castlevania sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

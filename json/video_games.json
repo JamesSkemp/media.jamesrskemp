@@ -76745,6 +76745,43 @@
 					"id": 4255,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Factorio: Space Age",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-23",
+					"price": "35.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Day one buy.",
+				"meta": {
+					"id": 4256,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Castlevania Advance Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-23",
+					"price": "10.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Castlevania sale.",
+				"meta": {
+					"id": 4257,
+					"electronic": true
+				}
 			}
 		]
 	}

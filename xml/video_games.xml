@@ -60449,6 +60449,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but Castlevania sale.</notes>
 	</game>
+	<game id="4258" electronic="true">
+		<title>X-Morph: Defense - Complete Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-03-21</date>
+			<price>0.01</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Stand with Ukraine bundle from a while back. Included DLC.</notes>
+	</game>
+	<game id="4259" electronic="true">
+		<title>Time Wasters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-27</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, on sale. Supposedly good survivors game.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -60477,6 +60477,62 @@
 		<own>yes</own>
 		<notes>Normally $4.99, on sale. Supposedly good survivors game.</notes>
 	</game>
+	<game id="4260" electronic="true">
+		<title>Witchcraft Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-29</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but on sale.</notes>
+	</game>
+	<game id="4261" electronic="true">
+		<title>Alice Madness Returns</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-29</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="4262" electronic="true">
+		<title>Need for Speed Most Wanted</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-29</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Remember this being fun on PS consoles.</notes>
+	</game>
+	<game id="4263" electronic="true">
+		<title>Infectious Madness of Doctor Dekker, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-10-29</date>
+			<price>3.05</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but on sale. Has been on my wishlist for a few years.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

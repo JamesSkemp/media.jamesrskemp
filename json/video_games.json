@@ -76818,6 +76818,78 @@
 					"id": 4259,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Witchcraft Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-29",
+					"price": "3.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but on sale.",
+				"meta": {
+					"id": 4260,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Alice Madness Returns",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-29",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but on sale.",
+				"meta": {
+					"id": 4261,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Need for Speed Most Wanted",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-29",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale. Remember this being fun on PS consoles.",
+				"meta": {
+					"id": 4262,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Infectious Madness of Doctor Dekker, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-29",
+					"price": "3.05",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but on sale. Has been on my wishlist for a few years.",
+				"meta": {
+					"id": 4263,
+					"electronic": true
+				}
 			}
 		]
 	}

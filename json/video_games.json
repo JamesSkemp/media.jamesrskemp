@@ -76890,6 +76890,25 @@
 					"id": 4263,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Ode to Castlevania",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-10-31",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99. Launch day.",
+				"meta": {
+					"id": 4264,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

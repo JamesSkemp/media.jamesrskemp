@@ -60547,6 +60547,20 @@
 		<own>yes</own>
 		<notes>Normally $3.99. Launch day.</notes>
 	</game>
+	<game id="4265" electronic="true">
+		<title>Karate Survivor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-04</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99. Survivors clone-ish.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

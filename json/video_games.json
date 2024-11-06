@@ -76927,6 +76927,24 @@
 					"id": 4265,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-06",
+					"price": "26.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but launch day discount.",
+				"meta": {
+					"id": 4266,
+					"electronic": true
+				}
 			}
 		]
 	}

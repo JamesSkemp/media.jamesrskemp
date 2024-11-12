@@ -76945,6 +76945,43 @@
 					"id": 4266,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Rise of the Golden Idol, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-12",
+					"price": "17.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch day. Normally $19.99.",
+				"meta": {
+					"id": 4267,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Rise of the Golden Idol, The - Detective Pass",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-12",
+					"price": "17.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of bundle. Includes all four upcoming DLC.",
+				"meta": {
+					"id": 4268,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

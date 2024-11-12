@@ -60575,6 +60575,34 @@
 		<own>yes</own>
 		<notes>Normally $29.99, but launch day discount.</notes>
 	</game>
+	<game id="4267" electronic="true">
+		<title>Rise of the Golden Idol, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-12</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Launch day. Normally $19.99.</notes>
+	</game>
+	<game id="4268" electronic="true" addOn="true">
+		<title>Rise of the Golden Idol, The - Detective Pass</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-12</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of bundle. Includes all four upcoming DLC.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

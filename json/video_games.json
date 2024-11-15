@@ -76982,6 +76982,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA Bon Appetit! - Full Course",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-14",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4269,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SENRAN KAGURA SHINOVI VERSUS",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-14",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4270,
+					"electronic": true
+				}
 			}
 		]
 	}

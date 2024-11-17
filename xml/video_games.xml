@@ -60631,6 +60631,328 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="4271" electronic="true">
+		<title>Commandos 2 - HD Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4272" electronic="true">
+		<title>Commandos 3 - HD Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4273" electronic="true">
+		<title>Commandos: Behind Enemy Lines</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4274" electronic="true">
+		<title>Disciples: Liberation</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4275" electronic="true">
+		<title>Dungeons</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4276" electronic="true" addOn="true">
+		<title>Dungeons - Into the Dark</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4277" electronic="true" addOn="true">
+		<title>Dungeons - Map Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4278" electronic="true" addOn="true">
+		<title>Dungeons - The Dark Lord</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4279" electronic="true" addOn="true">
+		<title>Dungeons 2 - A Game of Winter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4280" electronic="true">
+		<title>Dungeons 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.70</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4281" electronic="true" addOn="true">
+		<title>Dungeons 3 - A Multitude of Maps</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4282" electronic="true" addOn="true">
+		<title>Dungeons 3 - An Unexpected DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4283" electronic="true" addOn="true">
+		<title>Dungeons 3 - Clash of Gods</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4284" electronic="true" addOn="true">
+		<title>Dungeons 3 - Evil of the Caribbean</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4285" electronic="true" addOn="true">
+		<title>Dungeons 3 - Famous Last Words</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4286" electronic="true" addOn="true">
+		<title>Dungeons 3 - Lord of the Kings</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4287" electronic="true" addOn="true">
+		<title>Dungeons 3 - Once Upon A Time</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4288" electronic="true">
+		<title>Immortal Realms: Vampire Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4289" electronic="true">
+		<title>Praetorians HD Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4290" electronic="true">
+		<title>Sudden Strike 2 Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4291" electronic="true">
+		<title>Sudden Strike 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4292" electronic="true">
+		<title>Sudden Strike 4</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
+	<game id="4293" electronic="true">
+		<title>Sudden Strike Gold</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>0.65</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

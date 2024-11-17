@@ -60729,7 +60729,7 @@
 		<own>yes</own>
 		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
 	</game>
-	<game id="4278" electronic="true" addOn="true">
+	<game id="4278" electronic="true">
 		<title>Dungeons - The Dark Lord</title>
 		<system>
 			<console>PC</console>

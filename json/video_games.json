@@ -77442,6 +77442,96 @@
 					"id": 4293,
 					"electronic": true
 				}
+			},
+			{
+				"title": "SENRAN KAGURA Peach Ball",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-17",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but on sale. Also got some on-sale DLC.",
+				"meta": {
+					"id": 4294,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon 100",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-17",
+					"price": "5.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.99, but on sale.",
+				"meta": {
+					"id": 4295,
+					"electronic": true
+				}
+			},
+			{
+				"title": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-11-24",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4296,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ghostwire: Tokyo",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-11-24",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4297,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DEATH NOTE Killer Within",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-11-24",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but free with Plus.",
+				"meta": {
+					"id": 4298,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -60953,6 +60953,76 @@
 		<own>yes</own>
 		<notes>Part of the Let's Get Tactical with Kalypso bundle.</notes>
 	</game>
+	<game id="4294" electronic="true">
+		<title>SENRAN KAGURA Peach Ball</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale. Also got some on-sale DLC.</notes>
+	</game>
+	<game id="4295" electronic="true">
+		<title>Dungeon 100</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-17</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but on sale.</notes>
+	</game>
+	<game id="4296" electronic="true">
+		<title>HOT WHEELS UNLEASHED 2 - Turbocharged</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-11-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Plus.</notes>
+	</game>
+	<game id="4297" electronic="true">
+		<title>Ghostwire: Tokyo</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2024-11-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="4298" electronic="true">
+		<title>DEATH NOTE Killer Within</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2024-11-24</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

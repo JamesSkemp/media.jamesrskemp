@@ -77532,6 +77532,96 @@
 					"id": 4298,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Balatro",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-27",
+					"price": "11.47",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99. Autumn sale.",
+				"meta": {
+					"id": 4299,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Enter the Gungeon",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-27",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Autumn sale.",
+				"meta": {
+					"id": 4300,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Heroes of Hammerwatch",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-27",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.99, but Autumn sale.",
+				"meta": {
+					"id": 4301,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Spirt Hunters: Infinite Horde",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-27",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99, but Autumn sale.",
+				"meta": {
+					"id": 4302,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Gunlocked",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-27",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Autumn sale.",
+				"meta": {
+					"id": 4303,
+					"electronic": true
+				}
 			}
 		]
 	}

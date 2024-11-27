@@ -61023,6 +61023,76 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but free with Plus.</notes>
 	</game>
+	<game id="4299" electronic="true">
+		<title>Balatro</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-27</date>
+			<price>11.47</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Autumn sale.</notes>
+	</game>
+	<game id="4300" electronic="true">
+		<title>Enter the Gungeon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-27</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Autumn sale.</notes>
+	</game>
+	<game id="4301" electronic="true">
+		<title>Heroes of Hammerwatch</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-27</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but Autumn sale.</notes>
+	</game>
+	<game id="4302" electronic="true">
+		<title>Spirt Hunters: Infinite Horde</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-27</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but Autumn sale.</notes>
+	</game>
+	<game id="4303" electronic="true">
+		<title>Gunlocked</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-27</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

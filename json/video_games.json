@@ -77622,6 +77622,223 @@
 					"id": 4303,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Spell Brigade, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-28",
+					"price": "7.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but Autumn sale.",
+				"meta": {
+					"id": 4304,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sixty Four",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-28",
+					"price": "4.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Autumn sale.",
+				"meta": {
+					"id": 4305,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mad Max",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale.",
+				"meta": {
+					"id": 4306,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Slime Rancher",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale.",
+				"meta": {
+					"id": 4307,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dungeon Defenders Ultimate Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Autumn sale. Base game plus all (?) DLC.",
+				"meta": {
+					"id": 4308,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sea of Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "5.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but Autumn sale.",
+				"meta": {
+					"id": 4309,
+					"electronic": true
+				}
+			},
+			{
+				"title": "CHAOS;CHILD",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "11.24",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $22.49, but Autumn sale.",
+				"meta": {
+					"id": 4310,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cult of the Lamb",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "12.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but Autumn sale.",
+				"meta": {
+					"id": 4311,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Gunlocked - The 2nd Gunning",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "1.34",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.99, but Autumn sale.",
+				"meta": {
+					"id": 4312,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "DRAGON QUEST BUILDERS",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "19.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $27.99, but Autumn sale.",
+				"meta": {
+					"id": 4313,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DRAGON QUEST BUILDERS 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "20.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Autumn sale.",
+				"meta": {
+					"id": 4314,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Castlevania Anniversary Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-11-30",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale.",
+				"meta": {
+					"id": 4315,
+					"electronic": true
+				}
 			}
 		]
 	}

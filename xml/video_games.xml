@@ -61093,6 +61093,174 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but Autumn sale.</notes>
 	</game>
+	<game id="4304" electronic="true">
+		<title>Spell Brigade, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-28</date>
+			<price>7.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but Autumn sale.</notes>
+	</game>
+	<game id="4305" electronic="true">
+		<title>Sixty Four</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-28</date>
+			<price>4.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Autumn sale.</notes>
+	</game>
+	<game id="4306" electronic="true">
+		<title>Mad Max</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
+	<game id="4307" electronic="true">
+		<title>Slime Rancher</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
+	<game id="4308" electronic="true">
+		<title>Dungeon Defenders Ultimate Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Autumn sale. Base game plus all (?) DLC.</notes>
+	</game>
+	<game id="4309" electronic="true">
+		<title>Sea of Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>5.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but Autumn sale.</notes>
+	</game>
+	<game id="4310" electronic="true">
+		<title>CHAOS;CHILD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>11.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $22.49, but Autumn sale.</notes>
+	</game>
+	<game id="4311" electronic="true">
+		<title>Cult of the Lamb</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>12.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but Autumn sale.</notes>
+	</game>
+	<game id="4312" electronic="true" addOn="true">
+		<title>Gunlocked - The 2nd Gunning</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>1.34</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99, but Autumn sale.</notes>
+	</game>
+	<game id="4313" electronic="true">
+		<title>DRAGON QUEST BUILDERS</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>19.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $27.99, but Autumn sale.</notes>
+	</game>
+	<game id="4314" electronic="true">
+		<title>DRAGON QUEST BUILDERS 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>20.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Autumn sale.</notes>
+	</game>
+	<game id="4315" electronic="true">
+		<title>Castlevania Anniversary Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-11-30</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

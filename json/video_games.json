@@ -77839,6 +77839,43 @@
 					"id": 4315,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Graveyard Keeper - Stranger Sins",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-01",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but Autumn sale. Supposedly essential.",
+				"meta": {
+					"id": 4316,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Moonlighter: Complete Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-01",
+					"price": "5.47",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.28, but Autumn sale. Was looking for something like Cult of the Lamb but without combat component. Base game and DLC.",
+				"meta": {
+					"id": 4317,
+					"electronic": true
+				}
 			}
 		]
 	}

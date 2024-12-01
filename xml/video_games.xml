@@ -61261,6 +61261,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but Autumn sale.</notes>
 	</game>
+	<game id="4316" electronic="true" addOn="true">
+		<title>Graveyard Keeper - Stranger Sins</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-01</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but Autumn sale. Supposedly essential.</notes>
+	</game>
+	<game id="4317" electronic="true">
+		<title>Moonlighter: Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-01</date>
+			<price>5.47</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.28, but Autumn sale. Was looking for something like Cult of the Lamb but without combat component. Base game and DLC.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

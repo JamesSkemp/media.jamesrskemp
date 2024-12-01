@@ -61289,6 +61289,20 @@
 		<own>yes</own>
 		<notes>Normally $24.28, but Autumn sale. Was looking for something like Cult of the Lamb but without combat component. Base game and DLC.</notes>
 	</game>
+	<game id="4318" electronic="true">
+		<title>Stellar Blade</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2024-12-01</date>
+			<price>49.69</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but Black Friday sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

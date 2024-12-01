@@ -77876,6 +77876,24 @@
 					"id": 4317,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Stellar Blade",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-12-01",
+					"price": "49.69",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but Black Friday sale.",
+				"meta": {
+					"id": 4318,
+					"electronic": true
+				}
 			}
 		]
 	}

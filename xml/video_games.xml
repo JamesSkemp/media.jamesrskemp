@@ -61303,6 +61303,76 @@
 		<own>yes</own>
 		<notes>Normally $69.99, but Black Friday sale.</notes>
 	</game>
+	<game id="4319" electronic="true">
+		<title>Legend of Heroes, The: Trails of Cold Steel</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-02</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Autumn sale.</notes>
+	</game>
+	<game id="4320" electronic="true">
+		<title>LIVE A LIVE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-02</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Autumn sale.</notes>
+	</game>
+	<game id="4321" electronic="true">
+		<title>Chained Echoes</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-02</date>
+			<price>14.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $21.24, but Autumn sale.</notes>
+	</game>
+	<game id="4322" electronic="true">
+		<title>Trainz: A New Era</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-02</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
+	<game id="4323" electronic="true">
+		<title>Castlevania Dominus Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-02</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $22.49, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

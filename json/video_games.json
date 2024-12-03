@@ -77894,6 +77894,96 @@
 					"id": 4318,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Legend of Heroes, The: Trails of Cold Steel",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-02",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Autumn sale.",
+				"meta": {
+					"id": 4319,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LIVE A LIVE",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-02",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Autumn sale.",
+				"meta": {
+					"id": 4320,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Chained Echoes",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-02",
+					"price": "14.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $21.24, but Autumn sale.",
+				"meta": {
+					"id": 4321,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Trainz: A New Era",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-02",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale.",
+				"meta": {
+					"id": 4322,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Castlevania Dominus Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-02",
+					"price": "17.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $22.49, but Autumn sale.",
+				"meta": {
+					"id": 4323,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -77984,6 +77984,42 @@
 					"id": 4323,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Black Dragon Mage",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-04",
+					"price": "4.31",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.39, but on sale.",
+				"meta": {
+					"id": 4324,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Crafty Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-04",
+					"price": "8.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.99, but on sale.",
+				"meta": {
+					"id": 4325,
+					"electronic": true
+				}
 			}
 		]
 	}

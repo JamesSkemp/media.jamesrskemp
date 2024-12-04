@@ -61373,6 +61373,34 @@
 		<own>yes</own>
 		<notes>Normally $22.49, but Autumn sale.</notes>
 	</game>
+	<game id="4324" electronic="true">
+		<title>Black Dragon Mage</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-04</date>
+			<price>4.31</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.39, but on sale.</notes>
+	</game>
+	<game id="4325" electronic="true">
+		<title>Crafty Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-04</date>
+			<price>8.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

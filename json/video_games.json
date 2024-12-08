@@ -78020,6 +78020,42 @@
 					"id": 4325,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Void Scrappers",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-07",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99, but on sale.",
+				"meta": {
+					"id": 4326,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monsters 'til Midnight",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-07",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but on sale.",
+				"meta": {
+					"id": 4327,
+					"electronic": true
+				}
 			}
 		]
 	}

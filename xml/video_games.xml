@@ -61401,6 +61401,34 @@
 		<own>yes</own>
 		<notes>Normally $11.99, but on sale.</notes>
 	</game>
+	<game id="4326" electronic="true">
+		<title>Void Scrappers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-07</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but on sale.</notes>
+	</game>
+	<game id="4327" electronic="true">
+		<title>Monsters 'til Midnight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-07</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

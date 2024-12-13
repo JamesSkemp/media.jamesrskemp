@@ -61429,6 +61429,20 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but on sale.</notes>
 	</game>
+	<game id="4328" electronic="true" addOn="true">
+		<title>Vampire Survivors: Ode to Castlevania</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>3.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

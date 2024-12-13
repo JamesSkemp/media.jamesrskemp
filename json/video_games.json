@@ -78056,6 +78056,25 @@
 					"id": 4327,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Ode to Castlevania",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "3.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4328,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

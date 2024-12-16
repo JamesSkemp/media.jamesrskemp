@@ -61485,6 +61485,34 @@
 		<own>yes</own>
 		<notes>Normally $44.99, but free with Plus.</notes>
 	</game>
+	<game id="4332" electronic="true">
+		<title>GOD EATER 2 Rage Burst</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-15</date>
+			<price>3.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but on sale.</notes>
+	</game>
+	<game id="4333" electronic="true">
+		<title>GOD EATER 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-15</date>
+			<price>3.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

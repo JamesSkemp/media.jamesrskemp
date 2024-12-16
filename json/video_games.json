@@ -78075,6 +78075,96 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "It Takes Two",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-12-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4329,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Aliens: Dark Descent",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2024-12-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4330,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Temtem",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2024-12-13",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $44.99, but free with Plus.",
+				"meta": {
+					"id": 4331,
+					"electronic": true
+				}
+			},
+			{
+				"title": "GOD EATER 2 Rage Burst",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-15",
+					"price": "3.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but on sale.",
+				"meta": {
+					"id": 4332,
+					"electronic": true
+				}
+			},
+			{
+				"title": "GOD EATER 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-15",
+					"price": "3.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but on sale.",
+				"meta": {
+					"id": 4333,
+					"electronic": true
+				}
 			}
 		]
 	}

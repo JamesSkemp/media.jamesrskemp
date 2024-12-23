@@ -78165,6 +78165,150 @@
 					"id": 4333,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Swords & Souls: Neverseen",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-20",
+					"price": "5.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Winter sale.",
+				"meta": {
+					"id": 4334,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Minishoot' Adventures",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-20",
+					"price": "9.52",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Winter sale.",
+				"meta": {
+					"id": 4335,
+					"electronic": true
+				}
+			},
+			{
+				"title": "NIMRODS: GunCraft Survivor",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-20",
+					"price": "8.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but Winter sale.",
+				"meta": {
+					"id": 4336,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Core Keeper",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-20",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4337,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Building Full of Cats",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-21",
+					"price": "1.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99, but Winter sale. Made with Godot.",
+				"meta": {
+					"id": 4338,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Beltmatic",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-22",
+					"price": "5.24",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but Winter sale.",
+				"meta": {
+					"id": 4339,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DEATH STRANDING DIRECTOR'S CUT",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-22",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Winter sale. Finally picking it up.",
+				"meta": {
+					"id": 4340,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Town Keeper",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-22",
+					"price": "7.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but Winter sale.",
+				"meta": {
+					"id": 4341,
+					"electronic": true
+				}
 			}
 		]
 	}

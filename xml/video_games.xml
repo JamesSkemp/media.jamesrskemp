@@ -61513,6 +61513,118 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but on sale.</notes>
 	</game>
+	<game id="4334" electronic="true">
+		<title>Swords &amp; Souls: Neverseen</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-20</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Winter sale.</notes>
+	</game>
+	<game id="4335" electronic="true">
+		<title>Minishoot' Adventures</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-20</date>
+			<price>9.52</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Winter sale.</notes>
+	</game>
+	<game id="4336" electronic="true">
+		<title>NIMRODS: GunCraft Survivor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-20</date>
+			<price>8.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but Winter sale.</notes>
+	</game>
+	<game id="4337" electronic="true">
+		<title>Core Keeper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-20</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4338" electronic="true">
+		<title>A Building Full of Cats</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-21</date>
+			<price>1.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but Winter sale. Made with Godot.</notes>
+	</game>
+	<game id="4339" electronic="true">
+		<title>Beltmatic</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-22</date>
+			<price>5.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but Winter sale.</notes>
+	</game>
+	<game id="4340" electronic="true">
+		<title>DEATH STRANDING DIRECTOR'S CUT</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-22</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Winter sale. Finally picking it up.</notes>
+	</game>
+	<game id="4341" electronic="true">
+		<title>Town Keeper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-22</date>
+			<price>7.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

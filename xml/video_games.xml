@@ -61625,6 +61625,20 @@
 		<own>yes</own>
 		<notes>Normally $8.99, but Winter sale.</notes>
 	</game>
+	<game id="4342" electronic="true">
+		<title>Baldur's Gate 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-25</date>
+			<price>47.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

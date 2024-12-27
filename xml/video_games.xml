@@ -61639,6 +61639,90 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but Winter sale.</notes>
 	</game>
+	<game id="4343" electronic="true">
+		<title>An Arcade Full of Cats</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free to play.</notes>
+	</game>
+	<game id="4344" electronic="true">
+		<title>A Park Full of Cats</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free to play.</notes>
+	</game>
+	<game id="4345" electronic="true" addOn="true">
+		<title>A Park Full of Cats: Haunted Ride</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>2.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99, but Winter sale.</notes>
+	</game>
+	<game id="4346" electronic="true" addOn="true">
+		<title>An Arcade Full of Cats: TimeWarp Trouble</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>1.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but Winter sale.</notes>
+	</game>
+	<game id="4347" electronic="true">
+		<title>A Tower Full of Cats</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>4.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Winter sale.</notes>
+	</game>
+	<game id="4348" electronic="true">
+		<title>A Castle Full of Cats</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-26</date>
+			<price>2.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

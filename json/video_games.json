@@ -78309,6 +78309,134 @@
 					"id": 4341,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Baldur's Gate 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-25",
+					"price": "47.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but Winter sale.",
+				"meta": {
+					"id": 4342,
+					"electronic": true
+				}
+			},
+			{
+				"title": "An Arcade Full of Cats",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Free to play.",
+				"meta": {
+					"id": 4343,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Park Full of Cats",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Free to play.",
+				"meta": {
+					"id": 4344,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Park Full of Cats: Haunted Ride",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "2.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.99, but Winter sale.",
+				"meta": {
+					"id": 4345,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "An Arcade Full of Cats: TimeWarp Trouble",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "1.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99, but Winter sale.",
+				"meta": {
+					"id": 4346,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "A Tower Full of Cats",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "4.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Winter sale.",
+				"meta": {
+					"id": 4347,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Castle Full of Cats",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-26",
+					"price": "2.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99, but Winter sale.",
+				"meta": {
+					"id": 4348,
+					"electronic": true
+				}
 			}
 		]
 	}

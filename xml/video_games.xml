@@ -61723,6 +61723,76 @@
 		<own>yes</own>
 		<notes>Normally $3.99, but Winter sale.</notes>
 	</game>
+	<game id="4349" electronic="true">
+		<title>OKAMI HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-28</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4350" electronic="true">
+		<title>Nomad Survival</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-28</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Winter sale.</notes>
+	</game>
+	<game id="4351" electronic="true">
+		<title>South Park: The Stick of Truth</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-28</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but Winter sale.</notes>
+	</game>
+	<game id="4352" electronic="true">
+		<title>Tales from the Borderlands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-28</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4353" electronic="true">
+		<title>Twilight Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-28</date>
+			<price>2.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -78437,6 +78437,96 @@
 					"id": 4348,
 					"electronic": true
 				}
+			},
+			{
+				"title": "OKAMI HD",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-28",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4349,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nomad Survival",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-28",
+					"price": "3.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Winter sale.",
+				"meta": {
+					"id": 4350,
+					"electronic": true
+				}
+			},
+			{
+				"title": "South Park: The Stick of Truth",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-28",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but Winter sale.",
+				"meta": {
+					"id": 4351,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tales from the Borderlands",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-28",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4352,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Twilight Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-28",
+					"price": "2.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.99, but Winter sale.",
+				"meta": {
+					"id": 4353,
+					"electronic": true
+				}
 			}
 		]
 	}

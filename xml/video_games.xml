@@ -61793,6 +61793,34 @@
 		<own>yes</own>
 		<notes>Normally $2.99, but Winter sale.</notes>
 	</game>
+	<game id="4354" electronic="true">
+		<title>Rusty's Retirement</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-01</date>
+			<price>4.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but Winter sale.</notes>
+	</game>
+	<game id="4355" electronic="true">
+		<title>FINAL FANTASY XII THE ZODIAC AGE</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-01</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

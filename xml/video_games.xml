@@ -61849,6 +61849,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but Winter sale.</notes>
 	</game>
+	<game id="4358" electronic="true" addOn="true">
+		<title>Stellar Blade Digital Deluxe Edition Upgrad</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-01-04</date>
+			<price>10.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4359" electronic="true" addOn="true">
+		<title>Forspoken: In Tanta We Trust</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-01-04</date>
+			<price>3.74</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.49, but on sale. May get back into this game before it goes back on sale again.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

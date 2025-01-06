@@ -61877,6 +61877,34 @@
 		<own>yes</own>
 		<notes>Normally $12.49, but on sale. May get back into this game before it goes back on sale again.</notes>
 	</game>
+	<game id="4360" electronic="true">
+		<title>shapez 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-06</date>
+			<price>16.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but on sale. Like Factorio, no enemies.</notes>
+	</game>
+	<game id="4361" electronic="true">
+		<title>shapez</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-06</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

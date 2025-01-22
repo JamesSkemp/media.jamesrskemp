@@ -78673,6 +78673,42 @@
 					"id": 4361,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Way of the Samurai 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-01-16",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4362,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Jotunnslayer: Hordes of Hel",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-01-21",
+					"price": "8.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99. Early Access.",
+				"meta": {
+					"id": 4363,
+					"electronic": true
+				}
 			}
 		]
 	}

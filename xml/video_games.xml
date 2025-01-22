@@ -61905,6 +61905,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but on sale.</notes>
 	</game>
+	<game id="4362" electronic="true">
+		<title>Way of the Samurai 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-16</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4363" electronic="true">
+		<title>Jotunnslayer: Hordes of Hel</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-01-21</date>
+			<price>8.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Early Access.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

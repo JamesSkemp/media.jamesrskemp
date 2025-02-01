@@ -78709,6 +78709,60 @@
 					"id": 4363,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Suicide Squad: Kill the Justice League",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-02-01",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4364,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Need for Speed Hot Pursuit Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-02-01",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4365,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Stanley Parable, The: Ultra Deluxe",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-02-01",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4366,
+					"electronic": true
+				}
 			}
 		]
 	}

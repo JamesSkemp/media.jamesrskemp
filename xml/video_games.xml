@@ -61933,6 +61933,48 @@
 		<own>yes</own>
 		<notes>Normally $9.99. Early Access.</notes>
 	</game>
+	<game id="4364" electronic="true">
+		<title>Suicide Squad: Kill the Justice League</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-02-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but free with Plus.</notes>
+	</game>
+	<game id="4365" electronic="true">
+		<title>Need for Speed Hot Pursuit Remastered</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2025-02-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4366" electronic="true">
+		<title>Stanley Parable, The: Ultra Deluxe</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2025-02-01</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

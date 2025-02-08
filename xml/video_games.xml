@@ -61989,6 +61989,20 @@
 		<own>yes</own>
 		<notes>Release day. Normally $6.99.</notes>
 	</game>
+	<game id="4368" electronic="true">
+		<title>Stuck in Time</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-02-08</date>
+			<price>2.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>On sale. Usually $7.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -62003,6 +62003,20 @@
 		<own>yes</own>
 		<notes>On sale. Usually $7.99.</notes>
 	</game>
+	<game id="4369" electronic="true">
+		<title>Vicious Attack Llama Apocalypse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-02-11</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

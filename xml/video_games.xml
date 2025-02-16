@@ -62017,6 +62017,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but on sale.</notes>
 	</game>
+	<game id="4370" electronic="true" addOn="true">
+		<title>Super Smash Bros. Ultimate: Fighters Pass Vol. 2</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-02-16</date>
+			<price>29.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Elliott technically purchased.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

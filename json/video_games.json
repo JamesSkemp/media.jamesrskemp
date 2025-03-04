@@ -78763,6 +78763,152 @@
 					"id": 4366,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate Casey Jones & the Junkyard Jam",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-02-05",
+					"price": "5.94`",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Release day. Normally $6.99.",
+				"meta": {
+					"id": 4367,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Stuck in Time",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-02-08",
+					"price": "2.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "On sale. Usually $7.99.",
+				"meta": {
+					"id": 4368,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vicious Attack Llama Apocalypse",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-02-11",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but on sale.",
+				"meta": {
+					"id": 4369,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Super Smash Bros. Ultimate: Fighters Pass Vol. 2",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-02-16",
+					"price": "29.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Elliott technically purchased.",
+				"meta": {
+					"id": 4370,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "ANONYMOUS;CODE Digital Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-04",
+					"price": "20.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $68.37, but on sale.",
+				"meta": {
+					"id": 4371,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dragon Age: The Veilguard",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-03-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4372,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sonic Colors: Ultimate",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-03-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4373,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles Collection",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-03-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4374,
+					"electronic": true
+				}
 			}
 		]
 	}

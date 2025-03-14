@@ -62087,6 +62087,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="4375" electronic="true">
+		<title>Heavy Rain</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-13</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Spring Sale.</notes>
+	</game>
+	<game id="4376" electronic="true">
+		<title>Dice People</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-13</date>
+			<price>2.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99, but Spring Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

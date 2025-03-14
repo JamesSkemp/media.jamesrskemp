@@ -62115,6 +62115,34 @@
 		<own>yes</own>
 		<notes>Normally $2.99, but Spring Sale.</notes>
 	</game>
+	<game id="4377" electronic="true">
+		<title>Be My Horde</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-14</date>
+			<price>4.04</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Spring Sale.</notes>
+	</game>
+	<game id="4378" electronic="true">
+		<title>Devil May Cry 5 Deluxe + Vergil</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-14</date>
+			<price>15.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Spring Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

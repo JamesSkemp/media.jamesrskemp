@@ -62143,6 +62143,34 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but Spring Sale.</notes>
 	</game>
+	<game id="4379" electronic="true">
+		<title>Roottrees are Dead, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-16</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4380" electronic="true">
+		<title>Brigador: Up-Armored Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-03-16</date>
+			<price>7.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but on sale. Has been on my wishlist for a while.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

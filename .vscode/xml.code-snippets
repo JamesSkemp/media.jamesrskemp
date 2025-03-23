@@ -23,7 +23,7 @@
 			"\t<title>${2:title}</title>",
 			"\t<system>",
 			"\t\t<console>${3|PlayStation,Xbox,Nintendo|}</console>",
-			"\t\t<version>${4|3,4,360,One,Switch,Vita|}</version>",
+			"\t\t<version>${4|3,4,5,360,One,Switch,Vita|}</version>",
 			"\t</system>",
 			"\t<purchase>",
 			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",

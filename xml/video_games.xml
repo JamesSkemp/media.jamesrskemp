@@ -62171,6 +62171,104 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but on sale. Has been on my wishlist for a while.</notes>
 	</game>
+	<game id="4381" electronic="true" addOn="true">
+		<title>Stellar Blade x NieR:Automata</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-03-23</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4382">
+		<title>Like a Dragon: Ishin!</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-08-26</date>
+			<price>36.05</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4383">
+		<title>Forspoken</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-08-26</date>
+			<price>42.70</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4384">
+		<title>Star Ocean: The Divine Force</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2023-08-26</date>
+			<price>26.78</price>
+			<place>Amazon.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
+	<game id="4385" electronic="true" addOn="true">
+		<title>FF7R EPISODE INTERmission (New Story Content Featuring Yuffie)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-03-23</date>
+			<price>14.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Supposedly quite good DLC.</notes>
+	</game>
+	<game id="4386" electronic="true">
+		<title>Like a Dragon: Ishin! Digital Deluxe Edition PS4 &amp; PS5</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-03-23</date>
+			<price>17.49</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but on sale.</notes>
+	</game>
+	<game id="4387" electronic="true">
+		<title>FINAL FANTASY VII REBIRTH</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-03-23</date>
+			<price>48.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

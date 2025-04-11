@@ -62283,6 +62283,34 @@
 		<own>yes</own>
 		<notes>Free DLC.</notes>
 	</game>
+	<game id="4389" electronic="true">
+		<title>Cat Quest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-04-11</date>
+			<price>2.50</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99.</notes>
+	</game>
+	<game id="4390" electronic="true">
+		<title>Cat Quest II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-04-11</date>
+			<price>3.20</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

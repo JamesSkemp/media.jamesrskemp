@@ -79161,6 +79161,42 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Cat Quest",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "2.50",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99.",
+				"meta": {
+					"id": 4389,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cat Quest II",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "3.20",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99.",
+				"meta": {
+					"id": 4390,
+					"electronic": true
+				}
 			}
 		]
 	}

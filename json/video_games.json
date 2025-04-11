@@ -78909,6 +78909,258 @@
 					"id": 4374,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Heavy Rain",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-13",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Spring Sale.",
+				"meta": {
+					"id": 4375,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dice People",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-13",
+					"price": "2.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.99, but Spring Sale.",
+				"meta": {
+					"id": 4376,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Be My Horde",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-14",
+					"price": "4.04",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Spring Sale.",
+				"meta": {
+					"id": 4377,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Devil May Cry 5 Deluxe + Vergil",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-14",
+					"price": "15.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Spring Sale.",
+				"meta": {
+					"id": 4378,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Roottrees are Dead, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-16",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4379,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Brigador: Up-Armored Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-03-16",
+					"price": "7.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but on sale. Has been on my wishlist for a while.",
+				"meta": {
+					"id": 4380,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Stellar Blade x NieR:Automata",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-03-23",
+					"price": "9.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4381,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Like a Dragon: Ishin!",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-08-26",
+					"price": "36.05",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4382
+				}
+			},
+			{
+				"title": "Forspoken",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-08-26",
+					"price": "42.70",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4383
+				}
+			},
+			{
+				"title": "Star Ocean: The Divine Force",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2023-08-26",
+					"price": "26.78",
+					"place": "Amazon.com"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4384
+				}
+			},
+			{
+				"title": "FF7R EPISODE INTERmission (New Story Content Featuring Yuffie)",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-03-23",
+					"price": "14.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale. Supposedly quite good DLC.",
+				"meta": {
+					"id": 4385,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Like a Dragon: Ishin! Digital Deluxe Edition PS4 & PS5",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-03-23",
+					"price": "17.49",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but on sale.",
+				"meta": {
+					"id": 4386,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FINAL FANTASY VII REBIRTH",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-03-23",
+					"price": "48.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but on sale.",
+				"meta": {
+					"id": 4387,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Emerald Diorama",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Free DLC.",
+				"meta": {
+					"id": 4388,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

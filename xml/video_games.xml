@@ -62269,6 +62269,20 @@
 		<own>yes</own>
 		<notes>Normally $69.99, but on sale.</notes>
 	</game>
+	<game id="4388" electronic="true" addOn="true">
+		<title>Vampire Survivors: Emerald Diorama</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-04-11</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free DLC.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -79197,6 +79197,60 @@
 					"id": 4390,
 					"electronic": true
 				}
+			},
+			{
+				"title": "RoboCop: Rogue City",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4391,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Texas Chain Saw Massacre, The",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4392,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-04-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4393,
+					"electronic": true
+				}
 			}
 		]
 	}

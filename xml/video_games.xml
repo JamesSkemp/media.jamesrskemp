@@ -62353,6 +62353,20 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="4394" electronic="true">
+		<title>Horde Hunters</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-04-13</date>
+			<price>5.94</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -62423,6 +62423,118 @@
 		<own>yes</own>
 		<notes>Normally $21.99, but free with Plus.</notes>
 	</game>
+	<game id="4399" electronic="true">
+		<title>Picayune Dreams</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4400" electronic="true">
+		<title>Genome Guardian</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4401" electronic="true">
+		<title>Atomicrops</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4402" electronic="true">
+		<title>Textorcist, The: The Story of Ray Bibbia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4403" electronic="true">
+		<title>Patch Quest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4404" electronic="true">
+		<title>AK-xolotl: Together</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4405" electronic="true">
+		<title>Genesis Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4406" electronic="true">
+		<title>Survivors of the Dawn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-07</date>
+			<price>1.25</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

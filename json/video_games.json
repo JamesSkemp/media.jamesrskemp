@@ -79251,6 +79251,96 @@
 					"id": 4393,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Horde Hunters",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-04-13",
+					"price": "5.94",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but on sale.",
+				"meta": {
+					"id": 4394,
+					"electronic": true
+				}
+			},
+			{
+				"title": "WARRIORS: Abyss",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-04-25",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but on sale.",
+				"meta": {
+					"id": 4395,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ARK: Survival Ascended",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-05-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $44.99, but free with Plus.",
+				"meta": {
+					"id": 4396,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Balatro",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-05-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but free with Plus.",
+				"meta": {
+					"id": 4397,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Warhammer 40,000: Boltgun",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-05-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $21.99, but free with Plus.",
+				"meta": {
+					"id": 4398,
+					"electronic": true
+				}
 			}
 		]
 	}

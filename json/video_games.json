@@ -79354,7 +79354,7 @@
 					"place": "Humble Bundle"
 				},
 				"own": true,
-				"notes": "9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).",
+				"notes": "9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott). This was seemingly added to my wishlist in April.",
 				"meta": {
 					"id": 4399,
 					"electronic": true
@@ -79483,6 +79483,78 @@
 				"notes": "9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).",
 				"meta": {
 					"id": 4406,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wasteland 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-10",
+					"price": "2.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.",
+				"meta": {
+					"id": 4407,
+					"electronic": true
+				}
+			},
+			{
+				"title": "As Dusk Falls",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-10",
+					"price": "2.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.",
+				"meta": {
+					"id": 4408,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ori and the Will of the Wisps",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-10",
+					"price": "2.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.",
+				"meta": {
+					"id": 4409,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Age of Empires: Definitive Edition Bundle",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-10",
+					"price": "2.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.",
+				"meta": {
+					"id": 4410,
 					"electronic": true
 				}
 			}

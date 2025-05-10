@@ -62435,7 +62435,7 @@
 			<place>Humble Bundle</place>
 		</purchase>
 		<own>yes</own>
-		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott). This was seemingly added to my wishlist in April.</notes>
 	</game>
 	<game id="4400" electronic="true">
 		<title>Genome Guardian</title>
@@ -62534,6 +62534,62 @@
 		</purchase>
 		<own>yes</own>
 		<notes>9 Circles of Bullet Hell Bundle, $10 for 9 games, but had one (which I gifted to Elliott).</notes>
+	</game>
+	<game id="4407" electronic="true">
+		<title>Wasteland 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-10</date>
+			<price>2.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.</notes>
+	</game>
+	<game id="4408" electronic="true">
+		<title>As Dusk Falls</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-10</date>
+			<price>2.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.</notes>
+	</game>
+	<game id="4409" electronic="true">
+		<title>Ori and the Will of the Wisps</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-10</date>
+			<price>2.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.</notes>
+	</game>
+	<game id="4410" electronic="true">
+		<title>Age of Empires: Definitive Edition Bundle</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-10</date>
+			<price>2.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

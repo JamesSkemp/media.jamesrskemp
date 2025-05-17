@@ -62591,6 +62591,20 @@
 		<own>yes</own>
 		<notes>Part of the Xbox Games Studio Bundle. $10 for 8 games, but already had 4.</notes>
 	</game>
+	<game id="4411" electronic="true">
+		<title>Achilles: Survivor</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-16</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.49, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

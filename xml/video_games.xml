@@ -62605,6 +62605,104 @@
 		<own>yes</own>
 		<notes>Normally $4.49, but on sale.</notes>
 	</game>
+	<game id="4412" electronic="true">
+		<title>Indiana Jones and the Emperor's Tomb</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.42</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4413" electronic="true">
+		<title>LEGO Star Wars - The Complete Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4414" electronic="true">
+		<title>LEGO Pirates of the Caribbean The Video Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4415" electronic="true">
+		<title>LEGO Star Wars III: The Clone Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4416" electronic="true">
+		<title>Monkey Island 2: Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4417" electronic="true">
+		<title>Curse of Monkey Island, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
+	<game id="4418" electronic="true">
+		<title>Secret of Monkey Island, The: Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.43</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -62717,6 +62717,20 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but launch sale.</notes>
 	</game>
+	<game id="4420" electronic="true">
+		<title>Lootun</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-24</date>
+			<price>5.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

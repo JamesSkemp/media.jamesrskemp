@@ -79557,6 +79557,186 @@
 					"id": 4410,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Achilles: Survivor",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-16",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.49, but on sale.",
+				"meta": {
+					"id": 4411,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Indiana Jones and the Emperor's Tomb",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.42",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4412,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Star Wars - The Complete Saga",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4413,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Pirates of the Caribbean The Video Game",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4414,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Star Wars III: The Clone Wars",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4415,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monkey Island 2: Special Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4416,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Curse of Monkey Island, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4417,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Secret of Monkey Island, The: Special Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.43",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.",
+				"meta": {
+					"id": 4418,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cauldron",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-23",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but launch sale.",
+				"meta": {
+					"id": 4419,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Lootun",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-24",
+					"price": "5.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4420,
+					"electronic": true
+				}
 			}
 		]
 	}

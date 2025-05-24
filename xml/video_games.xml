@@ -62703,6 +62703,20 @@
 		<own>yes</own>
 		<notes>Part of the Disney Classics Black Friday Humble Bundle, which was $10.00 for 17 items, but had 10.</notes>
 	</game>
+	<game id="4419" electronic="true">
+		<title>Cauldron</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-23</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but launch sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

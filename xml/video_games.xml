@@ -62731,6 +62731,342 @@
 		<own>yes</own>
 		<notes/>
 	</game>
+	<game id="4421" electronic="true">
+		<title>Dome Keeper Deluxe</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4422" electronic="true">
+		<title>Friends vs Friends</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4423" electronic="true">
+		<title>Kingdom Eighties</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4424" electronic="true">
+		<title>Kingdom Two Crowns: Norse Lands</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4425" electronic="true">
+		<title>Mr. Sun's Hatbox</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4426" electronic="true">
+		<title>Norco</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4427" electronic="true">
+		<title>Pizza Possum</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4428" electronic="true">
+		<title>SKALD: Against the Black Priory</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4429" electronic="true">
+		<title>Snufkin: Melody of Moominvalley</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4430" electronic="true">
+		<title>Star Renegades</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>1.50</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Rawcember to Remember bundle, $15 for 12, but had two.</notes>
+	</game>
+	<game id="4431" electronic="true">
+		<title>Crysis: Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4432" electronic="true">
+		<title>Crysis 2: Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4433" electronic="true">
+		<title>Crysis 3: Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4434" electronic="true">
+		<title>DOOM</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.74</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4435" electronic="true">
+		<title>Prey</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4436" electronic="true">
+		<title>Star Wars: Dark Forces Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4437" electronic="true">
+		<title>System Shock</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-12</date>
+			<price>2.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Sci-Fi Shooters bundle, $19 for seven.</notes>
+	</game>
+	<game id="4438" electronic="true">
+		<title>American Arcadia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4439" electronic="true">
+		<title>Deliver Us Mars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4440" electronic="true">
+		<title>En Garde!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.16</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4441" electronic="true">
+		<title>Gloomwood</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4442" electronic="true">
+		<title>Lost in Play</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4443" electronic="true">
+		<title>Ship of Fools</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
+	<game id="4444" electronic="true">
+		<title>Entropy Centre, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-14</date>
+			<price>2.14</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

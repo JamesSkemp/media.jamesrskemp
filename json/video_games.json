@@ -79737,6 +79737,438 @@
 					"id": 4420,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Dome Keeper Deluxe",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4421,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Friends vs Friends",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4422,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kingdom Eighties",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4423,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kingdom Two Crowns: Norse Lands",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4424,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Mr. Sun's Hatbox",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4425,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Norco",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4426,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pizza Possum",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4427,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SKALD: Against the Black Priory",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4428,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Snufkin: Melody of Moominvalley",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4429,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Star Renegades",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "1.50",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Rawcember to Remember bundle, $15 for 12, but had two.",
+				"meta": {
+					"id": 4430,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Crysis: Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4431,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Crysis 2: Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4432,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Crysis 3: Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4433,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DOOM",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.74",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4434,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Prey",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4435,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Star Wars: Dark Forces Remaster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4436,
+					"electronic": true
+				}
+			},
+			{
+				"title": "System Shock",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-12",
+					"price": "2.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Sci-Fi Shooters bundle, $19 for seven.",
+				"meta": {
+					"id": 4437,
+					"electronic": true
+				}
+			},
+			{
+				"title": "American Arcadia",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4438,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Deliver Us Mars",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4439,
+					"electronic": true
+				}
+			},
+			{
+				"title": "En Garde!",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.16",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4440,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Gloomwood",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4441,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Lost in Play",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4442,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ship of Fools",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4443,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Entropy Centre, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-14",
+					"price": "2.14",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Future Games Show Discovery Encore bundle, $15 for seven.",
+				"meta": {
+					"id": 4444,
+					"electronic": true
+				}
 			}
 		]
 	}

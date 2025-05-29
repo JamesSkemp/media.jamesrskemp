@@ -63067,6 +63067,20 @@
 		<own>yes</own>
 		<notes>Part of the Future Games Show Discovery Encore bundle, $15 for seven.</notes>
 	</game>
+	<game id="4445" electronic="true">
+		<title>Reventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-05-28</date>
+			<price>0.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>100 different endings.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

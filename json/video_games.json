@@ -80169,6 +80169,78 @@
 					"id": 4444,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Reventure",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-05-28",
+					"price": "0.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "100 different endings.",
+				"meta": {
+					"id": 4445,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Conquest Dark",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-01",
+					"price": "8.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99.",
+				"meta": {
+					"id": 4446,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Operator, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-04",
+					"price": "8.81",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $13.99, but on sale.",
+				"meta": {
+					"id": 4447,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Return of the Obra Dinn",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-04",
+					"price": "13.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale. Worth buying and playing again.",
+				"meta": {
+					"id": 4448,
+					"electronic": true
+				}
 			}
 		]
 	}

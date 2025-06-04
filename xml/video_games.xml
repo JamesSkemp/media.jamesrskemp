@@ -63095,6 +63095,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99.</notes>
 	</game>
+	<game id="4447" electronic="true">
+		<title>Operator, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-06-04</date>
+			<price>8.81</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.99, but on sale.</notes>
+	</game>
+	<game id="4448" electronic="true">
+		<title>Return of the Obra Dinn</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-06-04</date>
+			<price>13.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale. Worth buying and playing again.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

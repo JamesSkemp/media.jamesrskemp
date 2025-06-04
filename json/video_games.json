@@ -80241,6 +80241,60 @@
 					"id": 4448,
 					"electronic": true
 				}
+			},
+			{
+				"title": "NBA 2K25",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4449,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Alone in the Dark",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4450,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bomb Rush Cyberfunk PS4 & PS5",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-04",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4451,
+					"electronic": true
+				}
 			}
 		]
 	}

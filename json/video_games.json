@@ -80295,6 +80295,62 @@
 					"id": 4451,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Clair Obscur: Expedition 33",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-10",
+					"price": "49.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Heard from Endless Frontier guild member that it's quite good.",
+				"meta": {
+					"id": 4452,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Stellar Blade x GODDESS OF VICTORY: NIKKE",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-11",
+					"price": "9.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4453,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Stellar Blade: Tachyon Pack",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-06-11",
+					"price": "0.99",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4454,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

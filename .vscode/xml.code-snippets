@@ -128,7 +128,7 @@
 			"\t<title>${2:title}</title>",
 			"\t<system>",
 			"\t\t<console>PlayStation</console>",
-			"\t\t<version>${3|4,5,3,Vita|}</version>",
+			"\t\t<version>${3|5,4,3,Vita|}</version>",
 			"\t</system>",
 			"\t<purchase>",
 			"\t\t<date>$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE</date>",

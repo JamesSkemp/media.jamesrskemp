@@ -63179,6 +63179,34 @@
 		<own>yes</own>
 		<notes>Heard from Endless Frontier guild member that it's quite good.</notes>
 	</game>
+	<game id="4453" electronic="true" addOn="true">
+		<title>Stellar Blade x GODDESS OF VICTORY: NIKKE</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-06-11</date>
+			<price>9.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Release day.</notes>
+	</game>
+	<game id="4454" electronic="true" addOn="true">
+		<title>Stellar Blade: Tachyon Pack</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-06-11</date>
+			<price>0.99</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Release day.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -63389,6 +63389,48 @@
 		<own>yes</own>
 		<notes>Steam Summer Sale. Normally $19.99.</notes>
 	</game>
+	<game id="4468" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate - Casey Jones &amp; the Junkyard Jam</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-07-04</date>
+			<price>3.49</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but on sale.</notes>
+	</game>
+	<game id="4469" electronic="true">
+		<title>Gridkeeper</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-05</date>
+			<price>1.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $1.99, but on sale.</notes>
+	</game>
+	<game id="4470" electronic="true">
+		<title>(the) Gnorp Apologue</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-05</date>
+			<price>3.77</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but on sale. Liked their game Tower Wizard.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

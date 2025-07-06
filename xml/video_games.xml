@@ -63431,6 +63431,118 @@
 		<own>yes</own>
 		<notes>Normally $6.99, but on sale. Liked their game Tower Wizard.</notes>
 	</game>
+	<game id="4471" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Shredders Revenge - Radical Reptiles</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>3.19</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but on sale.</notes>
+	</game>
+	<game id="4472" electronic="true">
+		<title>Desktop Survivors 98</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99.</notes>
+	</game>
+	<game id="4473" electronic="true">
+		<title>Bounty of One</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>4.19</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99.</notes>
+	</game>
+	<game id="4474" electronic="true">
+		<title>Ori and the Blind Forest: Definitive Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Includes the original version.</notes>
+	</game>
+	<game id="4475" electronic="true">
+		<title>Dust: An Elysian Tail</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>3.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="4476" electronic="true">
+		<title>Castlevania: Lords of Shadow - Mirror of Fate HD</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>2.24</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="4477" electronic="true">
+		<title>Hollow Knight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>7.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99.</notes>
+	</game>
+	<game id="4478" electronic="true">
+		<title>ENDER LILIES: Quietus of the Knights</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-06</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

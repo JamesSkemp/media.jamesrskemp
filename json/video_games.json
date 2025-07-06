@@ -80351,6 +80351,440 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Tower Wizard",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-21",
+					"price": "2.69",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $2.99 but introductory sale.",
+				"meta": {
+					"id": 4455,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Besiege",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $14.99.",
+				"meta": {
+					"id": 4456,
+					"electronic": true
+				}
+			},
+			{
+				"title": "GRIS",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $14.99.",
+				"meta": {
+					"id": 4457,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Blasphemous",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "2.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $24.99.",
+				"meta": {
+					"id": 4458,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Crypt of the NecroDancer",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $14.99.",
+				"meta": {
+					"id": 4459,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fahrenheit: Indigo Prophecy Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "1.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $9.99.",
+				"meta": {
+					"id": 4460,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Beyond: Two Souls",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "1.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $19.99.",
+				"meta": {
+					"id": 4461,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bloodstained: Ritual of the Night",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $39.99.",
+				"meta": {
+					"id": 4462,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Fantasy Map Simulator",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "6.63",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $7.99.",
+				"meta": {
+					"id": 4463,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DUNGEON RAZE",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "2.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $2.99.",
+				"meta": {
+					"id": 4464,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SENRAN KAGURA Reflexions - Heart's Desire Bundle",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $39.99.",
+				"meta": {
+					"id": 4465,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Corpse Party",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "0.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $14.99.",
+				"meta": {
+					"id": 4466,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Corpse Party (2021)",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-06-26",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Steam Summer Sale. Normally $19.99.",
+				"meta": {
+					"id": 4467,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Casey Jones & the Junkyard Jam",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-07-04",
+					"price": "3.49",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but on sale.",
+				"meta": {
+					"id": 4468,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Gridkeeper",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-05",
+					"price": "1.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $1.99, but on sale.",
+				"meta": {
+					"id": 4469,
+					"electronic": true
+				}
+			},
+			{
+				"title": "(the) Gnorp Apologue",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-05",
+					"price": "3.77",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but on sale. Liked their game Tower Wizard.",
+				"meta": {
+					"id": 4470,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Shredders Revenge - Radical Reptiles",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "3.19",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $3.99, but on sale.",
+				"meta": {
+					"id": 4471,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Desktop Survivors 98",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99.",
+				"meta": {
+					"id": 4472,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bounty of One",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "4.19",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99.",
+				"meta": {
+					"id": 4473,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ori and the Blind Forest: Definitive Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99. Includes the original version.",
+				"meta": {
+					"id": 4474,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dust: An Elysian Tail",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "3.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99.",
+				"meta": {
+					"id": 4475,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Castlevania: Lords of Shadow - Mirror of Fate HD",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "2.24",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99.",
+				"meta": {
+					"id": 4476,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hollow Knight",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "7.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99.",
+				"meta": {
+					"id": 4477,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ENDER LILIES: Quietus of the Knights",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-06",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99.",
+				"meta": {
+					"id": 4478,
+					"electronic": true
+				}
 			}
 		]
 	}

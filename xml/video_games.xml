@@ -63543,6 +63543,48 @@
 		<own>yes</own>
 		<notes>Normally $24.99.</notes>
 	</game>
+	<game id="4479" electronic="true">
+		<title>Like a Dragon: Infinite Wealth - Ultimate Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-07</date>
+			<price>43.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $109.99.</notes>
+	</game>
+	<game id="4480" electronic="true">
+		<title>Kathy Rain: Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-07</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99. Has been on my wishlist since 5/27/2021 (original since 6/25/2017), so finally time to just get it.</notes>
+	</game>
+	<game id="4481" electronic="true">
+		<title>Myst: Masterpiece Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-07</date>
+			<price>2.39</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

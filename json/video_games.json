@@ -80785,6 +80785,150 @@
 					"id": 4478,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Like a Dragon: Infinite Wealth - Ultimate Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-07",
+					"price": "43.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $109.99.",
+				"meta": {
+					"id": 4479,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kathy Rain: Director's Cut",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-07",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99. Has been on my wishlist since 5/27/2021 (original since 6/25/2017), so finally time to just get it.",
+				"meta": {
+					"id": 4480,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Myst: Masterpiece Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-07",
+					"price": "2.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99.",
+				"meta": {
+					"id": 4481,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Diablo IV for PS4/PS5",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Base game. Free with Plus.",
+				"meta": {
+					"id": 4482,
+					"electronic": true
+				}
+			},
+			{
+				"title": "King of Fighters XV, The",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4483,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Jusant",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4484,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-09",
+					"price": "39.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but on sale.",
+				"meta": {
+					"id": 4485,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cyberpunk 2077",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-09",
+					"price": "20.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but on sale. Lowest I've seen it.",
+				"meta": {
+					"id": 4486,
+					"electronic": true
+				}
 			}
 		]
 	}

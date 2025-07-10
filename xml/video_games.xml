@@ -63627,6 +63627,34 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4485" electronic="true">
+		<title>Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-09</date>
+			<price>39.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but on sale.</notes>
+	</game>
+	<game id="4486" electronic="true">
+		<title>Cyberpunk 2077</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-09</date>
+			<price>20.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale. Lowest I've seen it.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

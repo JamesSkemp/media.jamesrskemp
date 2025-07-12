@@ -63655,6 +63655,34 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but on sale. Lowest I've seen it.</notes>
 	</game>
+	<game id="4487" electronic="true">
+		<title>Devil May Cry HD Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-12</date>
+			<price>6.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but part of a build your own bundle.</notes>
+	</game>
+	<game id="4488" electronic="true">
+		<title>Devil May Cry 4 Special Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-07-12</date>
+			<price>6.49</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but part of a build your own bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

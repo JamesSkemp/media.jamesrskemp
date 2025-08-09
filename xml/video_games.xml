@@ -63683,6 +63683,104 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but part of a build your own bundle.</notes>
 	</game>
+	<game id="4489" electronic="true">
+		<title>A Plague Tale: Innocence</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
+	<game id="4490" electronic="true">
+		<title>Chorus</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
+	<game id="4491" electronic="true">
+		<title>Eastward</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
+	<game id="4492" electronic="true">
+		<title>LISA: Complete Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
+	<game id="4493" electronic="true">
+		<title>Metal: Hellsinger</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
+	<game id="4494" electronic="true">
+		<title>Scars Above</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.74</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore. Took until 8/8/2025 to actually get a key.</notes>
+	</game>
+	<game id="4495" electronic="true">
+		<title>Wanted: Dead</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2024-12-16</date>
+			<price>1.71</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -80929,6 +80929,168 @@
 					"id": 4486,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Devil May Cry HD Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-12",
+					"price": "6.50",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but part of a build your own bundle.",
+				"meta": {
+					"id": 4487,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Devil May Cry 4 Special Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-07-12",
+					"price": "6.49",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but part of a build your own bundle.",
+				"meta": {
+					"id": 4488,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Plague Tale: Innocence",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4489,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Chorus",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4490,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Eastward",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4491,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LISA: Complete Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4492,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Metal: Hellsinger",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4493,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Scars Above",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.74",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore. Took until 8/8/2025 to actually get a key.",
+				"meta": {
+					"id": 4494,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wanted: Dead",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2024-12-16",
+					"price": "1.71",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of Humble Heroines: Action, Adventure, & Intrigue Encore.",
+				"meta": {
+					"id": 4495,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -63781,6 +63781,48 @@
 		<own>yes</own>
 		<notes>Part of Humble Heroines: Action, Adventure, &amp; Intrigue Encore.</notes>
 	</game>
+	<game id="4496" electronic="true">
+		<title>Lies of P</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-08-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="4497" electronic="true">
+		<title>DayZ</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2025-08-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $54.99, but free with Plus.</notes>
+	</game>
+	<game id="4498" electronic="true">
+		<title>My Hero One's Justice 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>4</version>
+		</system>
+		<purchase>
+			<date>2025-08-19</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

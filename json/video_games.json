@@ -81091,6 +81091,60 @@
 					"id": 4495,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Lies of P",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-08-19",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4496,
+					"electronic": true
+				}
+			},
+			{
+				"title": "DayZ",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-08-19",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $54.99, but free with Plus.",
+				"meta": {
+					"id": 4497,
+					"electronic": true
+				}
+			},
+			{
+				"title": "My Hero One's Justice 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-08-19",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4498,
+					"electronic": true
+				}
 			}
 		]
 	}

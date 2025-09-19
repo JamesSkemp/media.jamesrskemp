@@ -63823,6 +63823,20 @@
 		<own>yes</own>
 		<notes>Normally $39.99, but free with Plus.</notes>
 	</game>
+	<game id="4499" electronic="true">
+		<title>Grounded</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-19</date>
+			<price>39.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>To try playing with family.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

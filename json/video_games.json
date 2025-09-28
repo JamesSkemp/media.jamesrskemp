@@ -81145,6 +81145,132 @@
 					"id": 4498,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Grounded",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-19",
+					"price": "39.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "To try playing with family.",
+				"meta": {
+					"id": 4499,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Psychonauts 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-09-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4500,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Stardew Valley",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2025-09-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but free with Plus.",
+				"meta": {
+					"id": 4501,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Viewfinder",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-09-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4502,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ICEY",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-27",
+					"price": "5.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, but daily deal. Found while looking for Vanillaware-like games on PC.",
+				"meta": {
+					"id": 4503,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Vagrant, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-27",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Similar, possibly, to Vanillaware games.",
+				"meta": {
+					"id": 4504,
+					"electronic": true
+				}
+			},
+			{
+				"title": "GetsuFumaDen: Undying Moon Standard",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-27",
+					"price": "11.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99. Similar, possibly, to Vanillaware games.",
+				"meta": {
+					"id": 4505,
+					"electronic": true
+				}
 			}
 		]
 	}

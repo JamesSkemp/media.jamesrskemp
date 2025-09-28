@@ -63879,6 +63879,48 @@
 		<own>yes</own>
 		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
+	<game id="4503" electronic="true">
+		<title>ICEY</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-27</date>
+			<price>5.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but daily deal. Found while looking for Vanillaware-like games on PC.</notes>
+	</game>
+	<game id="4504" electronic="true">
+		<title>Vagrant, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-27</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Similar, possibly, to Vanillaware games.</notes>
+	</game>
+	<game id="4505" electronic="true">
+		<title>GetsuFumaDen: Undying Moon Standard</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-27</date>
+			<price>11.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Similar, possibly, to Vanillaware games.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

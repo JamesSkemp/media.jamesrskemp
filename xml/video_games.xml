@@ -63977,6 +63977,34 @@
 		<own>yes</own>
 		<notes>Normally $74.99, but Autumn sale.</notes>
 	</game>
+	<game id="4510" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-30</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Release day.</notes>
+	</game>
+	<game id="4511" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-09-30</date>
+			<price>3.99</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Release day.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

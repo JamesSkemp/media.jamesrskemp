@@ -81271,6 +81271,78 @@
 					"id": 4505,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Hunted: The Demon’s Forge",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-29",
+					"price": "1.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Autumn sale.",
+				"meta": {
+					"id": 4506,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sakuna: Of Rice and Ruin",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-29",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but Autumn sale. Has been on my list for a while. Vanillaware-like game.",
+				"meta": {
+					"id": 4507,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sam & Max Hit the Road",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-29",
+					"price": "2.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Autumn sale.",
+				"meta": {
+					"id": 4508,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Like a Dragon: Pirate Yakuza in Hawaii - Digital Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-29",
+					"price": "44.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $74.99, but Autumn sale.",
+				"meta": {
+					"id": 4509,
+					"electronic": true
+				}
 			}
 		]
 	}

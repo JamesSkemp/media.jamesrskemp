@@ -63921,6 +63921,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99. Similar, possibly, to Vanillaware games.</notes>
 	</game>
+	<game id="4506" electronic="true">
+		<title>Hunted: The Demon’s Forge</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-29</date>
+			<price>1.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Autumn sale.</notes>
+	</game>
+	<game id="4507" electronic="true">
+		<title>Sakuna: Of Rice and Ruin</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-29</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but Autumn sale. Has been on my list for a while. Vanillaware-like game.</notes>
+	</game>
+	<game id="4508" electronic="true">
+		<title>Sam &amp; Max Hit the Road</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-29</date>
+			<price>2.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but Autumn sale.</notes>
+	</game>
+	<game id="4509" electronic="true">
+		<title>Like a Dragon: Pirate Yakuza in Hawaii - Digital Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-09-29</date>
+			<price>44.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $74.99, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -64005,6 +64005,62 @@
 		<own>yes</own>
 		<notes>Release day.</notes>
 	</game>
+	<game id="4512" electronic="true">
+		<title>Devil Spire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-10-01</date>
+			<price>0.00</price>
+			<place>Fanatical</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Received for free after picking up three book bundles.</notes>
+	</game>
+	<game id="4513" electronic="true">
+		<title>Alan Wake 2</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-10-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="4514" electronic="true">
+		<title>Goat Simulator 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-10-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="4515" electronic="true">
+		<title>Cocoon</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-10-12</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

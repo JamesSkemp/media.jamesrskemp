@@ -81343,6 +81343,154 @@
 					"id": 4509,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-09-30",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4510,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-09-30",
+					"price": "3.99",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4511,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Devil Spire",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-10-01",
+					"price": "0.00",
+					"place": "Fanatical"
+				},
+				"own": true,
+				"notes": "Received for free after picking up three book bundles.",
+				"meta": {
+					"id": 4512,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Alan Wake 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-10-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4513,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Goat Simulator 3",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-10-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4514,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cocoon",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-10-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4515,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Halls of Torment - Boglands",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-10-28",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Launch day.",
+				"meta": {
+					"id": 4516,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Ante Chamber",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-10-28",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Release day.",
+				"meta": {
+					"id": 4517,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

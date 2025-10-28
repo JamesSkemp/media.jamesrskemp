@@ -64089,6 +64089,20 @@
 		<own>yes</own>
 		<notes>Release day.</notes>
 	</game>
+	<game id="4518" electronic="true" addOn="true">
+		<title>Vampire Survivors: Emerald Diorama</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-10-28</date>
+			<price>0.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free DLC.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

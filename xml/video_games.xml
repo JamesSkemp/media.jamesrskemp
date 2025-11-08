@@ -64103,6 +64103,62 @@
 		<own>yes</own>
 		<notes>Free DLC.</notes>
 	</game>
+	<game id="4519" electronic="true" addOn="true">
+		<title>Vampire Survivors: Ante Chamber</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2025-11-06</date>
+			<price>0.00</price>
+			<place>Nintendo eShop</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free DLC.</notes>
+	</game>
+	<game id="4520" electronic="true">
+		<title>Stray</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-11-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="4521" electronic="true">
+		<title>EA Sports WRC 24</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-11-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Plus.</notes>
+	</game>
+	<game id="4522" electronic="true">
+		<title>TABS (Totally Accurate Battle Simulator)</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-11-07</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

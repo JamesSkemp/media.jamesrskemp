@@ -64159,6 +64159,20 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="4523" electronic="true">
+		<title>Ys I and II Chronicles+</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-14</date>
+			<price>4.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale. Also bought a copy for Elliott, as he's been watching them on U Can Beat Video Games.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

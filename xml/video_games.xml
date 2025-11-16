@@ -64173,6 +64173,62 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but on sale. Also bought a copy for Elliott, as he's been watching them on U Can Beat Video Games.</notes>
 	</game>
+	<game id="4524" electronic="true">
+		<title>Baten Kaitos I &amp; II Remaster</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-15</date>
+			<price>16.49</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but flash sale.</notes>
+	</game>
+	<game id="4525" electronic="true">
+		<title>FREEDOM WARS Remastered Contribution Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-15</date>
+			<price>17.24</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99. Mixed reviews, but really want to try it out again.</notes>
+	</game>
+	<game id="4526" electronic="true">
+		<title>Tales of Graces f Remastered Deluxe Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-15</date>
+			<price>25.79</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99.</notes>
+	</game>
+	<game id="4527" electronic="true">
+		<title>Monster Slayers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-15</date>
+			<price>0.00</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free for spending over $15.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

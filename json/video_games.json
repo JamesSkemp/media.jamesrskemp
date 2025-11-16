@@ -81491,6 +81491,188 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Emerald Diorama",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-10-28",
+					"price": "0.00",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Free DLC.",
+				"meta": {
+					"id": 4518,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Vampire Survivors: Ante Chamber",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2025-11-06",
+					"price": "0.00",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Free DLC.",
+				"meta": {
+					"id": 4519,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Stray",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4520,
+					"electronic": true
+				}
+			},
+			{
+				"title": "EA Sports WRC 24",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4521,
+					"electronic": true
+				}
+			},
+			{
+				"title": "TABS (Totally Accurate Battle Simulator)",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-11-07",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4522,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ys I and II Chronicles+",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-14",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but on sale. Also bought a copy for Elliott, as he's been watching them on U Can Beat Video Games.",
+				"meta": {
+					"id": 4523,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Baten Kaitos I & II Remaster",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-15",
+					"price": "16.49",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but flash sale.",
+				"meta": {
+					"id": 4524,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FREEDOM WARS Remastered Contribution Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-15",
+					"price": "17.24",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Normally $49.99. Mixed reviews, but really want to try it out again.",
+				"meta": {
+					"id": 4525,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tales of Graces f Remastered Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-15",
+					"price": "25.79",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Normally $59.99.",
+				"meta": {
+					"id": 4526,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monster Slayers",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-15",
+					"price": "0.00",
+					"place": "Fanatical.com"
+				},
+				"own": true,
+				"notes": "Free for spending over $15.",
+				"meta": {
+					"id": 4527,
+					"electronic": true
+				}
 			}
 		]
 	}

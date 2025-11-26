@@ -81673,6 +81673,156 @@
 					"id": 4527,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Monster Hunter Rise",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.09",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4528,
+					"electronic": true
+				}
+			},
+			{
+				"title": "MONSTER HUNTER RISE Deluxe Kit",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4529,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Monster Hunter Rise: Sunbreak",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4530,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Monster Hunter Rise: Sunbreak Deluxe Kit",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4531,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Monster Hunter World: Iceborne",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4532,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Monster Hunter World: Iceborne Deluxe Kit",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4533,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Monster Hunter: World",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4534,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monster Hunter: World - Deluxe Kit",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-11-25",
+					"price": "3.13",
+					"place": "Humble Bundle"
+				},
+				"own": true,
+				"notes": "Part of the Monster Hunter Series Collection bundle, $25 tier.",
+				"meta": {
+					"id": 4535,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

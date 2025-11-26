@@ -64229,6 +64229,118 @@
 		<own>yes</own>
 		<notes>Free for spending over $15.</notes>
 	</game>
+	<game id="4528" electronic="true">
+		<title>Monster Hunter Rise</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.09</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4529" electronic="true" addOn="true">
+		<title>MONSTER HUNTER RISE Deluxe Kit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4530" electronic="true" addOn="true">
+		<title>Monster Hunter Rise: Sunbreak</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4531" electronic="true" addOn="true">
+		<title>Monster Hunter Rise: Sunbreak Deluxe Kit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4532" electronic="true" addOn="true">
+		<title>Monster Hunter World: Iceborne</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4533" electronic="true" addOn="true">
+		<title>Monster Hunter World: Iceborne Deluxe Kit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4534" electronic="true">
+		<title>Monster Hunter: World</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
+	<game id="4535" electronic="true" addOn="true">
+		<title>Monster Hunter: World - Deluxe Kit</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-11-25</date>
+			<price>3.13</price>
+			<place>Humble Bundle</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

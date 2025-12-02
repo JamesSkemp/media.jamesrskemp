@@ -64341,6 +64341,20 @@
 		<own>yes</own>
 		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
 	</game>
+	<game id="456" electronic="true">
+		<title>KINGDOM HEARTS -HD 1.5+2.5 ReMIX-</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-01</date>
+			<price>24.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99 but Black Friday sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

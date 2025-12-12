@@ -64341,7 +64341,7 @@
 		<own>yes</own>
 		<notes>Part of the Monster Hunter Series Collection bundle, $25 tier.</notes>
 	</game>
-	<game id="456" electronic="true">
+	<game id="4536" electronic="true">
 		<title>KINGDOM HEARTS -HD 1.5+2.5 ReMIX-</title>
 		<system>
 			<console>PC</console>
@@ -64354,6 +64354,76 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $49.99 but Black Friday sale.</notes>
+	</game>
+	<game id="4537" electronic="true">
+		<title>LEGO Horizon Adventures</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-12-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4538" electronic="true">
+		<title>Killing Floor 3</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-12-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4539" electronic="true">
+		<title>Outlast Trials, The</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-12-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4540" electronic="true">
+		<title>Synduality Echo of Ada</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-12-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but free with Plus.</notes>
+	</game>
+	<game id="4541" electronic="true">
+		<title>Neon White</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2025-12-11</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

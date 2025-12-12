@@ -81823,6 +81823,114 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-01",
+					"price": "24.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99 but Black Friday sale.",
+				"meta": {
+					"id": 4536,
+					"electronic": true
+				}
+			},
+			{
+				"title": "LEGO Horizon Adventures",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-12-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4537,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Killing Floor 3",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-12-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4538,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Outlast Trials, The",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-12-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4539,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Synduality Echo of Ada",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-12-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4540,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Neon White",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2025-12-11",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4541,
+					"electronic": true
+				}
 			}
 		]
 	}

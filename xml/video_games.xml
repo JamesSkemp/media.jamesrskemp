@@ -64453,6 +64453,34 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but Winter sale.</notes>
 	</game>
+	<game id="4544" electronic="true">
+		<title>Keep on Mining!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-19</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Winter sale.</notes>
+	</game>
+	<game id="4545" electronic="true">
+		<title>BALL x PIT</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-19</date>
+			<price>10.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

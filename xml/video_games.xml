@@ -64481,6 +64481,146 @@
 		<own>yes</own>
 		<notes>Normally $14.99, but Winter sale.</notes>
 	</game>
+	<game id="4546" electronic="true">
+		<title>The Planet Crafter</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>11.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $23.90, but Winter sale. Bought two gift copies so we could play as a family.</notes>
+	</game>
+	<game id="4547" electronic="true">
+		<title>Tiny Chaos</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.74, but Winter sale.</notes>
+	</game>
+	<game id="4548" electronic="true">
+		<title>FISH FEAR ME</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but Winter sale.</notes>
+	</game>
+	<game id="4549" electronic="true">
+		<title>Duck Detective: The Secret Salami</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>5.94</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but Winter sale.</notes>
+	</game>
+	<game id="4550" electronic="true">
+		<title>Necesse</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>8.77</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.49, but Winter sale.</notes>
+	</game>
+	<game id="4551" electronic="true">
+		<title>A Game About Feeding A Black Hole</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>4.89</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but Winter sale.</notes>
+	</game>
+	<game id="4552" electronic="true">
+		<title>Ys VI</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>4.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4553" electronic="true">
+		<title>PARANORMASIGHT: The Seven Mysteries of Honjo</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4554" electronic="true">
+		<title>Bravery and Greed</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>3.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Winter sale.</notes>
+	</game>
+	<game id="4555" electronic="true">
+		<title>Bardbarian</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-27</date>
+			<price>2.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

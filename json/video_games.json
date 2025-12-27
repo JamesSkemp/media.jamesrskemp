@@ -81931,6 +81931,258 @@
 					"id": 4541,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Darksiders III Deluxe Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-18",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Winter sale.",
+				"meta": {
+					"id": 4542,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nioh: Complete Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-18",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Winter sale.",
+				"meta": {
+					"id": 4543,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Keep on Mining!",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-19",
+					"price": "3.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Winter sale.",
+				"meta": {
+					"id": 4544,
+					"electronic": true
+				}
+			},
+			{
+				"title": "BALL x PIT",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-19",
+					"price": "10.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Winter sale.",
+				"meta": {
+					"id": 4545,
+					"electronic": true
+				}
+			},
+			{
+				"title": "The Planet Crafter",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "11.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $23.90, but Winter sale. Bought two gift copies so we could play as a family.",
+				"meta": {
+					"id": 4546,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tiny Chaos",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "2.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.74, but Winter sale.",
+				"meta": {
+					"id": 4547,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FISH FEAR ME",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99, but Winter sale.",
+				"meta": {
+					"id": 4548,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Duck Detective: The Secret Salami",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "5.94",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but Winter sale.",
+				"meta": {
+					"id": 4549,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Necesse",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "8.77",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $13.49, but Winter sale.",
+				"meta": {
+					"id": 4550,
+					"electronic": true
+				}
+			},
+			{
+				"title": "A Game About Feeding A Black Hole",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "4.89",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $6.99, but Winter sale.",
+				"meta": {
+					"id": 4551,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ys VI",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "4.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4552,
+					"electronic": true
+				}
+			},
+			{
+				"title": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4553,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bravery and Greed",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4554,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Bardbarian",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-27",
+					"price": "2.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99, but Winter sale.",
+				"meta": {
+					"id": 4555,
+					"electronic": true
+				}
 			}
 		]
 	}

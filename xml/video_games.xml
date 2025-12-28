@@ -64621,6 +64621,90 @@
 		<own>yes</own>
 		<notes>Normally $7.99, but Winter sale.</notes>
 	</game>
+	<game id="4556" electronic="true">
+		<title>BlazBlue Entropy Effect</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $17.99, but Winter sale.</notes>
+	</game>
+	<game id="4557" electronic="true">
+		<title>OCTOPATH TRAVELER II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>22.31</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $55.79, but Winter sale.</notes>
+	</game>
+	<game id="4558" electronic="true">
+		<title>Kingdoms of Amalur: Re-Reckoning</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99, but Winter sale.</notes>
+	</game>
+	<game id="4559" electronic="true">
+		<title>Last Epoch</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>27.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99, but Winter sale.</notes>
+	</game>
+	<game id="4560" electronic="true">
+		<title>BERSERK and the Band of the Hawk</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>23.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but Winter sale.</notes>
+	</game>
+	<game id="4561" electronic="true">
+		<title>SAMURAI WARRIORS 4-II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2025-12-28</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Winter sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

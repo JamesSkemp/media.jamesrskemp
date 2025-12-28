@@ -82183,6 +82183,114 @@
 					"id": 4555,
 					"electronic": true
 				}
+			},
+			{
+				"title": "BlazBlue Entropy Effect",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $17.99, but Winter sale.",
+				"meta": {
+					"id": 4556,
+					"electronic": true
+				}
+			},
+			{
+				"title": "OCTOPATH TRAVELER II",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "22.31",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $55.79, but Winter sale.",
+				"meta": {
+					"id": 4557,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kingdoms of Amalur: Re-Reckoning",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but Winter sale.",
+				"meta": {
+					"id": 4558,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Last Epoch",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "27.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $34.99, but Winter sale.",
+				"meta": {
+					"id": 4559,
+					"electronic": true
+				}
+			},
+			{
+				"title": "BERSERK and the Band of the Hawk",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "23.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but Winter sale.",
+				"meta": {
+					"id": 4560,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SAMURAI WARRIORS 4-II",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2025-12-28",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Winter sale.",
+				"meta": {
+					"id": 4561,
+					"electronic": true
+				}
 			}
 		]
 	}

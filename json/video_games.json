@@ -82291,6 +82291,114 @@
 					"id": 4561,
 					"electronic": true
 				}
+			},
+			{
+				"title": "DunHero",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "4.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99, but Winter sale.",
+				"meta": {
+					"id": 4562,
+					"electronic": true
+				}
+			},
+			{
+				"title": "EARTH DEFENSE FORCE 6",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "26.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but Winter sale.",
+				"meta": {
+					"id": 4563,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Omega Crafter",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "17.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but Winter sale.",
+				"meta": {
+					"id": 4564,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Scott Pilgrim vs The World",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "4.94",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Winter sale.",
+				"meta": {
+					"id": 4565,
+					"electronic": true
+				}
+			},
+			{
+				"title": "It Lurks Below",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "3.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Winter sale.",
+				"meta": {
+					"id": 4566,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wanderlust Adventures",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-01-01",
+					"price": "0.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but Winter sale.",
+				"meta": {
+					"id": 4567,
+					"electronic": true
+				}
 			}
 		]
 	}

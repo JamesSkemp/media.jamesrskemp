@@ -64789,6 +64789,48 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but Winter sale.</notes>
 	</game>
+	<game id="4568" electronic="true">
+		<title>Need for Speed Unbound</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-01-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but free with Plus.</notes>
+	</game>
+	<game id="4569" electronic="true">
+		<title>Disney Epic Mickey: Rebrushed</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-01-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but free with Plus.</notes>
+	</game>
+	<game id="4570" electronic="true">
+		<title>Core Keeper</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-01-06</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

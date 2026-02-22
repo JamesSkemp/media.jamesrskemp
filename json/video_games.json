@@ -82543,6 +82543,60 @@
 					"id": 4575,
 					"electronic": true
 				}
+			},
+			{
+				"title": "WARRIORS OROCHI 4 - Season Pass",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-02-22",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but on sale.",
+				"meta": {
+					"id": 4576,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Garlic Builder",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-02-22",
+					"price": "0.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99, but on sale.",
+				"meta": {
+					"id": 4577,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Stellar Blade Complete Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-02-22",
+					"price": "59.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $79.99, but on sale.",
+				"meta": {
+					"id": 4578,
+					"electronic": true
+				}
 			}
 		]
 	}

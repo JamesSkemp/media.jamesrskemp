@@ -64943,6 +64943,20 @@
 		<own>yes</own>
 		<notes>Normally $79.99, but on sale.</notes>
 	</game>
+	<game id="4579" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-02-24</date>
+			<price>3.23</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99, but launch sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -82005,7 +82005,7 @@
 				}
 			},
 			{
-				"title": "The Planet Crafter",
+				"title": "Planet Crafter, The",
 				"system": {
 					"console": "PC",
 					"version": ""
@@ -82706,6 +82706,80 @@
 				"notes": "Normally an unknown amount, but free with Plus.",
 				"meta": {
 					"id": 4584,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Planet Crafter, The - Planet Humble",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-21",
+					"price": "6.11",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99 but Spring sale and part of a bundle.",
+				"meta": {
+					"id": 4585,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Planet Crafter, The - Toxicity",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-21",
+					"price": "6.11",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $7.99 but Spring sale and part of a bundle.",
+				"meta": {
+					"id": 4586,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Trailmakers",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-21",
+					"price": "2.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but Spring sale. May be fun for Elliott?",
+				"meta": {
+					"id": 4587,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Megabonk",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-21",
+					"price": "6.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but Spring sale.",
+				"meta": {
+					"id": 4588,
 					"electronic": true
 				}
 			}

@@ -64482,7 +64482,7 @@
 		<notes>Normally $14.99, but Winter sale.</notes>
 	</game>
 	<game id="4546" electronic="true">
-		<title>The Planet Crafter</title>
+		<title>Planet Crafter, The</title>
 		<system>
 			<console>PC</console>
 			<version/>
@@ -65026,6 +65026,62 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally an unknown amount, but free with Plus.</notes>
+	</game>
+	<game id="4585" electronic="true" addOn="true">
+		<title>Planet Crafter, The - Planet Humble</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-21</date>
+			<price>6.11</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but Spring sale and part of a bundle.</notes>
+	</game>
+	<game id="4586" electronic="true" addOn="true">
+		<title>Planet Crafter, The - Toxicity</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-21</date>
+			<price>6.11</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $7.99 but Spring sale and part of a bundle.</notes>
+	</game>
+	<game id="4587" electronic="true">
+		<title>Trailmakers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-21</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but Spring sale. May be fun for Elliott?</notes>
+	</game>
+	<game id="4588" electronic="true">
+		<title>Megabonk</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-21</date>
+			<price>6.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but Spring sale.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

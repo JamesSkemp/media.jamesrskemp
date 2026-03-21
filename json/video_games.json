@@ -82559,7 +82559,8 @@
 				"notes": "Normally $29.99, but on sale.",
 				"meta": {
 					"id": 4576,
-					"electronic": true
+					"electronic": true,
+					"addOn": true
 				}
 			},
 			{
@@ -82595,6 +82596,116 @@
 				"notes": "Normally $79.99, but on sale.",
 				"meta": {
 					"id": 4578,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-02-24",
+					"price": "3.23",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99, but launch sale.",
+				"meta": {
+					"id": 4579,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2026-02-28",
+					"price": "3.59",
+					"place": "Nintendo eShop"
+				},
+				"own": true,
+				"notes": "Normally $3.99, but on sale.",
+				"meta": {
+					"id": 4580,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "PGA TOUR 2K25",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-03-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4581,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Slime Rancher 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-03-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4582,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monster Hunter Rise",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-03-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $39.99, but free with Plus.",
+				"meta": {
+					"id": 4583,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Elder Scrolls Online Collection: Gold Road",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-03-20",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally an unknown amount, but free with Plus.",
+				"meta": {
+					"id": 4584,
 					"electronic": true
 				}
 			}

@@ -82782,6 +82782,42 @@
 					"id": 4588,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Helvetii",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-25",
+					"price": "7.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Spring sale. Supposedly has some Vanillaware vibes.",
+				"meta": {
+					"id": 4589,
+					"electronic": true
+				}
+			},
+			{
+				"title": "L.A. Noire",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-03-25",
+					"price": "5.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Spring sale.",
+				"meta": {
+					"id": 4590,
+					"electronic": true
+				}
 			}
 		]
 	}

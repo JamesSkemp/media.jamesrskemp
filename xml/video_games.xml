@@ -65083,6 +65083,34 @@
 		<own>yes</own>
 		<notes>Normally $9.99, but Spring sale.</notes>
 	</game>
+	<game id="4589" electronic="true">
+		<title>Helvetii</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-25</date>
+			<price>7.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Spring sale. Supposedly has some Vanillaware vibes.</notes>
+	</game>
+	<game id="4590" electronic="true">
+		<title>L.A. Noire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-25</date>
+			<price>5.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Spring sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

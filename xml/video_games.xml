@@ -65111,6 +65111,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but Spring sale.</notes>
 	</game>
+	<game id="4591" electronic="true">
+		<title>Space Rock Breaker</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-29</date>
+			<price>2.69</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $2.99.</notes>
+	</game>
+	<game id="4592" electronic="true">
+		<title>Incredicer</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-03-29</date>
+			<price>2.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

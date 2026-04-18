@@ -65153,6 +65153,118 @@
 		<own>yes</own>
 		<notes>Normally $4.99, but on sale.</notes>
 	</game>
+	<game id="4594" electronic="true">
+		<title>Agatha Christie - Murder on the Orient Express</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $39.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4595" electronic="true">
+		<title>Beyond a Steel Sky</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4596" electronic="true">
+		<title>Souldiers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4597" electronic="true">
+		<title>Oblivion Override</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $17.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4598" electronic="true">
+		<title>Siberian Dawn &amp; Mission Pack 1+2 Triple Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.97. Part of the Build your own Exodus Bundle (Spring 2026). Includes base game and two DLC.</notes>
+	</game>
+	<game id="4599" electronic="true">
+		<title>Heretic's Fork</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.50</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4600" electronic="true">
+		<title>Asgard's Fall — Viking Survivors</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>2.49</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99. Part of the Build your own Exodus Bundle (Spring 2026).</notes>
+	</game>
+	<game id="4601" electronic="true">
+		<title>ENCODYA</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-18</date>
+			<price>0.00</price>
+			<place>Fanatical.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99 (on sale for $2.49 today on Steam), but free with purchase of bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

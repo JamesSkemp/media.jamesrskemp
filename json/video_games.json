@@ -83016,6 +83016,60 @@
 					"id": 4601,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Lords of the Fallen",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-04-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4602,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tomb Raider I-III Remastered Starring Lara Croft",
+				"system": {
+					"console": "PlayStation",
+					"version": "4"
+				},
+				"purchase": {
+					"date": "2026-04-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4603,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sword Art Online Fractured Daydream",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-04-21",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4604,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -65307,6 +65307,20 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="4605" electronic="true">
+		<title>Vampire Crawlers</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-04-22</date>
+			<price>8.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Came out a few days ago. Demo was fun.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -65321,6 +65321,20 @@
 		<own>yes</own>
 		<notes>Came out a few days ago. Demo was fun.</notes>
 	</game>
+	<game id="4606" electronic="true">
+		<title>Librarian: Tidy Up the Arcane Library</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-05-08</date>
+			<price>5.09</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99. Found via random YouTube suggestion.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

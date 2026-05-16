@@ -65335,6 +65335,48 @@
 		<own>yes</own>
 		<notes>Normally $5.99. Found via random YouTube suggestion.</notes>
 	</game>
+	<game id="4607" electronic="true">
+		<title>EA SPORTS FC 26</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but free with Plus.</notes>
+	</game>
+	<game id="4608" electronic="true">
+		<title>Nine Sols</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but free with Plus.</notes>
+	</game>
+	<game id="4609" electronic="true">
+		<title>Wuchang: Fallen Feathers</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-05-16</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

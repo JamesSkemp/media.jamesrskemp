@@ -83070,6 +83070,133 @@
 					"id": 4604,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Crawlers",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-04-22",
+					"price": "8.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Came out a few days ago. Demo was fun.",
+				"meta": {
+					"id": 4605,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Librarian: Tidy Up the Arcane Library",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-05-08",
+					"price": "5.09",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $5.99. Found via random YouTube suggestion.",
+				"meta": {
+					"id": 4606,
+					"electronic": true
+				}
+			},
+			{
+				"title": "EA SPORTS FC 26",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-05-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4607,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Nine Sols",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-05-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4608,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wuchang: Fallen Feathers",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-05-16",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4609,
+					"electronic": true
+				}
+			},
+			{
+				"title": "MARVEL Cosmic Invasion",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-05-19",
+					"price": "19.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but on sale.",
+				"meta": {
+					"id": 4610,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cyclops & The Thing DLC",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-05-19",
+					"price": "1.64",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Bought in bundle with main game. Came out fairly recently.",
+				"meta": {
+					"id": 4611,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

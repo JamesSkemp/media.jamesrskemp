@@ -65433,6 +65433,20 @@
 		<own>yes</own>
 		<notes>Same dev as HoloCure.</notes>
 	</game>
+	<game id="4614" electronic="true">
+		<title>Silly Linguine Cat Simulator Deluxe Online</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-01</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Made in Godot. Dev posted on Reddit.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

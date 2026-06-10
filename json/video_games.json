@@ -83197,6 +83197,186 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Absolum",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-05-24",
+					"price": "22.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Supposedly a good beat-em-up. Discount since I own a random bundle game.",
+				"meta": {
+					"id": 4612,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Holo X Break",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-05-28",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Same dev as HoloCure.",
+				"meta": {
+					"id": 4613,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Silly Linguine Cat Simulator Deluxe Online",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-01",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Made in Godot. Dev posted on Reddit.",
+				"meta": {
+					"id": 4614,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Game Dev Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.88",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.1 bundle.",
+				"meta": {
+					"id": 4615,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Demon Castle Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.91",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.1 bundle.",
+				"meta": {
+					"id": 4616,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Heian City Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.88",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.1 bundle.",
+				"meta": {
+					"id": 4617,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Manga Works, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.88",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.1 bundle.",
+				"meta": {
+					"id": 4618,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dream Town Island",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.2 bundle.",
+				"meta": {
+					"id": 4619,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pro Wrestler Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.2 bundle.",
+				"meta": {
+					"id": 4620,
+					"electronic": true
+				}
+			},
+			{
+				"title": "High Sea Saga DX",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-09",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Part of the Kairosoft 30th Anniversary Vol.2 bundle.",
+				"meta": {
+					"id": 4621,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -65447,6 +65447,104 @@
 		<own>yes</own>
 		<notes>Made in Godot. Dev posted on Reddit.</notes>
 	</game>
+	<game id="4615" electronic="true">
+		<title>Game Dev Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.88</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.1 bundle.</notes>
+	</game>
+	<game id="4616" electronic="true">
+		<title>Demon Castle Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.91</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.1 bundle.</notes>
+	</game>
+	<game id="4617" electronic="true">
+		<title>Heian City Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.88</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.1 bundle.</notes>
+	</game>
+	<game id="4618" electronic="true">
+		<title>Manga Works, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.88</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.1 bundle.</notes>
+	</game>
+	<game id="4619" electronic="true">
+		<title>Dream Town Island</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.86</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.2 bundle.</notes>
+	</game>
+	<game id="4620" electronic="true">
+		<title>Pro Wrestler Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.86</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.2 bundle.</notes>
+	</game>
+	<game id="4621" electronic="true">
+		<title>High Sea Saga DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-09</date>
+			<price>1.86</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Part of the Kairosoft 30th Anniversary Vol.2 bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

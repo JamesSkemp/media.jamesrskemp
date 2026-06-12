@@ -83377,6 +83377,78 @@
 					"id": 4621,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Spellbound Survivors",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-11",
+					"price": "4.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99.",
+				"meta": {
+					"id": 4622,
+					"electronic": true
+				}
+			},
+			{
+				"title": "ENDER MAGNOLIA: Bloom in the Mist",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-11",
+					"price": "13.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99.",
+				"meta": {
+					"id": 4623,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Night Swarm",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-11",
+					"price": "5.39",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99. Supposedly a good Vampire Survivors-like.",
+				"meta": {
+					"id": 4624,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Artifact Seeker: Resurrection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-11",
+					"price": "3.23",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99.",
+				"meta": {
+					"id": 4625,
+					"electronic": true
+				}
 			}
 		]
 	}

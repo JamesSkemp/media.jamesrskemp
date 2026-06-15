@@ -65601,6 +65601,48 @@
 		<own>yes</own>
 		<notes>Normally $8.99.</notes>
 	</game>
+	<game id="4626" electronic="true">
+		<title>Arms of God</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-15</date>
+			<price>8.79</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $11.50.</notes>
+	</game>
+	<game id="4627" electronic="true" addOn="true">
+		<title>Artifact Seeker - DLC 1: The Legacy of Mortia</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-15</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99.</notes>
+	</game>
+	<game id="4628" electronic="true" addOn="true">
+		<title>Artifact Seeker - DLC 4: The Shadow of Deep Sea</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-15</date>
+			<price>3.59</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

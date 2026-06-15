@@ -83449,6 +83449,62 @@
 					"id": 4625,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Arms of God",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-15",
+					"price": "8.79",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $11.50.",
+				"meta": {
+					"id": 4626,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Artifact Seeker - DLC 1: The Legacy of Mortia",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-15",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99.",
+				"meta": {
+					"id": 4627,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Artifact Seeker - DLC 4: The Shadow of Deep Sea",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-15",
+					"price": "3.59",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99.",
+				"meta": {
+					"id": 4628,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

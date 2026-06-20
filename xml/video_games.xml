@@ -65643,6 +65643,20 @@
 		<own>yes</own>
 		<notes>Normally $3.99.</notes>
 	</game>
+	<game id="4627" electronic="true">
+		<title>Hytale</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-20</date>
+			<price>19.99</price>
+			<place>hytale.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Standard edition. Discovered because Unmined supports map reading.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -83505,6 +83505,240 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Hytale",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-20",
+					"price": "19.99",
+					"place": "hytale.com"
+				},
+				"own": true,
+				"notes": "Standard edition. Discovered because Unmined supports map reading.",
+				"meta": {
+					"id": 4629,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dream Park Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.",
+				"meta": {
+					"id": 4630,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cavern Adventures",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.",
+				"meta": {
+					"id": 4631,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Stables",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.",
+				"meta": {
+					"id": 4632,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Beastie Bay DX",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.",
+				"meta": {
+					"id": 4633,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Jumbo Airport Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.",
+				"meta": {
+					"id": 4634,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Convenience Stories",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.",
+				"meta": {
+					"id": 4635,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Final Frontier Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.",
+				"meta": {
+					"id": 4636,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ninja Village",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.",
+				"meta": {
+					"id": 4637,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Burger Bistro Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.",
+				"meta": {
+					"id": 4638,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Ramen Sensei, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.",
+				"meta": {
+					"id": 4639,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sushi Spinnery, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.",
+				"meta": {
+					"id": 4640,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cafeteria Nipponica",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-21",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.",
+				"meta": {
+					"id": 4641,
+					"electronic": true
+				}
 			}
 		]
 	}

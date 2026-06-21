@@ -65643,7 +65643,7 @@
 		<own>yes</own>
 		<notes>Normally $3.99.</notes>
 	</game>
-	<game id="4627" electronic="true">
+	<game id="4629" electronic="true">
 		<title>Hytale</title>
 		<system>
 			<console>PC</console>
@@ -65656,6 +65656,174 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Standard edition. Discovered because Unmined supports map reading.</notes>
+	</game>
+	<game id="4630" electronic="true">
+		<title>Dream Park Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.</notes>
+	</game>
+	<game id="4631" electronic="true">
+		<title>Cavern Adventures</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.</notes>
+	</game>
+	<game id="4632" electronic="true">
+		<title>Pocket Stables</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.</notes>
+	</game>
+	<game id="4633" electronic="true">
+		<title>Beastie Bay DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.3 bundle.</notes>
+	</game>
+	<game id="4634" electronic="true">
+		<title>Jumbo Airport Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.</notes>
+	</game>
+	<game id="4635" electronic="true">
+		<title>Convenience Stories</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.</notes>
+	</game>
+	<game id="4636" electronic="true">
+		<title>Final Frontier Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.</notes>
+	</game>
+	<game id="4637" electronic="true">
+		<title>Ninja Village</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.4 bundle.</notes>
+	</game>
+	<game id="4638" electronic="true">
+		<title>Burger Bistro Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.</notes>
+	</game>
+	<game id="4639" electronic="true">
+		<title>Ramen Sensei, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.</notes>
+	</game>
+	<game id="4640" electronic="true">
+		<title>Sushi Spinnery, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.</notes>
+	</game>
+	<game id="4641" electronic="true">
+		<title>Cafeteria Nipponica</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-21</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

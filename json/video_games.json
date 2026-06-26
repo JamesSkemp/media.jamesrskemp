@@ -83739,6 +83739,168 @@
 					"id": 4641,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mega Mall Story 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "1.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.",
+				"meta": {
+					"id": 4642,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Cafe Master Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "1.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.",
+				"meta": {
+					"id": 4643,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Academy 3",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "1.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.",
+				"meta": {
+					"id": 4644,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tropical Resort Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "1.87",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.",
+				"meta": {
+					"id": 4645,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FRONT MISSION 1st: Remake",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "3.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $34.99, but Steam Summer Sale.",
+				"meta": {
+					"id": 4646,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Confidential Killings - A Detective Game",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "9.44",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $13.49, but Steam Summer Sale.",
+				"meta": {
+					"id": 4647,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kenshi",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "11.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but Steam Summer Sale.",
+				"meta": {
+					"id": 4648,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Sims 2 Legacy Collection, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but Steam Summer Sale.",
+				"meta": {
+					"id": 4649,
+					"electronic": true
+				}
+			},
+			{
+				"title": "FINAL FANTASY VII REBIRTH",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-25",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but Steam Summer Sale.",
+				"meta": {
+					"id": 4650,
+					"electronic": true
+				}
 			}
 		]
 	}

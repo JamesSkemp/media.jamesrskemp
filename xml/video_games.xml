@@ -65825,6 +65825,132 @@
 		<own>yes</own>
 		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.5 bundle.</notes>
 	</game>
+	<game id="4642" electronic="true">
+		<title>Mega Mall Story 2</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>1.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.</notes>
+	</game>
+	<game id="4643" electronic="true">
+		<title>Cafe Master Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>1.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.</notes>
+	</game>
+	<game id="4644" electronic="true">
+		<title>Pocket Academy 3</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>1.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.</notes>
+	</game>
+	<game id="4645" electronic="true">
+		<title>Tropical Resort Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>1.87</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but part of the Kairosoft 30th Anniversary Vol.6 bundle.</notes>
+	</game>
+	<game id="4646" electronic="true">
+		<title>FRONT MISSION 1st: Remake</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>3.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $34.99, but Steam Summer Sale.</notes>
+	</game>
+	<game id="4647" electronic="true">
+		<title>Confidential Killings - A Detective Game</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>9.44</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $13.49, but Steam Summer Sale.</notes>
+	</game>
+	<game id="4648" electronic="true">
+		<title>Kenshi</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>11.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but Steam Summer Sale.</notes>
+	</game>
+	<game id="4649" electronic="true">
+		<title>Sims 2 Legacy Collection, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but Steam Summer Sale.</notes>
+	</game>
+	<game id="4650" electronic="true">
+		<title>FINAL FANTASY VII REBIRTH</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-25</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but Steam Summer Sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

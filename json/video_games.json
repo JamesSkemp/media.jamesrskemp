@@ -83901,6 +83901,78 @@
 					"id": 4650,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Red Pearls of Borneo, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-26",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Free. Recommended by Confidential Killings developer.",
+				"meta": {
+					"id": 4651,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Skyship Quest Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-27",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but part of the Kairosoft 30th Anniversary Vol.7 bundle.",
+				"meta": {
+					"id": 4652,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Hot Springs Story 2",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-27",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.7 bundle.",
+				"meta": {
+					"id": 4653,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Anime Studio Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-27",
+					"price": "1.86",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.7 bundle.",
+				"meta": {
+					"id": 4654,
+					"electronic": true
+				}
 			}
 		]
 	}

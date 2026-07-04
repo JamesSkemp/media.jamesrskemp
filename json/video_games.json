@@ -83973,6 +83973,96 @@
 					"id": 4654,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Last Horizon",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-06-29",
+					"price": "0.00",
+					"place": "Fanatical"
+				},
+				"own": true,
+				"notes": "Free with purchase. Normally $5.99.",
+				"meta": {
+					"id": 4655,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Station Manager",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-04",
+					"price": "1.96",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, part of the Kairosoft 30th Anniversary LAST bundle.",
+				"meta": {
+					"id": 4656,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Skating Rink Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-04",
+					"price": "1.96",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, part of the Kairosoft 30th Anniversary LAST bundle.",
+				"meta": {
+					"id": 4657,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Legends of Heropolis DX",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-04",
+					"price": "1.95",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, part of the Kairosoft 30th Anniversary LAST bundle.",
+				"meta": {
+					"id": 4658,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Kairobotica",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-04",
+					"price": "1.95",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, part of the Kairosoft 30th Anniversary LAST bundle.",
+				"meta": {
+					"id": 4659,
+					"electronic": true
+				}
 			}
 		]
 	}

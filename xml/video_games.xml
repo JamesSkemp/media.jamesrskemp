@@ -66007,6 +66007,76 @@
 		<own>yes</own>
 		<notes>Normally $8.99, but part of the Kairosoft 30th Anniversary Vol.7 bundle.</notes>
 	</game>
+	<game id="4655" electronic="true">
+		<title>Last Horizon</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-06-29</date>
+			<price>0.00</price>
+			<place>Fanatical</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Free with purchase. Normally $5.99.</notes>
+	</game>
+	<game id="4656" electronic="true">
+		<title>Station Manager</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-04</date>
+			<price>1.96</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, part of the Kairosoft 30th Anniversary LAST bundle.</notes>
+	</game>
+	<game id="4657" electronic="true">
+		<title>Skating Rink Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-04</date>
+			<price>1.96</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, part of the Kairosoft 30th Anniversary LAST bundle.</notes>
+	</game>
+	<game id="4658" electronic="true">
+		<title>Legends of Heropolis DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-04</date>
+			<price>1.95</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, part of the Kairosoft 30th Anniversary LAST bundle.</notes>
+	</game>
+	<game id="4659" electronic="true">
+		<title>Kairobotica</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-04</date>
+			<price>1.95</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, part of the Kairosoft 30th Anniversary LAST bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

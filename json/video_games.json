@@ -84063,6 +84063,60 @@
 					"id": 4659,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Call of Duty: Modern Warfare III - Cross-Gen Bundle",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4660,
+					"electronic": true
+				}
+			},
+			{
+				"title": "For The King II",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4661,
+					"electronic": true
+				}
+			},
+			{
+				"title": "CrossCode",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-07-09",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4662,
+					"electronic": true
+				}
 			}
 		]
 	}

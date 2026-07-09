@@ -66077,6 +66077,48 @@
 		<own>yes</own>
 		<notes>Normally $8.99, part of the Kairosoft 30th Anniversary LAST bundle.</notes>
 	</game>
+	<game id="4660" electronic="true">
+		<title>Call of Duty: Modern Warfare III - Cross-Gen Bundle</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-07-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $69.99, but free with Plus.</notes>
+	</game>
+	<game id="4661" electronic="true">
+		<title>For The King II</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-07-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but free with Plus.</notes>
+	</game>
+	<game id="4662" electronic="true">
+		<title>CrossCode</title>
+		<system>
+			<console>PlayStation</console>
+			<version>5</version>
+		</system>
+		<purchase>
+			<date>2026-07-09</date>
+			<price>0.00</price>
+			<place>PlayStation Network</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but free with Plus.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

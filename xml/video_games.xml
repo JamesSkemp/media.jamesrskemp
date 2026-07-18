@@ -66119,6 +66119,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but free with Plus.</notes>
 	</game>
+	<game id="4663" electronic="true">
+		<title>Pool Slide Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-18</date>
+			<price>1.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.</notes>
+	</game>
+	<game id="4664" electronic="true">
+		<title>Forest Camp Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-18</date>
+			<price>1.73</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.</notes>
+	</game>
+	<game id="4665" electronic="true">
+		<title>World Cruise Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-18</date>
+			<price>1.73</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.</notes>
+	</game>
+	<game id="4666" electronic="true">
+		<title>Zoo Park Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-18</date>
+			<price>1.73</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -84117,6 +84117,78 @@
 					"id": 4662,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Pool Slide Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-18",
+					"price": "1.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.",
+				"meta": {
+					"id": 4663,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Forest Camp Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-18",
+					"price": "1.73",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.",
+				"meta": {
+					"id": 4664,
+					"electronic": true
+				}
+			},
+			{
+				"title": "World Cruise Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-18",
+					"price": "1.73",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.",
+				"meta": {
+					"id": 4665,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Zoo Park Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-18",
+					"price": "1.73",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.9 bundle.",
+				"meta": {
+					"id": 4666,
+					"electronic": true
+				}
 			}
 		]
 	}

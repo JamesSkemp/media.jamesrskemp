@@ -84189,6 +84189,96 @@
 					"id": 4666,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Life and Suffering of Sir Brante, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-18",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99 but free for a limited time.",
+				"meta": {
+					"id": 4667,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Home Run High",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-25",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.",
+				"meta": {
+					"id": 4668,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dream House Days DX",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-25",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.",
+				"meta": {
+					"id": 4669,
+					"electronic": true
+				}
+			},
+			{
+				"title": "TV Studio Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-25",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.",
+				"meta": {
+					"id": 4670,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Silver Screen Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-25",
+					"price": "1.80",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $12.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.",
+				"meta": {
+					"id": 4671,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -66189,6 +66189,62 @@
 		<own>yes</own>
 		<notes>Normally $19.99 but free for a limited time.</notes>
 	</game>
+	<game id="4668" electronic="true">
+		<title>Home Run High</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-25</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.</notes>
+	</game>
+	<game id="4669" electronic="true">
+		<title>Dream House Days DX</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-25</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.</notes>
+	</game>
+	<game id="4670" electronic="true">
+		<title>TV Studio Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-25</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.</notes>
+	</game>
+	<game id="4671" electronic="true">
+		<title>Silver Screen Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-07-25</date>
+			<price>1.80</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $12.99, but part of the Kairosoft Summer Vacation Vol.10 bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

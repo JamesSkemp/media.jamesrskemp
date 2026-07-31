@@ -84279,6 +84279,24 @@
 					"id": 4671,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Gears 5 Game of the Year Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-07-31",
+					"price": "6.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $44.99 but on sale.",
+				"meta": {
+					"id": 4672,
+					"electronic": true
+				}
 			}
 		]
 	}

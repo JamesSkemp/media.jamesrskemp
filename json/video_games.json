@@ -84297,6 +84297,24 @@
 					"id": 4672,
 					"electronic": true
 				}
+			},
+			{
+				"title": "LUNAR Remastered Collection",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-03",
+					"price": "29.74",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but on sale.",
+				"meta": {
+					"id": 4673,
+					"electronic": true
+				}
 			}
 		]
 	}

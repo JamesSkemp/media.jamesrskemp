@@ -66259,6 +66259,20 @@
 		<own>yes</own>
 		<notes>Normally $44.99 but on sale.</notes>
 	</game>
+	<game id="4673" electronic="true">
+		<title>LUNAR Remastered Collection</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-03</date>
+			<price>29.74</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $49.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

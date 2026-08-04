@@ -84315,6 +84315,150 @@
 					"id": 4673,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Oh! Edo Towns",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.",
+				"meta": {
+					"id": 4674,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Grand Prix Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.",
+				"meta": {
+					"id": 4675,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Boxing Gym Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $10.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.",
+				"meta": {
+					"id": 4676,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Shiny Ski Resort",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.",
+				"meta": {
+					"id": 4677,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Forest Golf Planner",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.",
+				"meta": {
+					"id": 4678,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Biz Builder Delux",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.",
+				"meta": {
+					"id": 4679,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tennis Club Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.",
+				"meta": {
+					"id": 4680,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Venture Towns",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-04",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.",
+				"meta": {
+					"id": 4681,
+					"electronic": true
+				}
 			}
 		]
 	}

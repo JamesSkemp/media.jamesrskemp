@@ -66273,6 +66273,118 @@
 		<own>yes</own>
 		<notes>Normally $49.99, but on sale.</notes>
 	</game>
+	<game id="4674" electronic="true">
+		<title>Oh! Edo Towns</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.</notes>
+	</game>
+	<game id="4675" electronic="true">
+		<title>Grand Prix Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.</notes>
+	</game>
+	<game id="4676" electronic="true">
+		<title>Boxing Gym Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $10.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.</notes>
+	</game>
+	<game id="4677" electronic="true">
+		<title>Shiny Ski Resort</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.11 bundle.</notes>
+	</game>
+	<game id="4678" electronic="true">
+		<title>Forest Golf Planner</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.</notes>
+	</game>
+	<game id="4679" electronic="true">
+		<title>Biz Builder Delux</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.</notes>
+	</game>
+	<game id="4680" electronic="true">
+		<title>Tennis Club Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.</notes>
+	</game>
+	<game id="4681" electronic="true">
+		<title>Venture Towns</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-04</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

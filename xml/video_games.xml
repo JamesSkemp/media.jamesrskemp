@@ -66385,6 +66385,62 @@
 		<own>yes</own>
 		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.12 bundle.</notes>
 	</game>
+	<game id="4682" electronic="true">
+		<title>Black Mirror II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-08</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="4683" electronic="true">
+		<title>Black Mirror III</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-08</date>
+			<price>2.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale. Mentioned as a good modern point and click.</notes>
+	</game>
+	<game id="4684" electronic="true">
+		<title>SaGa Frontier Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-08</date>
+			<price>12.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99.</notes>
+	</game>
+	<game id="4685" electronic="true">
+		<title>Commander Keen</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-08</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99, but Bethesda sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

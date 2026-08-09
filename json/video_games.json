@@ -84459,6 +84459,78 @@
 					"id": 4681,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Black Mirror II",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-08",
+					"price": "2.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but on sale.",
+				"meta": {
+					"id": 4682,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Black Mirror III",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-08",
+					"price": "2.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $9.99, but on sale. Mentioned as a good modern point and click.",
+				"meta": {
+					"id": 4683,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SaGa Frontier Remastered",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-08",
+					"price": "12.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99.",
+				"meta": {
+					"id": 4684,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Commander Keen",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-08",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99, but Bethesda sale.",
+				"meta": {
+					"id": 4685,
+					"electronic": true
+				}
 			}
 		]
 	}

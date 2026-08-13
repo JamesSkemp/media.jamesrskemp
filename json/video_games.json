@@ -84801,6 +84801,60 @@
 					"id": 4700,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Big Walk",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-08-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4701,
+					"electronic": true
+				}
+			},
+			{
+				"title": "SIGNALIS",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-08-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but free with Plus.",
+				"meta": {
+					"id": 4702,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dying Light 2 Stay Human",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-08-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but free with Plus.",
+				"meta": {
+					"id": 4703,
+					"electronic": true
+				}
 			}
 		]
 	}

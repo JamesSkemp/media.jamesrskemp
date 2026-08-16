@@ -85035,6 +85035,78 @@
 					"id": 4713,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Hot Springs Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.",
+				"meta": {
+					"id": 4714,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Academy",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.",
+				"meta": {
+					"id": 4715,
+					"electronic": true
+				}
+			},
+			{
+				"title": "8-Bit Farm",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.",
+				"meta": {
+					"id": 4716,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Magazine Mogul",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.",
+				"meta": {
+					"id": 4717,
+					"electronic": true
+				}
 			}
 		]
 	}

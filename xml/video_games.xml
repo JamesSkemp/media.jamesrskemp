@@ -66833,6 +66833,62 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but on sale.</notes>
 	</game>
+	<game id="4714" electronic="true">
+		<title>Hot Springs Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.</notes>
+	</game>
+	<game id="4715" electronic="true">
+		<title>Pocket Academy</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.</notes>
+	</game>
+	<game id="4716" electronic="true">
+		<title>8-Bit Farm</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.</notes>
+	</game>
+	<game id="4717" electronic="true">
+		<title>Magazine Mogul</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

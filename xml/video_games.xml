@@ -66889,6 +66889,34 @@
 		<own>yes</own>
 		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.15 bundle.</notes>
 	</game>
+	<game id="4718" electronic="true">
+		<title>Mega Mall Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.62</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of a final Kairosoft bundle.</notes>
+	</game>
+	<game id="4719" electronic="true">
+		<title>Pocket Clothier</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-16</date>
+			<price>1.62</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of a final Kairosoft bundle.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

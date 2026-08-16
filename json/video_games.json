@@ -85107,6 +85107,42 @@
 					"id": 4717,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Mega Mall Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.62",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of a final Kairosoft bundle.",
+				"meta": {
+					"id": 4718,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Clothier",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-16",
+					"price": "1.62",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of a final Kairosoft bundle.",
+				"meta": {
+					"id": 4719,
+					"electronic": true
+				}
 			}
 		]
 	}

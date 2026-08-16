@@ -84855,6 +84855,186 @@
 					"id": 4703,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Pyraplex, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.",
+				"meta": {
+					"id": 4704,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Basketball Club Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.",
+				"meta": {
+					"id": 4705,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Harvest",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.",
+				"meta": {
+					"id": 4706,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket League Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.",
+				"meta": {
+					"id": 4707,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Pocket Arcade Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.",
+				"meta": {
+					"id": 4708,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Wild Park Manager",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.",
+				"meta": {
+					"id": 4709,
+					"electronic": true
+				}
+			},
+			{
+				"title": "March to a Million",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.",
+				"meta": {
+					"id": 4710,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Epic Astro Story",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "1.71",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.",
+				"meta": {
+					"id": 4711,
+					"electronic": true
+				}
+			},
+			{
+				"title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "14.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but on sale.",
+				"meta": {
+					"id": 4712,
+					"electronic": true
+				}
+			},
+			{
+				"title": "KINGDOM HEARTS III + Re Mind (DLC)",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-15",
+					"price": "15.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but on sale.",
+				"meta": {
+					"id": 4713,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -66693,6 +66693,146 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="4704" electronic="true">
+		<title>Pyraplex, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.</notes>
+	</game>
+	<game id="4705" electronic="true">
+		<title>Basketball Club Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.</notes>
+	</game>
+	<game id="4706" electronic="true">
+		<title>Pocket Harvest</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.</notes>
+	</game>
+	<game id="4707" electronic="true">
+		<title>Pocket League Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.13 bundle.</notes>
+	</game>
+	<game id="4708" electronic="true">
+		<title>Pocket Arcade Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.</notes>
+	</game>
+	<game id="4709" electronic="true">
+		<title>Wild Park Manager</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.</notes>
+	</game>
+	<game id="4710" electronic="true">
+		<title>March to a Million</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.</notes>
+	</game>
+	<game id="4711" electronic="true">
+		<title>Epic Astro Story</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>1.71</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $8.99, but part of the Kairosoft Summer Vacation Vol.14 bundle.</notes>
+	</game>
+	<game id="4712" electronic="true">
+		<title>KINGDOM HEARTS HD 2.8 Final Chapter Prologue</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>14.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
+	</game>
+	<game id="4713" electronic="true">
+		<title>KINGDOM HEARTS III + Re Mind (DLC)</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-15</date>
+			<price>15.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

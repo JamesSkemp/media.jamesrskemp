@@ -78772,7 +78772,7 @@
 				},
 				"purchase": {
 					"date": "2025-02-05",
-					"price": "5.94`",
+					"price": "5.94",
 					"place": "Steam"
 				},
 				"own": true,
@@ -85142,6 +85142,44 @@
 				"meta": {
 					"id": 4719,
 					"electronic": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate Slash Character DLC",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-25",
+					"price": "3.51",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $3.99.",
+				"meta": {
+					"id": 4720,
+					"electronic": true,
+					"addOn": true
+				}
+			},
+			{
+				"title": "Teenage Mutant Ninja Turtles: Splintered Fate - Samurai Armor Pack",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-25",
+					"price": "3.52",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $4.99.",
+				"meta": {
+					"id": 4721,
+					"electronic": true,
+					"addOn": true
 				}
 			}
 		]

@@ -61983,7 +61983,7 @@
 		</system>
 		<purchase>
 			<date>2025-02-05</date>
-			<price>5.94`</price>
+			<price>5.94</price>
 			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
@@ -66916,6 +66916,34 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $8.99, but part of a final Kairosoft bundle.</notes>
+	</game>
+	<game id="4720" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate Slash Character DLC</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-25</date>
+			<price>3.51</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $3.99.</notes>
+	</game>
+	<game id="4721" electronic="true" addOn="true">
+		<title>Teenage Mutant Ninja Turtles: Splintered Fate - Samurai Armor Pack</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-08-25</date>
+			<price>3.52</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $4.99.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

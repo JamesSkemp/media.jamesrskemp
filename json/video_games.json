@@ -85181,6 +85181,24 @@
 					"electronic": true,
 					"addOn": true
 				}
+			},
+			{
+				"title": "Yakuza: Like a Dragon Hero Edition",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-26",
+					"price": "9.99",
+					"place": "GOG.com"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but on sale.",
+				"meta": {
+					"id": 4722,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -85199,6 +85199,25 @@
 					"id": 4722,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Vampire Survivors: Legacy of the Bloodmoon",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-08-29",
+					"price": "0.84",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $0.99, but was just released yesterday.",
+				"meta": {
+					"id": 4723,
+					"electronic": true,
+					"addOn": true
+				}
 			}
 		]
 	}

@@ -67015,6 +67015,188 @@
 		<own>yes</own>
 		<notes>Normally $59.99, but free with Plus.</notes>
 	</game>
+	<game id="4727" electronic="true">
+		<title>Beyond Good &amp; Evil™</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="4728" electronic="true">
+		<title>Blade Runner</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>6.49</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $9.99, but on sale.</notes>
+	</game>
+	<game id="4729" electronic="true">
+		<title>Deus Ex: Human Revolution - Director's Cut</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4730" electronic="true">
+		<title>Deus Ex™ GOTY Edition</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>0.69</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but on sale.</notes>
+	</game>
+	<game id="4731" electronic="true">
+		<title>Mad Max</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4732" electronic="true">
+		<title>Saints Row®: The Third™ Remastered</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $29.99, but on sale.</notes>
+	</game>
+	<game id="4733" electronic="true">
+		<title>STAR WARS™ Galactic Battlegrounds Saga</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale.</notes>
+	</game>
+	<game id="4734" electronic="true">
+		<title>STAR WARS™ Shadows of the Empire™</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale.</notes>
+	</game>
+	<game id="4735" electronic="true">
+		<title>STAR WARS™ Starfighter™</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $5.99, but on sale.</notes>
+	</game>
+	<game id="4736" electronic="true">
+		<title>Last Express Gold Edition, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>1.39</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $6.99, but on sale.</notes>
+	</game>
+	<game id="4737" electronic="true">
+		<title>Torchlight</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>2.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but on sale.</notes>
+	</game>
+	<game id="4738" electronic="true">
+		<title>Torchlight II</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>3.99</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
+	</game>
+	<game id="4739" electronic="true">
+		<title>Tower Hunter: Erza's Trial</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-09-13</date>
+			<price>1.59</price>
+			<place>GOG.com</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $17.99, but on sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

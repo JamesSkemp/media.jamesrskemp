@@ -67197,6 +67197,76 @@
 		<own>yes</own>
 		<notes>Normally $17.99, but on sale.</notes>
 	</game>
+	<game id="4740" electronic="true">
+		<title>Don't Starve Together</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-06</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>From April. She bought for all three of us.</notes>
+	</game>
+	<game id="4741" electronic="true">
+		<title>Witchspire</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-06</date>
+			<price>0.00</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>From April. She bought for all three of us.</notes>
+	</game>
+	<game id="4742" electronic="true">
+		<title>PlateUp!</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-06</date>
+			<price>1.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale. Bought extra copies for April and Elliott too.</notes>
+	</game>
+	<game id="4743" electronic="true">
+		<title>Dark Rites of Arkham, The</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-06</date>
+			<price>13.49</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $14.99, but Autumn sale.</notes>
+	</game>
+	<game id="4744" electronic="true">
+		<title>NEO: The World Ends with You</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-06</date>
+			<price>17.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

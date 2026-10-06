@@ -85506,6 +85506,96 @@
 					"id": 4739,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Don't Starve Together",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "From April. She bought for all three of us.",
+				"meta": {
+					"id": 4740,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Witchspire",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "0.00",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "From April. She bought for all three of us.",
+				"meta": {
+					"id": 4741,
+					"electronic": true
+				}
+			},
+			{
+				"title": "PlateUp!",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "1.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale. Bought extra copies for April and Elliott too.",
+				"meta": {
+					"id": 4742,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Dark Rites of Arkham, The",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "13.49",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $14.99, but Autumn sale.",
+				"meta": {
+					"id": 4743,
+					"electronic": true
+				}
+			},
+			{
+				"title": "NEO: The World Ends with You",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "17.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $59.99, but Autumn sale.",
+				"meta": {
+					"id": 4744,
+					"electronic": true
+				}
 			}
 		]
 	}

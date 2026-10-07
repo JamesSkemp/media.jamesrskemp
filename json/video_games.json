@@ -85596,6 +85596,60 @@
 					"id": 4744,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Hunt: Showdown 1896",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4745,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Earth Defense Force: World Brothers 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4746,
+					"electronic": true
+				}
+			},
+			{
+				"title": "F1 25",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-10-06",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $69.99, but free with Plus.",
+				"meta": {
+					"id": 4747,
+					"electronic": true
+				}
 			}
 		]
 	}

@@ -67309,6 +67309,34 @@
 		<own>yes</own>
 		<notes>Normally $69.99, but free with Plus.</notes>
 	</game>
+	<game id="4748" electronic="true">
+		<title>BEAMNG.drive</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-07</date>
+			<price>19.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $24.99, but Autumn sale.</notes>
+	</game>
+	<game id="4749" electronic="true">
+		<title>Rhapsody: A Musical Adventure</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-07</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

@@ -85650,6 +85650,42 @@
 					"id": 4747,
 					"electronic": true
 				}
+			},
+			{
+				"title": "BEAMNG.drive",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-07",
+					"price": "19.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but Autumn sale.",
+				"meta": {
+					"id": 4748,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Rhapsody: A Musical Adventure",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-07",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but Autumn sale.",
+				"meta": {
+					"id": 4749,
+					"electronic": true
+				}
 			}
 		]
 	}

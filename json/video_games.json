@@ -85537,10 +85537,11 @@
 					"place": "Steam"
 				},
 				"own": true,
-				"notes": "From April. She bought for all three of us.",
+				"notes": "From April. She bought for all three of us. But then she didn't think we'd like, so she refunded.",
 				"meta": {
 					"id": 4741,
-					"electronic": true
+					"electronic": true,
+					"own": false
 				}
 			},
 			{
@@ -85684,6 +85685,24 @@
 				"notes": "Normally $19.99, but Autumn sale.",
 				"meta": {
 					"id": 4749,
+					"electronic": true
+				}
+			},
+			{
+				"title": "KeeperRL",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-17",
+					"price": "9.99",
+					"place": "Steam"
+				},
+				"own": true,
+				"notes": "Normally $19.99, but on sale.",
+				"meta": {
+					"id": 4750,
 					"electronic": true
 				}
 			}

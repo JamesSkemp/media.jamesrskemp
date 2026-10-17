@@ -67211,7 +67211,7 @@
 		<own>yes</own>
 		<notes>From April. She bought for all three of us.</notes>
 	</game>
-	<game id="4741" electronic="true">
+	<game id="4741" electronic="true" own="false">
 		<title>Witchspire</title>
 		<system>
 			<console>PC</console>
@@ -67223,7 +67223,7 @@
 			<place>Steam</place>
 		</purchase>
 		<own>yes</own>
-		<notes>From April. She bought for all three of us.</notes>
+		<notes>From April. She bought for all three of us. But then she didn't think we'd like, so she refunded.</notes>
 	</game>
 	<game id="4742" electronic="true">
 		<title>PlateUp!</title>
@@ -67336,6 +67336,20 @@
 		</purchase>
 		<own>yes</own>
 		<notes>Normally $19.99, but Autumn sale.</notes>
+	</game>
+	<game id="4750" electronic="true">
+		<title>KeeperRL</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-17</date>
+			<price>9.99</price>
+			<place>Steam</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $19.99, but on sale.</notes>
 	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games

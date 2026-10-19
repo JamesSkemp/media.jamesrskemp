@@ -67351,6 +67351,34 @@
 		<own>yes</own>
 		<notes>Normally $19.99, but on sale.</notes>
 	</game>
+	<game id="4751">
+		<title>Super Mario Party Jamboree</title>
+		<system>
+			<console>Nintendo</console>
+			<version>Switch</version>
+		</system>
+		<purchase>
+			<date>2026-10-17</date>
+			<price>0.00</price>
+			<place>Target Fitchburg / Grandma</place>
+		</purchase>
+		<own>yes</own>
+		<notes>Normally $59.99. Grandma gift for Elliott.</notes>
+	</game>
+	<game id="4752">
+		<title>Diablo II: Resurrected - Reign of the Warlock</title>
+		<system>
+			<console>PC</console>
+			<version/>
+		</system>
+		<purchase>
+			<date>2026-10-18</date>
+			<price>24.99</price>
+			<place>Battle.net</place>
+		</purchase>
+		<own>yes</own>
+		<notes/>
+	</game>
 	<!-- after adding new items run the following from root:
 	npm run build:video_games
 	-->

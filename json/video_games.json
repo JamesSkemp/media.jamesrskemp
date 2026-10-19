@@ -85705,6 +85705,40 @@
 					"id": 4750,
 					"electronic": true
 				}
+			},
+			{
+				"title": "Super Mario Party Jamboree",
+				"system": {
+					"console": "Nintendo",
+					"version": "Switch"
+				},
+				"purchase": {
+					"date": "2026-10-17",
+					"price": "0.00",
+					"place": "Target Fitchburg / Grandma"
+				},
+				"own": true,
+				"notes": "Normally $59.99. Grandma gift for Elliott.",
+				"meta": {
+					"id": 4751
+				}
+			},
+			{
+				"title": "Diablo II: Resurrected - Reign of the Warlock",
+				"system": {
+					"console": "PC",
+					"version": ""
+				},
+				"purchase": {
+					"date": "2026-10-18",
+					"price": "24.99",
+					"place": "Battle.net"
+				},
+				"own": true,
+				"notes": "",
+				"meta": {
+					"id": 4752
+				}
 			}
 		]
 	}

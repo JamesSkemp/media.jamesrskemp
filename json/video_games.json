@@ -85739,6 +85739,60 @@
 				"meta": {
 					"id": 4752
 				}
+			},
+			{
+				"title": "Dead Island 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-11-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $49.99, but free with Plus.",
+				"meta": {
+					"id": 4753,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Tomb Raider IV-VI Remastered",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-11-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $29.99, but free with Plus.",
+				"meta": {
+					"id": 4754,
+					"electronic": true
+				}
+			},
+			{
+				"title": "Monster Train 2",
+				"system": {
+					"console": "PlayStation",
+					"version": "5"
+				},
+				"purchase": {
+					"date": "2026-11-12",
+					"price": "0.00",
+					"place": "PlayStation Network"
+				},
+				"own": true,
+				"notes": "Normally $24.99, but free with Plus.",
+				"meta": {
+					"id": 4755,
+					"electronic": true
+				}
 			}
 		]
 	}
